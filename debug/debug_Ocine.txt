@@ -1,0 +1,234 @@
+<!doctype html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    
+    
+        <meta name="description" content="Descubre todos los cines de la cadena OCINE y disfruta de las mejores salas de cine dotadas con la última tecnología y una calidad de imagen y sonido excelente.">
+    <meta property="og:description" content="Descubre todos los cines de la cadena OCINE y disfruta de las mejores salas de cine dotadas con la última tecnología y una calidad de imagen y sonido excelente.">
+    <meta name="twitter:description" content="Descubre todos los cines de la cadena OCINE y disfruta de las mejores salas de cine dotadas con la última tecnología y una calidad de imagen y sonido excelente.">
+            <meta name="keywords" content="OCINE, cine, cines, películas, cartelera, estrenos">
+        
+        <meta property="og:image" content="https://cinesocine.es/storage/media/df778007-2300-4e61-88f0-8f7bca547780.jpg">
+    <meta property="og:image:alt" content="¡Elige tu cine! - OCINE">
+    <meta name="twitter:image" content="https://cinesocine.es/storage/media/df778007-2300-4e61-88f0-8f7bca547780.jpg">
+    <meta name="twitter:image:alt" content="¡Elige tu cine! - OCINE">
+        
+    <meta property="og:title" content="¡Elige tu cine! - OCINE">
+    <meta name="twitter:title" content="¡Elige tu cine! - OCINE">
+    <meta property="og:url" content="https://cinesocine.es">
+    <meta property="og:type" content="website">
+    <meta name="twitter:card" content="summary_large_image">
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-BYRH439Q7D"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'G-BYRH439Q7D');
+    </script>
+    
+    <link rel="preload" as="style" href="https://cinesocine.es/build/assets/app-Cb6WWT0r.css" /><link rel="modulepreload" href="https://cinesocine.es/build/assets/app-CHgIe2vw.js" /><link rel="stylesheet" href="https://cinesocine.es/build/assets/app-Cb6WWT0r.css" data-navigate-track="reload" /><script type="module" src="https://cinesocine.es/build/assets/app-CHgIe2vw.js" data-navigate-track="reload"></script>
+    <title>Ocine - ¡Elige tu cine! - OCINE</title>
+        <link href="https://cinesocine.es/storage/media/42b99093-dc5c-4124-b938-8c681a4039fc.png" rel="icon" type="image/vnd.microsoft.icon">
+      <link
+  rel="stylesheet"
+  href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css"
+/><link
+  rel="stylesheet"
+  href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css"
+/><link
+  rel="stylesheet"
+  href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css"
+/><link
+  rel="stylesheet"
+  href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css"
+/><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KPX82LWZ');</script>
+<!-- End Google Tag Manager -->
+
+<script src="https://www.google.com/recaptcha/api.js?hl=es&render=6LdvUeIqAAAAAMd9qT1wGp7twdJxWYZ7t9iPobAi"></script>
+
+
+
+<!-- Livewire Styles --><style >[wire\:loading][wire\:loading], [wire\:loading\.delay][wire\:loading\.delay], [wire\:loading\.inline-block][wire\:loading\.inline-block], [wire\:loading\.inline][wire\:loading\.inline], [wire\:loading\.block][wire\:loading\.block], [wire\:loading\.flex][wire\:loading\.flex], [wire\:loading\.table][wire\:loading\.table], [wire\:loading\.grid][wire\:loading\.grid], [wire\:loading\.inline-flex][wire\:loading\.inline-flex] {display: none;}[wire\:loading\.delay\.none][wire\:loading\.delay\.none], [wire\:loading\.delay\.shortest][wire\:loading\.delay\.shortest], [wire\:loading\.delay\.shorter][wire\:loading\.delay\.shorter], [wire\:loading\.delay\.short][wire\:loading\.delay\.short], [wire\:loading\.delay\.default][wire\:loading\.delay\.default], [wire\:loading\.delay\.long][wire\:loading\.delay\.long], [wire\:loading\.delay\.longer][wire\:loading\.delay\.longer], [wire\:loading\.delay\.longest][wire\:loading\.delay\.longest] {display: none;}[wire\:offline][wire\:offline] {display: none;}[wire\:dirty]:not(textarea):not(input):not(select) {display: none;}:root {--livewire-progress-bar-color: #2299dd;}[x-cloak] {display: none !important;}[wire\:cloak] {display: none !important;}dialog#livewire-error::backdrop {background-color: rgba(0, 0, 0, .6);}</style>
+</head>
+
+<body class="overflow-x-hidden">
+    <div wire:snapshot="{&quot;data&quot;:{&quot;position&quot;:&quot;body&quot;},&quot;memo&quot;:{&quot;id&quot;:&quot;8fCqlisQAJYirDsQTM3B&quot;,&quot;name&quot;:&quot;fnx-module::Gdpr.gdpr-script&quot;,&quot;path&quot;:&quot;\/&quot;,&quot;method&quot;:&quot;GET&quot;,&quot;release&quot;:&quot;a-a-a&quot;,&quot;children&quot;:[],&quot;scripts&quot;:[],&quot;assets&quot;:[],&quot;errors&quot;:[],&quot;locale&quot;:&quot;es&quot;},&quot;checksum&quot;:&quot;c75da2009c8c15ad2a417bd73832fb18f4b807b7647386f4026bd39e1e5cf60a&quot;}" wire:effects="{&quot;listeners&quot;:[&quot;GdprReload&quot;]}" wire:id="8fCqlisQAJYirDsQTM3B">
+    
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KPX82LWZ"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+</div>
+
+        <header class="relative w-full">
+        <!-- Franja roja superior -->
+        <div class="bg-brand h-[30px] md:h-[39px] w-full">
+            <div class="flex container items-center h-full px-4">
+                <!-- Selector de idioma móvil -->
+                <div class="ml-auto flex md:hidden gap-1 items-center text-sm text-white">
+                                                                    <div class="w-full flex px-0 uppercase">
+                            <a href="https://cinesocine.es/es/home.html"
+                                class="text-white transition-all hover:text-dark hover:font-bold font-bold">
+                                es
+                            </a>
+                        </div>
+                                                                        <div class="text-white">/</div>
+                                                <div class="w-full flex px-0 uppercase">
+                            <a href="https://cinesocine.es/ca/home.html"
+                                class="text-white transition-all hover:text-dark hover:font-bold ">
+                                cat
+                            </a>
+                        </div>
+                                    </div>
+            </div>
+        </div>
+
+        <!-- a Contenedor adicional -->
+        <div class="container mx-auto px-4">
+            <!-- Iconos redes sociales móvil -->
+            <div class="md:hidden flex gap-1 absolute left-3 top-2">
+                                <a href="https://www.facebook.com/Ocine.es?fref=ts" aria-label="Facebook"
+                    class="rounded-full text-white hover:bg-none hover:bg-brand bg-gradient-to-b from-dark to-brand flex items-center justify-center text-center transition-transform transform hover:scale-110 p-1">
+                    <img src="https://cinesocine.es/storage/media/d0133c08-2632-431b-a31f-b0b5c97a34d8.png" class="m-auto"
+                    alt="Facebook" style="width: 28px; height: 28px; padding: 5px; flex-shrink: 0;" >
+                </a>
+                            <a href="https://x.com/ocine_es" aria-label="Twitter"
+                    class="rounded-full text-white hover:bg-none hover:bg-brand bg-gradient-to-b from-dark to-brand flex items-center justify-center text-center transition-transform transform hover:scale-110 p-1">
+                    <img src="https://cinesocine.es/storage/media/321c72c2-cd68-431f-bc3e-90e7e03dc64d.png" class="m-auto"
+                    alt="Twitter" style="width: 28px; height: 28px; padding: 5px; flex-shrink: 0;" >
+                </a>
+                            <a href="https://www.instagram.com/ocine.es/" aria-label="Instagram"
+                    class="rounded-full text-white hover:bg-none hover:bg-brand bg-gradient-to-b from-dark to-brand flex items-center justify-center text-center transition-transform transform hover:scale-110 p-1">
+                    <img src="https://cinesocine.es/storage/media/95075dc9-50a2-4d6b-a14b-9d901bb8b301.png" class="m-auto"
+                    alt="Instagram" style="width: 28px; height: 28px; padding: 5px; flex-shrink: 0;" >
+                </a>
+                            <a href="https://www.tiktok.com/@ocine.es" aria-label="Tik tok"
+                    class="rounded-full text-white hover:bg-none hover:bg-brand bg-gradient-to-b from-dark to-brand flex items-center justify-center text-center transition-transform transform hover:scale-110 p-1">
+                    <img src="https://cinesocine.es/storage/media/24bc395c-bdb1-4393-bbf1-df87ae43ea9e.png" class="m-auto"
+                    alt="Tik tok" style="width: 28px; height: 28px; padding: 5px; flex-shrink: 0;" >
+                </a>
+                        </div>
+
+            <div class="w-full">
+                <div x-data="{ mobileMenuOpen: false }" class="w-full" @click.away="mobileMenuOpen = false"
+                    x-init="$watch('mobileMenuOpen', value => {
+                        if (value) {
+                            document.body.style.overflow = 'hidden';
+                        } else {
+                            document.body.style.overflow = 'auto';
+                        }
+                    })">
+                    <!-- Botón hamburguesa para móvil -->
+                    <div class="flex md:hidden justify-end mb-2">
+                        <button @click="mobileMenuOpen = !mobileMenuOpen"
+                            class="relative w-10 h-10 flex flex-col justify-center items-center group z-50">
+                            <!-- Líneas del hamburger -->
+                            <div class="w-8 h-0.5 bg-dark transition-all duration-300"
+                                :class="{ 'rotate-45 translate-y-[10px] bg-white': mobileMenuOpen }"></div>
+                            <div class="w-8 h-0.5 bg-dark my-1.5 transition-all duration-300"
+                                :class="{ 'opacity-0': mobileMenuOpen }"></div>
+                            <div class="w-8 h-0.5 bg-dark transition-all duration-300"
+                                :class="{ '-rotate-45 -translate-y-[5px] bg-white': mobileMenuOpen }"></div>
+                        </button>
+                    </div>
+
+
+                    <!-- Menú desktop -->
+                    <div class="hidden md:block">
+                        <div class="flex justify-end">
+                            <nav class="flex gap-4">
+                                                                    <div class="relative" x-data="{ open: false }" @mouseenter="open = true" @mouseleave="open = false">
+                                        <div class="flex items-center gap-1">
+                                            <a href="#"
+                                                class="text-white border-dark font-light uppercase text-xs md:text-sm text-end pr-2 py-0.5 pl-4 md:pl-6 rounded-bl-full border-t"
+                                                style="padding: 4px 30px; font-weight: 300; background-color: #102832;">
+                                                <span class="block">ㅤPROMOCIONESㅤ</span>
+                                            </a>
+                                                                                            <div class="text-white transition-colors duration-300"
+                                                     style="margin-left: -20px;">
+                                                    <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path>
+                                                    </svg>
+                                                </div>
+                                                                                    </div>
+                                                                                    <div x-show="open"
+                                                 x-transition:enter="transition ease-out duration-200"
+                                                 x-transition:enter-start="opacity-0 transform scale-95"
+                                                 x-transition:enter-end="opacity-100 transform scale-100"
+                                                 x-transition:leave="transition ease-in duration-150"
+                                                 x-transition:leave-start="opacity-100 transform scale-100"
+                                                 x-transition:leave-end="opacity-0 transform scale-95"
+                                                 class="absolute z-50 rounded-md shadow-lg bg-dark right-0"
+                                                 style="display: none; margin-top: -1px; width: calc(100% - 10px);">
+                                                <div class="py-1">
+                                                                                                            <a href="https://cinesocine.es/es/coleccion-de-otickets-premium.html"
+                                                            class="block px-4 py-2 text-sm text-white hover:bg-brand hover:text-white transition-colors duration-300 text-right">
+                                                            Otickets Premium
+                                                        </a>
+                                                                                                            <a href="https://cinesocine.es/es/super-cromys.html"
+                                                            class="block px-4 py-2 text-sm text-white hover:bg-brand hover:text-white transition-colors duration-300 text-right">
+                                                            Super Cromys
+                                                        </a>
+                                                                                                            <a href="https://cinesocine.es/es/bono-cultural-joven.html"
+                                                            class="block px-4 py-2 text-sm text-white hover:bg-brand hover:text-white transition-colors duration-300 text-right">
+                                                            Bono Cultural Joven
+                                                        </a>
+                                                                                                    </div>
+                                            </div>
+                                                                            </div>
+                                                                    <div class="relative" x-data="{ open: false }" @mouseenter="open = true" @mouseleave="open = false">
+                                        <div class="flex items-center gap-1">
+                                            <a href="https://cinesocine.es/es/preventas-peliculas.html"
+                                                class="text-white border-dark font-light uppercase text-xs md:text-sm text-end pr-2 py-0.5 pl-4 md:pl-6 rounded-bl-full border-t"
+                                                style="padding: 4px 30px; font-weight: 300; background-color: #102832;">
+                                                <span class="block">PREVENTAS PELÍCULAS</span>
+                                            </a>
+                                                                                            <div class="text-white transition-colors duration-300"
+                                                     style="margin-left: -20px;">
+                                                    <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path>
+                                                    </svg>
+                                                </div>
+                                                                                    </div>
+                                                                                    <div x-show="open"
+                                                 x-transition:enter="transition ease-out duration-200"
+                                                 x-transition:enter-start="opacity-0 transform scale-95"
+                                                 x-transition:enter-end="opacity-100 transform scale-100"
+                                                 x-transition:leave="transition ease-in duration-150"
+                                                 x-transition:leave-start="opacity-100 transform scale-100"
+                                                 x-transition:leave-end="opacity-0 transform scale-95"
+                                                 class="absolute z-50 rounded-md shadow-lg bg-dark right-0"
+                                                 style="display: none; margin-top: -1px; width: calc(100% - 10px);">
+                                                <div class="py-1">
+                                                                                                            <a href="https://cinesocine.es/es/scream-7.html"
+                                                            class="block px-4 py-2 text-sm text-white hover:bg-brand hover:text-white transition-colors duration-300 text-right">
+                                                            Scream 7
+                                                        </a>
+                                                                                                            <a href="https://cinesocine.es/es/la-novia.html"
+                                                            class="block px-4 py-2 text-sm text-white hover:bg-brand hover:text-white transition-colors duration-300 text-right">
+                                                            ¡La Novia!
+                                                        </a>
+                                                                                                            <a href="https://cinesocine.es/es/torrente-presidente.html"
+                                                            class="block px-4 py-2 text-sm text-white hover:bg-brand hover:text-white transition-colors duration-300 text-right">
+                                                            Torrente Presidente
+                                                        </a>
+                                                                                                    </div>
+                                            </div>
+                                                                            </div>
+                                                                    <div class="relative" x-data="{ open: false }" @mouseenter="open = true" @mouseleave="open = false">
+                                        <div class="flex items-center gap-1">
+                                            <a href="https://cinesocine.es/es/preventas-eventos-goMzJ.html"
+                                                class="text-white border-dark font-light uppercase text-xs md:te

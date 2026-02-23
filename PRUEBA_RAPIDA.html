@@ -1,0 +1,908 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Cine GC - Cartelera Hoy</title>
+  <script src="https://unpkg.com/react@18/umd/react.development.js"></script>
+  <script src="https://unpkg.com/react-dom@18/umd/react-dom.development.js"></script>
+  <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;600;700&display=swap"
+    rel="stylesheet">
+  <style>
+    :root {
+      --primary: #7c3aed;
+      --primary-light: #f5f3ff;
+      --bg: #fafafa;
+      --text: #1f2937;
+      --text-muted: #6b7280;
+      --card-bg: rgba(255, 255, 255, 0.8);
+    }
+
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    body {
+      font-family: 'Plus Jakarta Sans', sans-serif;
+      background-color: var(--bg);
+      color: var(--text);
+      margin: 0;
+      padding: 0;
+      overflow-x: hidden;
+      -webkit-overflow-scrolling: touch;
+      touch-action: pan-y;
+      /* Prevent horizontal jumping/pan */
+    }
+
+    .app-container {
+      width: 100%;
+      max-width: 480px;
+      margin: 0 auto;
+      min-height: 100vh;
+      padding: 20px 20px 60px 20px;
+    }
+
+    header {
+      margin-bottom: 24px;
+      text-align: center;
+    }
+
+    h1 {
+      font-size: 32px;
+      font-weight: 700;
+      margin: 0;
+      background: linear-gradient(135deg, #7c3aed 0%, #a855f7 100%);
+      background-clip: text;
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+    }
+
+    .cinema-select-container {
+      margin-bottom: 24px;
+      position: relative;
+    }
+
+    .cinema-select {
+      width: 100%;
+      padding: 16px;
+      border-radius: 16px;
+      border: 1px solid #e5e7eb;
+      background: white;
+      font-size: 16px;
+      font-family: inherit;
+      appearance: none;
+      cursor: pointer;
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+      transition: all 0.2s;
+    }
+
+    .cinema-select:focus {
+      outline: none;
+      border-color: var(--primary);
+      box-shadow: 0 0 0 3px var(--primary-light);
+    }
+
+    .movie-list {
+      display: flex;
+      flex-direction: column;
+      gap: 16px;
+    }
+
+    .movie-card {
+      background: var(--card-bg);
+      backdrop-filter: blur(8px);
+      padding: 20px;
+      border-radius: 20px;
+      border: 1px solid rgba(255, 255, 255, 0.3);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05);
+      transition: transform 0.2s;
+    }
+
+    .movie-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 12px;
+    }
+
+    .movie-time {
+      background: var(--primary-light);
+      color: var(--primary);
+      padding: 6px 12px;
+      border-radius: 10px;
+      font-weight: 600;
+      font-size: 14px;
+    }
+
+    .movie-rating {
+      color: #d97706;
+      font-weight: 600;
+      font-size: 14px;
+    }
+
+    .movie-title {
+      font-size: 20px;
+      font-weight: 700;
+      margin: 0 0 8px 0;
+    }
+
+    .movie-summary {
+      font-size: 14px;
+      color: var(--text-muted);
+      line-height: 1.5;
+      margin: 0;
+      display: -webkit-box;
+      -webkit-line-clamp: 2;
+      line-clamp: 2;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+    }
+  </style>
+</head>
+
+<body>
+  <div id="root"></div>
+
+  <script type="text/babel">
+    const { useState } = React;
+
+    const MOVIE_DATA = {
+      "Artesiete Las Terrazas": [
+        {
+          "title": "Zootrópolis 2",
+          "time": "12:30",
+          "rating": 4.7,
+          "summary": "Judy y Nick regresan para una nueva aventura."
+        },
+        {
+          "title": "Zootrópolis 2",
+          "time": "16:30",
+          "rating": 4.7,
+          "summary": "Judy y Nick regresan para una nueva aventura."
+        },
+        {
+          "title": "Zootrópolis 2",
+          "time": "16:45",
+          "rating": 4.7,
+          "summary": "Judy y Nick regresan para una nueva aventura."
+        },
+        {
+          "title": "Avatar: Fuego y ceniza",
+          "time": "20:30",
+          "rating": 4.9,
+          "summary": "La tercera de James Cameron."
+        },
+        {
+          "title": "Hamnet",
+          "time": "17:15",
+          "rating": 4.6,
+          "summary": "Drama basado en el hijo de Shakespeare."
+        },
+        {
+          "title": "La Asistenta",
+          "time": "17:40",
+          "rating": 4.5,
+          "summary": "Intriga psicológica basada en el éxito literario."
+        },
+        {
+          "title": "La Asistenta",
+          "time": "18:00",
+          "rating": 4.5,
+          "summary": "Intriga psicológica basada en el éxito literario."
+        },
+        {
+          "title": "La Asistenta",
+          "time": "21:45",
+          "rating": 4.5,
+          "summary": "Intriga psicológica basada en el éxito literario."
+        },
+        {
+          "title": "La Asistenta",
+          "time": "22:15",
+          "rating": 4.5,
+          "summary": "Intriga psicológica basada en el éxito literario."
+        },
+        {
+          "title": "Little Amelie",
+          "time": "16:15",
+          "rating": 4.4,
+          "summary": "Animación entrañable."
+        },
+        {
+          "title": "Greenland 2",
+          "time": "19:30",
+          "rating": 4.2,
+          "summary": "Supervivencia al límite."
+        }
+      ],
+      "Cine Yelmo Vecindario": [
+        {
+          "title": "Aída y vuelta",
+          "time": "18:00",
+          "rating": 4.7,
+          "summary": "Comedia española."
+        },
+        {
+          "title": "Aída y vuelta",
+          "time": "18:20",
+          "rating": 4.7,
+          "summary": "Comedia española."
+        },
+        {
+          "title": "Aída y vuelta",
+          "time": "20:10",
+          "rating": 4.7,
+          "summary": "Comedia española."
+        },
+        {
+          "title": "Avatar: Fuego y ceniza",
+          "time": "19:50",
+          "rating": 4.9,
+          "summary": "Espectáculo visual."
+        },
+        {
+          "title": "Castigo divino",
+          "time": "18:15",
+          "rating": 4.3,
+          "summary": "Comedia."
+        },
+        {
+          "title": "Como cabras",
+          "time": "18:00",
+          "rating": 4.1,
+          "summary": "Animación."
+        },
+        {
+          "title": "Cumbres borrascosas",
+          "time": "15:55",
+          "rating": 4.8,
+          "summary": "Drama romántico."
+        },
+        {
+          "title": "Cumbres borrascosas",
+          "time": "16:45",
+          "rating": 4.8,
+          "summary": "Drama romántico."
+        },
+        {
+          "title": "Cumbres borrascosas",
+          "time": "17:00",
+          "rating": 4.8,
+          "summary": "Drama romántico."
+        },
+        {
+          "title": "Cumbres borrascosas",
+          "time": "18:40",
+          "rating": 4.8,
+          "summary": "Drama romántico."
+        },
+        {
+          "title": "Cumbres borrascosas",
+          "time": "19:30",
+          "rating": 4.8,
+          "summary": "Drama romántico."
+        },
+        {
+          "title": "Cumbres borrascosas",
+          "time": "21:25",
+          "rating": 4.8,
+          "summary": "Drama romántico."
+        },
+        {
+          "title": "Cumbres borrascosas",
+          "time": "22:15",
+          "rating": 4.8,
+          "summary": "Drama romántico."
+        },
+        {
+          "title": "El vestido",
+          "time": "17:55",
+          "rating": 4.5,
+          "summary": "Thriller suspense."
+        },
+        {
+          "title": "Greenland 2",
+          "time": "16:15",
+          "rating": 4.2,
+          "summary": "Acción."
+        },
+        {
+          "title": "Greenland 2",
+          "time": "18:20",
+          "rating": 4.2,
+          "summary": "Acción."
+        },
+        {
+          "title": "Greenland 2",
+          "time": "20:25",
+          "rating": 4.2,
+          "summary": "Acción."
+        },
+        {
+          "title": "Greenland 2",
+          "time": "22:30",
+          "rating": 4.2,
+          "summary": "Acción."
+        },
+        {
+          "title": "Hamnet",
+          "time": "19:40",
+          "rating": 4.6,
+          "summary": "Drama."
+        },
+        {
+          "title": "Ídolos",
+          "time": "22:25",
+          "rating": 4.4,
+          "summary": "Terror."
+        },
+        {
+          "title": "La asistenta",
+          "time": "19:35",
+          "rating": 4.5,
+          "summary": "Thriller."
+        },
+        {
+          "title": "La asistenta",
+          "time": "19:40",
+          "rating": 4.5,
+          "summary": "Thriller."
+        },
+        {
+          "title": "La asistenta",
+          "time": "22:25",
+          "rating": 4.5,
+          "summary": "Thriller."
+        },
+        {
+          "title": "La fiera",
+          "time": "17:15",
+          "rating": 4.4,
+          "summary": "Acción."
+        },
+        {
+          "title": "Marty Supreme",
+          "time": "17:30",
+          "rating": 4.2,
+          "summary": "Drama."
+        },
+        {
+          "title": "Primate",
+          "time": "17:10",
+          "rating": 4.2,
+          "summary": "Terror."
+        },
+        {
+          "title": "Ruta de escape",
+          "time": "18:55",
+          "rating": 4.3,
+          "summary": "Acción."
+        },
+        {
+          "title": "Ruta de escape",
+          "time": "21:50",
+          "rating": 4.3,
+          "summary": "Acción."
+        },
+        {
+          "title": "Ruta de escape",
+          "time": "22:00",
+          "rating": 4.3,
+          "summary": "Acción."
+        }
+      ],
+      "Cine Yelmo Las Arenas": [
+        {
+          "title": "Aída y vuelta",
+          "time": "18:00",
+          "rating": 4.7,
+          "summary": "Comedia española."
+        },
+        {
+          "title": "Aída y vuelta",
+          "time": "20:10",
+          "rating": 4.7,
+          "summary": "Comedia española."
+        },
+        {
+          "title": "Avatar. Fuego y ceniza",
+          "time": "21:30",
+          "rating": 4.9,
+          "summary": "James Cameron aventura."
+        },
+        {
+          "title": "Como cabras",
+          "time": "17:10",
+          "rating": 4.1,
+          "summary": "Animación."
+        },
+        {
+          "title": "Como cabras",
+          "time": "19:30",
+          "rating": 4.1,
+          "summary": "Animación."
+        },
+        {
+          "title": "Cumbres borrascosas",
+          "time": "17:50",
+          "rating": 4.8,
+          "summary": "Drama clásico."
+        },
+        {
+          "title": "Cumbres borrascosas",
+          "time": "19:00",
+          "rating": 4.8,
+          "summary": "Drama clásico."
+        },
+        {
+          "title": "Cumbres borrascosas",
+          "time": "20:40",
+          "rating": 4.8,
+          "summary": "Drama clásico."
+        },
+        {
+          "title": "Cumbres borrascosas",
+          "time": "22:00",
+          "rating": 4.8,
+          "summary": "Drama clásico."
+        },
+        {
+          "title": "El agente secreto",
+          "time": "17:30",
+          "rating": 4.3,
+          "summary": "Thriller."
+        },
+        {
+          "title": "El agente secreto",
+          "time": "20:50",
+          "rating": 4.3,
+          "summary": "Thriller."
+        },
+        {
+          "title": "Greenland 2",
+          "time": "17:00",
+          "rating": 4.2,
+          "summary": "Acción."
+        },
+        {
+          "title": "Greenland 2",
+          "time": "18:20",
+          "rating": 4.2,
+          "summary": "Acción."
+        },
+        {
+          "title": "Greenland 2",
+          "time": "19:20",
+          "rating": 4.2,
+          "summary": "Acción."
+        },
+        {
+          "title": "Greenland 2",
+          "time": "20:30",
+          "rating": 4.2,
+          "summary": "Acción."
+        },
+        {
+          "title": "Greenland 2",
+          "time": "22:45",
+          "rating": 4.2,
+          "summary": "Acción."
+        },
+        {
+          "title": "Hamnet",
+          "time": "18:30",
+          "rating": 4.6,
+          "summary": "Drama."
+        },
+        {
+          "title": "Hamnet",
+          "time": "21:10",
+          "rating": 4.6,
+          "summary": "Drama."
+        },
+        {
+          "title": "La asistenta",
+          "time": "16:50",
+          "rating": 4.5,
+          "summary": "Thriller."
+        },
+        {
+          "title": "La asistenta",
+          "time": "19:45",
+          "rating": 4.5,
+          "summary": "Thriller."
+        },
+        {
+          "title": "La asistenta",
+          "time": "22:35",
+          "rating": 4.5,
+          "summary": "Thriller."
+        },
+        {
+          "title": "La fiera",
+          "time": "22:20",
+          "rating": 4.4,
+          "summary": "Acción."
+        },
+        {
+          "title": "Maspalomas",
+          "time": "20:15",
+          "rating": 4.5,
+          "summary": "Drama local."
+        },
+        {
+          "title": "Primate",
+          "time": "22:40",
+          "rating": 4.2,
+          "summary": "Terror."
+        },
+        {
+          "title": "Ruta de escape",
+          "time": "21:50",
+          "rating": 4.3,
+          "summary": "Acción."
+        },
+        {
+          "title": "Sin conexión",
+          "time": "17:20",
+          "rating": 4.4,
+          "summary": "Thriller."
+        },
+        {
+          "title": "Sin conexión",
+          "time": "20:00",
+          "rating": 4.4,
+          "summary": "Thriller."
+        },
+        {
+          "title": "Sin conexión",
+          "time": "22:35",
+          "rating": 4.4,
+          "summary": "Thriller."
+        },
+        {
+          "title": "Tres adioses",
+          "time": "17:40",
+          "rating": 4.5,
+          "summary": "Drama."
+        }
+      ],
+      "Cine Yelmo Premium Alisios": [
+        {
+          "title": "Cumbres Borrascosas",
+          "time": "12:20",
+          "rating": 4.8,
+          "summary": "Drama romántico."
+        },
+        {
+          "title": "Cumbres Borrascosas",
+          "time": "13:20",
+          "rating": 4.8,
+          "summary": "Drama romántico."
+        },
+        {
+          "title": "Cumbres Borrascosas",
+          "time": "15:35",
+          "rating": 4.8,
+          "summary": "Drama romántico."
+        },
+        {
+          "title": "Cumbres Borrascosas",
+          "time": "16:30",
+          "rating": 4.8,
+          "summary": "Drama romántico."
+        },
+        {
+          "title": "Cumbres Borrascosas",
+          "time": "17:00",
+          "rating": 4.8,
+          "summary": "Drama romántico."
+        },
+        {
+          "title": "Cumbres Borrascosas",
+          "time": "18:35",
+          "rating": 4.8,
+          "summary": "Drama romántico."
+        },
+        {
+          "title": "Cumbres Borrascosas",
+          "time": "19:20",
+          "rating": 4.8,
+          "summary": "Drama romántico."
+        },
+        {
+          "title": "Cumbres Borrascosas",
+          "time": "19:45",
+          "rating": 4.8,
+          "summary": "Drama romántico."
+        },
+        {
+          "title": "Cumbres Borrascosas",
+          "time": "21:25",
+          "rating": 4.8,
+          "summary": "Drama romántico."
+        },
+        {
+          "title": "Cumbres Borrascosas",
+          "time": "22:10",
+          "rating": 4.8,
+          "summary": "Drama romántico."
+        },
+        {
+          "title": "Cumbres Borrascosas",
+          "time": "22:20",
+          "rating": 4.8,
+          "summary": "Drama romántico."
+        },
+        {
+          "title": "Greenland 2",
+          "time": "13:00",
+          "rating": 4.2,
+          "summary": "Acción."
+        },
+        {
+          "title": "Greenland 2",
+          "time": "16:10",
+          "rating": 4.2,
+          "summary": "Acción."
+        },
+        {
+          "title": "Greenland 2",
+          "time": "18:20",
+          "rating": 4.2,
+          "summary": "Acción."
+        },
+        {
+          "title": "Greenland 2",
+          "time": "20:30",
+          "rating": 4.2,
+          "summary": "Acción."
+        },
+        {
+          "title": "Greenland 2",
+          "time": "22:40",
+          "rating": 4.2,
+          "summary": "Acción."
+        },
+        {
+          "title": "Greenland 2",
+          "time": "22:45",
+          "rating": 4.2,
+          "summary": "Acción."
+        },
+        {
+          "title": "Como Cabras",
+          "time": "12:10",
+          "rating": 4.1,
+          "summary": "Animación."
+        },
+        {
+          "title": "Como Cabras",
+          "time": "12:50",
+          "rating": 4.1,
+          "summary": "Animación."
+        },
+        {
+          "title": "Como Cabras",
+          "time": "15:55",
+          "rating": 4.1,
+          "summary": "Animación."
+        },
+        {
+          "title": "Como Cabras",
+          "time": "17:15",
+          "rating": 4.1,
+          "summary": "Animación."
+        },
+        {
+          "title": "Como Cabras",
+          "time": "18:05",
+          "rating": 4.1,
+          "summary": "Animación."
+        },
+        {
+          "title": "Como Cabras",
+          "time": "18:45",
+          "rating": 4.1,
+          "summary": "Animación."
+        },
+        {
+          "title": "Como Cabras",
+          "time": "20:15",
+          "rating": 4.1,
+          "summary": "Animación."
+        },
+        {
+          "title": "Como Cabras",
+          "time": "20:45",
+          "rating": 4.1,
+          "summary": "Animación."
+        },
+        {
+          "title": "Como Cabras",
+          "time": "20:10",
+          "rating": 4.1,
+          "summary": "Animación."
+        },
+        {
+          "title": "La Asistenta",
+          "time": "13:10",
+          "rating": 4.5,
+          "summary": "Thriller."
+        },
+        {
+          "title": "La Asistenta",
+          "time": "17:00",
+          "rating": 4.5,
+          "summary": "Thriller."
+        },
+        {
+          "title": "La Asistenta",
+          "time": "19:40",
+          "rating": 4.5,
+          "summary": "Thriller."
+        },
+        {
+          "title": "La Asistenta",
+          "time": "22:25",
+          "rating": 4.5,
+          "summary": "Thriller."
+        },
+        {
+          "title": "Aída y Vuelta",
+          "time": "16:40",
+          "rating": 4.7,
+          "summary": "Comedia."
+        },
+        {
+          "title": "Aída y Vuelta",
+          "time": "19:00",
+          "rating": 4.7,
+          "summary": "Comedia."
+        },
+        {
+          "title": "Hamnet",
+          "time": "16:50",
+          "rating": 4.6,
+          "summary": "Drama."
+        },
+        {
+          "title": "Hamnet",
+          "time": "19:30",
+          "rating": 4.6,
+          "summary": "Drama."
+        },
+        {
+          "title": "Primate",
+          "time": "14:20",
+          "rating": 4.2,
+          "summary": "Terror."
+        },
+        {
+          "title": "Primate",
+          "time": "22:35",
+          "rating": 4.2,
+          "summary": "Terror."
+        }
+      ],
+      "Ocine Premium Siete Palmas": [
+        {
+          "title": "Aída y vuelta",
+          "time": "17:45",
+          "rating": 4.7,
+          "summary": "Comedia española."
+        },
+        {
+          "title": "Aída y vuelta",
+          "time": "20:45",
+          "rating": 4.7,
+          "summary": "Comedia española."
+        },
+        {
+          "title": "Avatar: fuego y ceniza",
+          "time": "18:30",
+          "rating": 4.9,
+          "summary": "Espectáculo visual."
+        },
+        {
+          "title": "Avatar: fuego y ceniza",
+          "time": "20:40",
+          "rating": 4.9,
+          "summary": "Espectáculo visual."
+        },
+        {
+          "title": "Greenland 2",
+          "time": "19:15",
+          "rating": 4.2,
+          "summary": "Acción."
+        },
+        {
+          "title": "Cumbres borrascosas",
+          "time": "16:50",
+          "rating": 4.8,
+          "summary": "Drama romántico."
+        },
+        {
+          "title": "Cumbres borrascosas",
+          "time": "22:45",
+          "rating": 4.8,
+          "summary": "Drama romántico."
+        },
+        {
+          "title": "Hamnet",
+          "time": "16:55",
+          "rating": 4.6,
+          "summary": "Drama."
+        },
+        {
+          "title": "La asistenta",
+          "time": "22:25",
+          "rating": 4.5,
+          "summary": "Thriller."
+        },
+        {
+          "title": "Fuego y ceniza",
+          "time": "16:40",
+          "rating": 4.9,
+          "summary": "Aventura en Pandora."
+        },
+        {
+          "title": "Evolution",
+          "time": "15:40",
+          "rating": 4.1,
+          "summary": "Animación fantástica."
+        }
+      ]
+    };
+
+    const CINEMAS = Object.keys(MOVIE_DATA);
+
+    function App() {
+      const [selected, setSelected] = useState(CINEMAS[0]);
+      const movies = [...(MOVIE_DATA[selected] || [])].sort((a, b) => a.time.localeCompare(b.time));
+
+      return (
+        <div className="app-container">
+          <header>
+            <h1>Cine GC</h1>
+            <p style={{ color: '#666', fontSize: '14px' }}>Cartelera de hoy • Gran Canaria</p>
+          </header>
+
+          <div className="cinema-select-container">
+            <select
+              className="cinema-select"
+              value={selected}
+              onChange={(e) => setSelected(e.target.value)}
+            >
+              {CINEMAS.map(c => (
+                <option key={c} value={c}>{c}</option>
+              ))}
+            </select>
+          </div>
+
+          <div className="movie-list">
+            {movies.map((m, i) => (
+              <div key={i} className="movie-card">
+                <div className="movie-header">
+                  <span className="movie-time">{m.time}</span>
+                  <div className="movie-rating">★ {m.rating}</div>
+                </div>
+                <h2 className="movie-title">{m.title}</h2>
+                <p className="movie-summary">{m.summary}</p>
+              </div>
+            ))}
+          </div>
+        </div>
+      );
+    }
+
+    const root = ReactDOM.createRoot(document.getElementById('root'));
+    root.render(<App />);
+  </script>
+</body>
+
+</html>

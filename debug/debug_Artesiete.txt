@@ -1,0 +1,308 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Artesiete Cines </title>
+    <meta name="description" content="Compra entradas de cine online y vive una experiencia única con palomitas y refrescos. ¡Tu cine en Artesiete te espera! El mejor ocio en Artesiete">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="robots" content="all,follow">
+
+    
+    <meta property="og:image:width" content="1280" />
+    <meta property="og:image:height" content="640" />
+    <meta property="og:image:type" content="image/png" />
+
+    <meta property="og:url" content="https://artesiete.es" />
+    <meta property="og:title" content="Artesiete Cines " />
+    <meta property="og:description" content="Compra entradas de cine online y vive una experiencia única con palomitas y refrescos. ¡Tu cine en Artesiete te espera! El mejor ocio en Artesiete" />
+
+
+    <!-- Favicon-->
+    <link rel="shortcut icon" href="https://artesiete.es/favicon.png">
+    
+    <!--  Swiper's CSS -->
+    <link rel="stylesheet" type="text/css"
+      href="/css/swiper.css"
+    />
+
+    <link href="https://artesiete.es/css/app.css" type="text/css" rel="stylesheet">
+    <link href="https://artesiete.es/css/generic.css" type="text/css" rel="stylesheet">
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-R1NPFST1ES" ></script>
+    <script nonce="Wp9CVg3L7xO8nXuEM3tJykHceAJMYjrR">
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-R1NPFST1ES');
+    </script>
+    
+    
+</head>
+<body class="bg-mainbackground">
+
+    <h1 id="options-heading" class="sr-only">Cartelera Artesiete</h1>
+
+    <!-- TOP BAR -->
+<header class="flex lg:flex lg:items-center lg:justify-between px-4 py-3 bg-gray-100 rounded-md">
+  <div class="flex-1 min-w-0">
+    <div class="mt-1 flex flex-col sm:flex-row sm:flex-wrap sm:mt-0 sm:space-x-6 text-black divide-gray-600 divide-x-2">
+      <div class="mt-2  items-center text-sm md:flex hidden">
+        <a class="flex" href="/Contact">
+          <!-- Heroicon name: solid/briefcase -->
+          <svg xmlns="http://www.w3.org/2000/svg" class="flex-shrink-0 mr-1.5 h-5 w-5 text-gray-700" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+            <path stroke-linecap="round" stroke-linejoin="round" d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z" />
+          </svg>
+          Ayuda a la compra:  click aquí
+        </a>
+      </div>
+      <div class="mt-2 flex items-center text-sm pl-5">
+        <a class="flex" href="/Contact">
+          Contacto Empresa  <!-- __() es otra forma de localization -->
+        </a>
+      </div>
+    </div>
+  </div>
+  <div class="flex-1 min-w-0">
+    <div class="flex items-center text-sm justify-end">
+      <div class="relative inline-block text-left">
+        
+        <div id="app">
+          <Languagemenu />
+        </div>
+      </div>
+    </div>
+  </div>
+</header>
+<!-- END TOP BAR -->
+
+<!-- MENU BAR -->
+<div id="nav">
+  <Navigationmenu :langfile='{&quot;proximosestrenos&quot;:&quot;Proximos Estrenos&quot;,&quot;home&quot;:&quot;Inicio&quot;,&quot;billboard&quot;:&quot;Cartelera&quot;,&quot;guaranteedresponse&quot;:&quot;Respuesta Asegurada&quot;,&quot;securepayment&quot;:&quot;Pago Seguro&quot;,&quot;securepaymentsp&quot;:&quot;Pago Seguro, Operaci\u00f3n realizada en Espa\u00f1a&quot;,&quot;ourcinemas&quot;:&quot;Nuestros Cines&quot;,&quot;fullbillboard&quot;:&quot;Cartelera Completa&quot;,&quot;advancesale&quot;:&quot;Anticipadas&quot;,&quot;premiere&quot;:&quot;Estrenos&quot;,&quot;events&quot;:&quot;Eventos&quot;,&quot;promotions&quot;:&quot;Promociones&quot;,&quot;groups&quot;:&quot;Grupos&quot;,&quot;yourpurchase&quot;:&quot;Tu Compra&quot;,&quot;checkpurchase&quot;:&quot;Comprueba Compra&quot;,&quot;howtoaccess&quot;:&quot;Forma de Acceder al Cine&quot;,&quot;artesietecard&quot;:&quot;Tarjeta Artesiete&quot;,&quot;register&quot;:&quot;Darse de Alta&quot;,&quot;operations&quot;:&quot;Movimientos&quot;,&quot;giftlist&quot;:&quot;Lista de Regalos&quot;,&quot;myaccount&quot;:&quot;Mi Cuenta&quot;,&quot;contactform&quot;:&quot;Formulario de Contacto&quot;,&quot;circuitcompletebillboard&quot;:&quot;Cartelera Completa del Circuito&quot;,&quot;concertsoperasmore&quot;:&quot;Conciertos, Operas, Eventos en Directo y m\u00e1s&quot;,&quot;onlynextreleases&quot;:&quot;Solo lo que est\u00e1 por llegar a nuestros cines&quot;,&quot;emailnotreceived&quot;:&quot;Si no has recibido tu email con la compra&quot;,&quot;artesietecardinfo&quot;:&quot;Info Tarjeta Artesiete&quot;,&quot;registerinfo&quot;:&quot;Obtenga su Tarjeta Artesiete y consiga todas sus ventajas&quot;,&quot;logininfo&quot;:&quot;Loguese para una mejor experiencia de compra y precios especiales&quot;,&quot;artesietecardinfosp&quot;:&quot;Consulte aqui todas las ventajas de nuestra tarjeta&quot;,&quot;existingcustomer&quot;:&quot;Ya esta registrado?&quot;,&quot;newregister&quot;:&quot;Nuevo Registro&quot;,&quot;ElijaPase&quot;:&quot;Elige tu Hora&quot;,&quot;VerTrailer&quot;:&quot;Ver Trailer&quot;,&quot;DatosPelicula&quot;:&quot;Datos Base&quot;,&quot;Titulo&quot;:&quot;Titulo&quot;,&quot;TituloOriginal&quot;:&quot;Titulo Original&quot;,&quot;Duracion&quot;:&quot;Duracion&quot;,&quot;Genero&quot;:&quot;Genero&quot;,&quot;Calificacion&quot;:&quot;Calificacion&quot;,&quot;FechaEstreno&quot;:&quot;Fecha Estreno&quot;,&quot;Director&quot;:&quot;Director&quot;,&quot;Interpretes&quot;:&quot;Interpretes&quot;,&quot;mycard&quot;:&quot;Mi Tarjeta&quot;,&quot;logoutinfo&quot;:&quot;Cerrar su cuenta y desconectar&quot;,&quot;perfil&quot;:&quot;Perfil&quot;,&quot;perfilinfo&quot;:&quot;Consulte y edite los datos asociados a su tarjeta&quot;,&quot;seemycard&quot;:&quot;Ver mi tarjeta&quot;,&quot;seemycardinfo&quot;:&quot;Ver mi tarjeta en pantalla&quot;}' :usuario='&quot;&quot;' :theaters='&quot;&quot;' />
+</div>
+
+    <p class="font-bold text-2xl text-center mt-10 w-full">Error en la carga de la página, los motivos pueden ser varios, principalmente:<br></p>
+    <p class="font-bold text-xl  text-center mt-10  w-full mb-24">- El pase que desea ya no esta disponible para la venta</p>
+    
+    <footer class="text-center lg:text-left bg-gray-100 text-gray-600">
+  <div class="flex justify-center items-center lg:justify-between p-6 border-b border-gray-300">
+    <div class="mr-12 hidden lg:block">
+      <span>Contacta con nosotros en nuestras redes sociales:</span>
+    </div>
+    <div class="flex justify-center">
+              <a href="https://www.facebook.com/@CinesARTESIETE" Target="_blank" class="mr-6 text-gray-600">
+              <svg aria-hidden="true" focusable="false" data-prefix="fab" data-icon="facebook-f"
+          class="w-2.5" role="img" xmlns="http://www.w3.org/2000/svg"
+          viewBox="0 0 320 512">
+          <path fill="currentColor"
+            d="M279.14 288l14.22-92.66h-88.91v-60.13c0-25.35 12.42-50.06 52.24-50.06h40.42V6.26S260.43 0 225.36 0c-73.22 0-121.08 44.38-121.08 124.72v70.62H22.89V288h81.39v224h100.17V288z">
+          </path>
+        </svg>
+      </a>
+      
+              <a href="https://www.instagram.com/cinesartesiete/" Target="_blank" class="mr-6 text-gray-600">
+              <svg aria-hidden="true" focusable="false" data-prefix="fab" data-icon="instagram"
+          class="w-4" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+          <path fill="currentColor"
+            d="M224.1 141c-63.6 0-114.9 51.3-114.9 114.9s51.3 114.9 114.9 114.9S339 319.5 339 255.9 287.7 141 224.1 141zm0 189.6c-41.1 0-74.7-33.5-74.7-74.7s33.5-74.7 74.7-74.7 74.7 33.5 74.7 74.7-33.6 74.7-74.7 74.7zm146.4-194.3c0 14.9-12 26.8-26.8 26.8-14.9 0-26.8-12-26.8-26.8s12-26.8 26.8-26.8 26.8 12 26.8 26.8zm76.1 27.2c-1.7-35.9-9.9-67.7-36.2-93.9-26.2-26.2-58-34.4-93.9-36.2-37-2.1-147.9-2.1-184.9 0-35.8 1.7-67.6 9.9-93.9 36.1s-34.4 58-36.2 93.9c-2.1 37-2.1 147.9 0 184.9 1.7 35.9 9.9 67.7 36.2 93.9s58 34.4 93.9 36.2c37 2.1 147.9 2.1 184.9 0 35.9-1.7 67.7-9.9 93.9-36.2 26.2-26.2 34.4-58 36.2-93.9 2.1-37 2.1-147.8 0-184.8zM398.8 388c-7.8 19.6-22.9 34.7-42.6 42.6-29.5 11.7-99.5 9-132.1 9s-102.7 2.6-132.1-9c-19.6-7.8-34.7-22.9-42.6-42.6-11.7-29.5-9-99.5-9-132.1s-2.6-102.7 9-132.1c7.8-19.6 22.9-34.7 42.6-42.6 29.5-11.7 99.5-9 132.1-9s102.7-2.6 132.1 9c19.6 7.8 34.7 22.9 42.6 42.6 11.7 29.5 9 99.5 9 132.1s2.7 102.7-9 132.1z">
+          </path>
+        </svg>
+      </a>
+      <!--<a href="#!" class="mr-6 text-gray-600">
+        <svg aria-hidden="true" focusable="false" data-prefix="fab" data-icon="google"
+          class="w-3.5" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 488 512">
+          <path fill="currentColor"
+            d="M488 261.8C488 403.3 391.1 504 248 504 110.8 504 0 393.2 0 256S110.8 8 248 8c66.8 0 123 24.5 166.3 64.9l-67.5 64.9C258.5 52.6 94.3 116.6 94.3 256c0 86.5 69.1 156.6 153.7 156.6 98.2 0 135-70.4 140.8-106.9H248v-85.3h236.1c2.3 12.7 3.9 24.9 3.9 41.4z">
+          </path>
+        </svg>
+      </a>
+      <a href="#!" class="mr-6 text-gray-600">
+        <svg aria-hidden="true" focusable="false" data-prefix="fab" data-icon="instagram"
+          class="w-3.5" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
+          <path fill="currentColor"
+            d="M224.1 141c-63.6 0-114.9 51.3-114.9 114.9s51.3 114.9 114.9 114.9S339 319.5 339 255.9 287.7 141 224.1 141zm0 189.6c-41.1 0-74.7-33.5-74.7-74.7s33.5-74.7 74.7-74.7 74.7 33.5 74.7 74.7-33.6 74.7-74.7 74.7zm146.4-194.3c0 14.9-12 26.8-26.8 26.8-14.9 0-26.8-12-26.8-26.8s12-26.8 26.8-26.8 26.8 12 26.8 26.8zm76.1 27.2c-1.7-35.9-9.9-67.7-36.2-93.9-26.2-26.2-58-34.4-93.9-36.2-37-2.1-147.9-2.1-184.9 0-35.8 1.7-67.6 9.9-93.9 36.1s-34.4 58-36.2 93.9c-2.1 37-2.1 147.9 0 184.9 1.7 35.9 9.9 67.7 36.2 93.9s58 34.4 93.9 36.2c37 2.1 147.9 2.1 184.9 0 35.9-1.7 67.7-9.9 93.9-36.2 26.2-26.2 34.4-58 36.2-93.9 2.1-37 2.1-147.8 0-184.8zM398.8 388c-7.8 19.6-22.9 34.7-42.6 42.6-29.5 11.7-99.5 9-132.1 9s-102.7 2.6-132.1-9c-19.6-7.8-34.7-22.9-42.6-42.6-11.7-29.5-9-99.5-9-132.1s-2.6-102.7 9-132.1c7.8-19.6 22.9-34.7 42.6-42.6 29.5-11.7 99.5-9 132.1-9s102.7-2.6 132.1 9c19.6 7.8 34.7 22.9 42.6 42.6 11.7 29.5 9 99.5 9 132.1s2.7 102.7-9 132.1z">
+          </path>
+        </svg>
+      </a>
+      <a href="#!" class="mr-6 text-gray-600">
+        <svg aria-hidden="true" focusable="false" data-prefix="fab" data-icon="linkedin-in"
+          class="w-3.5" role="img" xmlns="http://www.w3.org/2000/svg"
+          viewBox="0 0 448 512">
+          <path fill="currentColor"
+            d="M100.28 448H7.4V148.9h92.88zM53.79 108.1C24.09 108.1 0 83.5 0 53.8a53.79 53.79 0 0 1 107.58 0c0 29.7-24.1 54.3-53.79 54.3zM447.9 448h-92.68V302.4c0-34.7-.7-79.2-48.29-79.2-48.29 0-55.69 37.7-55.69 76.7V448h-92.78V148.9h89.08v40.8h1.3c12.4-23.5 42.69-48.3 87.88-48.3 94 0 111.28 61.9 111.28 142.3V448z">
+          </path>
+        </svg>
+      </a>
+      <a href="#!" class="text-gray-600">
+        <svg aria-hidden="true" focusable="false" data-prefix="fab" data-icon="github"
+          class="w-4" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512">
+          <path fill="currentColor"
+            d="M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6zm-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3zm44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9zM244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8zM97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1zm-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7zm32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1zm-11.4-14.7c-1.6 1-1.6 3.6 0 5.9 1.6 2.3 4.3 3.3 5.6 2.3 1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2z">
+          </path>
+        </svg>
+      </a>-->
+    </div>
+  </div>
+  <div class="mx-6 py-10 text-center md:text-left">
+    <div class="grid grid-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
+      <div class="">
+        <h6 class="
+            uppercase
+            font-semibold
+            mb-4
+            flex
+            items-center
+            justify-center
+            md:justify-start
+          ">
+          Artesiete Cines
+        </h6>
+        
+        
+
+              </div>
+      <div class="">
+        <h6 class="uppercase font-semibold mb-4 flex justify-center md:justify-start">Nuestros Cines</h6>
+          <p class="mb-0">
+            <a href="https://artesiete.es/Cine/21/Artesiete-La-Torre" class="text-gray-600">Artesiete La Torre (Zaragoza) </a>
+          </p>
+          <p class="mb-0">
+            <a href="https://artesiete.es/Cine/33/Artesiete-Bahia" class="text-gray-600">Artesiete Bahía (Pto Santa María) </a>
+          </p>
+          <p class="mb-0">
+            <a href="https://artesiete.es/Cine/2/Artesiete-Holea" class="text-muted">Artesiete Holea (Huelva) </a>
+          </p>
+          <p class="mb-0">
+            <a href="https://artesiete.es/Cine/4/Artesiete-Fan" class="text-muted">Artesiete Fan (Mallorca) </a>
+          </p>
+          <p class="mb-0">
+            <a href="https://artesiete.es/Cine/1/Artesiete-terrazas" class="text-muted">Artesiete Las Terrazas (Telde) </a>
+          </p>
+          <p class="mb-0">
+            <a href="https://artesiete.es/Cine/8/Artesiete-Alfares" class="text-muted">Artesiete Alfares (Talavera) </a>
+          </p>
+          <p class="mb-0">
+            <a href="https://artesiete.es/Cine/19/Artesiete-Lucena" class="text-muted">Artesiete Lucena </a>
+          </p>
+          
+          <p class="mb-0">
+            <a href="https://artesiete.es/Cine/11/Artesiete-Ecija" class="text-muted">Artesiete Ecija </a>
+          </p>
+          <p class="mb-0">
+            <a href="https://artesiete.es/Cine/20/Cines-Ubeda" class="text-muted">Cines Ubeda </a>
+          </p>
+          <p class="mb-0">
+            <a href="https://artesiete.es/Cine/13/Artesiete-segovia" class="text-muted">Artesiete Segovia </a>
+          </p>
+          <p class="mb-0">
+            <a href="https://artesiete.es/Cine/26/Artesiete-Alhsur" class="text-muted">Artesiete Alhsur (La Zubia)</a>
+          </p>
+      </div>
+      <div class="">
+        <h6 class="uppercase font-semibold mb-4 flex justify-center md:justify-start">
+          Enlaces Utiles        </h6>
+        <p class="mb-1 md:mb-4 text-sm md:text-md">
+          <a href="https://artesiete.es/Comprueba" class="text-gray-600">Comprueba Compra</a>
+        </p>
+        <p class="mb-1 md:mb-4 text-sm md:text-md">
+                      <a href="/CondCompra/0" class="text-gray-600">Condiciones de Compra</a>
+                  </p>
+        <p class="mb-1 md:mb-4 text-sm md:text-md">
+          <a href="https://artesiete.es/Cookies" class="text-gray-600">Política de Cookies</a>
+        </p>
+        <p class="mb-1 md:mb-4 text-sm md:text-md">
+          <a href="https://artesiete.es/Legal" class="text-gray-600">Aviso Legal</a>
+        </p>
+        <p class="text-sm md:text-md">
+          <a href="https://artesiete.es/Privacidad" class="text-gray-600">Política de Privacidad</a>
+        </p>
+      </div>
+      <div class="">
+        <h6 class="uppercase font-semibold mb-4 flex justify-center md:justify-start">
+          Contacto        </h6>
+        <p class="mb-1 md:mb-4 text-sm md:text-md">
+          <a href="https://artesiete.es/Contact" class="text-gray-600">Contacto Empresa </a>
+        </p>
+        <p class="text-sm mb-1 md:mb-4 md:text-md">
+          <a href="https://artesiete.es/ContactCur" class="text-gray-600">Trabaja con Nosotros</a>
+        </p>
+              </div>
+    </div>
+
+  </div>
+  <div class="text-center p-6 bg-gray-800 flow-root text-white">
+    <p class="text-xs md:text-sm text-white">
+      Con la financiación y soporte de las siguientes entidades
+    </p>
+    <br>
+    <div class="max-w-6xl mx-auto grid md:grid-cols-4 sm:grid-cols-2 xl:grid-cols-5 gap-4 justify-center">
+      <div class="text-center self-center content-center mx-auto"><img src="/partners/logo-md.png" class="h-16"></div>
+      <div class="text-center self-center content-center mx-auto"><img src="/partners/logo-ng.png" class="h-16"></div>
+      <div class="text-center self-center content-center mx-auto"><img src="/partners/logo-pr.png" class="h-16"></div>
+      <div class="text-center self-center content-center mx-auto"><img src="/partners/logo-md2.png" class="h-16"></div>
+
+      
+
+
+      <div class="text-center self-center content-center mx-auto"><img src="/partners/logo-bc.png" class="h-16"></div>
+    </div>
+
+    
+    <div class="flex float-left text-sm md:text-md">© 2021 Artesiete. All rights reserved.</div>
+    <div class="flex float-right ml-8">
+      <ul class="list-inline mb-0 mt-2 mt-md-0 text-right flex">
+        <li class="list-inline-item text-sm md:text-md">Operativa Bancaria realizada en España</li>
+        <li class="list-inline-item mx-5"><img src="/img/visa.svg" alt="..." class="w-8"></li>
+        <li class="list-inline-item"><img src="/img/mastercard.svg" alt="..." class="w-8"></li>
+      </ul>
+      
+    
+  </div>
+  
+ 
+</footer>
+
+
+<script nonce="Wp9CVg3L7xO8nXuEM3tJykHceAJMYjrR">
+  document.addEventListener('DOMContentLoaded', () => {
+
+    var gaProperty = 'G-R1NPFST1ES';
+    var disableStr = 'ga-disable-' + gaProperty;
+    if (document.cookie.indexOf(disableStr + '=true') > -1) {
+      document.getElementById('cookie-consent').classList.add('hidden');
+      window[disableStr] = true;
+    }
+
+    document.querySelectorAll('[data-behavior="accept-cookie-consent"]').forEach(element => {
+      element.addEventListener('click', () => {
+        const expirationDate = new Date();
+        expirationDate.setFullYear(expirationDate.getFullYear() + 1);
+        document.cookie = 'cookie_consent_accepted=true; path=/; expires=' + expirationDate.toUTCString();
+        document.getElementById('cookie-consent').classList.add('hidden');
+      });
+    });
+
+    document.querySelectorAll('[data-behavior="deny-cookie-consent"]').forEach(element => {
+      element.addEventListener('click', () => {
+        document.getElementById('cookie-consent').classList.add('hidden');
+        document.cookie = disableStr + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
+        window[disableStr] = true;
+      });
+    });
+  });
+</script>
+
+    <!-- Footer-->
+        
+    <!-- /Footer end-->
+    
+
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"> </script>
+    <script nonce="Wp9CVg3L7xO8nXuEM3tJykHceAJMYjrR" src="/js/app.js"></script>
+
+    </body>
+
+<!-- <script src="{ asset('js/app.js') }}"></script> -->
+<script src="/livewire/livewire.js?id=90730a3b0e7144480175" data-turbo-eval="false" data-turbolinks-eval="false" nonce="Wp9CVg3L7xO8nXuEM3tJykHceAJMYjrR"></script><script data-turbo-eval="false" data-turbolinks-eval="false" nonce="Wp9CVg3L7xO8nXuEM3tJykHceAJMYjrR">window.livewire = new Livewire({"nonce":"Wp9CVg3L7xO8nXuEM3tJykHceAJMYjrR"});window.Livewire = window.livewire;window.livewire_app_url = '';window.livewire_token = 'MCqba0pkKdTUQXeHfv7j54751FdXt1CpUsMbeY2c';window.deferLoadingAlpine = function (cal
