@@ -493,6 +493,54 @@ export const MOVIE_DATA = {
   ],
   "Ocine Premium Siete Palmas": [
     {
+      "title": "Aída Y Vuelta",
+      "time": "11:55",
+      "rating": 4.5,
+      "summary": "'Aída y vuelta' aborda el rodaje de un capítulo de la serie con tramas que transcurren tanto dentro ..."
+    },
+    {
+      "title": "Aída Y Vuelta",
+      "time": "14:00",
+      "rating": 4.5,
+      "summary": "'Aída y vuelta' aborda el rodaje de un capítulo de la serie con tramas que transcurren tanto dentro ..."
+    },
+    {
+      "title": "Aída Y Vuelta",
+      "time": "17:45",
+      "rating": 4.5,
+      "summary": "'Aída y vuelta' aborda el rodaje de un capítulo de la serie con tramas que transcurren tanto dentro ..."
+    },
+    {
+      "title": "Aída Y Vuelta",
+      "time": "20:45",
+      "rating": 4.5,
+      "summary": "'Aída y vuelta' aborda el rodaje de un capítulo de la serie con tramas que transcurren tanto dentro ..."
+    },
+    {
+      "title": "Evolution",
+      "time": "15:40",
+      "rating": 4.5,
+      "summary": "Cuando una sustancia extraterrestre mezcla el ADN de Zoe con el de sus exóticas mascotas, empieza un..."
+    },
+    {
+      "title": "Greenland 2",
+      "time": "11:45",
+      "rating": 4.5,
+      "summary": "Después de sobrevivir al fin del mundo por la caída de un cometa, Jeff Garrity, junto con su mujer A..."
+    },
+    {
+      "title": "Greenland 2",
+      "time": "13:45",
+      "rating": 4.5,
+      "summary": "Después de sobrevivir al fin del mundo por la caída de un cometa, Jeff Garrity, junto con su mujer A..."
+    },
+    {
+      "title": "Greenland 2",
+      "time": "16:00",
+      "rating": 4.5,
+      "summary": "Después de sobrevivir al fin del mundo por la caída de un cometa, Jeff Garrity, junto con su mujer A..."
+    },
+    {
       "title": "Greenland 2",
       "time": "18:00",
       "rating": 4.5,
@@ -517,10 +565,40 @@ export const MOVIE_DATA = {
       "summary": "Después de sobrevivir al fin del mundo por la caída de un cometa, Jeff Garrity, junto con su mujer A..."
     },
     {
+      "title": "Hamnet (Atmos)",
+      "time": "21:00",
+      "rating": 4.5,
+      "summary": "Narra la historia de Agnes, la esposa de William Shakespeare, en su lucha por superar la pérdida de ..."
+    },
+    {
+      "title": "La Cena",
+      "time": "12:10",
+      "rating": 4.5,
+      "summary": "Dos semanas después de acabar la Guerra Civil, Franco solicita una cena de celebración en el Hotel P..."
+    },
+    {
       "title": "La Asistenta (Atmos)",
-      "time": "19:15",
+      "time": "17:40",
       "rating": 4.5,
       "summary": "Basada en el increíble fenómeno literario escrito por Freida McFadden.\r\n\r\nUna joven, Sydney Sweeney ..."
+    },
+    {
+      "title": "La Asistenta (Atmos)",
+      "time": "20:20",
+      "rating": 4.5,
+      "summary": "Basada en el increíble fenómeno literario escrito por Freida McFadden.\r\n\r\nUna joven, Sydney Sweeney ..."
+    },
+    {
+      "title": "La Maldición De Shelby Oaks",
+      "time": "12:05",
+      "rating": 4.5,
+      "summary": "Cuando un documentalista descubre una nueva pista perturbadora, la búsqueda desesperada de una mujer..."
+    },
+    {
+      "title": "La Maldición De Shelby Oaks",
+      "time": "15:50",
+      "rating": 4.5,
+      "summary": "Cuando un documentalista descubre una nueva pista perturbadora, la búsqueda desesperada de una mujer..."
     },
     {
       "title": "La Maldición De Shelby Oaks",
@@ -536,21 +614,39 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Little Amélie",
+      "time": "15:00",
+      "rating": 4.5,
+      "summary": "Amélie es una niña belga nacida en Japón. Gracias a su niñera Nishio-san la vida es todo aventuras y..."
+    },
+    {
+      "title": "Little Amélie",
       "time": "16:40",
       "rating": 4.5,
       "summary": "Amélie es una niña belga nacida en Japón. Gracias a su niñera Nishio-san la vida es todo aventuras y..."
     },
     {
       "title": "Los Domingos",
-      "time": "16:55",
+      "time": "15:40",
       "rating": 4.5,
       "summary": "\"Los Domingos\" cuenta la historia de Ainara, una joven idealista y brillante de 17 años que ha de de..."
     },
     {
       "title": "Primate (Kids)",
-      "time": "22:25",
+      "time": "22:45",
       "rating": 4.5,
       "summary": "Tras regresar de la universidad, Lucy se reúne con su familia, incluido el chimpancé Ben. Ben contra..."
+    },
+    {
+      "title": "Ruta De Escape",
+      "time": "12:20",
+      "rating": 4.5,
+      "summary": "Davis es un escurridizo ladrón cuyos atracos de alto riesgo tienen desconcertada a la policía. Davis..."
+    },
+    {
+      "title": "Ruta De Escape",
+      "time": "15:45",
+      "rating": 4.5,
+      "summary": "Davis es un escurridizo ladrón cuyos atracos de alto riesgo tienen desconcertada a la policía. Davis..."
     },
     {
       "title": "Ruta De Escape",
@@ -563,6 +659,24 @@ export const MOVIE_DATA = {
       "time": "22:30",
       "rating": 4.5,
       "summary": "Davis es un escurridizo ladrón cuyos atracos de alto riesgo tienen desconcertada a la policía. Davis..."
+    },
+    {
+      "title": "Sirat (Atmos)",
+      "time": "22:20",
+      "rating": 4.5,
+      "summary": "Un hombre y su hijo llegan a una rave perdida en medio de las montañas del sur de Marruecos. Buscan ..."
+    },
+    {
+      "title": "Zootrópolis 2 (Screen X)",
+      "time": "11:50",
+      "rating": 4.5,
+      "summary": "La nueva película de Disney reúne a personajes nuevos y otros que regresan, como los policías novato..."
+    },
+    {
+      "title": "Zootrópolis 2 (Screen X)",
+      "time": "18:25",
+      "rating": 4.5,
+      "summary": "La nueva película de Disney reúne a personajes nuevos y otros que regresan, como los policías novato..."
     }
   ],
   "Artesiete Las Terrazas": [
