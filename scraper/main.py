@@ -2,6 +2,7 @@ import cloudscraper
 import json
 import re
 import os
+from bs4 import BeautifulSoup
 
 CINEMAS = [
     {"name": "Artesiete Las Terrazas", "url": "https://artesiete.es/Cine/14/ARTESIETE-LAS-TERRAZAS"},
@@ -129,6 +130,54 @@ def scrape_ocine_api():
         
     return results
 
+def scrape_artesiete():
+    print("Obteniendo cartelera desde la web de Artesiete Las Terrazas...")
+    url = "https://terrazas.artesiete.es/Cine/1/ARTESIETE%20Las%20Terrazas/Total"
+    scraper = cloudscraper.create_scraper()
+    
+    results = {
+        "Artesiete Las Terrazas": []
+    }
+    
+    try:
+        res = scraper.get(url, timeout=20)
+        if res.status_code == 200:
+            soup = BeautifulSoup(res.text, "html.parser")
+            imgs = soup.find_all('img')
+            
+            for img in imgs:
+                src = img.get('src', '')
+                alt = img.get('alt', '')
+                if 'posters' in src.lower():
+                    parent = img.parent
+                    while parent and parent.name != 'body':
+                        if parent.name == 'div' and ('px-2' in parent.get('class', []) or 'mb-6' in parent.get('class', []) or 'relative' in parent.get('class', []) and len(parent.find_all('img')) == 1):
+                            times = parent.find_all(string=re.compile(r'\b\d{1,2}:\d{2}\b'))
+                            if len(times) > 0 and len(parent.find_all('img', src=re.compile(r'(?i)posters'))) == 1:
+                                movie_times = []
+                                for t in times:
+                                    clean_t = t.strip()
+                                    if clean_t and clean_t not in movie_times:
+                                        movie_times.append(clean_t)
+                                
+                                title = alt.title()
+                                for t in sorted(movie_times):
+                                    results["Artesiete Las Terrazas"].append({
+                                        "title": title,
+                                        "time": t,
+                                        "rating": 4.5,
+                                        "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+                                    })
+                                break
+                        parent = parent.parent
+            print(f"  -> Artesiete Las Terrazas: Encontradas {len(results['Artesiete Las Terrazas'])} sesiones.")
+        else:
+            print(f"  Error en Artesiete: Status {res.status_code}")
+    except Exception as e:
+        print(f"  Error obteniendo datos de Artesiete: {e}")
+        
+    return results
+
 def main():
     all_data = {}
     
@@ -153,10 +202,11 @@ def main():
     ocine_live_data = scrape_ocine_api()
     all_data.update(ocine_live_data)
 
-    # Use fallback data for Artesiete as it is a dynamic app without public API
-    for name in ["Artesiete Las Terrazas"]:
-        print(f"Cargando datos locales para {name} (sitio dinámico sin API pública)")
-        all_data[name] = manual_data[name]
+    # Fetch Artesiete live data
+    artesiete_live_data = scrape_artesiete()
+    all_data.update(artesiete_live_data)
+
+    # El fallback ya no es necesario porque los 5 cines se raspean en directo.
 
     # Save to src/data.js
     data_content = f"""export const MOVIE_DATA = {json.dumps(all_data, indent=2, ensure_ascii=False)};

@@ -493,18 +493,6 @@ export const MOVIE_DATA = {
   ],
   "Ocine Premium Siete Palmas": [
     {
-      "title": "Aída Y Vuelta",
-      "time": "17:45",
-      "rating": 4.5,
-      "summary": "'Aída y vuelta' aborda el rodaje de un capítulo de la serie con tramas que transcurren tanto dentro ..."
-    },
-    {
-      "title": "Aída Y Vuelta",
-      "time": "20:45",
-      "rating": 4.5,
-      "summary": "'Aída y vuelta' aborda el rodaje de un capítulo de la serie con tramas que transcurren tanto dentro ..."
-    },
-    {
       "title": "Greenland 2",
       "time": "18:00",
       "rating": 4.5,
@@ -527,12 +515,6 @@ export const MOVIE_DATA = {
       "time": "23:00",
       "rating": 4.5,
       "summary": "Después de sobrevivir al fin del mundo por la caída de un cometa, Jeff Garrity, junto con su mujer A..."
-    },
-    {
-      "title": "Hamnet (Atmos)",
-      "time": "21:00",
-      "rating": 4.5,
-      "summary": "Narra la historia de Agnes, la esposa de William Shakespeare, en su lucha por superar la pérdida de ..."
     },
     {
       "title": "La Asistenta (Atmos)",
@@ -581,62 +563,284 @@ export const MOVIE_DATA = {
       "time": "22:30",
       "rating": 4.5,
       "summary": "Davis es un escurridizo ladrón cuyos atracos de alto riesgo tienen desconcertada a la policía. Davis..."
-    },
-    {
-      "title": "Sirat (Atmos)",
-      "time": "22:20",
-      "rating": 4.5,
-      "summary": "Un hombre y su hijo llegan a una rave perdida en medio de las montañas del sur de Marruecos. Buscan ..."
-    },
-    {
-      "title": "Zootrópolis 2 (Screen X)",
-      "time": "18:20",
-      "rating": 4.5,
-      "summary": "La nueva película de Disney reúne a personajes nuevos y otros que regresan, como los policías novato..."
     }
   ],
   "Artesiete Las Terrazas": [
     {
-      "title": "Little Amelie",
-      "time": "16:15",
-      "rating": 4.4,
-      "summary": "Animación entrañable."
+      "title": "La Asistenta",
+      "time": "16:40",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
     },
     {
-      "title": "Greenland 2",
-      "time": "19:30",
-      "rating": 4.2,
-      "summary": "Supervivencia al límite."
+      "title": "La Asistenta",
+      "time": "19:00",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
     },
     {
       "title": "Hamnet",
-      "time": "17:15",
-      "rating": 4.6,
-      "summary": "Drama basado en el hijo de Shakespeare."
-    },
-    {
-      "title": "La Asistenta",
-      "time": "17:40",
+      "time": "16:40",
       "rating": 4.5,
-      "summary": "Intriga psicológica basada en el éxito literario."
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
     },
     {
-      "title": "La Asistenta",
-      "time": "18:00",
+      "title": "Aida Y Vuelta",
+      "time": "16:45",
       "rating": 4.5,
-      "summary": "Intriga psicológica basada en el éxito literario."
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
     },
     {
-      "title": "La Asistenta",
+      "title": "Aida Y Vuelta",
+      "time": "18:50",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "Aida Y Vuelta",
+      "time": "20:40",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "Primate",
+      "time": "18:40",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "Castigo Divino",
+      "time": "17:00",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "Cumbres Borrascosas",
+      "time": "16:45",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "Cumbres Borrascosas",
+      "time": "19:15",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "Cumbres Borrascosas",
+      "time": "20:20",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "Cumbres Borrascosas",
       "time": "21:45",
       "rating": 4.5,
-      "summary": "Intriga psicológica basada en el éxito literario."
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
     },
     {
-      "title": "La Asistenta",
+      "title": "El Vestido",
+      "time": "21:40",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "Goat, Como Cabras",
+      "time": "16:55",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "La Maldicion De Shelby Oaks",
+      "time": "17:00",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "La Maldicion De Shelby Oaks",
+      "time": "21:45",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "Ruta De Escape",
+      "time": "18:45",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "Ruta De Escape",
+      "time": "21:15",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "El Agente Secreto",
+      "time": "19:00",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "El Agente Secreto",
+      "time": "21:50",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "El Fantasma De Mi Mujer",
+      "time": "18:00",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "El Fantasma De Mi Mujer",
+      "time": "19:45",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "El Fantasma De Mi Mujer",
+      "time": "21:30",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "Greenland 2",
+      "time": "16:50",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "Greenland 2",
+      "time": "17:00",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "Greenland 2",
+      "time": "18:40",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "Greenland 2",
+      "time": "19:00",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "Greenland 2",
+      "time": "20:30",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "Greenland 2",
+      "time": "20:50",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "Greenland 2",
       "time": "22:15",
       "rating": 4.5,
-      "summary": "Intriga psicológica basada en el éxito literario."
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "Little Amelie",
+      "time": "18:45",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "Little Amelie",
+      "time": "20:20",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "Scream 7",
+      "time": "17:50",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "Scream 7",
+      "time": "20:10",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "Scream 7",
+      "time": "21:50",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "Scream 7",
+      "time": "22:30",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "Enhypen (Walk The Line Summer Edition)",
+      "time": "16:00",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "Enhypen (Walk The Line Summer Edition)",
+      "time": "18:00",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "Torrente Presidente",
+      "time": "16:00",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "Torrente Presidente",
+      "time": "16:20",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "Torrente Presidente",
+      "time": "18:00",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "Torrente Presidente",
+      "time": "18:20",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "Torrente Presidente",
+      "time": "20:00",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "Torrente Presidente",
+      "time": "20:20",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "Torrente Presidente",
+      "time": "22:10",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "Torrente Presidente",
+      "time": "22:30",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
     }
   ]
 };
