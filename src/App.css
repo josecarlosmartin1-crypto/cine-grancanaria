@@ -50,8 +50,21 @@ h1 {
   -webkit-text-fill-color: transparent;
 }
 
-.cinema-select-container {
+.cinema-header-sticky {
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  background: var(--bg);
+  padding: 10px 0 20px 0;
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.05);
   margin-bottom: 24px;
+}
+
+.cinema-select-container {
+  flex: 1;
 }
 
 .cinema-select {
@@ -80,6 +93,23 @@ h1 {
   outline: none;
   border-color: var(--primary);
   box-shadow: 0 4px 15px rgba(91, 19, 236, 0.15);
+}
+
+.buy-button {
+  background: var(--primary);
+  color: #fff;
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 14px;
+  padding: 14px 20px;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(91, 19, 236, 0.2);
+  transition: transform 0.2s, box-shadow 0.2s;
+  white-space: nowrap;
+}
+
+.buy-button:active {
+  transform: scale(0.95);
 }
 
 .movie-list {
