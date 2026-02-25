@@ -38,13 +38,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "El Vestido",
-      "time": "17:00",
-      "rating": 4.5,
-      "summary": "Alicia y su hija Carla se mudan a una vieja casa en busca de un nuevo comienzo tras un divorcio difí..."
-    },
-    {
-      "title": "El Vestido",
-      "time": "22:30",
+      "time": "22:40",
       "rating": 4.5,
       "summary": "Alicia y su hija Carla se mudan a una vieja casa en busca de un nuevo comienzo tras un divorcio difí..."
     },
@@ -85,6 +79,24 @@ export const MOVIE_DATA = {
       "summary": "Will es una pequeña cabra con grandes sueños que recibe una oportunidad única en la vida para unirse..."
     },
     {
+      "title": "Como Cabras",
+      "time": "19:40",
+      "rating": 4.5,
+      "summary": "Will es una pequeña cabra con grandes sueños que recibe una oportunidad única en la vida para unirse..."
+    },
+    {
+      "title": "Primate",
+      "time": "17:00",
+      "rating": 4.5,
+      "summary": "Tras regresar de la universidad, Lucy se reúne con su familia, incluido el chimpancé Ben. Ben contra..."
+    },
+    {
+      "title": "Primate",
+      "time": "21:55",
+      "rating": 4.5,
+      "summary": "Tras regresar de la universidad, Lucy se reúne con su familia, incluido el chimpancé Ben. Ben contra..."
+    },
+    {
       "title": "La Fiera",
       "time": "21:50",
       "rating": 4.5,
@@ -105,12 +117,6 @@ export const MOVIE_DATA = {
     {
       "title": "Marty Supreme",
       "time": "17:15",
-      "rating": 4.5,
-      "summary": "La historia se centra en la apasionante carrera de Marty Reisman, interpretado por el dos veces nomi..."
-    },
-    {
-      "title": "Marty Supreme",
-      "time": "20:00",
       "rating": 4.5,
       "summary": "La historia se centra en la apasionante carrera de Marty Reisman, interpretado por el dos veces nomi..."
     },
@@ -163,10 +169,10 @@ export const MOVIE_DATA = {
       "summary": "Tercera entrega de la saga \"Avatar\". Presenta al Pueblo de las Cenizas, un clan Na'vi no tan pacífic..."
     },
     {
-      "title": "La Cena",
+      "title": "Sirat. Trance En El Desierto",
       "time": "20:15",
       "rating": 4.5,
-      "summary": "Dos semanas después de acabar la Guerra Civil, Franco solicita una cena de celebración en el Hotel P..."
+      "summary": "Un hombre (Sergi López) y su hijo (Bruno Nuñez) llegan a una rave perdida en medio de las áridas y f..."
     }
   ],
   "Cine Yelmo Las Arenas": [
@@ -229,6 +235,12 @@ export const MOVIE_DATA = {
       "time": "22:35",
       "rating": 4.5,
       "summary": "Mientras su matrimonio se desmorona silenciosamente, Alex se enfrenta a la mediana edad y a un divor..."
+    },
+    {
+      "title": "Cumbres Borrascosas",
+      "time": "17:50",
+      "rating": 4.5,
+      "summary": "Una audaz y original reinterpretación de una de una de las historias de amor más grandes de todos lo..."
     },
     {
       "title": "Cumbres Borrascosas",
@@ -297,12 +309,6 @@ export const MOVIE_DATA = {
       "summary": "\"Aída y vuelta\", el largometraje, aborda el rodaje de un capítulo de la serie con tramas que transcu..."
     },
     {
-      "title": "Marty Supreme",
-      "time": "17:35",
-      "rating": 4.5,
-      "summary": "La historia se centra en la apasionante carrera de Marty Reisman, interpretado por el dos veces nomi..."
-    },
-    {
       "title": "Hamnet",
       "time": "18:30",
       "rating": 4.5,
@@ -315,10 +321,10 @@ export const MOVIE_DATA = {
       "summary": "Narra la historia de Agnes, la esposa de William Shakespeare, en su lucha por superar la pérdida de ..."
     },
     {
-      "title": "Rental Family (Familia De Alquiler)",
-      "time": "17:15",
+      "title": "La Asistenta",
+      "time": "16:50",
       "rating": 4.5,
-      "summary": "Ambientada en el Tokio actual, Rental Family sigue a un actor estadounidense (Brendan Fraser) que lu..."
+      "summary": "Millie es una joven que, tras perder su trabajo, acepta un puesto como sirvienta en la lujosa pero i..."
     },
     {
       "title": "La Asistenta",
@@ -339,10 +345,10 @@ export const MOVIE_DATA = {
       "summary": "Tercera entrega de la saga \"Avatar\". Presenta al Pueblo de las Cenizas, un clan Na'vi no tan pacífic..."
     },
     {
-      "title": "La Cena",
+      "title": "Sirat. Trance En El Desierto",
       "time": "20:15",
       "rating": 4.5,
-      "summary": "Dos semanas después de acabar la Guerra Civil, Franco solicita una cena de celebración en el Hotel P..."
+      "summary": "Un hombre (Sergi López) y su hijo (Bruno Nuñez) llegan a una rave perdida en medio de las áridas y f..."
     }
   ],
   "Cine Yelmo Premium Alisios": [
@@ -360,7 +366,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Greenland 2",
-      "time": "22:45",
+      "time": "22:40",
       "rating": 4.5,
       "summary": "Después de sobrevivir al fin del mundo por la caída de un cometa, Jeff Garrity, junto con su mujer A..."
     },
@@ -420,7 +426,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Send Help (Enviad Ayuda)",
-      "time": "22:30",
+      "time": "22:45",
       "rating": 4.5,
       "summary": "Después de que un accidente de avión deje varados en una isla remota a una capaz empleada y a su mol..."
     },
@@ -485,61 +491,13 @@ export const MOVIE_DATA = {
       "summary": "Tercera entrega de la saga \"Avatar\". Presenta al Pueblo de las Cenizas, un clan Na'vi no tan pacífic..."
     },
     {
-      "title": "La Cena",
-      "time": "20:10",
+      "title": "Sirat. Trance En El Desierto",
+      "time": "20:15",
       "rating": 4.5,
-      "summary": "Dos semanas después de acabar la Guerra Civil, Franco solicita una cena de celebración en el Hotel P..."
+      "summary": "Un hombre (Sergi López) y su hijo (Bruno Nuñez) llegan a una rave perdida en medio de las áridas y f..."
     }
   ],
   "Ocine Premium Siete Palmas": [
-    {
-      "title": "Aída Y Vuelta",
-      "time": "11:55",
-      "rating": 4.5,
-      "summary": "'Aída y vuelta' aborda el rodaje de un capítulo de la serie con tramas que transcurren tanto dentro ..."
-    },
-    {
-      "title": "Aída Y Vuelta",
-      "time": "14:00",
-      "rating": 4.5,
-      "summary": "'Aída y vuelta' aborda el rodaje de un capítulo de la serie con tramas que transcurren tanto dentro ..."
-    },
-    {
-      "title": "Aída Y Vuelta",
-      "time": "17:45",
-      "rating": 4.5,
-      "summary": "'Aída y vuelta' aborda el rodaje de un capítulo de la serie con tramas que transcurren tanto dentro ..."
-    },
-    {
-      "title": "Aída Y Vuelta",
-      "time": "20:45",
-      "rating": 4.5,
-      "summary": "'Aída y vuelta' aborda el rodaje de un capítulo de la serie con tramas que transcurren tanto dentro ..."
-    },
-    {
-      "title": "Evolution",
-      "time": "15:40",
-      "rating": 4.5,
-      "summary": "Cuando una sustancia extraterrestre mezcla el ADN de Zoe con el de sus exóticas mascotas, empieza un..."
-    },
-    {
-      "title": "Greenland 2",
-      "time": "11:45",
-      "rating": 4.5,
-      "summary": "Después de sobrevivir al fin del mundo por la caída de un cometa, Jeff Garrity, junto con su mujer A..."
-    },
-    {
-      "title": "Greenland 2",
-      "time": "13:45",
-      "rating": 4.5,
-      "summary": "Después de sobrevivir al fin del mundo por la caída de un cometa, Jeff Garrity, junto con su mujer A..."
-    },
-    {
-      "title": "Greenland 2",
-      "time": "16:00",
-      "rating": 4.5,
-      "summary": "Después de sobrevivir al fin del mundo por la caída de un cometa, Jeff Garrity, junto con su mujer A..."
-    },
     {
       "title": "Greenland 2",
       "time": "18:00",
@@ -565,40 +523,10 @@ export const MOVIE_DATA = {
       "summary": "Después de sobrevivir al fin del mundo por la caída de un cometa, Jeff Garrity, junto con su mujer A..."
     },
     {
-      "title": "Hamnet (Atmos)",
-      "time": "21:00",
-      "rating": 4.5,
-      "summary": "Narra la historia de Agnes, la esposa de William Shakespeare, en su lucha por superar la pérdida de ..."
-    },
-    {
-      "title": "La Cena",
-      "time": "12:10",
-      "rating": 4.5,
-      "summary": "Dos semanas después de acabar la Guerra Civil, Franco solicita una cena de celebración en el Hotel P..."
-    },
-    {
       "title": "La Asistenta (Atmos)",
-      "time": "17:40",
+      "time": "19:15",
       "rating": 4.5,
       "summary": "Basada en el increíble fenómeno literario escrito por Freida McFadden.\r\n\r\nUna joven, Sydney Sweeney ..."
-    },
-    {
-      "title": "La Asistenta (Atmos)",
-      "time": "20:20",
-      "rating": 4.5,
-      "summary": "Basada en el increíble fenómeno literario escrito por Freida McFadden.\r\n\r\nUna joven, Sydney Sweeney ..."
-    },
-    {
-      "title": "La Maldición De Shelby Oaks",
-      "time": "12:05",
-      "rating": 4.5,
-      "summary": "Cuando un documentalista descubre una nueva pista perturbadora, la búsqueda desesperada de una mujer..."
-    },
-    {
-      "title": "La Maldición De Shelby Oaks",
-      "time": "15:50",
-      "rating": 4.5,
-      "summary": "Cuando un documentalista descubre una nueva pista perturbadora, la búsqueda desesperada de una mujer..."
     },
     {
       "title": "La Maldición De Shelby Oaks",
@@ -614,39 +542,21 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Little Amélie",
-      "time": "15:00",
-      "rating": 4.5,
-      "summary": "Amélie es una niña belga nacida en Japón. Gracias a su niñera Nishio-san la vida es todo aventuras y..."
-    },
-    {
-      "title": "Little Amélie",
       "time": "16:40",
       "rating": 4.5,
       "summary": "Amélie es una niña belga nacida en Japón. Gracias a su niñera Nishio-san la vida es todo aventuras y..."
     },
     {
       "title": "Los Domingos",
-      "time": "15:40",
+      "time": "16:55",
       "rating": 4.5,
       "summary": "\"Los Domingos\" cuenta la historia de Ainara, una joven idealista y brillante de 17 años que ha de de..."
     },
     {
       "title": "Primate (Kids)",
-      "time": "22:45",
+      "time": "22:25",
       "rating": 4.5,
       "summary": "Tras regresar de la universidad, Lucy se reúne con su familia, incluido el chimpancé Ben. Ben contra..."
-    },
-    {
-      "title": "Ruta De Escape",
-      "time": "12:20",
-      "rating": 4.5,
-      "summary": "Davis es un escurridizo ladrón cuyos atracos de alto riesgo tienen desconcertada a la policía. Davis..."
-    },
-    {
-      "title": "Ruta De Escape",
-      "time": "15:45",
-      "rating": 4.5,
-      "summary": "Davis es un escurridizo ladrón cuyos atracos de alto riesgo tienen desconcertada a la policía. Davis..."
     },
     {
       "title": "Ruta De Escape",
@@ -659,24 +569,6 @@ export const MOVIE_DATA = {
       "time": "22:30",
       "rating": 4.5,
       "summary": "Davis es un escurridizo ladrón cuyos atracos de alto riesgo tienen desconcertada a la policía. Davis..."
-    },
-    {
-      "title": "Sirat (Atmos)",
-      "time": "22:20",
-      "rating": 4.5,
-      "summary": "Un hombre y su hijo llegan a una rave perdida en medio de las montañas del sur de Marruecos. Buscan ..."
-    },
-    {
-      "title": "Zootrópolis 2 (Screen X)",
-      "time": "11:50",
-      "rating": 4.5,
-      "summary": "La nueva película de Disney reúne a personajes nuevos y otros que regresan, como los policías novato..."
-    },
-    {
-      "title": "Zootrópolis 2 (Screen X)",
-      "time": "18:25",
-      "rating": 4.5,
-      "summary": "La nueva película de Disney reúne a personajes nuevos y otros que regresan, como los policías novato..."
     }
   ],
   "Artesiete Las Terrazas": [
@@ -874,7 +766,19 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Scream 7",
+      "time": "17:45",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "Scream 7",
       "time": "17:50",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "Scream 7",
+      "time": "19:45",
       "rating": 4.5,
       "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
     },
@@ -886,7 +790,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Scream 7",
-      "time": "21:50",
+      "time": "21:45",
       "rating": 4.5,
       "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
     },
@@ -953,6 +857,30 @@ export const MOVIE_DATA = {
     {
       "title": "Torrente Presidente",
       "time": "22:30",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "Bts World Tour ‘Arirang’ In Goyang: Encore",
+      "time": "14:30",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "Bts World Tour ‘Arirang’ In Goyang: Live Viewing",
+      "time": "10:45",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "Bts World Tour ‘Arirang’ In Japan: Encore",
+      "time": "14:30",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "Bts World Tour ‘Arirang’ In Japan: Live Viewing",
+      "time": "10:45",
       "rating": 4.5,
       "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
     }
