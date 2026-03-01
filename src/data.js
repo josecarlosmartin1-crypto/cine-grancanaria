@@ -139,20 +139,14 @@ export const MOVIE_DATA = {
       "summary": "Will es una pequeña cabra con grandes sueños que recibe una oportunidad única en la vida para unirse..."
     },
     {
-      "title": "Como Cabras",
-      "time": "20:05",
-      "rating": 4.5,
-      "summary": "Will es una pequeña cabra con grandes sueños que recibe una oportunidad única en la vida para unirse..."
-    },
-    {
       "title": "Aída Y Vuelta",
-      "time": "15:55",
+      "time": "18:10",
       "rating": 4.5,
       "summary": "\"Aída y vuelta\", el largometraje, aborda el rodaje de un capítulo de la serie con tramas que transcu..."
     },
     {
       "title": "Aída Y Vuelta",
-      "time": "18:10",
+      "time": "20:15",
       "rating": 4.5,
       "summary": "\"Aída y vuelta\", el largometraje, aborda el rodaje de un capítulo de la serie con tramas que transcu..."
     },
@@ -176,7 +170,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Ídolos",
-      "time": "22:15",
+      "time": "22:30",
       "rating": 4.5,
       "summary": "Edu es un joven piloto de motos muy agresivo en quien ningún equipo confía. Eli, jefe del equipo de ..."
     },
@@ -209,6 +203,12 @@ export const MOVIE_DATA = {
       "time": "15:45",
       "rating": 4.5,
       "summary": "Tras resolver el caso más grande en la historia de Zootrópolis, los policías novatos Judy Hopps (voz..."
+    },
+    {
+      "title": "Los Domingos",
+      "time": "15:45",
+      "rating": 4.5,
+      "summary": "\"Los Domingos\" cuenta la historia de Ainara (Blanca Soroa), una joven idealista y brillante de 17 añ..."
     },
     {
       "title": "Los Domingos",
@@ -281,12 +281,6 @@ export const MOVIE_DATA = {
     {
       "title": "Scream 7",
       "time": "20:50",
-      "rating": 4.5,
-      "summary": "Cuando un nuevo asesino Ghostface aparece en el tranquilo pueblo donde Sidney Prescott (Neve Campbel..."
-    },
-    {
-      "title": "Scream 7",
-      "time": "21:10",
       "rating": 4.5,
       "summary": "Cuando un nuevo asesino Ghostface aparece en el tranquilo pueblo donde Sidney Prescott (Neve Campbel..."
     },
@@ -382,12 +376,6 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Como Cabras",
-      "time": "12:10",
-      "rating": 4.5,
-      "summary": "Will es una pequeña cabra con grandes sueños que recibe una oportunidad única en la vida para unirse..."
-    },
-    {
-      "title": "Como Cabras",
       "time": "15:10",
       "rating": 4.5,
       "summary": "Will es una pequeña cabra con grandes sueños que recibe una oportunidad única en la vida para unirse..."
@@ -395,12 +383,6 @@ export const MOVIE_DATA = {
     {
       "title": "Como Cabras",
       "time": "17:30",
-      "rating": 4.5,
-      "summary": "Will es una pequeña cabra con grandes sueños que recibe una oportunidad única en la vida para unirse..."
-    },
-    {
-      "title": "Como Cabras",
-      "time": "19:40",
       "rating": 4.5,
       "summary": "Will es una pequeña cabra con grandes sueños que recibe una oportunidad única en la vida para unirse..."
     },
@@ -442,15 +424,9 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Marty Supreme",
-      "time": "22:00",
+      "time": "21:10",
       "rating": 4.5,
       "summary": "La historia se centra en la apasionante carrera de Marty Reisman, interpretado por el dos veces nomi..."
-    },
-    {
-      "title": "Hamnet",
-      "time": "12:20",
-      "rating": 4.5,
-      "summary": "Narra la historia de Agnes, la esposa de William Shakespeare, en su lucha por superar la pérdida de ..."
     },
     {
       "title": "Hamnet",
@@ -478,7 +454,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "La Asistenta",
-      "time": "22:15",
+      "time": "22:20",
       "rating": 4.5,
       "summary": "Millie es una joven que, tras perder su trabajo, acepta un puesto como sirvienta en la lujosa pero i..."
     },
@@ -499,9 +475,39 @@ export const MOVIE_DATA = {
       "time": "15:30",
       "rating": 4.5,
       "summary": "Tras resolver el caso más grande en la historia de Zootrópolis, los policías novatos Judy Hopps (voz..."
+    },
+    {
+      "title": "Los Domingos",
+      "time": "19:40",
+      "rating": 4.5,
+      "summary": "\"Los Domingos\" cuenta la historia de Ainara (Blanca Soroa), una joven idealista y brillante de 17 añ..."
+    },
+    {
+      "title": "Los Domingos",
+      "time": "22:15",
+      "rating": 4.5,
+      "summary": "\"Los Domingos\" cuenta la historia de Ainara (Blanca Soroa), una joven idealista y brillante de 17 añ..."
     }
   ],
   "Cine Yelmo Premium Alisios": [
+    {
+      "title": "Scream 7",
+      "time": "12:00",
+      "rating": 4.5,
+      "summary": "Cuando un nuevo asesino Ghostface aparece en el tranquilo pueblo donde Sidney Prescott (Neve Campbel..."
+    },
+    {
+      "title": "Scream 7",
+      "time": "13:00",
+      "rating": 4.5,
+      "summary": "Cuando un nuevo asesino Ghostface aparece en el tranquilo pueblo donde Sidney Prescott (Neve Campbel..."
+    },
+    {
+      "title": "Scream 7",
+      "time": "14:25",
+      "rating": 4.5,
+      "summary": "Cuando un nuevo asesino Ghostface aparece en el tranquilo pueblo donde Sidney Prescott (Neve Campbel..."
+    },
     {
       "title": "Scream 7",
       "time": "17:15",
@@ -534,6 +540,12 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Greenland 2",
+      "time": "12:40",
+      "rating": 4.5,
+      "summary": "Después de sobrevivir al fin del mundo por la caída de un cometa, Jeff Garrity, junto con su mujer A..."
+    },
+    {
+      "title": "Greenland 2",
       "time": "16:10",
       "rating": 4.5,
       "summary": "Después de sobrevivir al fin del mundo por la caída de un cometa, Jeff Garrity, junto con su mujer A..."
@@ -558,7 +570,19 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Como Cabras",
-      "time": "15:55",
+      "time": "12:10",
+      "rating": 4.5,
+      "summary": "Will es una pequeña cabra con grandes sueños que recibe una oportunidad única en la vida para unirse..."
+    },
+    {
+      "title": "Como Cabras",
+      "time": "12:50",
+      "rating": 4.5,
+      "summary": "Will es una pequeña cabra con grandes sueños que recibe una oportunidad única en la vida para unirse..."
+    },
+    {
+      "title": "Como Cabras",
+      "time": "15:40",
       "rating": 4.5,
       "summary": "Will es una pequeña cabra con grandes sueños que recibe una oportunidad única en la vida para unirse..."
     },
@@ -570,13 +594,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Como Cabras",
-      "time": "18:05",
-      "rating": 4.5,
-      "summary": "Will es una pequeña cabra con grandes sueños que recibe una oportunidad única en la vida para unirse..."
-    },
-    {
-      "title": "Como Cabras",
-      "time": "20:15",
+      "time": "17:50",
       "rating": 4.5,
       "summary": "Will es una pequeña cabra con grandes sueños que recibe una oportunidad única en la vida para unirse..."
     },
@@ -585,6 +603,12 @@ export const MOVIE_DATA = {
       "time": "20:45",
       "rating": 4.5,
       "summary": "Will es una pequeña cabra con grandes sueños que recibe una oportunidad única en la vida para unirse..."
+    },
+    {
+      "title": "Cumbres Borrascosas",
+      "time": "13:20",
+      "rating": 4.5,
+      "summary": "Una audaz y original reinterpretación de una de una de las historias de amor más grandes de todos lo..."
     },
     {
       "title": "Cumbres Borrascosas",
@@ -603,12 +627,6 @@ export const MOVIE_DATA = {
       "time": "22:15",
       "rating": 4.5,
       "summary": "Una audaz y original reinterpretación de una de una de las historias de amor más grandes de todos lo..."
-    },
-    {
-      "title": "Ruta De Escape",
-      "time": "16:05",
-      "rating": 4.5,
-      "summary": "Davis (Chris Hemsworth) es un escurridizo ladrón cuyos atracos de alto riesgo tienen desconcertada a..."
     },
     {
       "title": "Ruta De Escape",
@@ -666,6 +684,12 @@ export const MOVIE_DATA = {
     },
     {
       "title": "La Asistenta",
+      "time": "13:10",
+      "rating": 4.5,
+      "summary": "Millie es una joven que, tras perder su trabajo, acepta un puesto como sirvienta en la lujosa pero i..."
+    },
+    {
+      "title": "La Asistenta",
       "time": "17:00",
       "rating": 4.5,
       "summary": "Millie es una joven que, tras perder su trabajo, acepta un puesto como sirvienta en la lujosa pero i..."
@@ -678,15 +702,39 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Avatar: Fuego Y Ceniza",
+      "time": "12:20",
+      "rating": 4.5,
+      "summary": "Tercera entrega de la saga \"Avatar\". Presenta al Pueblo de las Cenizas, un clan Na'vi no tan pacífic..."
+    },
+    {
+      "title": "Avatar: Fuego Y Ceniza",
       "time": "21:05",
       "rating": 4.5,
       "summary": "Tercera entrega de la saga \"Avatar\". Presenta al Pueblo de las Cenizas, un clan Na'vi no tan pacífic..."
     },
     {
       "title": "Zootrópolis 2",
+      "time": "12:30",
+      "rating": 4.5,
+      "summary": "Tras resolver el caso más grande en la historia de Zootrópolis, los policías novatos Judy Hopps (voz..."
+    },
+    {
+      "title": "Zootrópolis 2",
       "time": "15:45",
       "rating": 4.5,
       "summary": "Tras resolver el caso más grande en la historia de Zootrópolis, los policías novatos Judy Hopps (voz..."
+    },
+    {
+      "title": "Los Domingos",
+      "time": "13:30",
+      "rating": 4.5,
+      "summary": "\"Los Domingos\" cuenta la historia de Ainara (Blanca Soroa), una joven idealista y brillante de 17 añ..."
+    },
+    {
+      "title": "Los Domingos",
+      "time": "16:20",
+      "rating": 4.5,
+      "summary": "\"Los Domingos\" cuenta la historia de Ainara (Blanca Soroa), una joven idealista y brillante de 17 añ..."
     }
   ],
   "Ocine Premium Siete Palmas": [
@@ -819,12 +867,6 @@ export const MOVIE_DATA = {
       "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
     },
     {
-      "title": "Avatar: Fuego Y Ceniza",
-      "time": "18:50",
-      "rating": 4.5,
-      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
-    },
-    {
       "title": "La Asistenta",
       "time": "19:10",
       "rating": 4.5,
@@ -838,12 +880,6 @@ export const MOVIE_DATA = {
     },
     {
       "title": "La Asistenta",
-      "time": "20:00",
-      "rating": 4.5,
-      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
-    },
-    {
-      "title": "La Asistenta",
       "time": "21:30",
       "rating": 4.5,
       "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
@@ -855,20 +891,8 @@ export const MOVIE_DATA = {
       "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
     },
     {
-      "title": "La Asistenta",
-      "time": "22:20",
-      "rating": 4.5,
-      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
-    },
-    {
       "title": "Aida Y Vuelta",
       "time": "19:40",
-      "rating": 4.5,
-      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
-    },
-    {
-      "title": "Aida Y Vuelta",
-      "time": "20:30",
       "rating": 4.5,
       "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
     },
@@ -881,12 +905,6 @@ export const MOVIE_DATA = {
     {
       "title": "Aida Y Vuelta",
       "time": "21:45",
-      "rating": 4.5,
-      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
-    },
-    {
-      "title": "Aida Y Vuelta",
-      "time": "22:15",
       "rating": 4.5,
       "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
     },
@@ -970,12 +988,6 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Goat, Como Cabras",
-      "time": "16:20",
-      "rating": 4.5,
-      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
-    },
-    {
-      "title": "Goat, Como Cabras",
       "time": "17:20",
       "rating": 4.5,
       "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
@@ -983,18 +995,6 @@ export const MOVIE_DATA = {
     {
       "title": "Goat, Como Cabras",
       "time": "17:50",
-      "rating": 4.5,
-      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
-    },
-    {
-      "title": "Goat, Como Cabras",
-      "time": "18:10",
-      "rating": 4.5,
-      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
-    },
-    {
-      "title": "Goat, Como Cabras",
-      "time": "19:40",
       "rating": 4.5,
       "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
     },
@@ -1011,12 +1011,6 @@ export const MOVIE_DATA = {
       "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
     },
     {
-      "title": "La Maldicion De Shelby Oaks",
-      "time": "23:20",
-      "rating": 4.5,
-      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
-    },
-    {
       "title": "Ruta De Escape",
       "time": "21:15",
       "rating": 4.5,
@@ -1025,18 +1019,6 @@ export const MOVIE_DATA = {
     {
       "title": "Ruta De Escape",
       "time": "21:45",
-      "rating": 4.5,
-      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
-    },
-    {
-      "title": "Ruta De Escape",
-      "time": "22:15",
-      "rating": 4.5,
-      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
-    },
-    {
-      "title": "El Agente Secreto",
-      "time": "15:50",
       "rating": 4.5,
       "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
     },
@@ -1089,12 +1071,6 @@ export const MOVIE_DATA = {
       "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
     },
     {
-      "title": "Greenland 2",
-      "time": "23:30",
-      "rating": 4.5,
-      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
-    },
-    {
       "title": "Chirp, El Investigador De Honey Hills",
       "time": "12:30",
       "rating": 4.5,
@@ -1103,12 +1079,6 @@ export const MOVIE_DATA = {
     {
       "title": "La Residencia",
       "time": "16:30",
-      "rating": 4.5,
-      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
-    },
-    {
-      "title": "La Residencia",
-      "time": "16:50",
       "rating": 4.5,
       "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
     },
@@ -1144,12 +1114,6 @@ export const MOVIE_DATA = {
     },
     {
       "title": "La Residencia",
-      "time": "20:50",
-      "rating": 4.5,
-      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
-    },
-    {
-      "title": "La Residencia",
       "time": "21:20",
       "rating": 4.5,
       "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
@@ -1163,12 +1127,6 @@ export const MOVIE_DATA = {
     {
       "title": "La Residencia",
       "time": "22:30",
-      "rating": 4.5,
-      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
-    },
-    {
-      "title": "La Residencia",
-      "time": "22:45",
       "rating": 4.5,
       "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
     },
@@ -1216,19 +1174,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Scarlet",
-      "time": "16:50",
-      "rating": 4.5,
-      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
-    },
-    {
-      "title": "Scarlet",
       "time": "17:00",
-      "rating": 4.5,
-      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
-    },
-    {
-      "title": "Scarlet",
-      "time": "18:50",
       "rating": 4.5,
       "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
     },
@@ -1259,12 +1205,6 @@ export const MOVIE_DATA = {
     {
       "title": "Scream 7",
       "time": "17:00",
-      "rating": 4.5,
-      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
-    },
-    {
-      "title": "Scream 7",
-      "time": "17:50",
       "rating": 4.5,
       "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
     },
@@ -1305,12 +1245,6 @@ export const MOVIE_DATA = {
       "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
     },
     {
-      "title": "Scream 7",
-      "time": "23:15",
-      "rating": 4.5,
-      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
-    },
-    {
       "title": "Sorry, Baby",
       "time": "12:20",
       "rating": 4.5,
@@ -1319,12 +1253,6 @@ export const MOVIE_DATA = {
     {
       "title": "Sorry, Baby",
       "time": "16:00",
-      "rating": 4.5,
-      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
-    },
-    {
-      "title": "Sorry, Baby",
-      "time": "16:30",
       "rating": 4.5,
       "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
     },
@@ -1348,12 +1276,6 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Sorry, Baby",
-      "time": "18:30",
-      "rating": 4.5,
-      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
-    },
-    {
-      "title": "Sorry, Baby",
       "time": "19:30",
       "rating": 4.5,
       "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
@@ -1361,12 +1283,6 @@ export const MOVIE_DATA = {
     {
       "title": "Sorry, Baby",
       "time": "19:45",
-      "rating": 4.5,
-      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
-    },
-    {
-      "title": "Sorry, Baby",
-      "time": "20:30",
       "rating": 4.5,
       "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
     },
