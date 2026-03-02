@@ -1,26 +1,8 @@
 export const MOVIE_DATA = {
   "Cine Yelmo Vecindario": [
     {
-      "title": "After. Almas Perdidas",
-      "time": "18:00",
-      "rating": 4.5,
-      "summary": "Cuando Tessa (Josephine Langford) toma la decisión más importante de su vida, todo cambia. Los secre..."
-    },
-    {
-      "title": "Scream 7",
-      "time": "16:00",
-      "rating": 4.5,
-      "summary": "Cuando un nuevo asesino Ghostface aparece en el tranquilo pueblo donde Sidney Prescott (Neve Campbel..."
-    },
-    {
       "title": "Scream 7",
       "time": "17:15",
-      "rating": 4.5,
-      "summary": "Cuando un nuevo asesino Ghostface aparece en el tranquilo pueblo donde Sidney Prescott (Neve Campbel..."
-    },
-    {
-      "title": "Scream 7",
-      "time": "18:25",
       "rating": 4.5,
       "summary": "Cuando un nuevo asesino Ghostface aparece en el tranquilo pueblo donde Sidney Prescott (Neve Campbel..."
     },
@@ -32,21 +14,9 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Scream 7",
-      "time": "20:50",
-      "rating": 4.5,
-      "summary": "Cuando un nuevo asesino Ghostface aparece en el tranquilo pueblo donde Sidney Prescott (Neve Campbel..."
-    },
-    {
-      "title": "Scream 7",
       "time": "22:05",
       "rating": 4.5,
       "summary": "Cuando un nuevo asesino Ghostface aparece en el tranquilo pueblo donde Sidney Prescott (Neve Campbel..."
-    },
-    {
-      "title": "Iron Lung",
-      "time": "21:30",
-      "rating": 4.5,
-      "summary": "Película basada en el juego del mismo nombre, ambientada en un futuro postapocalíptico en el que un ..."
     },
     {
       "title": "Epic: Elvis Presley In Concert",
@@ -55,10 +25,10 @@ export const MOVIE_DATA = {
       "summary": "Elvis canta y cuenta su historia como nunca antes en una nueva experiencia cinematográfica del visio..."
     },
     {
-      "title": "Greenland 2",
-      "time": "16:15",
+      "title": "El Agente Secreto",
+      "time": "20:10",
       "rating": 4.5,
-      "summary": "Después de sobrevivir al fin del mundo por la caída de un cometa, Jeff Garrity, junto con su mujer A..."
+      "summary": "1977. En un Brasil atormentado por la dictadura militar, Marcelo, un cuarentón que huye de un pasado..."
     },
     {
       "title": "Greenland 2",
@@ -86,73 +56,49 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Cumbres Borrascosas",
-      "time": "16:30",
-      "rating": 4.5,
-      "summary": "Una audaz y original reinterpretación de una de una de las historias de amor más grandes de todos lo..."
-    },
-    {
-      "title": "Cumbres Borrascosas",
-      "time": "19:15",
-      "rating": 4.5,
-      "summary": "Una audaz y original reinterpretación de una de una de las historias de amor más grandes de todos lo..."
-    },
-    {
-      "title": "Cumbres Borrascosas",
-      "time": "22:00",
-      "rating": 4.5,
-      "summary": "Una audaz y original reinterpretación de una de una de las historias de amor más grandes de todos lo..."
-    },
-    {
-      "title": "Ruta De Escape",
-      "time": "16:15",
-      "rating": 4.5,
-      "summary": "Davis (Chris Hemsworth) es un escurridizo ladrón cuyos atracos de alto riesgo tienen desconcertada a..."
-    },
-    {
-      "title": "Ruta De Escape",
-      "time": "19:05",
-      "rating": 4.5,
-      "summary": "Davis (Chris Hemsworth) es un escurridizo ladrón cuyos atracos de alto riesgo tienen desconcertada a..."
-    },
-    {
-      "title": "Ruta De Escape",
-      "time": "21:55",
-      "rating": 4.5,
-      "summary": "Davis (Chris Hemsworth) es un escurridizo ladrón cuyos atracos de alto riesgo tienen desconcertada a..."
-    },
-    {
-      "title": "Castigo Divino",
       "time": "17:00",
       "rating": 4.5,
-      "summary": "Pedro (Juan Dávila) es un enfermero caótico y solitario cuya vida da un giro de 180 grados al recibi..."
+      "summary": "Una audaz y original reinterpretación de una de una de las historias de amor más grandes de todos lo..."
+    },
+    {
+      "title": "Cumbres Borrascosas",
+      "time": "19:45",
+      "rating": 4.5,
+      "summary": "Una audaz y original reinterpretación de una de una de las historias de amor más grandes de todos lo..."
+    },
+    {
+      "title": "Cumbres Borrascosas",
+      "time": "22:30",
+      "rating": 4.5,
+      "summary": "Una audaz y original reinterpretación de una de una de las historias de amor más grandes de todos lo..."
+    },
+    {
+      "title": "Ruta De Escape",
+      "time": "19:20",
+      "rating": 4.5,
+      "summary": "Davis (Chris Hemsworth) es un escurridizo ladrón cuyos atracos de alto riesgo tienen desconcertada a..."
+    },
+    {
+      "title": "Ruta De Escape",
+      "time": "22:10",
+      "rating": 4.5,
+      "summary": "Davis (Chris Hemsworth) es un escurridizo ladrón cuyos atracos de alto riesgo tienen desconcertada a..."
     },
     {
       "title": "Como Cabras",
-      "time": "15:45",
+      "time": "17:45",
       "rating": 4.5,
       "summary": "Will es una pequeña cabra con grandes sueños que recibe una oportunidad única en la vida para unirse..."
     },
     {
-      "title": "Como Cabras",
-      "time": "17:55",
+      "title": "Primate",
+      "time": "17:25",
       "rating": 4.5,
-      "summary": "Will es una pequeña cabra con grandes sueños que recibe una oportunidad única en la vida para unirse..."
+      "summary": "Tras regresar de la universidad, Lucy se reúne con su familia, incluido el chimpancé Ben. Ben contra..."
     },
     {
       "title": "Aída Y Vuelta",
       "time": "18:10",
-      "rating": 4.5,
-      "summary": "\"Aída y vuelta\", el largometraje, aborda el rodaje de un capítulo de la serie con tramas que transcu..."
-    },
-    {
-      "title": "Aída Y Vuelta",
-      "time": "20:15",
-      "rating": 4.5,
-      "summary": "\"Aída y vuelta\", el largometraje, aborda el rodaje de un capítulo de la serie con tramas que transcu..."
-    },
-    {
-      "title": "Aída Y Vuelta",
-      "time": "22:35",
       "rating": 4.5,
       "summary": "\"Aída y vuelta\", el largometraje, aborda el rodaje de un capítulo de la serie con tramas que transcu..."
     },
@@ -164,7 +110,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Hamnet",
-      "time": "18:55",
+      "time": "17:30",
       "rating": 4.5,
       "summary": "Narra la historia de Agnes, la esposa de William Shakespeare, en su lucha por superar la pérdida de ..."
     },
@@ -176,19 +122,19 @@ export const MOVIE_DATA = {
     },
     {
       "title": "La Asistenta",
-      "time": "16:45",
+      "time": "17:05",
       "rating": 4.5,
       "summary": "Millie es una joven que, tras perder su trabajo, acepta un puesto como sirvienta en la lujosa pero i..."
     },
     {
       "title": "La Asistenta",
-      "time": "19:25",
+      "time": "19:45",
       "rating": 4.5,
       "summary": "Millie es una joven que, tras perder su trabajo, acepta un puesto como sirvienta en la lujosa pero i..."
     },
     {
       "title": "La Asistenta",
-      "time": "22:10",
+      "time": "22:25",
       "rating": 4.5,
       "summary": "Millie es una joven que, tras perder su trabajo, acepta un puesto como sirvienta en la lujosa pero i..."
     },
@@ -199,20 +145,8 @@ export const MOVIE_DATA = {
       "summary": "Tercera entrega de la saga \"Avatar\". Presenta al Pueblo de las Cenizas, un clan Na'vi no tan pacífic..."
     },
     {
-      "title": "Zootrópolis 2",
-      "time": "15:45",
-      "rating": 4.5,
-      "summary": "Tras resolver el caso más grande en la historia de Zootrópolis, los policías novatos Judy Hopps (voz..."
-    },
-    {
       "title": "Los Domingos",
-      "time": "15:45",
-      "rating": 4.5,
-      "summary": "\"Los Domingos\" cuenta la historia de Ainara (Blanca Soroa), una joven idealista y brillante de 17 añ..."
-    },
-    {
-      "title": "Los Domingos",
-      "time": "20:05",
+      "time": "20:00",
       "rating": 4.5,
       "summary": "\"Los Domingos\" cuenta la historia de Ainara (Blanca Soroa), una joven idealista y brillante de 17 añ..."
     }
@@ -220,45 +154,9 @@ export const MOVIE_DATA = {
   "Cine Yelmo Las Arenas": [
     {
       "title": "Sorry, Baby",
-      "time": "19:20",
+      "time": "19:30",
       "rating": 4.5,
       "summary": "Algo malo le pasó a Agnes. Pero la vida continúa… al menos para todos a su alrededor.\nCuando la visi..."
-    },
-    {
-      "title": "Iron Lung",
-      "time": "21:30",
-      "rating": 4.5,
-      "summary": "Película basada en el juego del mismo nombre, ambientada en un futuro postapocalíptico en el que un ..."
-    },
-    {
-      "title": "Scream 7",
-      "time": "12:00",
-      "rating": 4.5,
-      "summary": "Cuando un nuevo asesino Ghostface aparece en el tranquilo pueblo donde Sidney Prescott (Neve Campbel..."
-    },
-    {
-      "title": "Scream 7",
-      "time": "12:30",
-      "rating": 4.5,
-      "summary": "Cuando un nuevo asesino Ghostface aparece en el tranquilo pueblo donde Sidney Prescott (Neve Campbel..."
-    },
-    {
-      "title": "Scream 7",
-      "time": "13:00",
-      "rating": 4.5,
-      "summary": "Cuando un nuevo asesino Ghostface aparece en el tranquilo pueblo donde Sidney Prescott (Neve Campbel..."
-    },
-    {
-      "title": "Scream 7",
-      "time": "14:40",
-      "rating": 4.5,
-      "summary": "Cuando un nuevo asesino Ghostface aparece en el tranquilo pueblo donde Sidney Prescott (Neve Campbel..."
-    },
-    {
-      "title": "Scream 7",
-      "time": "15:40",
-      "rating": 4.5,
-      "summary": "Cuando un nuevo asesino Ghostface aparece en el tranquilo pueblo donde Sidney Prescott (Neve Campbel..."
     },
     {
       "title": "Scream 7",
@@ -274,7 +172,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Scream 7",
-      "time": "20:00",
+      "time": "19:40",
       "rating": 4.5,
       "summary": "Cuando un nuevo asesino Ghostface aparece en el tranquilo pueblo donde Sidney Prescott (Neve Campbel..."
     },
@@ -286,15 +184,9 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Scream 7",
-      "time": "22:45",
+      "time": "22:10",
       "rating": 4.5,
       "summary": "Cuando un nuevo asesino Ghostface aparece en el tranquilo pueblo donde Sidney Prescott (Neve Campbel..."
-    },
-    {
-      "title": "After. Almas Perdidas",
-      "time": "17:50",
-      "rating": 4.5,
-      "summary": "Cuando Tessa (Josephine Langford) toma la decisión más importante de su vida, todo cambia. Los secre..."
     },
     {
       "title": "Epic: Elvis Presley In Concert",
@@ -304,55 +196,31 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Scarlet",
-      "time": "12:50",
-      "rating": 4.5,
-      "summary": "Una princesa medieval experta en el manejo de la espada se embarca en una peligrosa misión para veng..."
-    },
-    {
-      "title": "Scarlet",
-      "time": "16:00",
-      "rating": 4.5,
-      "summary": "Una princesa medieval experta en el manejo de la espada se embarca en una peligrosa misión para veng..."
-    },
-    {
-      "title": "Scarlet",
-      "time": "18:30",
-      "rating": 4.5,
-      "summary": "Una princesa medieval experta en el manejo de la espada se embarca en una peligrosa misión para veng..."
-    },
-    {
-      "title": "Greenland 2",
-      "time": "12:40",
-      "rating": 4.5,
-      "summary": "Después de sobrevivir al fin del mundo por la caída de un cometa, Jeff Garrity, junto con su mujer A..."
-    },
-    {
-      "title": "Greenland 2",
-      "time": "15:20",
-      "rating": 4.5,
-      "summary": "Después de sobrevivir al fin del mundo por la caída de un cometa, Jeff Garrity, junto con su mujer A..."
-    },
-    {
-      "title": "Greenland 2",
       "time": "17:40",
       "rating": 4.5,
-      "summary": "Después de sobrevivir al fin del mundo por la caída de un cometa, Jeff Garrity, junto con su mujer A..."
+      "summary": "Una princesa medieval experta en el manejo de la espada se embarca en una peligrosa misión para veng..."
     },
     {
       "title": "Greenland 2",
-      "time": "20:10",
+      "time": "17:50",
       "rating": 4.5,
       "summary": "Después de sobrevivir al fin del mundo por la caída de un cometa, Jeff Garrity, junto con su mujer A..."
     },
     {
       "title": "Greenland 2",
-      "time": "22:30",
+      "time": "20:30",
+      "rating": 4.5,
+      "summary": "Después de sobrevivir al fin del mundo por la caída de un cometa, Jeff Garrity, junto con su mujer A..."
+    },
+    {
+      "title": "Greenland 2",
+      "time": "22:50",
       "rating": 4.5,
       "summary": "Después de sobrevivir al fin del mundo por la caída de un cometa, Jeff Garrity, junto con su mujer A..."
     },
     {
       "title": "Sin Conexión",
-      "time": "22:35",
+      "time": "22:40",
       "rating": 4.5,
       "summary": "Mientras su matrimonio se desmorona silenciosamente, Alex se enfrenta a la mediana edad y a un divor..."
     },
@@ -363,151 +231,103 @@ export const MOVIE_DATA = {
       "summary": "1977. En un Brasil atormentado por la dictadura militar, Marcelo, un cuarentón que huye de un pasado..."
     },
     {
-      "title": "Ruta De Escape",
-      "time": "11:50",
+      "title": "El Agente Secreto",
+      "time": "20:10",
       "rating": 4.5,
-      "summary": "Davis (Chris Hemsworth) es un escurridizo ladrón cuyos atracos de alto riesgo tienen desconcertada a..."
+      "summary": "1977. En un Brasil atormentado por la dictadura militar, Marcelo, un cuarentón que huye de un pasado..."
     },
     {
       "title": "Ruta De Escape",
-      "time": "21:40",
+      "time": "21:50",
       "rating": 4.5,
       "summary": "Davis (Chris Hemsworth) es un escurridizo ladrón cuyos atracos de alto riesgo tienen desconcertada a..."
     },
     {
       "title": "Como Cabras",
-      "time": "15:10",
-      "rating": 4.5,
-      "summary": "Will es una pequeña cabra con grandes sueños que recibe una oportunidad única en la vida para unirse..."
-    },
-    {
-      "title": "Como Cabras",
-      "time": "17:30",
+      "time": "17:05",
       "rating": 4.5,
       "summary": "Will es una pequeña cabra con grandes sueños que recibe una oportunidad única en la vida para unirse..."
     },
     {
       "title": "Cumbres Borrascosas",
-      "time": "13:20",
+      "time": "17:45",
       "rating": 4.5,
       "summary": "Una audaz y original reinterpretación de una de una de las historias de amor más grandes de todos lo..."
     },
     {
       "title": "Cumbres Borrascosas",
-      "time": "16:20",
-      "rating": 4.5,
-      "summary": "Una audaz y original reinterpretación de una de una de las historias de amor más grandes de todos lo..."
-    },
-    {
-      "title": "Cumbres Borrascosas",
-      "time": "19:10",
-      "rating": 4.5,
-      "summary": "Una audaz y original reinterpretación de una de una de las historias de amor más grandes de todos lo..."
-    },
-    {
-      "title": "Cumbres Borrascosas",
-      "time": "22:10",
+      "time": "20:45",
       "rating": 4.5,
       "summary": "Una audaz y original reinterpretación de una de una de las historias de amor más grandes de todos lo..."
     },
     {
       "title": "Tres Adioses",
-      "time": "16:40",
+      "time": "16:50",
       "rating": 4.5,
       "summary": "Tras lo que parecía una discusión sin importancia, Marta (Alba Rohrwacher) y Antonio (Elio Germano) ..."
     },
     {
       "title": "Aída Y Vuelta",
-      "time": "16:10",
+      "time": "17:15",
+      "rating": 4.5,
+      "summary": "\"Aída y vuelta\", el largometraje, aborda el rodaje de un capítulo de la serie con tramas que transcu..."
+    },
+    {
+      "title": "Aída Y Vuelta",
+      "time": "22:45",
       "rating": 4.5,
       "summary": "\"Aída y vuelta\", el largometraje, aborda el rodaje de un capítulo de la serie con tramas que transcu..."
     },
     {
       "title": "Marty Supreme",
-      "time": "21:10",
+      "time": "16:55",
       "rating": 4.5,
       "summary": "La historia se centra en la apasionante carrera de Marty Reisman, interpretado por el dos veces nomi..."
     },
     {
       "title": "Hamnet",
-      "time": "18:50",
+      "time": "20:00",
       "rating": 4.5,
       "summary": "Narra la historia de Agnes, la esposa de William Shakespeare, en su lucha por superar la pérdida de ..."
     },
     {
       "title": "La Asistenta",
-      "time": "13:30",
+      "time": "17:00",
       "rating": 4.5,
       "summary": "Millie es una joven que, tras perder su trabajo, acepta un puesto como sirvienta en la lujosa pero i..."
     },
     {
       "title": "La Asistenta",
-      "time": "16:30",
+      "time": "19:45",
       "rating": 4.5,
       "summary": "Millie es una joven que, tras perder su trabajo, acepta un puesto como sirvienta en la lujosa pero i..."
     },
     {
       "title": "La Asistenta",
-      "time": "19:30",
-      "rating": 4.5,
-      "summary": "Millie es una joven que, tras perder su trabajo, acepta un puesto como sirvienta en la lujosa pero i..."
-    },
-    {
-      "title": "La Asistenta",
-      "time": "22:20",
+      "time": "22:30",
       "rating": 4.5,
       "summary": "Millie es una joven que, tras perder su trabajo, acepta un puesto como sirvienta en la lujosa pero i..."
     },
     {
       "title": "Avatar: Fuego Y Ceniza",
-      "time": "13:10",
+      "time": "21:00",
       "rating": 4.5,
       "summary": "Tercera entrega de la saga \"Avatar\". Presenta al Pueblo de las Cenizas, un clan Na'vi no tan pacífic..."
-    },
-    {
-      "title": "Avatar: Fuego Y Ceniza",
-      "time": "20:40",
-      "rating": 4.5,
-      "summary": "Tercera entrega de la saga \"Avatar\". Presenta al Pueblo de las Cenizas, un clan Na'vi no tan pacífic..."
-    },
-    {
-      "title": "Zootrópolis 2",
-      "time": "15:30",
-      "rating": 4.5,
-      "summary": "Tras resolver el caso más grande en la historia de Zootrópolis, los policías novatos Judy Hopps (voz..."
     },
     {
       "title": "Los Domingos",
-      "time": "19:40",
+      "time": "19:20",
       "rating": 4.5,
       "summary": "\"Los Domingos\" cuenta la historia de Ainara (Blanca Soroa), una joven idealista y brillante de 17 añ..."
     },
     {
       "title": "Los Domingos",
-      "time": "22:15",
+      "time": "22:00",
       "rating": 4.5,
       "summary": "\"Los Domingos\" cuenta la historia de Ainara (Blanca Soroa), una joven idealista y brillante de 17 añ..."
     }
   ],
   "Cine Yelmo Premium Alisios": [
-    {
-      "title": "Scream 7",
-      "time": "12:00",
-      "rating": 4.5,
-      "summary": "Cuando un nuevo asesino Ghostface aparece en el tranquilo pueblo donde Sidney Prescott (Neve Campbel..."
-    },
-    {
-      "title": "Scream 7",
-      "time": "13:00",
-      "rating": 4.5,
-      "summary": "Cuando un nuevo asesino Ghostface aparece en el tranquilo pueblo donde Sidney Prescott (Neve Campbel..."
-    },
-    {
-      "title": "Scream 7",
-      "time": "14:25",
-      "rating": 4.5,
-      "summary": "Cuando un nuevo asesino Ghostface aparece en el tranquilo pueblo donde Sidney Prescott (Neve Campbel..."
-    },
     {
       "title": "Scream 7",
       "time": "17:15",
@@ -522,33 +342,9 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Scream 7",
-      "time": "20:55",
-      "rating": 4.5,
-      "summary": "Cuando un nuevo asesino Ghostface aparece en el tranquilo pueblo donde Sidney Prescott (Neve Campbel..."
-    },
-    {
-      "title": "Scream 7",
       "time": "22:05",
       "rating": 4.5,
       "summary": "Cuando un nuevo asesino Ghostface aparece en el tranquilo pueblo donde Sidney Prescott (Neve Campbel..."
-    },
-    {
-      "title": "After. Almas Perdidas",
-      "time": "18:00",
-      "rating": 4.5,
-      "summary": "Cuando Tessa (Josephine Langford) toma la decisión más importante de su vida, todo cambia. Los secre..."
-    },
-    {
-      "title": "Greenland 2",
-      "time": "12:40",
-      "rating": 4.5,
-      "summary": "Después de sobrevivir al fin del mundo por la caída de un cometa, Jeff Garrity, junto con su mujer A..."
-    },
-    {
-      "title": "Greenland 2",
-      "time": "16:10",
-      "rating": 4.5,
-      "summary": "Después de sobrevivir al fin del mundo por la caída de un cometa, Jeff Garrity, junto con su mujer A..."
     },
     {
       "title": "Greenland 2",
@@ -564,75 +360,15 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Greenland 2",
-      "time": "22:40",
+      "time": "22:45",
       "rating": 4.5,
       "summary": "Después de sobrevivir al fin del mundo por la caída de un cometa, Jeff Garrity, junto con su mujer A..."
     },
     {
-      "title": "Como Cabras",
-      "time": "12:10",
-      "rating": 4.5,
-      "summary": "Will es una pequeña cabra con grandes sueños que recibe una oportunidad única en la vida para unirse..."
-    },
-    {
-      "title": "Como Cabras",
-      "time": "12:50",
-      "rating": 4.5,
-      "summary": "Will es una pequeña cabra con grandes sueños que recibe una oportunidad única en la vida para unirse..."
-    },
-    {
-      "title": "Como Cabras",
-      "time": "15:40",
-      "rating": 4.5,
-      "summary": "Will es una pequeña cabra con grandes sueños que recibe una oportunidad única en la vida para unirse..."
-    },
-    {
-      "title": "Como Cabras",
-      "time": "17:30",
-      "rating": 4.5,
-      "summary": "Will es una pequeña cabra con grandes sueños que recibe una oportunidad única en la vida para unirse..."
-    },
-    {
-      "title": "Como Cabras",
-      "time": "17:50",
-      "rating": 4.5,
-      "summary": "Will es una pequeña cabra con grandes sueños que recibe una oportunidad única en la vida para unirse..."
-    },
-    {
-      "title": "Como Cabras",
+      "title": "El Agente Secreto",
       "time": "20:45",
       "rating": 4.5,
-      "summary": "Will es una pequeña cabra con grandes sueños que recibe una oportunidad única en la vida para unirse..."
-    },
-    {
-      "title": "Cumbres Borrascosas",
-      "time": "13:20",
-      "rating": 4.5,
-      "summary": "Una audaz y original reinterpretación de una de una de las historias de amor más grandes de todos lo..."
-    },
-    {
-      "title": "Cumbres Borrascosas",
-      "time": "16:30",
-      "rating": 4.5,
-      "summary": "Una audaz y original reinterpretación de una de una de las historias de amor más grandes de todos lo..."
-    },
-    {
-      "title": "Cumbres Borrascosas",
-      "time": "19:20",
-      "rating": 4.5,
-      "summary": "Una audaz y original reinterpretación de una de una de las historias de amor más grandes de todos lo..."
-    },
-    {
-      "title": "Cumbres Borrascosas",
-      "time": "22:15",
-      "rating": 4.5,
-      "summary": "Una audaz y original reinterpretación de una de una de las historias de amor más grandes de todos lo..."
-    },
-    {
-      "title": "Ruta De Escape",
-      "time": "19:00",
-      "rating": 4.5,
-      "summary": "Davis (Chris Hemsworth) es un escurridizo ladrón cuyos atracos de alto riesgo tienen desconcertada a..."
+      "summary": "1977. En un Brasil atormentado por la dictadura militar, Marcelo, un cuarentón que huye de un pasado..."
     },
     {
       "title": "Ruta De Escape",
@@ -641,32 +377,50 @@ export const MOVIE_DATA = {
       "summary": "Davis (Chris Hemsworth) es un escurridizo ladrón cuyos atracos de alto riesgo tienen desconcertada a..."
     },
     {
-      "title": "Primate",
-      "time": "22:45",
+      "title": "Cumbres Borrascosas",
+      "time": "17:00",
       "rating": 4.5,
-      "summary": "Tras regresar de la universidad, Lucy se reúne con su familia, incluido el chimpancé Ben. Ben contra..."
+      "summary": "Una audaz y original reinterpretación de una de una de las historias de amor más grandes de todos lo..."
     },
     {
-      "title": "Evolution",
-      "time": "15:50",
+      "title": "Cumbres Borrascosas",
+      "time": "19:45",
       "rating": 4.5,
-      "summary": "Cuando una sustancia extraterrestre mezcla el ADN de Zoe con el de sus exóticas mascotas, empieza un..."
+      "summary": "Una audaz y original reinterpretación de una de una de las historias de amor más grandes de todos lo..."
+    },
+    {
+      "title": "Cumbres Borrascosas",
+      "time": "22:20",
+      "rating": 4.5,
+      "summary": "Una audaz y original reinterpretación de una de una de las historias de amor más grandes de todos lo..."
+    },
+    {
+      "title": "Como Cabras",
+      "time": "17:20",
+      "rating": 4.5,
+      "summary": "Will es una pequeña cabra con grandes sueños que recibe una oportunidad única en la vida para unirse..."
+    },
+    {
+      "title": "Como Cabras",
+      "time": "18:35",
+      "rating": 4.5,
+      "summary": "Will es una pequeña cabra con grandes sueños que recibe una oportunidad única en la vida para unirse..."
     },
     {
       "title": "Aída Y Vuelta",
-      "time": "16:40",
+      "time": "17:25",
       "rating": 4.5,
       "summary": "\"Aída y vuelta\", el largometraje, aborda el rodaje de un capítulo de la serie con tramas que transcu..."
     },
     {
       "title": "Aída Y Vuelta",
-      "time": "18:50",
+      "time": "19:40",
       "rating": 4.5,
       "summary": "\"Aída y vuelta\", el largometraje, aborda el rodaje de un capítulo de la serie con tramas que transcu..."
     },
     {
       "title": "Marty Supreme",
-      "time": "20:25",
+      "time": "17:40",
       "rating": 4.5,
       "summary": "La historia se centra en la apasionante carrera de Marty Reisman, interpretado por el dos veces nomi..."
     },
@@ -678,15 +432,21 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Hamnet",
-      "time": "18:15",
+      "time": "17:05",
       "rating": 4.5,
       "summary": "Narra la historia de Agnes, la esposa de William Shakespeare, en su lucha por superar la pérdida de ..."
     },
     {
-      "title": "La Asistenta",
-      "time": "13:10",
+      "title": "Hamnet",
+      "time": "19:45",
       "rating": 4.5,
-      "summary": "Millie es una joven que, tras perder su trabajo, acepta un puesto como sirvienta en la lujosa pero i..."
+      "summary": "Narra la historia de Agnes, la esposa de William Shakespeare, en su lucha por superar la pérdida de ..."
+    },
+    {
+      "title": "Hamnet",
+      "time": "22:25",
+      "rating": 4.5,
+      "summary": "Narra la historia de Agnes, la esposa de William Shakespeare, en su lucha por superar la pérdida de ..."
     },
     {
       "title": "La Asistenta",
@@ -696,43 +456,19 @@ export const MOVIE_DATA = {
     },
     {
       "title": "La Asistenta",
-      "time": "19:50",
+      "time": "19:40",
       "rating": 4.5,
       "summary": "Millie es una joven que, tras perder su trabajo, acepta un puesto como sirvienta en la lujosa pero i..."
     },
     {
-      "title": "Avatar: Fuego Y Ceniza",
-      "time": "12:20",
+      "title": "La Asistenta",
+      "time": "22:10",
       "rating": 4.5,
-      "summary": "Tercera entrega de la saga \"Avatar\". Presenta al Pueblo de las Cenizas, un clan Na'vi no tan pacífic..."
-    },
-    {
-      "title": "Avatar: Fuego Y Ceniza",
-      "time": "21:05",
-      "rating": 4.5,
-      "summary": "Tercera entrega de la saga \"Avatar\". Presenta al Pueblo de las Cenizas, un clan Na'vi no tan pacífic..."
-    },
-    {
-      "title": "Zootrópolis 2",
-      "time": "12:30",
-      "rating": 4.5,
-      "summary": "Tras resolver el caso más grande en la historia de Zootrópolis, los policías novatos Judy Hopps (voz..."
-    },
-    {
-      "title": "Zootrópolis 2",
-      "time": "15:45",
-      "rating": 4.5,
-      "summary": "Tras resolver el caso más grande en la historia de Zootrópolis, los policías novatos Judy Hopps (voz..."
+      "summary": "Millie es una joven que, tras perder su trabajo, acepta un puesto como sirvienta en la lujosa pero i..."
     },
     {
       "title": "Los Domingos",
-      "time": "13:30",
-      "rating": 4.5,
-      "summary": "\"Los Domingos\" cuenta la historia de Ainara (Blanca Soroa), una joven idealista y brillante de 17 añ..."
-    },
-    {
-      "title": "Los Domingos",
-      "time": "16:20",
+      "time": "19:45",
       "rating": 4.5,
       "summary": "\"Los Domingos\" cuenta la historia de Ainara (Blanca Soroa), una joven idealista y brillante de 17 añ..."
     }
@@ -855,18 +591,6 @@ export const MOVIE_DATA = {
   ],
   "Artesiete Las Terrazas": [
     {
-      "title": "Avatar: Fuego Y Ceniza",
-      "time": "11:30",
-      "rating": 4.5,
-      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
-    },
-    {
-      "title": "Avatar: Fuego Y Ceniza",
-      "time": "18:00",
-      "rating": 4.5,
-      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
-    },
-    {
       "title": "La Asistenta",
       "time": "19:10",
       "rating": 4.5,
@@ -892,12 +616,6 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Aida Y Vuelta",
-      "time": "19:40",
-      "rating": 4.5,
-      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
-    },
-    {
-      "title": "Aida Y Vuelta",
       "time": "21:30",
       "rating": 4.5,
       "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
@@ -910,31 +628,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Evolution",
-      "time": "12:30",
-      "rating": 4.5,
-      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
-    },
-    {
-      "title": "Evolution",
       "time": "16:15",
-      "rating": 4.5,
-      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
-    },
-    {
-      "title": "Evolution",
-      "time": "16:30",
-      "rating": 4.5,
-      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
-    },
-    {
-      "title": "Cumbres Borrascosas",
-      "time": "12:00",
-      "rating": 4.5,
-      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
-    },
-    {
-      "title": "Cumbres Borrascosas",
-      "time": "15:50",
       "rating": 4.5,
       "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
     },
@@ -946,19 +640,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Cumbres Borrascosas",
-      "time": "18:20",
-      "rating": 4.5,
-      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
-    },
-    {
-      "title": "Cumbres Borrascosas",
       "time": "19:10",
-      "rating": 4.5,
-      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
-    },
-    {
-      "title": "Cumbres Borrascosas",
-      "time": "20:50",
       "rating": 4.5,
       "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
     },
@@ -971,12 +653,6 @@ export const MOVIE_DATA = {
     {
       "title": "Cumbres Borrascosas",
       "time": "22:30",
-      "rating": 4.5,
-      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
-    },
-    {
-      "title": "Goat, Como Cabras",
-      "time": "12:15",
       "rating": 4.5,
       "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
     },
@@ -1017,12 +693,6 @@ export const MOVIE_DATA = {
       "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
     },
     {
-      "title": "Ruta De Escape",
-      "time": "21:45",
-      "rating": 4.5,
-      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
-    },
-    {
       "title": "El Agente Secreto",
       "time": "16:00",
       "rating": 4.5,
@@ -1036,19 +706,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Greenland 2",
-      "time": "12:30",
-      "rating": 4.5,
-      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
-    },
-    {
-      "title": "Greenland 2",
       "time": "18:00",
-      "rating": 4.5,
-      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
-    },
-    {
-      "title": "Greenland 2",
-      "time": "18:10",
       "rating": 4.5,
       "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
     },
@@ -1060,19 +718,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Greenland 2",
-      "time": "20:00",
-      "rating": 4.5,
-      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
-    },
-    {
-      "title": "Greenland 2",
       "time": "21:45",
-      "rating": 4.5,
-      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
-    },
-    {
-      "title": "Chirp, El Investigador De Honey Hills",
-      "time": "12:30",
       "rating": 4.5,
       "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
     },
@@ -1085,12 +731,6 @@ export const MOVIE_DATA = {
     {
       "title": "La Residencia",
       "time": "17:20",
-      "rating": 4.5,
-      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
-    },
-    {
-      "title": "La Residencia",
-      "time": "17:30",
       "rating": 4.5,
       "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
     },
@@ -1120,19 +760,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "La Residencia",
-      "time": "21:30",
-      "rating": 4.5,
-      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
-    },
-    {
-      "title": "La Residencia",
       "time": "22:30",
-      "rating": 4.5,
-      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
-    },
-    {
-      "title": "Los Miserables. El Origen",
-      "time": "12:00",
       "rating": 4.5,
       "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
     },
@@ -1168,12 +796,6 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Scarlet",
-      "time": "16:00",
-      "rating": 4.5,
-      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
-    },
-    {
-      "title": "Scarlet",
       "time": "17:00",
       "rating": 4.5,
       "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
@@ -1181,18 +803,6 @@ export const MOVIE_DATA = {
     {
       "title": "Scarlet",
       "time": "19:00",
-      "rating": 4.5,
-      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
-    },
-    {
-      "title": "Scarlet",
-      "time": "19:30",
-      "rating": 4.5,
-      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
-    },
-    {
-      "title": "Scream 7",
-      "time": "12:15",
       "rating": 4.5,
       "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
     },
@@ -1246,18 +856,6 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Sorry, Baby",
-      "time": "12:20",
-      "rating": 4.5,
-      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
-    },
-    {
-      "title": "Sorry, Baby",
-      "time": "16:00",
-      "rating": 4.5,
-      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
-    },
-    {
-      "title": "Sorry, Baby",
       "time": "17:30",
       "rating": 4.5,
       "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
@@ -1270,12 +868,6 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Sorry, Baby",
-      "time": "17:50",
-      "rating": 4.5,
-      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
-    },
-    {
-      "title": "Sorry, Baby",
       "time": "19:30",
       "rating": 4.5,
       "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
@@ -1283,12 +875,6 @@ export const MOVIE_DATA = {
     {
       "title": "Sorry, Baby",
       "time": "19:45",
-      "rating": 4.5,
-      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
-    },
-    {
-      "title": "Sorry, Baby",
-      "time": "20:40",
       "rating": 4.5,
       "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
     },
