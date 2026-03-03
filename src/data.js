@@ -25,12 +25,6 @@ export const MOVIE_DATA = {
       "summary": "Elvis canta y cuenta su historia como nunca antes en una nueva experiencia cinematográfica del visio..."
     },
     {
-      "title": "El Agente Secreto",
-      "time": "20:10",
-      "rating": 4.5,
-      "summary": "1977. En un Brasil atormentado por la dictadura militar, Marcelo, un cuarentón que huye de un pasado..."
-    },
-    {
       "title": "Greenland 2",
       "time": "18:20",
       "rating": 4.5,
@@ -115,6 +109,12 @@ export const MOVIE_DATA = {
       "summary": "Narra la historia de Agnes, la esposa de William Shakespeare, en su lucha por superar la pérdida de ..."
     },
     {
+      "title": "Hamnet",
+      "time": "20:30",
+      "rating": 4.5,
+      "summary": "Narra la historia de Agnes, la esposa de William Shakespeare, en su lucha por superar la pérdida de ..."
+    },
+    {
       "title": "Ídolos",
       "time": "22:30",
       "rating": 4.5,
@@ -139,10 +139,10 @@ export const MOVIE_DATA = {
       "summary": "Millie es una joven que, tras perder su trabajo, acepta un puesto como sirvienta en la lujosa pero i..."
     },
     {
-      "title": "Avatar: Fuego Y Ceniza",
-      "time": "20:30",
+      "title": "Bugonia",
+      "time": "20:10",
       "rating": 4.5,
-      "summary": "Tercera entrega de la saga \"Avatar\". Presenta al Pueblo de las Cenizas, un clan Na'vi no tan pacífic..."
+      "summary": "Dos jóvenes conspiranoicos secuestran a la poderosa presidenta de una gran compañía, convencidos de ..."
     },
     {
       "title": "Los Domingos",
@@ -153,8 +153,14 @@ export const MOVIE_DATA = {
   ],
   "Cine Yelmo Las Arenas": [
     {
+      "title": "Giselle Ballet Roh 25-26",
+      "time": "19:20",
+      "rating": 4.5,
+      "summary": "La joven campesina Giselle se ha enamorado de Albrecht. Cuando descubre que su amado es en realidad ..."
+    },
+    {
       "title": "Sorry, Baby",
-      "time": "19:30",
+      "time": "19:55",
       "rating": 4.5,
       "summary": "Algo malo le pasó a Agnes. Pero la vida continúa… al menos para todos a su alrededor.\nCuando la visi..."
     },
@@ -195,12 +201,6 @@ export const MOVIE_DATA = {
       "summary": "Elvis canta y cuenta su historia como nunca antes en una nueva experiencia cinematográfica del visio..."
     },
     {
-      "title": "Scarlet",
-      "time": "17:40",
-      "rating": 4.5,
-      "summary": "Una princesa medieval experta en el manejo de la espada se embarca en una peligrosa misión para veng..."
-    },
-    {
       "title": "Greenland 2",
       "time": "17:50",
       "rating": 4.5,
@@ -226,19 +226,13 @@ export const MOVIE_DATA = {
     },
     {
       "title": "El Agente Secreto",
-      "time": "17:20",
-      "rating": 4.5,
-      "summary": "1977. En un Brasil atormentado por la dictadura militar, Marcelo, un cuarentón que huye de un pasado..."
-    },
-    {
-      "title": "El Agente Secreto",
-      "time": "20:10",
+      "time": "17:30",
       "rating": 4.5,
       "summary": "1977. En un Brasil atormentado por la dictadura militar, Marcelo, un cuarentón que huye de un pasado..."
     },
     {
       "title": "Ruta De Escape",
-      "time": "21:50",
+      "time": "22:15",
       "rating": 4.5,
       "summary": "Davis (Chris Hemsworth) es un escurridizo ladrón cuyos atracos de alto riesgo tienen desconcertada a..."
     },
@@ -262,39 +256,27 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Tres Adioses",
-      "time": "16:50",
+      "time": "17:15",
       "rating": 4.5,
       "summary": "Tras lo que parecía una discusión sin importancia, Marta (Alba Rohrwacher) y Antonio (Elio Germano) ..."
     },
     {
       "title": "Aída Y Vuelta",
-      "time": "17:15",
-      "rating": 4.5,
-      "summary": "\"Aída y vuelta\", el largometraje, aborda el rodaje de un capítulo de la serie con tramas que transcu..."
-    },
-    {
-      "title": "Aída Y Vuelta",
-      "time": "22:45",
+      "time": "17:30",
       "rating": 4.5,
       "summary": "\"Aída y vuelta\", el largometraje, aborda el rodaje de un capítulo de la serie con tramas que transcu..."
     },
     {
       "title": "Marty Supreme",
-      "time": "16:55",
+      "time": "17:00",
       "rating": 4.5,
       "summary": "La historia se centra en la apasionante carrera de Marty Reisman, interpretado por el dos veces nomi..."
     },
     {
       "title": "Hamnet",
-      "time": "20:00",
+      "time": "17:20",
       "rating": 4.5,
       "summary": "Narra la historia de Agnes, la esposa de William Shakespeare, en su lucha por superar la pérdida de ..."
-    },
-    {
-      "title": "La Asistenta",
-      "time": "17:00",
-      "rating": 4.5,
-      "summary": "Millie es una joven que, tras perder su trabajo, acepta un puesto como sirvienta en la lujosa pero i..."
     },
     {
       "title": "La Asistenta",
@@ -313,6 +295,12 @@ export const MOVIE_DATA = {
       "time": "21:00",
       "rating": 4.5,
       "summary": "Tercera entrega de la saga \"Avatar\". Presenta al Pueblo de las Cenizas, un clan Na'vi no tan pacífic..."
+    },
+    {
+      "title": "Bugonia",
+      "time": "20:10",
+      "rating": 4.5,
+      "summary": "Dos jóvenes conspiranoicos secuestran a la poderosa presidenta de una gran compañía, convencidos de ..."
     },
     {
       "title": "Los Domingos",
@@ -365,12 +353,6 @@ export const MOVIE_DATA = {
       "summary": "Después de sobrevivir al fin del mundo por la caída de un cometa, Jeff Garrity, junto con su mujer A..."
     },
     {
-      "title": "El Agente Secreto",
-      "time": "20:45",
-      "rating": 4.5,
-      "summary": "1977. En un Brasil atormentado por la dictadura militar, Marcelo, un cuarentón que huye de un pasado..."
-    },
-    {
       "title": "Ruta De Escape",
       "time": "21:55",
       "rating": 4.5,
@@ -407,6 +389,12 @@ export const MOVIE_DATA = {
       "summary": "Will es una pequeña cabra con grandes sueños que recibe una oportunidad única en la vida para unirse..."
     },
     {
+      "title": "Send Help (Enviad Ayuda)",
+      "time": "22:40",
+      "rating": 4.5,
+      "summary": "Después de que un accidente de avión deje varados en una isla remota a una capaz empleada y a su mol..."
+    },
+    {
       "title": "Aída Y Vuelta",
       "time": "17:25",
       "rating": 4.5,
@@ -420,7 +408,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Marty Supreme",
-      "time": "17:40",
+      "time": "17:05",
       "rating": 4.5,
       "summary": "La historia se centra en la apasionante carrera de Marty Reisman, interpretado por el dos veces nomi..."
     },
@@ -467,6 +455,12 @@ export const MOVIE_DATA = {
       "summary": "Millie es una joven que, tras perder su trabajo, acepta un puesto como sirvienta en la lujosa pero i..."
     },
     {
+      "title": "Bugonia",
+      "time": "20:10",
+      "rating": 4.5,
+      "summary": "Dos jóvenes conspiranoicos secuestran a la poderosa presidenta de una gran compañía, convencidos de ..."
+    },
+    {
       "title": "Los Domingos",
       "time": "19:45",
       "rating": 4.5,
@@ -479,30 +473,6 @@ export const MOVIE_DATA = {
       "time": "18:20",
       "rating": 4.5,
       "summary": "\"Avatar: Fuego y ceniza\", la tercera película de la increíblemente exitosa franquicia \"Avatar\", se e..."
-    },
-    {
-      "title": "El Renacido 10º Aniversario (Atmos)",
-      "time": "21:00",
-      "rating": 4.5,
-      "summary": "En las profundidades de la América salvaje, el trampero Hugh Glass (Leonardo DiCaprio) resulta grave..."
-    },
-    {
-      "title": "Evolution",
-      "time": "14:00",
-      "rating": 4.5,
-      "summary": "Cuando una sustancia extraterrestre mezcla el ADN de Zoe con el de sus exóticas mascotas, empieza un..."
-    },
-    {
-      "title": "Greenland 2",
-      "time": "11:55",
-      "rating": 4.5,
-      "summary": "Después de sobrevivir al fin del mundo por la caída de un cometa, Jeff Garrity, junto con su mujer A..."
-    },
-    {
-      "title": "Greenland 2",
-      "time": "16:00",
-      "rating": 4.5,
-      "summary": "Después de sobrevivir al fin del mundo por la caída de un cometa, Jeff Garrity, junto con su mujer A..."
     },
     {
       "title": "Greenland 2",
@@ -529,14 +499,8 @@ export const MOVIE_DATA = {
       "summary": "Narra la historia de Agnes, la esposa de William Shakespeare, en su lucha por superar la pérdida de ..."
     },
     {
-      "title": "La Cena",
-      "time": "14:30",
-      "rating": 4.5,
-      "summary": "Dos semanas después de acabar la Guerra Civil, Franco solicita una cena de celebración en el Hotel P..."
-    },
-    {
       "title": "La Asistenta (Atmos)",
-      "time": "15:50",
+      "time": "21:00",
       "rating": 4.5,
       "summary": "Basada en el increíble fenómeno literario escrito por Freida McFadden.\r\n\r\nUna joven, Sydney Sweeney ..."
     },
@@ -548,31 +512,19 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Little Amélie",
-      "time": "14:00",
-      "rating": 4.5,
-      "summary": "Amélie es una niña belga nacida en Japón. Gracias a su niñera Nishio-san la vida es todo aventuras y..."
-    },
-    {
-      "title": "Little Amélie",
-      "time": "15:40",
+      "time": "16:40",
       "rating": 4.5,
       "summary": "Amélie es una niña belga nacida en Japón. Gracias a su niñera Nishio-san la vida es todo aventuras y..."
     },
     {
       "title": "Los Domingos",
-      "time": "16:10",
+      "time": "16:50",
       "rating": 4.5,
       "summary": "\"Los Domingos\" cuenta la historia de Ainara, una joven idealista y brillante de 17 años que ha de de..."
     },
     {
       "title": "Ruta De Escape",
-      "time": "12:25",
-      "rating": 4.5,
-      "summary": "Davis es un escurridizo ladrón cuyos atracos de alto riesgo tienen desconcertada a la policía. Davis..."
-    },
-    {
-      "title": "Ruta De Escape",
-      "time": "20:45",
+      "time": "19:10",
       "rating": 4.5,
       "summary": "Davis es un escurridizo ladrón cuyos atracos de alto riesgo tienen desconcertada a la policía. Davis..."
     },
@@ -584,7 +536,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Sirat",
-      "time": "23:30",
+      "time": "22:00",
       "rating": 4.5,
       "summary": "Un hombre y su hijo llegan a una rave perdida en medio de las montañas del sur de Marruecos. Buscan ..."
     }
