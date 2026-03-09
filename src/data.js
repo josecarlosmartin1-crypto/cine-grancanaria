@@ -1,18 +1,6 @@
 export const MOVIE_DATA = {
   "Cine Yelmo Vecindario": [
     {
-      "title": "After. Amor Infinito",
-      "time": "18:00",
-      "rating": 4.5,
-      "summary": "El amor de Tessa y Hardin nunca ha sido fácil. Mientras él permanece en Londres después de la boda d..."
-    },
-    {
-      "title": "Cleaner: Rescate Vertical",
-      "time": "16:05",
-      "rating": 4.5,
-      "summary": "Un grupo de activistas toma el control de la gala anual de una empresa energética en Londres y secue..."
-    },
-    {
       "title": "Cleaner: Rescate Vertical",
       "time": "18:10",
       "rating": 4.5,
@@ -32,43 +20,13 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Hoppers",
-      "time": "15:55",
-      "rating": 4.5,
-      "summary": "En Hoppers, los científicos han descubierto la tecnología para instalar la conciencia humana a anima..."
-    },
-    {
-      "title": "Hoppers",
-      "time": "16:15",
-      "rating": 4.5,
-      "summary": "En Hoppers, los científicos han descubierto la tecnología para instalar la conciencia humana a anima..."
-    },
-    {
-      "title": "Hoppers",
-      "time": "17:05",
-      "rating": 4.5,
-      "summary": "En Hoppers, los científicos han descubierto la tecnología para instalar la conciencia humana a anima..."
-    },
-    {
-      "title": "Hoppers",
       "time": "18:05",
       "rating": 4.5,
       "summary": "En Hoppers, los científicos han descubierto la tecnología para instalar la conciencia humana a anima..."
     },
     {
       "title": "Hoppers",
-      "time": "19:15",
-      "rating": 4.5,
-      "summary": "En Hoppers, los científicos han descubierto la tecnología para instalar la conciencia humana a anima..."
-    },
-    {
-      "title": "Hoppers",
       "time": "20:15",
-      "rating": 4.5,
-      "summary": "En Hoppers, los científicos han descubierto la tecnología para instalar la conciencia humana a anima..."
-    },
-    {
-      "title": "Hoppers",
-      "time": "21:25",
       "rating": 4.5,
       "summary": "En Hoppers, los científicos han descubierto la tecnología para instalar la conciencia humana a anima..."
     },
@@ -127,28 +85,16 @@ export const MOVIE_DATA = {
       "summary": "Después de sobrevivir al fin del mundo por la caída de un cometa, Jeff Garrity, junto con su mujer A..."
     },
     {
-      "title": "Ruta De Escape",
-      "time": "20:20",
-      "rating": 4.5,
-      "summary": "Davis (Chris Hemsworth) es un escurridizo ladrón cuyos atracos de alto riesgo tienen desconcertada a..."
-    },
-    {
-      "title": "Como Cabras",
-      "time": "15:50",
-      "rating": 4.5,
-      "summary": "Will es una pequeña cabra con grandes sueños que recibe una oportunidad única en la vida para unirse..."
-    },
-    {
       "title": "Como Cabras",
       "time": "17:55",
       "rating": 4.5,
       "summary": "Will es una pequeña cabra con grandes sueños que recibe una oportunidad única en la vida para unirse..."
     },
     {
-      "title": "Como Cabras",
-      "time": "20:05",
+      "title": "Ruta De Escape",
+      "time": "20:20",
       "rating": 4.5,
-      "summary": "Will es una pequeña cabra con grandes sueños que recibe una oportunidad única en la vida para unirse..."
+      "summary": "Davis (Chris Hemsworth) es un escurridizo ladrón cuyos atracos de alto riesgo tienen desconcertada a..."
     },
     {
       "title": "Cumbres Borrascosas",
@@ -170,12 +116,6 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Aída Y Vuelta",
-      "time": "15:45",
-      "rating": 4.5,
-      "summary": "\"Aída y vuelta\", el largometraje, aborda el rodaje de un capítulo de la serie con tramas que transcu..."
-    },
-    {
-      "title": "Aída Y Vuelta",
       "time": "17:50",
       "rating": 4.5,
       "summary": "\"Aída y vuelta\", el largometraje, aborda el rodaje de un capítulo de la serie con tramas que transcu..."
@@ -187,38 +127,26 @@ export const MOVIE_DATA = {
       "summary": "La historia se centra en la apasionante carrera de Marty Reisman, interpretado por el dos veces nomi..."
     },
     {
-      "title": "Ídolos",
-      "time": "22:15",
-      "rating": 4.5,
-      "summary": "Edu es un joven piloto de motos muy agresivo en quien ningún equipo confía. Eli, jefe del equipo de ..."
-    },
-    {
       "title": "Hamnet",
-      "time": "17:10",
+      "time": "17:05",
       "rating": 4.5,
       "summary": "Narra la historia de Agnes, la esposa de William Shakespeare, en su lucha por superar la pérdida de ..."
     },
     {
       "title": "La Asistenta",
-      "time": "18:30",
+      "time": "17:25",
       "rating": 4.5,
       "summary": "Millie es una joven que, tras perder su trabajo, acepta un puesto como sirvienta en la lujosa pero i..."
     },
     {
-      "title": "Avatar: Fuego Y Ceniza",
-      "time": "21:10",
+      "title": "Bugonia",
+      "time": "20:10",
       "rating": 4.5,
-      "summary": "Tercera entrega de la saga \"Avatar\". Presenta al Pueblo de las Cenizas, un clan Na'vi no tan pacífic..."
-    },
-    {
-      "title": "Zootrópolis 2",
-      "time": "15:45",
-      "rating": 4.5,
-      "summary": "Tras resolver el caso más grande en la historia de Zootrópolis, los policías novatos Judy Hopps (voz..."
+      "summary": "Dos jóvenes conspiranoicos secuestran a la poderosa presidenta de una gran compañía, convencidos de ..."
     },
     {
       "title": "Los Domingos",
-      "time": "19:40",
+      "time": "19:35",
       "rating": 4.5,
       "summary": "\"Los Domingos\" cuenta la historia de Ainara (Blanca Soroa), una joven idealista y brillante de 17 añ..."
     }
@@ -226,13 +154,7 @@ export const MOVIE_DATA = {
   "Cine Yelmo Las Arenas": [
     {
       "title": "Pillion",
-      "time": "14:20",
-      "rating": 4.5,
-      "summary": "Colin, un chico introvertido, se queda prendado de Ray, el carismático y atractivo líder de una band..."
-    },
-    {
-      "title": "Pillion",
-      "time": "20:10",
+      "time": "20:20",
       "rating": 4.5,
       "summary": "Colin, un chico introvertido, se queda prendado de Ray, el carismático y atractivo líder de una band..."
     },
@@ -241,18 +163,6 @@ export const MOVIE_DATA = {
       "time": "22:40",
       "rating": 4.5,
       "summary": "Colin, un chico introvertido, se queda prendado de Ray, el carismático y atractivo líder de una band..."
-    },
-    {
-      "title": "¡La Novia!",
-      "time": "11:50",
-      "rating": 4.5,
-      "summary": "En el Chicago de los años 30, Frankenstein pide ayuda al Dr. Euphronius para crear una compañera. Da..."
-    },
-    {
-      "title": "¡La Novia!",
-      "time": "14:30",
-      "rating": 4.5,
-      "summary": "En el Chicago de los años 30, Frankenstein pide ayuda al Dr. Euphronius para crear una compañera. Da..."
     },
     {
       "title": "¡La Novia!",
@@ -274,37 +184,13 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Hoppers",
-      "time": "12:10",
-      "rating": 4.5,
-      "summary": "En Hoppers, los científicos han descubierto la tecnología para instalar la conciencia humana a anima..."
-    },
-    {
-      "title": "Hoppers",
-      "time": "13:30",
-      "rating": 4.5,
-      "summary": "En Hoppers, los científicos han descubierto la tecnología para instalar la conciencia humana a anima..."
-    },
-    {
-      "title": "Hoppers",
-      "time": "14:40",
-      "rating": 4.5,
-      "summary": "En Hoppers, los científicos han descubierto la tecnología para instalar la conciencia humana a anima..."
-    },
-    {
-      "title": "Hoppers",
-      "time": "15:50",
-      "rating": 4.5,
-      "summary": "En Hoppers, los científicos han descubierto la tecnología para instalar la conciencia humana a anima..."
-    },
-    {
-      "title": "Hoppers",
       "time": "16:50",
       "rating": 4.5,
       "summary": "En Hoppers, los científicos han descubierto la tecnología para instalar la conciencia humana a anima..."
     },
     {
       "title": "Hoppers",
-      "time": "18:10",
+      "time": "17:50",
       "rating": 4.5,
       "summary": "En Hoppers, los científicos han descubierto la tecnología para instalar la conciencia humana a anima..."
     },
@@ -328,51 +214,15 @@ export const MOVIE_DATA = {
     },
     {
       "title": "El Mago Del Kremlin",
-      "time": "12:30",
+      "time": "19:00",
       "rating": 4.5,
       "summary": "En medio del caos postsoviético de los años 90, el joven Vadim Baranov (Paul Dano) empieza a labrars..."
     },
     {
       "title": "El Mago Del Kremlin",
-      "time": "15:40",
+      "time": "22:00",
       "rating": 4.5,
       "summary": "En medio del caos postsoviético de los años 90, el joven Vadim Baranov (Paul Dano) empieza a labrars..."
-    },
-    {
-      "title": "El Mago Del Kremlin",
-      "time": "18:50",
-      "rating": 4.5,
-      "summary": "En medio del caos postsoviético de los años 90, el joven Vadim Baranov (Paul Dano) empieza a labrars..."
-    },
-    {
-      "title": "El Mago Del Kremlin",
-      "time": "21:50",
-      "rating": 4.5,
-      "summary": "En medio del caos postsoviético de los años 90, el joven Vadim Baranov (Paul Dano) empieza a labrars..."
-    },
-    {
-      "title": "After. Amor Infinito",
-      "time": "18:00",
-      "rating": 4.5,
-      "summary": "El amor de Tessa y Hardin nunca ha sido fácil. Mientras él permanece en Londres después de la boda d..."
-    },
-    {
-      "title": "Scream 7",
-      "time": "13:10",
-      "rating": 4.5,
-      "summary": "Cuando un nuevo asesino Ghostface aparece en el tranquilo pueblo donde Sidney Prescott (Neve Campbel..."
-    },
-    {
-      "title": "Scream 7",
-      "time": "14:50",
-      "rating": 4.5,
-      "summary": "Cuando un nuevo asesino Ghostface aparece en el tranquilo pueblo donde Sidney Prescott (Neve Campbel..."
-    },
-    {
-      "title": "Scream 7",
-      "time": "16:00",
-      "rating": 4.5,
-      "summary": "Cuando un nuevo asesino Ghostface aparece en el tranquilo pueblo donde Sidney Prescott (Neve Campbel..."
     },
     {
       "title": "Scream 7",
@@ -405,46 +255,16 @@ export const MOVIE_DATA = {
       "summary": "Cuando un nuevo asesino Ghostface aparece en el tranquilo pueblo donde Sidney Prescott (Neve Campbel..."
     },
     {
-      "title": "Epic: Elvis Presley In Concert",
-      "time": "13:20",
-      "rating": 4.5,
-      "summary": "Elvis canta y cuenta su historia como nunca antes en una nueva experiencia cinematográfica del visio..."
-    },
-    {
       "title": "El Agente Secreto",
-      "time": "17:00",
+      "time": "17:05",
       "rating": 4.5,
       "summary": "1977. En un Brasil atormentado por la dictadura militar, Marcelo, un cuarentón que huye de un pasado..."
     },
     {
       "title": "Greenland 2",
-      "time": "15:30",
+      "time": "16:55",
       "rating": 4.5,
       "summary": "Después de sobrevivir al fin del mundo por la caída de un cometa, Jeff Garrity, junto con su mujer A..."
-    },
-    {
-      "title": "Greenland 2",
-      "time": "20:20",
-      "rating": 4.5,
-      "summary": "Después de sobrevivir al fin del mundo por la caída de un cometa, Jeff Garrity, junto con su mujer A..."
-    },
-    {
-      "title": "Greenland 2",
-      "time": "22:25",
-      "rating": 4.5,
-      "summary": "Después de sobrevivir al fin del mundo por la caída de un cometa, Jeff Garrity, junto con su mujer A..."
-    },
-    {
-      "title": "Como Cabras",
-      "time": "12:40",
-      "rating": 4.5,
-      "summary": "Will es una pequeña cabra con grandes sueños que recibe una oportunidad única en la vida para unirse..."
-    },
-    {
-      "title": "Como Cabras",
-      "time": "15:00",
-      "rating": 4.5,
-      "summary": "Will es una pequeña cabra con grandes sueños que recibe una oportunidad única en la vida para unirse..."
     },
     {
       "title": "Como Cabras",
@@ -454,25 +274,19 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Cumbres Borrascosas",
-      "time": "12:50",
+      "time": "16:45",
       "rating": 4.5,
       "summary": "Una audaz y original reinterpretación de una de una de las historias de amor más grandes de todos lo..."
     },
     {
       "title": "Cumbres Borrascosas",
-      "time": "16:40",
+      "time": "19:35",
       "rating": 4.5,
       "summary": "Una audaz y original reinterpretación de una de una de las historias de amor más grandes de todos lo..."
     },
     {
       "title": "Cumbres Borrascosas",
-      "time": "19:30",
-      "rating": 4.5,
-      "summary": "Una audaz y original reinterpretación de una de una de las historias de amor más grandes de todos lo..."
-    },
-    {
-      "title": "Cumbres Borrascosas",
-      "time": "22:15",
+      "time": "22:20",
       "rating": 4.5,
       "summary": "Una audaz y original reinterpretación de una de una de las historias de amor más grandes de todos lo..."
     },
@@ -484,33 +298,39 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Marty Supreme",
-      "time": "22:10",
+      "time": "17:10",
+      "rating": 4.5,
+      "summary": "La historia se centra en la apasionante carrera de Marty Reisman, interpretado por el dos veces nomi..."
+    },
+    {
+      "title": "Marty Supreme",
+      "time": "22:15",
       "rating": 4.5,
       "summary": "La historia se centra en la apasionante carrera de Marty Reisman, interpretado por el dos veces nomi..."
     },
     {
       "title": "Hamnet",
-      "time": "13:00",
-      "rating": 4.5,
-      "summary": "Narra la historia de Agnes, la esposa de William Shakespeare, en su lucha por superar la pérdida de ..."
-    },
-    {
-      "title": "Hamnet",
-      "time": "16:30",
+      "time": "17:00",
       "rating": 4.5,
       "summary": "Narra la historia de Agnes, la esposa de William Shakespeare, en su lucha por superar la pérdida de ..."
     },
     {
       "title": "La Asistenta",
-      "time": "19:20",
+      "time": "19:30",
       "rating": 4.5,
       "summary": "Millie es una joven que, tras perder su trabajo, acepta un puesto como sirvienta en la lujosa pero i..."
     },
     {
       "title": "La Asistenta",
-      "time": "22:00",
+      "time": "22:10",
       "rating": 4.5,
       "summary": "Millie es una joven que, tras perder su trabajo, acepta un puesto como sirvienta en la lujosa pero i..."
+    },
+    {
+      "title": "Bugonia",
+      "time": "20:10",
+      "rating": 4.5,
+      "summary": "Dos jóvenes conspiranoicos secuestran a la poderosa presidenta de una gran compañía, convencidos de ..."
     },
     {
       "title": "Los Domingos",
@@ -521,16 +341,28 @@ export const MOVIE_DATA = {
   ],
   "Cine Yelmo Premium Alisios": [
     {
-      "title": "¡La Novia!",
-      "time": "12:00",
+      "title": "Hoppers",
+      "time": "18:00",
       "rating": 4.5,
-      "summary": "En el Chicago de los años 30, Frankenstein pide ayuda al Dr. Euphronius para crear una compañera. Da..."
+      "summary": "En Hoppers, los científicos han descubierto la tecnología para instalar la conciencia humana a anima..."
     },
     {
-      "title": "¡La Novia!",
-      "time": "14:35",
+      "title": "Hoppers",
+      "time": "18:30",
       "rating": 4.5,
-      "summary": "En el Chicago de los años 30, Frankenstein pide ayuda al Dr. Euphronius para crear una compañera. Da..."
+      "summary": "En Hoppers, los científicos han descubierto la tecnología para instalar la conciencia humana a anima..."
+    },
+    {
+      "title": "Hoppers",
+      "time": "20:15",
+      "rating": 4.5,
+      "summary": "En Hoppers, los científicos han descubierto la tecnología para instalar la conciencia humana a anima..."
+    },
+    {
+      "title": "Hoppers",
+      "time": "22:35",
+      "rating": 4.5,
+      "summary": "En Hoppers, los científicos han descubierto la tecnología para instalar la conciencia humana a anima..."
     },
     {
       "title": "¡La Novia!",
@@ -551,104 +383,14 @@ export const MOVIE_DATA = {
       "summary": "En el Chicago de los años 30, Frankenstein pide ayuda al Dr. Euphronius para crear una compañera. Da..."
     },
     {
-      "title": "Hoppers",
-      "time": "12:15",
-      "rating": 4.5,
-      "summary": "En Hoppers, los científicos han descubierto la tecnología para instalar la conciencia humana a anima..."
-    },
-    {
-      "title": "Hoppers",
-      "time": "12:30",
-      "rating": 4.5,
-      "summary": "En Hoppers, los científicos han descubierto la tecnología para instalar la conciencia humana a anima..."
-    },
-    {
-      "title": "Hoppers",
-      "time": "13:30",
-      "rating": 4.5,
-      "summary": "En Hoppers, los científicos han descubierto la tecnología para instalar la conciencia humana a anima..."
-    },
-    {
-      "title": "Hoppers",
-      "time": "14:45",
-      "rating": 4.5,
-      "summary": "En Hoppers, los científicos han descubierto la tecnología para instalar la conciencia humana a anima..."
-    },
-    {
-      "title": "Hoppers",
-      "time": "15:45",
-      "rating": 4.5,
-      "summary": "En Hoppers, los científicos han descubierto la tecnología para instalar la conciencia humana a anima..."
-    },
-    {
-      "title": "Hoppers",
-      "time": "17:00",
-      "rating": 4.5,
-      "summary": "En Hoppers, los científicos han descubierto la tecnología para instalar la conciencia humana a anima..."
-    },
-    {
-      "title": "Hoppers",
-      "time": "17:30",
-      "rating": 4.5,
-      "summary": "En Hoppers, los científicos han descubierto la tecnología para instalar la conciencia humana a anima..."
-    },
-    {
-      "title": "Hoppers",
-      "time": "18:00",
-      "rating": 4.5,
-      "summary": "En Hoppers, los científicos han descubierto la tecnología para instalar la conciencia humana a anima..."
-    },
-    {
-      "title": "Hoppers",
-      "time": "19:15",
-      "rating": 4.5,
-      "summary": "En Hoppers, los científicos han descubierto la tecnología para instalar la conciencia humana a anima..."
-    },
-    {
-      "title": "Hoppers",
-      "time": "20:15",
-      "rating": 4.5,
-      "summary": "En Hoppers, los científicos han descubierto la tecnología para instalar la conciencia humana a anima..."
-    },
-    {
-      "title": "Hoppers",
-      "time": "20:45",
-      "rating": 4.5,
-      "summary": "En Hoppers, los científicos han descubierto la tecnología para instalar la conciencia humana a anima..."
-    },
-    {
-      "title": "Hoppers",
-      "time": "21:30",
-      "rating": 4.5,
-      "summary": "En Hoppers, los científicos han descubierto la tecnología para instalar la conciencia humana a anima..."
-    },
-    {
-      "title": "After. Amor Infinito",
-      "time": "17:50",
-      "rating": 4.5,
-      "summary": "El amor de Tessa y Hardin nunca ha sido fácil. Mientras él permanece en Londres después de la boda d..."
-    },
-    {
       "title": "Scream 7",
-      "time": "12:05",
+      "time": "17:05",
       "rating": 4.5,
       "summary": "Cuando un nuevo asesino Ghostface aparece en el tranquilo pueblo donde Sidney Prescott (Neve Campbel..."
     },
     {
       "title": "Scream 7",
-      "time": "14:30",
-      "rating": 4.5,
-      "summary": "Cuando un nuevo asesino Ghostface aparece en el tranquilo pueblo donde Sidney Prescott (Neve Campbel..."
-    },
-    {
-      "title": "Scream 7",
-      "time": "17:10",
-      "rating": 4.5,
-      "summary": "Cuando un nuevo asesino Ghostface aparece en el tranquilo pueblo donde Sidney Prescott (Neve Campbel..."
-    },
-    {
-      "title": "Scream 7",
-      "time": "19:40",
+      "time": "19:35",
       "rating": 4.5,
       "summary": "Cuando un nuevo asesino Ghostface aparece en el tranquilo pueblo donde Sidney Prescott (Neve Campbel..."
     },
@@ -660,69 +402,45 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Greenland 2",
-      "time": "13:45",
+      "time": "17:30",
       "rating": 4.5,
       "summary": "Después de sobrevivir al fin del mundo por la caída de un cometa, Jeff Garrity, junto con su mujer A..."
     },
     {
       "title": "Greenland 2",
-      "time": "20:05",
+      "time": "22:45",
       "rating": 4.5,
       "summary": "Después de sobrevivir al fin del mundo por la caída de un cometa, Jeff Garrity, junto con su mujer A..."
     },
     {
       "title": "Cumbres Borrascosas",
-      "time": "13:10",
+      "time": "17:05",
       "rating": 4.5,
       "summary": "Una audaz y original reinterpretación de una de una de las historias de amor más grandes de todos lo..."
     },
     {
       "title": "Cumbres Borrascosas",
-      "time": "16:10",
+      "time": "19:55",
       "rating": 4.5,
       "summary": "Una audaz y original reinterpretación de una de una de las historias de amor más grandes de todos lo..."
     },
     {
       "title": "Cumbres Borrascosas",
-      "time": "19:00",
+      "time": "22:15",
       "rating": 4.5,
       "summary": "Una audaz y original reinterpretación de una de una de las historias de amor más grandes de todos lo..."
     },
     {
-      "title": "Cumbres Borrascosas",
-      "time": "21:50",
+      "title": "Como Cabras",
+      "time": "17:10",
       "rating": 4.5,
-      "summary": "Una audaz y original reinterpretación de una de una de las historias de amor más grandes de todos lo..."
+      "summary": "Will es una pequeña cabra con grandes sueños que recibe una oportunidad única en la vida para unirse..."
     },
     {
       "title": "Ruta De Escape",
-      "time": "22:10",
+      "time": "22:00",
       "rating": 4.5,
       "summary": "Davis (Chris Hemsworth) es un escurridizo ladrón cuyos atracos de alto riesgo tienen desconcertada a..."
-    },
-    {
-      "title": "Como Cabras",
-      "time": "13:20",
-      "rating": 4.5,
-      "summary": "Will es una pequeña cabra con grandes sueños que recibe una oportunidad única en la vida para unirse..."
-    },
-    {
-      "title": "Como Cabras",
-      "time": "15:50",
-      "rating": 4.5,
-      "summary": "Will es una pequeña cabra con grandes sueños que recibe una oportunidad única en la vida para unirse..."
-    },
-    {
-      "title": "Como Cabras",
-      "time": "18:00",
-      "rating": 4.5,
-      "summary": "Will es una pequeña cabra con grandes sueños que recibe una oportunidad única en la vida para unirse..."
-    },
-    {
-      "title": "Evolution",
-      "time": "15:35",
-      "rating": 4.5,
-      "summary": "Cuando una sustancia extraterrestre mezcla el ADN de Zoe con el de sus exóticas mascotas, empieza un..."
     },
     {
       "title": "Aída Y Vuelta",
@@ -731,40 +449,22 @@ export const MOVIE_DATA = {
       "summary": "\"Aída y vuelta\", el largometraje, aborda el rodaje de un capítulo de la serie con tramas que transcu..."
     },
     {
-      "title": "Ídolos",
-      "time": "22:30",
+      "title": "Aída Y Vuelta",
+      "time": "22:45",
       "rating": 4.5,
-      "summary": "Edu es un joven piloto de motos muy agresivo en quien ningún equipo confía. Eli, jefe del equipo de ..."
+      "summary": "\"Aída y vuelta\", el largometraje, aborda el rodaje de un capítulo de la serie con tramas que transcu..."
     },
     {
       "title": "Hamnet",
-      "time": "12:50",
-      "rating": 4.5,
-      "summary": "Narra la historia de Agnes, la esposa de William Shakespeare, en su lucha por superar la pérdida de ..."
-    },
-    {
-      "title": "Hamnet",
-      "time": "17:00",
+      "time": "17:25",
       "rating": 4.5,
       "summary": "Narra la historia de Agnes, la esposa de William Shakespeare, en su lucha por superar la pérdida de ..."
     },
     {
       "title": "La Asistenta",
-      "time": "20:10",
+      "time": "20:00",
       "rating": 4.5,
       "summary": "Millie es una joven que, tras perder su trabajo, acepta un puesto como sirvienta en la lujosa pero i..."
-    },
-    {
-      "title": "La Asistenta",
-      "time": "22:15",
-      "rating": 4.5,
-      "summary": "Millie es una joven que, tras perder su trabajo, acepta un puesto como sirvienta en la lujosa pero i..."
-    },
-    {
-      "title": "Avatar: Fuego Y Ceniza",
-      "time": "12:10",
-      "rating": 4.5,
-      "summary": "Tercera entrega de la saga \"Avatar\". Presenta al Pueblo de las Cenizas, un clan Na'vi no tan pacífic..."
     },
     {
       "title": "Avatar: Fuego Y Ceniza",
@@ -773,14 +473,14 @@ export const MOVIE_DATA = {
       "summary": "Tercera entrega de la saga \"Avatar\". Presenta al Pueblo de las Cenizas, un clan Na'vi no tan pacífic..."
     },
     {
-      "title": "Zootrópolis 2",
-      "time": "16:00",
+      "title": "Bugonia",
+      "time": "19:40",
       "rating": 4.5,
-      "summary": "Tras resolver el caso más grande en la historia de Zootrópolis, los policías novatos Judy Hopps (voz..."
+      "summary": "Dos jóvenes conspiranoicos secuestran a la poderosa presidenta de una gran compañía, convencidos de ..."
     },
     {
       "title": "Los Domingos",
-      "time": "19:40",
+      "time": "19:25",
       "rating": 4.5,
       "summary": "\"Los Domingos\" cuenta la historia de Ainara (Blanca Soroa), una joven idealista y brillante de 17 añ..."
     }
@@ -788,27 +488,15 @@ export const MOVIE_DATA = {
   "Ocine Premium Siete Palmas": [
     {
       "title": "Avatar: Fuego Y Ceniza (3D) (Atmos)",
-      "time": "18:20",
+      "time": "19:10",
       "rating": 4.5,
       "summary": "\"Avatar: Fuego y ceniza\", la tercera película de la increíblemente exitosa franquicia \"Avatar\", se e..."
-    },
-    {
-      "title": "Aída Y Vuelta",
-      "time": "15:00",
-      "rating": 4.5,
-      "summary": "'Aída y vuelta' aborda el rodaje de un capítulo de la serie con tramas que transcurren tanto dentro ..."
     },
     {
       "title": "Aída Y Vuelta",
       "time": "22:20",
       "rating": 4.5,
       "summary": "'Aída y vuelta' aborda el rodaje de un capítulo de la serie con tramas que transcurren tanto dentro ..."
-    },
-    {
-      "title": "El Mago Del Kremlin",
-      "time": "12:10",
-      "rating": 4.5,
-      "summary": "En medio del caos postsoviético de los años 90, el joven Vadim Baranov (Paul Dano) empieza a labrars..."
     },
     {
       "title": "El Mago Del Kremlin",
@@ -824,96 +512,66 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Goat. Como Cabras",
-      "time": "11:45",
-      "rating": 4.5,
-      "summary": "La historia sigue a Will, una pequeña cabra con grandes sueños que recibe una oportunidad única en l..."
-    },
-    {
-      "title": "Goat. Como Cabras",
-      "time": "13:45",
-      "rating": 4.5,
-      "summary": "La historia sigue a Will, una pequeña cabra con grandes sueños que recibe una oportunidad única en l..."
-    },
-    {
-      "title": "Goat. Como Cabras",
-      "time": "15:45",
-      "rating": 4.5,
-      "summary": "La historia sigue a Will, una pequeña cabra con grandes sueños que recibe una oportunidad única en l..."
-    },
-    {
-      "title": "Goat. Como Cabras",
-      "time": "18:25",
+      "time": "19:00",
       "rating": 4.5,
       "summary": "La historia sigue a Will, una pequeña cabra con grandes sueños que recibe una oportunidad única en l..."
     },
     {
       "title": "Greenland 2",
-      "time": "11:50",
+      "time": "21:00",
       "rating": 4.5,
       "summary": "Después de sobrevivir al fin del mundo por la caída de un cometa, Jeff Garrity, junto con su mujer A..."
     },
     {
       "title": "Greenland 2",
-      "time": "14:00",
+      "time": "23:00",
       "rating": 4.5,
       "summary": "Después de sobrevivir al fin del mundo por la caída de un cometa, Jeff Garrity, junto con su mujer A..."
-    },
-    {
-      "title": "Greenland 2",
-      "time": "20:25",
-      "rating": 4.5,
-      "summary": "Después de sobrevivir al fin del mundo por la caída de un cometa, Jeff Garrity, junto con su mujer A..."
-    },
-    {
-      "title": "Greenland 2",
-      "time": "22:25",
-      "rating": 4.5,
-      "summary": "Después de sobrevivir al fin del mundo por la caída de un cometa, Jeff Garrity, junto con su mujer A..."
-    },
-    {
-      "title": "Hamnet (Atmos)",
-      "time": "22:15",
-      "rating": 4.5,
-      "summary": "Narra la historia de Agnes, la esposa de William Shakespeare, en su lucha por superar la pérdida de ..."
     },
     {
       "title": "Los Domingos",
-      "time": "16:05",
+      "time": "16:40",
       "rating": 4.5,
       "summary": "\"Los Domingos\" cuenta la historia de Ainara, una joven idealista y brillante de 17 años que ha de de..."
     },
     {
       "title": "Ruta De Escape",
-      "time": "22:10",
+      "time": "22:15",
       "rating": 4.5,
       "summary": "Davis es un escurridizo ladrón cuyos atracos de alto riesgo tienen desconcertada a la policía. Davis..."
-    },
-    {
-      "title": "Zootrópolis 2 (Screen X)",
-      "time": "12:05",
-      "rating": 4.5,
-      "summary": "La nueva película de Disney reúne a personajes nuevos y otros que regresan, como los policías novato..."
-    },
-    {
-      "title": "Zootrópolis 2 (Screen X)",
-      "time": "15:00",
-      "rating": 4.5,
-      "summary": "La nueva película de Disney reúne a personajes nuevos y otros que regresan, como los policías novato..."
     },
     {
       "title": "Zootrópolis 2 (Screen X)",
       "time": "17:15",
       "rating": 4.5,
       "summary": "La nueva película de Disney reúne a personajes nuevos y otros que regresan, como los policías novato..."
+    },
+    {
+      "title": "¡La Novia! (Atmos)",
+      "time": "16:40",
+      "rating": 4.5,
+      "summary": "En el Chicago de los años 30, Frankenstein pide ayuda al Dr. Euphronius para crear una compañera. Da..."
+    },
+    {
+      "title": "¡La Novia! (Atmos)",
+      "time": "17:45",
+      "rating": 4.5,
+      "summary": "En el Chicago de los años 30, Frankenstein pide ayuda al Dr. Euphronius para crear una compañera. Da..."
+    },
+    {
+      "title": "¡La Novia! (Atmos)",
+      "time": "20:15",
+      "rating": 4.5,
+      "summary": "En el Chicago de los años 30, Frankenstein pide ayuda al Dr. Euphronius para crear una compañera. Da..."
+    },
+    {
+      "title": "¡La Novia! (Atmos)",
+      "time": "22:45",
+      "rating": 4.5,
+      "summary": "En el Chicago de los años 30, Frankenstein pide ayuda al Dr. Euphronius para crear una compañera. Da..."
     }
   ],
   "Artesiete Las Terrazas": [
-    {
-      "title": "Avatar: Fuego Y Ceniza",
-      "time": "11:30",
-      "rating": 4.5,
-      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
-    },
     {
       "title": "Avatar: Fuego Y Ceniza",
       "time": "16:00",
@@ -921,20 +579,8 @@ export const MOVIE_DATA = {
       "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
     },
     {
-      "title": "Avatar: Fuego Y Ceniza",
-      "time": "17:00",
-      "rating": 4.5,
-      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
-    },
-    {
       "title": "La Asistenta",
-      "time": "20:40",
-      "rating": 4.5,
-      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
-    },
-    {
-      "title": "La Asistenta",
-      "time": "21:45",
+      "time": "21:10",
       "rating": 4.5,
       "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
     },
@@ -952,25 +598,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Aida Y Vuelta",
-      "time": "21:45",
-      "rating": 4.5,
-      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
-    },
-    {
-      "title": "Aida Y Vuelta",
       "time": "22:00",
-      "rating": 4.5,
-      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
-    },
-    {
-      "title": "Evolution",
-      "time": "12:30",
-      "rating": 4.5,
-      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
-    },
-    {
-      "title": "Evolution",
-      "time": "15:50",
       "rating": 4.5,
       "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
     },
@@ -1006,12 +634,6 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Goat, Como Cabras",
-      "time": "12:30",
-      "rating": 4.5,
-      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
-    },
-    {
-      "title": "Goat, Como Cabras",
       "time": "16:15",
       "rating": 4.5,
       "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
@@ -1030,12 +652,6 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Greenland 2",
-      "time": "16:00",
-      "rating": 4.5,
-      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
-    },
-    {
-      "title": "Greenland 2",
       "time": "20:00",
       "rating": 4.5,
       "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
@@ -1049,12 +665,6 @@ export const MOVIE_DATA = {
     {
       "title": "Greenland 2",
       "time": "20:45",
-      "rating": 4.5,
-      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
-    },
-    {
-      "title": "Scream 7",
-      "time": "12:20",
       "rating": 4.5,
       "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
     },
@@ -1108,12 +718,6 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Caminando Con El Diablo",
-      "time": "20:00",
-      "rating": 4.5,
-      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
-    },
-    {
-      "title": "Caminando Con El Diablo",
       "time": "20:10",
       "rating": 4.5,
       "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
@@ -1138,12 +742,6 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Cleaner: Rescate Vertical",
-      "time": "12:30",
-      "rating": 4.5,
-      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
-    },
-    {
-      "title": "Cleaner: Rescate Vertical",
       "time": "16:30",
       "rating": 4.5,
       "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
@@ -1151,12 +749,6 @@ export const MOVIE_DATA = {
     {
       "title": "Cleaner: Rescate Vertical",
       "time": "17:00",
-      "rating": 4.5,
-      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
-    },
-    {
-      "title": "Cleaner: Rescate Vertical",
-      "time": "18:00",
       "rating": 4.5,
       "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
     },
@@ -1186,25 +778,13 @@ export const MOVIE_DATA = {
     },
     {
       "title": "El Mago Del Kremlin",
-      "time": "12:00",
-      "rating": 4.5,
-      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
-    },
-    {
-      "title": "El Mago Del Kremlin",
       "time": "16:30",
       "rating": 4.5,
       "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
     },
     {
       "title": "El Mago Del Kremlin",
-      "time": "17:30",
-      "rating": 4.5,
-      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
-    },
-    {
-      "title": "El Mago Del Kremlin",
-      "time": "17:40",
+      "time": "17:00",
       "rating": 4.5,
       "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
     },
@@ -1223,18 +803,6 @@ export const MOVIE_DATA = {
     {
       "title": "El Rostro Del Perdon",
       "time": "19:00",
-      "rating": 4.5,
-      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
-    },
-    {
-      "title": "Hoppers",
-      "time": "12:00",
-      "rating": 4.5,
-      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
-    },
-    {
-      "title": "Hoppers",
-      "time": "12:30",
       "rating": 4.5,
       "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
     },
@@ -1276,7 +844,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Linea De Extincion",
-      "time": "20:10",
+      "time": "19:30",
       "rating": 4.5,
       "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
     },
@@ -1288,19 +856,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "¡La Novia!",
-      "time": "12:15",
-      "rating": 4.5,
-      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
-    },
-    {
-      "title": "¡La Novia!",
       "time": "16:00",
-      "rating": 4.5,
-      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
-    },
-    {
-      "title": "¡La Novia!",
-      "time": "16:15",
       "rating": 4.5,
       "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
     },
@@ -1347,8 +903,8 @@ export const MOVIE_DATA = {
       "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
     },
     {
-      "title": "¡La Novia!",
-      "time": "21:40",
+      "title": "Torrente Presidente",
+      "time": "15:45",
       "rating": 4.5,
       "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
     },
@@ -1366,6 +922,18 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Torrente Presidente",
+      "time": "17:00",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "Torrente Presidente",
+      "time": "17:50",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "Torrente Presidente",
       "time": "18:00",
       "rating": 4.5,
       "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
@@ -1373,6 +941,18 @@ export const MOVIE_DATA = {
     {
       "title": "Torrente Presidente",
       "time": "18:20",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "Torrente Presidente",
+      "time": "19:00",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "Torrente Presidente",
+      "time": "19:50",
       "rating": 4.5,
       "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
     },
@@ -1390,6 +970,18 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Torrente Presidente",
+      "time": "21:00",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "Torrente Presidente",
+      "time": "21:50",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "Torrente Presidente",
       "time": "22:10",
       "rating": 4.5,
       "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
@@ -1397,6 +989,42 @@ export const MOVIE_DATA = {
     {
       "title": "Torrente Presidente",
       "time": "22:30",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "Proyecto Salvacion",
+      "time": "16:00",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "Proyecto Salvacion",
+      "time": "16:45",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "Proyecto Salvacion",
+      "time": "17:00",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "Proyecto Salvacion",
+      "time": "18:00",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "Proyecto Salvacion",
+      "time": "19:45",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "Proyecto Salvacion",
+      "time": "22:45",
       "rating": 4.5,
       "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
     },
