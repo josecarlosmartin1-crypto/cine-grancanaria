@@ -122,6 +122,12 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Marty Supreme",
+      "time": "20:10",
+      "rating": 4.5,
+      "summary": "La historia se centra en la apasionante carrera de Marty Reisman, interpretado por el dos veces nomi..."
+    },
+    {
+      "title": "Marty Supreme",
       "time": "22:00",
       "rating": 4.5,
       "summary": "La historia se centra en la apasionante carrera de Marty Reisman, interpretado por el dos veces nomi..."
@@ -137,12 +143,6 @@ export const MOVIE_DATA = {
       "time": "17:25",
       "rating": 4.5,
       "summary": "Millie es una joven que, tras perder su trabajo, acepta un puesto como sirvienta en la lujosa pero i..."
-    },
-    {
-      "title": "Bugonia",
-      "time": "20:10",
-      "rating": 4.5,
-      "summary": "Dos jóvenes conspiranoicos secuestran a la poderosa presidenta de una gran compañía, convencidos de ..."
     },
     {
       "title": "Los Domingos",
@@ -225,6 +225,12 @@ export const MOVIE_DATA = {
       "summary": "En medio del caos postsoviético de los años 90, el joven Vadim Baranov (Paul Dano) empieza a labrars..."
     },
     {
+      "title": "El Rostro Del Perdón",
+      "time": "17:25",
+      "rating": 4.5,
+      "summary": "Biopic de la hermana Rani Maria, una monja misionera dedicada a ayudar a los campesinos pobres en In..."
+    },
+    {
       "title": "Scream 7",
       "time": "17:30",
       "rating": 4.5,
@@ -298,7 +304,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Marty Supreme",
-      "time": "17:10",
+      "time": "20:10",
       "rating": 4.5,
       "summary": "La historia se centra en la apasionante carrera de Marty Reisman, interpretado por el dos veces nomi..."
     },
@@ -325,12 +331,6 @@ export const MOVIE_DATA = {
       "time": "22:10",
       "rating": 4.5,
       "summary": "Millie es una joven que, tras perder su trabajo, acepta un puesto como sirvienta en la lujosa pero i..."
-    },
-    {
-      "title": "Bugonia",
-      "time": "20:10",
-      "rating": 4.5,
-      "summary": "Dos jóvenes conspiranoicos secuestran a la poderosa presidenta de una gran compañía, convencidos de ..."
     },
     {
       "title": "Los Domingos",
@@ -407,12 +407,6 @@ export const MOVIE_DATA = {
       "summary": "Después de sobrevivir al fin del mundo por la caída de un cometa, Jeff Garrity, junto con su mujer A..."
     },
     {
-      "title": "Greenland 2",
-      "time": "22:45",
-      "rating": 4.5,
-      "summary": "Después de sobrevivir al fin del mundo por la caída de un cometa, Jeff Garrity, junto con su mujer A..."
-    },
-    {
       "title": "Cumbres Borrascosas",
       "time": "17:05",
       "rating": 4.5,
@@ -426,13 +420,13 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Cumbres Borrascosas",
-      "time": "22:15",
+      "time": "22:20",
       "rating": 4.5,
       "summary": "Una audaz y original reinterpretación de una de una de las historias de amor más grandes de todos lo..."
     },
     {
       "title": "Como Cabras",
-      "time": "17:10",
+      "time": "17:15",
       "rating": 4.5,
       "summary": "Will es una pequeña cabra con grandes sueños que recibe una oportunidad única en la vida para unirse..."
     },
@@ -455,6 +449,12 @@ export const MOVIE_DATA = {
       "summary": "\"Aída y vuelta\", el largometraje, aborda el rodaje de un capítulo de la serie con tramas que transcu..."
     },
     {
+      "title": "Marty Supreme",
+      "time": "20:10",
+      "rating": 4.5,
+      "summary": "La historia se centra en la apasionante carrera de Marty Reisman, interpretado por el dos veces nomi..."
+    },
+    {
       "title": "Hamnet",
       "time": "17:25",
       "rating": 4.5,
@@ -462,7 +462,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "La Asistenta",
-      "time": "20:00",
+      "time": "19:40",
       "rating": 4.5,
       "summary": "Millie es una joven que, tras perder su trabajo, acepta un puesto como sirvienta en la lujosa pero i..."
     },
@@ -473,14 +473,8 @@ export const MOVIE_DATA = {
       "summary": "Tercera entrega de la saga \"Avatar\". Presenta al Pueblo de las Cenizas, un clan Na'vi no tan pacífic..."
     },
     {
-      "title": "Bugonia",
-      "time": "19:40",
-      "rating": 4.5,
-      "summary": "Dos jóvenes conspiranoicos secuestran a la poderosa presidenta de una gran compañía, convencidos de ..."
-    },
-    {
       "title": "Los Domingos",
-      "time": "19:25",
+      "time": "19:30",
       "rating": 4.5,
       "summary": "\"Los Domingos\" cuenta la historia de Ainara (Blanca Soroa), una joven idealista y brillante de 17 añ..."
     }
@@ -529,16 +523,16 @@ export const MOVIE_DATA = {
       "summary": "Después de sobrevivir al fin del mundo por la caída de un cometa, Jeff Garrity, junto con su mujer A..."
     },
     {
+      "title": "Hamnet (Atmos)",
+      "time": "22:45",
+      "rating": 4.5,
+      "summary": "Narra la historia de Agnes, la esposa de William Shakespeare, en su lucha por superar la pérdida de ..."
+    },
+    {
       "title": "Los Domingos",
       "time": "16:40",
       "rating": 4.5,
       "summary": "\"Los Domingos\" cuenta la historia de Ainara, una joven idealista y brillante de 17 años que ha de de..."
-    },
-    {
-      "title": "Ruta De Escape",
-      "time": "22:15",
-      "rating": 4.5,
-      "summary": "Davis es un escurridizo ladrón cuyos atracos de alto riesgo tienen desconcertada a la policía. Davis..."
     },
     {
       "title": "Zootrópolis 2 (Screen X)",
@@ -572,6 +566,12 @@ export const MOVIE_DATA = {
     }
   ],
   "Artesiete Las Terrazas": [
+    {
+      "title": "Your Name",
+      "time": "18:00",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
     {
       "title": "Avatar: Fuego Y Ceniza",
       "time": "16:00",
@@ -1018,7 +1018,19 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Proyecto Salvacion",
+      "time": "19:00",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "Proyecto Salvacion",
       "time": "19:45",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "Proyecto Salvacion",
+      "time": "22:00",
       "rating": 4.5,
       "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
     },
