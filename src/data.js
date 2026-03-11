@@ -73,6 +73,12 @@ export const MOVIE_DATA = {
       "summary": "Cuando un nuevo asesino Ghostface aparece en el tranquilo pueblo donde Sidney Prescott (Neve Campbel..."
     },
     {
+      "title": "El Agente Secreto",
+      "time": "20:10",
+      "rating": 4.5,
+      "summary": "1977. En un Brasil atormentado por la dictadura militar, Marcelo, un cuarentón que huye de un pasado..."
+    },
+    {
       "title": "Greenland 2",
       "time": "20:00",
       "rating": 4.5,
@@ -119,12 +125,6 @@ export const MOVIE_DATA = {
       "time": "17:50",
       "rating": 4.5,
       "summary": "\"Aída y vuelta\", el largometraje, aborda el rodaje de un capítulo de la serie con tramas que transcu..."
-    },
-    {
-      "title": "Marty Supreme",
-      "time": "20:10",
-      "rating": 4.5,
-      "summary": "La historia se centra en la apasionante carrera de Marty Reisman, interpretado por el dos veces nomi..."
     },
     {
       "title": "Marty Supreme",
@@ -225,12 +225,6 @@ export const MOVIE_DATA = {
       "summary": "En medio del caos postsoviético de los años 90, el joven Vadim Baranov (Paul Dano) empieza a labrars..."
     },
     {
-      "title": "El Rostro Del Perdón",
-      "time": "17:25",
-      "rating": 4.5,
-      "summary": "Biopic de la hermana Rani Maria, una monja misionera dedicada a ayudar a los campesinos pobres en In..."
-    },
-    {
       "title": "Scream 7",
       "time": "17:30",
       "rating": 4.5,
@@ -263,6 +257,12 @@ export const MOVIE_DATA = {
     {
       "title": "El Agente Secreto",
       "time": "17:05",
+      "rating": 4.5,
+      "summary": "1977. En un Brasil atormentado por la dictadura militar, Marcelo, un cuarentón que huye de un pasado..."
+    },
+    {
+      "title": "El Agente Secreto",
+      "time": "20:10",
       "rating": 4.5,
       "summary": "1977. En un Brasil atormentado por la dictadura militar, Marcelo, un cuarentón que huye de un pasado..."
     },
@@ -304,7 +304,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Marty Supreme",
-      "time": "20:10",
+      "time": "17:10",
       "rating": 4.5,
       "summary": "La historia se centra en la apasionante carrera de Marty Reisman, interpretado por el dos veces nomi..."
     },
@@ -401,6 +401,12 @@ export const MOVIE_DATA = {
       "summary": "Cuando un nuevo asesino Ghostface aparece en el tranquilo pueblo donde Sidney Prescott (Neve Campbel..."
     },
     {
+      "title": "El Agente Secreto",
+      "time": "20:10",
+      "rating": 4.5,
+      "summary": "1977. En un Brasil atormentado por la dictadura militar, Marcelo, un cuarentón que huye de un pasado..."
+    },
+    {
       "title": "Greenland 2",
       "time": "17:30",
       "rating": 4.5,
@@ -426,7 +432,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Como Cabras",
-      "time": "17:15",
+      "time": "17:10",
       "rating": 4.5,
       "summary": "Will es una pequeña cabra con grandes sueños que recibe una oportunidad única en la vida para unirse..."
     },
@@ -449,12 +455,6 @@ export const MOVIE_DATA = {
       "summary": "\"Aída y vuelta\", el largometraje, aborda el rodaje de un capítulo de la serie con tramas que transcu..."
     },
     {
-      "title": "Marty Supreme",
-      "time": "20:10",
-      "rating": 4.5,
-      "summary": "La historia se centra en la apasionante carrera de Marty Reisman, interpretado por el dos veces nomi..."
-    },
-    {
       "title": "Hamnet",
       "time": "17:25",
       "rating": 4.5,
@@ -474,7 +474,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Los Domingos",
-      "time": "19:30",
+      "time": "19:25",
       "rating": 4.5,
       "summary": "\"Los Domingos\" cuenta la historia de Ainara (Blanca Soroa), una joven idealista y brillante de 17 añ..."
     }
@@ -482,7 +482,7 @@ export const MOVIE_DATA = {
   "Ocine Premium Siete Palmas": [
     {
       "title": "Avatar: Fuego Y Ceniza (3D) (Atmos)",
-      "time": "19:10",
+      "time": "18:20",
       "rating": 4.5,
       "summary": "\"Avatar: Fuego y ceniza\", la tercera película de la increíblemente exitosa franquicia \"Avatar\", se e..."
     },
@@ -506,31 +506,25 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Goat. Como Cabras",
-      "time": "19:00",
+      "time": "15:45",
       "rating": 4.5,
       "summary": "La historia sigue a Will, una pequeña cabra con grandes sueños que recibe una oportunidad única en l..."
     },
     {
-      "title": "Greenland 2",
-      "time": "21:00",
+      "title": "Goat. Como Cabras",
+      "time": "18:25",
       "rating": 4.5,
-      "summary": "Después de sobrevivir al fin del mundo por la caída de un cometa, Jeff Garrity, junto con su mujer A..."
-    },
-    {
-      "title": "Greenland 2",
-      "time": "23:00",
-      "rating": 4.5,
-      "summary": "Después de sobrevivir al fin del mundo por la caída de un cometa, Jeff Garrity, junto con su mujer A..."
+      "summary": "La historia sigue a Will, una pequeña cabra con grandes sueños que recibe una oportunidad única en l..."
     },
     {
       "title": "Hamnet (Atmos)",
-      "time": "22:45",
+      "time": "22:15",
       "rating": 4.5,
       "summary": "Narra la historia de Agnes, la esposa de William Shakespeare, en su lucha por superar la pérdida de ..."
     },
     {
       "title": "Los Domingos",
-      "time": "16:40",
+      "time": "16:05",
       "rating": 4.5,
       "summary": "\"Los Domingos\" cuenta la historia de Ainara, una joven idealista y brillante de 17 años que ha de de..."
     },
@@ -542,7 +536,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "¡La Novia! (Atmos)",
-      "time": "16:40",
+      "time": "15:50",
       "rating": 4.5,
       "summary": "En el Chicago de los años 30, Frankenstein pide ayuda al Dr. Euphronius para crear una compañera. Da..."
     },
@@ -580,7 +574,49 @@ export const MOVIE_DATA = {
     },
     {
       "title": "La Asistenta",
+      "time": "15:45",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "La Asistenta",
+      "time": "18:30",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "La Asistenta",
+      "time": "19:20",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "La Asistenta",
+      "time": "20:00",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "La Asistenta",
+      "time": "20:20",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "La Asistenta",
       "time": "21:10",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "La Asistenta",
+      "time": "21:50",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "La Asistenta",
+      "time": "22:00",
       "rating": 4.5,
       "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
     },
@@ -604,13 +640,37 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Evolution",
+      "time": "12:00",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "Evolution",
       "time": "16:00",
       "rating": 4.5,
       "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
     },
     {
       "title": "Cumbres Borrascosas",
+      "time": "12:00",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "Cumbres Borrascosas",
+      "time": "15:45",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "Cumbres Borrascosas",
       "time": "17:00",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "Cumbres Borrascosas",
+      "time": "18:10",
       "rating": 4.5,
       "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
     },
@@ -634,6 +694,12 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Goat, Como Cabras",
+      "time": "12:30",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "Goat, Como Cabras",
       "time": "16:15",
       "rating": 4.5,
       "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
@@ -652,19 +718,43 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Greenland 2",
+      "time": "12:30",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "Greenland 2",
       "time": "20:00",
       "rating": 4.5,
       "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
     },
     {
       "title": "Greenland 2",
-      "time": "20:40",
+      "time": "20:45",
       "rating": 4.5,
       "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
     },
     {
       "title": "Greenland 2",
-      "time": "20:45",
+      "time": "20:50",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "Greenland 2",
+      "time": "21:40",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "Greenland 2",
+      "time": "22:40",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "Scream 7",
+      "time": "12:15",
       "rating": 4.5,
       "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
     },
@@ -682,6 +772,12 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Scream 7",
+      "time": "17:30",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "Scream 7",
       "time": "18:30",
       "rating": 4.5,
       "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
@@ -694,6 +790,12 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Scream 7",
+      "time": "19:30",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "Scream 7",
       "time": "20:30",
       "rating": 4.5,
       "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
@@ -701,6 +803,12 @@ export const MOVIE_DATA = {
     {
       "title": "Scream 7",
       "time": "21:00",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "Scream 7",
+      "time": "21:30",
       "rating": 4.5,
       "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
     },
@@ -724,12 +832,6 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Caminando Con El Diablo",
-      "time": "20:40",
-      "rating": 4.5,
-      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
-    },
-    {
-      "title": "Caminando Con El Diablo",
       "time": "21:20",
       "rating": 4.5,
       "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
@@ -737,6 +839,12 @@ export const MOVIE_DATA = {
     {
       "title": "Caminando Con El Diablo",
       "time": "21:45",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "Cleaner: Rescate Vertical",
+      "time": "12:20",
       "rating": 4.5,
       "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
     },
@@ -760,7 +868,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Cleaner: Rescate Vertical",
-      "time": "18:50",
+      "time": "21:00",
       "rating": 4.5,
       "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
     },
@@ -773,6 +881,18 @@ export const MOVIE_DATA = {
     {
       "title": "Cleaner: Rescate Vertical",
       "time": "21:45",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "Cleaner: Rescate Vertical",
+      "time": "22:30",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "Cleaner: Rescate Vertical",
+      "time": "22:45",
       "rating": 4.5,
       "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
     },
@@ -808,7 +928,25 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Hoppers",
+      "time": "12:00",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "Hoppers",
+      "time": "12:30",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "Hoppers",
       "time": "16:00",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "Hoppers",
+      "time": "16:30",
       "rating": 4.5,
       "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
     },
@@ -820,7 +958,19 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Hoppers",
+      "time": "17:30",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "Hoppers",
       "time": "18:00",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "Hoppers",
+      "time": "18:30",
       "rating": 4.5,
       "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
     },
@@ -833,6 +983,12 @@ export const MOVIE_DATA = {
     {
       "title": "Hoppers",
       "time": "20:00",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "Hoppers",
+      "time": "20:30",
       "rating": 4.5,
       "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
     },
@@ -880,6 +1036,12 @@ export const MOVIE_DATA = {
     },
     {
       "title": "¡La Novia!",
+      "time": "18:50",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "¡La Novia!",
       "time": "19:15",
       "rating": 4.5,
       "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
@@ -892,6 +1054,12 @@ export const MOVIE_DATA = {
     },
     {
       "title": "¡La Novia!",
+      "time": "20:00",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "¡La Novia!",
       "time": "20:30",
       "rating": 4.5,
       "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
@@ -899,6 +1067,54 @@ export const MOVIE_DATA = {
     {
       "title": "¡La Novia!",
       "time": "21:30",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "¡La Novia!",
+      "time": "22:30",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "¡La Novia!",
+      "time": "22:40",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "No Te Queda Otra",
+      "time": "19:30",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "No Te Queda Otra",
+      "time": "20:30",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "No Te Queda Otra",
+      "time": "21:20",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "No Te Queda Otra",
+      "time": "22:10",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "No Te Queda Otra",
+      "time": "22:15",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "Torrente Presidente",
+      "time": "12:15",
       "rating": 4.5,
       "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
     },
@@ -922,7 +1138,19 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Torrente Presidente",
+      "time": "16:30",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "Torrente Presidente",
       "time": "17:00",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "Torrente Presidente",
+      "time": "17:45",
       "rating": 4.5,
       "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
     },
@@ -946,7 +1174,19 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Torrente Presidente",
+      "time": "18:30",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "Torrente Presidente",
       "time": "19:00",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "Torrente Presidente",
+      "time": "19:45",
       "rating": 4.5,
       "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
     },
@@ -970,7 +1210,19 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Torrente Presidente",
+      "time": "20:30",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "Torrente Presidente",
       "time": "21:00",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "Torrente Presidente",
+      "time": "21:45",
       "rating": 4.5,
       "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
     },
@@ -982,13 +1234,13 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Torrente Presidente",
-      "time": "22:10",
+      "time": "22:30",
       "rating": 4.5,
       "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
     },
     {
       "title": "Torrente Presidente",
-      "time": "22:30",
+      "time": "23:00",
       "rating": 4.5,
       "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
     },
@@ -1037,6 +1289,42 @@ export const MOVIE_DATA = {
     {
       "title": "Proyecto Salvacion",
       "time": "22:45",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "Super Mario Galaxy: La Pelicula",
+      "time": "16:00",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "Super Mario Galaxy: La Pelicula",
+      "time": "17:15",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "Super Mario Galaxy: La Pelicula",
+      "time": "18:00",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "Super Mario Galaxy: La Pelicula",
+      "time": "19:15",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "Super Mario Galaxy: La Pelicula",
+      "time": "20:00",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "Super Mario Galaxy: La Pelicula",
+      "time": "21:15",
       "rating": 4.5,
       "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
     },
