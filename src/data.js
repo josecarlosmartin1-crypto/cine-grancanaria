@@ -73,12 +73,6 @@ export const MOVIE_DATA = {
       "summary": "Cuando un nuevo asesino Ghostface aparece en el tranquilo pueblo donde Sidney Prescott (Neve Campbel..."
     },
     {
-      "title": "El Agente Secreto",
-      "time": "20:10",
-      "rating": 4.5,
-      "summary": "1977. En un Brasil atormentado por la dictadura militar, Marcelo, un cuarentón que huye de un pasado..."
-    },
-    {
       "title": "Greenland 2",
       "time": "20:00",
       "rating": 4.5,
@@ -139,6 +133,12 @@ export const MOVIE_DATA = {
       "summary": "Narra la historia de Agnes, la esposa de William Shakespeare, en su lucha por superar la pérdida de ..."
     },
     {
+      "title": "Hamnet",
+      "time": "20:10",
+      "rating": 4.5,
+      "summary": "Narra la historia de Agnes, la esposa de William Shakespeare, en su lucha por superar la pérdida de ..."
+    },
+    {
       "title": "La Asistenta",
       "time": "17:25",
       "rating": 4.5,
@@ -190,19 +190,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Hoppers",
-      "time": "17:50",
-      "rating": 4.5,
-      "summary": "En Hoppers, los científicos han descubierto la tecnología para instalar la conciencia humana a anima..."
-    },
-    {
-      "title": "Hoppers",
       "time": "19:10",
-      "rating": 4.5,
-      "summary": "En Hoppers, los científicos han descubierto la tecnología para instalar la conciencia humana a anima..."
-    },
-    {
-      "title": "Hoppers",
-      "time": "20:30",
       "rating": 4.5,
       "summary": "En Hoppers, los científicos han descubierto la tecnología para instalar la conciencia humana a anima..."
     },
@@ -223,6 +211,12 @@ export const MOVIE_DATA = {
       "time": "22:00",
       "rating": 4.5,
       "summary": "En medio del caos postsoviético de los años 90, el joven Vadim Baranov (Paul Dano) empieza a labrars..."
+    },
+    {
+      "title": "El Rostro Del Perdón",
+      "time": "17:25",
+      "rating": 4.5,
+      "summary": "Biopic de la hermana Rani Maria, una monja misionera dedicada a ayudar a los campesinos pobres en In..."
     },
     {
       "title": "Scream 7",
@@ -249,20 +243,8 @@ export const MOVIE_DATA = {
       "summary": "Cuando un nuevo asesino Ghostface aparece en el tranquilo pueblo donde Sidney Prescott (Neve Campbel..."
     },
     {
-      "title": "Scream 7",
-      "time": "22:50",
-      "rating": 4.5,
-      "summary": "Cuando un nuevo asesino Ghostface aparece en el tranquilo pueblo donde Sidney Prescott (Neve Campbel..."
-    },
-    {
       "title": "El Agente Secreto",
       "time": "17:05",
-      "rating": 4.5,
-      "summary": "1977. En un Brasil atormentado por la dictadura militar, Marcelo, un cuarentón que huye de un pasado..."
-    },
-    {
-      "title": "El Agente Secreto",
-      "time": "20:10",
       "rating": 4.5,
       "summary": "1977. En un Brasil atormentado por la dictadura militar, Marcelo, un cuarentón que huye de un pasado..."
     },
@@ -304,12 +286,6 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Marty Supreme",
-      "time": "17:10",
-      "rating": 4.5,
-      "summary": "La historia se centra en la apasionante carrera de Marty Reisman, interpretado por el dos veces nomi..."
-    },
-    {
-      "title": "Marty Supreme",
       "time": "22:15",
       "rating": 4.5,
       "summary": "La historia se centra en la apasionante carrera de Marty Reisman, interpretado por el dos veces nomi..."
@@ -317,6 +293,12 @@ export const MOVIE_DATA = {
     {
       "title": "Hamnet",
       "time": "17:00",
+      "rating": 4.5,
+      "summary": "Narra la historia de Agnes, la esposa de William Shakespeare, en su lucha por superar la pérdida de ..."
+    },
+    {
+      "title": "Hamnet",
+      "time": "20:10",
       "rating": 4.5,
       "summary": "Narra la historia de Agnes, la esposa de William Shakespeare, en su lucha por superar la pérdida de ..."
     },
@@ -401,14 +383,14 @@ export const MOVIE_DATA = {
       "summary": "Cuando un nuevo asesino Ghostface aparece en el tranquilo pueblo donde Sidney Prescott (Neve Campbel..."
     },
     {
-      "title": "El Agente Secreto",
-      "time": "20:10",
+      "title": "Greenland 2",
+      "time": "17:30",
       "rating": 4.5,
-      "summary": "1977. En un Brasil atormentado por la dictadura militar, Marcelo, un cuarentón que huye de un pasado..."
+      "summary": "Después de sobrevivir al fin del mundo por la caída de un cometa, Jeff Garrity, junto con su mujer A..."
     },
     {
       "title": "Greenland 2",
-      "time": "17:30",
+      "time": "22:45",
       "rating": 4.5,
       "summary": "Después de sobrevivir al fin del mundo por la caída de un cometa, Jeff Garrity, junto con su mujer A..."
     },
@@ -461,6 +443,12 @@ export const MOVIE_DATA = {
       "summary": "Narra la historia de Agnes, la esposa de William Shakespeare, en su lucha por superar la pérdida de ..."
     },
     {
+      "title": "Hamnet",
+      "time": "20:10",
+      "rating": 4.5,
+      "summary": "Narra la historia de Agnes, la esposa de William Shakespeare, en su lucha por superar la pérdida de ..."
+    },
+    {
       "title": "La Asistenta",
       "time": "19:40",
       "rating": 4.5,
@@ -482,7 +470,7 @@ export const MOVIE_DATA = {
   "Ocine Premium Siete Palmas": [
     {
       "title": "Avatar: Fuego Y Ceniza (3D) (Atmos)",
-      "time": "18:20",
+      "time": "19:10",
       "rating": 4.5,
       "summary": "\"Avatar: Fuego y ceniza\", la tercera película de la increíblemente exitosa franquicia \"Avatar\", se e..."
     },
@@ -506,25 +494,19 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Goat. Como Cabras",
-      "time": "15:45",
-      "rating": 4.5,
-      "summary": "La historia sigue a Will, una pequeña cabra con grandes sueños que recibe una oportunidad única en l..."
-    },
-    {
-      "title": "Goat. Como Cabras",
-      "time": "18:25",
+      "time": "19:00",
       "rating": 4.5,
       "summary": "La historia sigue a Will, una pequeña cabra con grandes sueños que recibe una oportunidad única en l..."
     },
     {
       "title": "Hamnet (Atmos)",
-      "time": "22:15",
+      "time": "22:45",
       "rating": 4.5,
       "summary": "Narra la historia de Agnes, la esposa de William Shakespeare, en su lucha por superar la pérdida de ..."
     },
     {
       "title": "Los Domingos",
-      "time": "16:05",
+      "time": "16:40",
       "rating": 4.5,
       "summary": "\"Los Domingos\" cuenta la historia de Ainara, una joven idealista y brillante de 17 años que ha de de..."
     },
@@ -536,7 +518,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "¡La Novia! (Atmos)",
-      "time": "15:50",
+      "time": "16:40",
       "rating": 4.5,
       "summary": "En el Chicago de los años 30, Frankenstein pide ayuda al Dr. Euphronius para crear una compañera. Da..."
     },
@@ -563,12 +545,6 @@ export const MOVIE_DATA = {
     {
       "title": "Your Name",
       "time": "18:00",
-      "rating": 4.5,
-      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
-    },
-    {
-      "title": "Avatar: Fuego Y Ceniza",
-      "time": "16:00",
       "rating": 4.5,
       "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
     },
@@ -621,32 +597,14 @@ export const MOVIE_DATA = {
       "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
     },
     {
-      "title": "La Asistenta",
-      "time": "22:15",
-      "rating": 4.5,
-      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
-    },
-    {
       "title": "Aida Y Vuelta",
       "time": "20:45",
       "rating": 4.5,
       "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
     },
     {
-      "title": "Aida Y Vuelta",
-      "time": "22:00",
-      "rating": 4.5,
-      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
-    },
-    {
       "title": "Evolution",
       "time": "12:00",
-      "rating": 4.5,
-      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
-    },
-    {
-      "title": "Evolution",
-      "time": "16:00",
       "rating": 4.5,
       "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
     },
@@ -676,19 +634,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Cumbres Borrascosas",
-      "time": "18:50",
-      "rating": 4.5,
-      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
-    },
-    {
-      "title": "Cumbres Borrascosas",
       "time": "19:20",
-      "rating": 4.5,
-      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
-    },
-    {
-      "title": "Cumbres Borrascosas",
-      "time": "21:50",
       "rating": 4.5,
       "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
     },
@@ -719,12 +665,6 @@ export const MOVIE_DATA = {
     {
       "title": "Greenland 2",
       "time": "12:30",
-      "rating": 4.5,
-      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
-    },
-    {
-      "title": "Greenland 2",
-      "time": "20:00",
       "rating": 4.5,
       "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
     },
@@ -826,19 +766,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Caminando Con El Diablo",
-      "time": "20:10",
-      "rating": 4.5,
-      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
-    },
-    {
-      "title": "Caminando Con El Diablo",
       "time": "21:20",
-      "rating": 4.5,
-      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
-    },
-    {
-      "title": "Caminando Con El Diablo",
-      "time": "21:45",
       "rating": 4.5,
       "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
     },
@@ -850,31 +778,13 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Cleaner: Rescate Vertical",
-      "time": "16:30",
-      "rating": 4.5,
-      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
-    },
-    {
-      "title": "Cleaner: Rescate Vertical",
       "time": "17:00",
       "rating": 4.5,
       "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
     },
     {
       "title": "Cleaner: Rescate Vertical",
-      "time": "18:20",
-      "rating": 4.5,
-      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
-    },
-    {
-      "title": "Cleaner: Rescate Vertical",
       "time": "21:00",
-      "rating": 4.5,
-      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
-    },
-    {
-      "title": "Cleaner: Rescate Vertical",
-      "time": "21:10",
       "rating": 4.5,
       "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
     },
@@ -898,25 +808,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "El Mago Del Kremlin",
-      "time": "16:30",
-      "rating": 4.5,
-      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
-    },
-    {
-      "title": "El Mago Del Kremlin",
       "time": "17:00",
-      "rating": 4.5,
-      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
-    },
-    {
-      "title": "El Mago Del Kremlin",
-      "time": "18:00",
-      "rating": 4.5,
-      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
-    },
-    {
-      "title": "El Mago Del Kremlin",
-      "time": "21:45",
       "rating": 4.5,
       "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
     },
@@ -1005,18 +897,6 @@ export const MOVIE_DATA = {
       "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
     },
     {
-      "title": "Linea De Extincion",
-      "time": "20:30",
-      "rating": 4.5,
-      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
-    },
-    {
-      "title": "¡La Novia!",
-      "time": "16:00",
-      "rating": 4.5,
-      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
-    },
-    {
       "title": "¡La Novia!",
       "time": "17:00",
       "rating": 4.5,
@@ -1025,12 +905,6 @@ export const MOVIE_DATA = {
     {
       "title": "¡La Novia!",
       "time": "18:00",
-      "rating": 4.5,
-      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
-    },
-    {
-      "title": "¡La Novia!",
-      "time": "18:15",
       "rating": 4.5,
       "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
     },
@@ -1048,19 +922,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "¡La Novia!",
-      "time": "19:40",
-      "rating": 4.5,
-      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
-    },
-    {
-      "title": "¡La Novia!",
       "time": "20:00",
-      "rating": 4.5,
-      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
-    },
-    {
-      "title": "¡La Novia!",
-      "time": "20:30",
       "rating": 4.5,
       "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
     },
