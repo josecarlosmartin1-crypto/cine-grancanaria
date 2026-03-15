@@ -103,6 +103,12 @@ export const MOVIE_DATA = {
       "summary": "Han pasado años desde su última aventura, pero José Luis Torrente, el ex-policía más políticamente i..."
     },
     {
+      "title": "Torrente Presidente",
+      "time": "22:45",
+      "rating": 4.5,
+      "summary": "Han pasado años desde su última aventura, pero José Luis Torrente, el ex-policía más políticamente i..."
+    },
+    {
       "title": "Hoppers",
       "time": "16:00",
       "rating": 4.5,
@@ -129,12 +135,6 @@ export const MOVIE_DATA = {
     {
       "title": "Hoppers",
       "time": "20:20",
-      "rating": 4.5,
-      "summary": "En Hoppers, los científicos han descubierto la tecnología para instalar la conciencia humana a anima..."
-    },
-    {
-      "title": "Hoppers",
-      "time": "22:35",
       "rating": 4.5,
       "summary": "En Hoppers, los científicos han descubierto la tecnología para instalar la conciencia humana a anima..."
     },
@@ -214,19 +214,19 @@ export const MOVIE_DATA = {
   "Cine Yelmo Las Arenas": [
     {
       "title": "After. Aquí Acaba Todo",
-      "time": "16:40",
+      "time": "17:10",
       "rating": 4.5,
       "summary": "Hardin sigue luchando por seguir adelante. Agobiado por el bloqueo del escritor y la dolorosa ruptur..."
     },
     {
       "title": "Torrente Presidente",
-      "time": "12:30",
+      "time": "12:00",
       "rating": 4.5,
       "summary": "Han pasado años desde su última aventura, pero José Luis Torrente, el ex-policía más políticamente i..."
     },
     {
       "title": "Torrente Presidente",
-      "time": "13:00",
+      "time": "12:50",
       "rating": 4.5,
       "summary": "Han pasado años desde su última aventura, pero José Luis Torrente, el ex-policía más políticamente i..."
     },
@@ -238,7 +238,13 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Torrente Presidente",
-      "time": "15:00",
+      "time": "14:30",
+      "rating": 4.5,
+      "summary": "Han pasado años desde su última aventura, pero José Luis Torrente, el ex-policía más políticamente i..."
+    },
+    {
+      "title": "Torrente Presidente",
+      "time": "15:10",
       "rating": 4.5,
       "summary": "Han pasado años desde su última aventura, pero José Luis Torrente, el ex-policía más políticamente i..."
     },
@@ -250,7 +256,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Torrente Presidente",
-      "time": "16:00",
+      "time": "16:10",
       "rating": 4.5,
       "summary": "Han pasado años desde su última aventura, pero José Luis Torrente, el ex-policía más políticamente i..."
     },
@@ -298,7 +304,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Torrente Presidente",
-      "time": "21:00",
+      "time": "20:50",
       "rating": 4.5,
       "summary": "Han pasado años desde su última aventura, pero José Luis Torrente, el ex-policía más políticamente i..."
     },
@@ -316,7 +322,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Torrente Presidente",
-      "time": "22:40",
+      "time": "22:45",
       "rating": 4.5,
       "summary": "Han pasado años desde su última aventura, pero José Luis Torrente, el ex-policía más políticamente i..."
     },
@@ -340,7 +346,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "El Mago Del Kremlin",
-      "time": "19:10",
+      "time": "19:25",
       "rating": 4.5,
       "summary": "En medio del caos postsoviético de los años 90, el joven Vadim Baranov (Paul Dano) empieza a labrars..."
     },
@@ -409,12 +415,6 @@ export const MOVIE_DATA = {
       "time": "12:10",
       "rating": 4.5,
       "summary": "Colin, un chico introvertido, se queda prendado de Ray, el carismático y atractivo líder de una band..."
-    },
-    {
-      "title": "Scream 7",
-      "time": "12:50",
-      "rating": 4.5,
-      "summary": "Cuando un nuevo asesino Ghostface aparece en el tranquilo pueblo donde Sidney Prescott (Neve Campbel..."
     },
     {
       "title": "Scream 7",
@@ -624,13 +624,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Torrente Presidente",
-      "time": "23:15",
-      "rating": 4.5,
-      "summary": "Han pasado años desde su última aventura, pero José Luis Torrente, el ex-policía más políticamente i..."
-    },
-    {
-      "title": "Torrente Presidente",
-      "time": "23:30",
+      "time": "22:45",
       "rating": 4.5,
       "summary": "Han pasado años desde su última aventura, pero José Luis Torrente, el ex-policía más políticamente i..."
     },
@@ -697,12 +691,6 @@ export const MOVIE_DATA = {
     {
       "title": "Hoppers",
       "time": "20:55",
-      "rating": 4.5,
-      "summary": "En Hoppers, los científicos han descubierto la tecnología para instalar la conciencia humana a anima..."
-    },
-    {
-      "title": "Hoppers",
-      "time": "22:45",
       "rating": 4.5,
       "summary": "En Hoppers, los científicos han descubierto la tecnología para instalar la conciencia humana a anima..."
     },
@@ -964,12 +952,6 @@ export const MOVIE_DATA = {
     },
     {
       "title": "La Asistenta",
-      "time": "15:45",
-      "rating": 4.5,
-      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
-    },
-    {
-      "title": "La Asistenta",
       "time": "18:30",
       "rating": 4.5,
       "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
@@ -995,12 +977,6 @@ export const MOVIE_DATA = {
     {
       "title": "La Asistenta",
       "time": "21:50",
-      "rating": 4.5,
-      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
-    },
-    {
-      "title": "La Asistenta",
-      "time": "22:00",
       "rating": 4.5,
       "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
     },
@@ -1149,12 +1125,6 @@ export const MOVIE_DATA = {
       "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
     },
     {
-      "title": "Cleaner: Rescate Vertical",
-      "time": "22:45",
-      "rating": 4.5,
-      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
-    },
-    {
       "title": "Hoppers",
       "time": "12:00",
       "rating": 4.5,
@@ -1240,12 +1210,6 @@ export const MOVIE_DATA = {
     },
     {
       "title": "¡La Novia!",
-      "time": "22:30",
-      "rating": 4.5,
-      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
-    },
-    {
-      "title": "¡La Novia!",
       "time": "22:40",
       "rating": 4.5,
       "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
@@ -1270,12 +1234,6 @@ export const MOVIE_DATA = {
     },
     {
       "title": "No Te Queda Otra",
-      "time": "22:10",
-      "rating": 4.5,
-      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
-    },
-    {
-      "title": "No Te Queda Otra",
       "time": "22:15",
       "rating": 4.5,
       "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
@@ -1295,12 +1253,6 @@ export const MOVIE_DATA = {
     {
       "title": "Torrente Presidente",
       "time": "16:00",
-      "rating": 4.5,
-      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
-    },
-    {
-      "title": "Torrente Presidente",
-      "time": "16:20",
       "rating": 4.5,
       "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
     },
@@ -1336,12 +1288,6 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Torrente Presidente",
-      "time": "18:20",
-      "rating": 4.5,
-      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
-    },
-    {
-      "title": "Torrente Presidente",
       "time": "18:30",
       "rating": 4.5,
       "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
@@ -1372,12 +1318,6 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Torrente Presidente",
-      "time": "20:20",
-      "rating": 4.5,
-      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
-    },
-    {
-      "title": "Torrente Presidente",
       "time": "20:30",
       "rating": 4.5,
       "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
@@ -1403,12 +1343,6 @@ export const MOVIE_DATA = {
     {
       "title": "Torrente Presidente",
       "time": "22:30",
-      "rating": 4.5,
-      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
-    },
-    {
-      "title": "Torrente Presidente",
-      "time": "23:00",
       "rating": 4.5,
       "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
     },
