@@ -173,6 +173,18 @@ export const MOVIE_DATA = {
       "time": "17:10",
       "rating": 4.5,
       "summary": "\"Los Domingos\" cuenta la historia de Ainara (Blanca Soroa), una joven idealista y brillante de 17 añ..."
+    },
+    {
+      "title": "Una Batalla Tras Otra",
+      "time": "17:00",
+      "rating": 4.5,
+      "summary": "Cuando Ingrid aprieta el gatillo, sus víctimas no saben quién les ha disparado. Su habilidad para in..."
+    },
+    {
+      "title": "Una Batalla Tras Otra",
+      "time": "20:30",
+      "rating": 4.5,
+      "summary": "Cuando Ingrid aprieta el gatillo, sus víctimas no saben quién les ha disparado. Su habilidad para in..."
     }
   ],
   "Cine Yelmo Las Arenas": [
@@ -343,6 +355,18 @@ export const MOVIE_DATA = {
       "time": "17:05",
       "rating": 4.5,
       "summary": "\"Los Domingos\" cuenta la historia de Ainara (Blanca Soroa), una joven idealista y brillante de 17 añ..."
+    },
+    {
+      "title": "Una Batalla Tras Otra",
+      "time": "17:30",
+      "rating": 4.5,
+      "summary": "Cuando Ingrid aprieta el gatillo, sus víctimas no saben quién les ha disparado. Su habilidad para in..."
+    },
+    {
+      "title": "Una Batalla Tras Otra",
+      "time": "20:50",
+      "rating": 4.5,
+      "summary": "Cuando Ingrid aprieta el gatillo, sus víctimas no saben quién les ha disparado. Su habilidad para in..."
     }
   ],
   "Cine Yelmo Premium Alisios": [
@@ -495,100 +519,21 @@ export const MOVIE_DATA = {
       "time": "20:00",
       "rating": 4.5,
       "summary": "Millie es una joven que, tras perder su trabajo, acepta un puesto como sirvienta en la lujosa pero i..."
-    }
-  ],
-  "Ocine Premium Siete Palmas": [
-    {
-      "title": "El Mago Del Kremlin",
-      "time": "22:25",
-      "rating": 4.5,
-      "summary": "En medio del caos postsoviético de los años 90, el joven Vadim Baranov (Paul Dano) empieza a labrars..."
-    },
-    {
-      "title": "Goat. Como Cabras",
-      "time": "18:05",
-      "rating": 4.5,
-      "summary": "La historia sigue a Will, una pequeña cabra con grandes sueños que recibe una oportunidad única en l..."
-    },
-    {
-      "title": "Ruta De Escape (Kids)",
-      "time": "22:20",
-      "rating": 4.5,
-      "summary": "Davis es un escurridizo ladrón cuyos atracos de alto riesgo tienen desconcertada a la policía. Davis..."
-    },
-    {
-      "title": "Torrente Presidente",
-      "time": "17:00",
-      "rating": 4.5,
-      "summary": "Sexta entrega de la saga Torrente...."
-    },
-    {
-      "title": "Torrente Presidente",
-      "time": "17:30",
-      "rating": 4.5,
-      "summary": "Sexta entrega de la saga Torrente...."
-    },
-    {
-      "title": "Torrente Presidente",
-      "time": "18:10",
-      "rating": 4.5,
-      "summary": "Sexta entrega de la saga Torrente...."
-    },
-    {
-      "title": "Torrente Presidente",
-      "time": "19:10",
-      "rating": 4.5,
-      "summary": "Sexta entrega de la saga Torrente...."
-    },
-    {
-      "title": "Torrente Presidente",
-      "time": "19:45",
-      "rating": 4.5,
-      "summary": "Sexta entrega de la saga Torrente...."
-    },
-    {
-      "title": "Torrente Presidente",
-      "time": "20:20",
-      "rating": 4.5,
-      "summary": "Sexta entrega de la saga Torrente...."
-    },
-    {
-      "title": "Torrente Presidente",
-      "time": "21:20",
-      "rating": 4.5,
-      "summary": "Sexta entrega de la saga Torrente...."
-    },
-    {
-      "title": "Torrente Presidente",
-      "time": "22:00",
-      "rating": 4.5,
-      "summary": "Sexta entrega de la saga Torrente...."
-    },
-    {
-      "title": "Torrente Presidente",
-      "time": "22:30",
-      "rating": 4.5,
-      "summary": "Sexta entrega de la saga Torrente...."
     },
     {
       "title": "Una Batalla Tras Otra",
-      "time": "21:30",
-      "rating": 4.5,
-      "summary": "Versión moderna de la novela 'Vineland', de Thomas Pynchon, escrita en 1990, sobre los movimientos r..."
-    },
-    {
-      "title": "Zootrópolis 2 (Screen X)",
       "time": "17:15",
       "rating": 4.5,
-      "summary": "La nueva película de Disney reúne a personajes nuevos y otros que regresan, como los policías novato..."
+      "summary": "Cuando Ingrid aprieta el gatillo, sus víctimas no saben quién les ha disparado. Su habilidad para in..."
     },
     {
-      "title": "¡La Novia! (Atmos)",
-      "time": "22:15",
+      "title": "Una Batalla Tras Otra",
+      "time": "20:30",
       "rating": 4.5,
-      "summary": "En el Chicago de los años 30, Frankenstein pide ayuda al Dr. Euphronius para crear una compañera. Da..."
+      "summary": "Cuando Ingrid aprieta el gatillo, sus víctimas no saben quién les ha disparado. Su habilidad para in..."
     }
   ],
+  "Ocine Premium Siete Palmas": [],
   "Artesiete Las Terrazas": [
     {
       "title": "Your Name",
@@ -604,7 +549,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "La Asistenta",
-      "time": "20:20",
+      "time": "21:00",
       "rating": 4.5,
       "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
     },
@@ -634,19 +579,13 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Goat, Como Cabras",
-      "time": "16:15",
+      "time": "16:00",
       "rating": 4.5,
       "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
     },
     {
       "title": "Goat, Como Cabras",
       "time": "17:00",
-      "rating": 4.5,
-      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
-    },
-    {
-      "title": "Goat, Como Cabras",
-      "time": "18:10",
       "rating": 4.5,
       "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
     },
@@ -658,7 +597,13 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Greenland 2",
-      "time": "22:40",
+      "time": "22:30",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "Scream 7",
+      "time": "17:30",
       "rating": 4.5,
       "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
     },
@@ -748,7 +693,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Hoppers",
-      "time": "21:00",
+      "time": "20:30",
       "rating": 4.5,
       "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
     },
@@ -760,19 +705,19 @@ export const MOVIE_DATA = {
     },
     {
       "title": "¡La Novia!",
+      "time": "21:45",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "No Te Queda Otra",
+      "time": "21:40",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "No Te Queda Otra",
       "time": "22:40",
-      "rating": 4.5,
-      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
-    },
-    {
-      "title": "No Te Queda Otra",
-      "time": "21:20",
-      "rating": 4.5,
-      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
-    },
-    {
-      "title": "No Te Queda Otra",
-      "time": "22:15",
       "rating": 4.5,
       "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
     },
@@ -827,12 +772,6 @@ export const MOVIE_DATA = {
     {
       "title": "Torrente Presidente",
       "time": "19:50",
-      "rating": 4.5,
-      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
-    },
-    {
-      "title": "Torrente Presidente",
-      "time": "20:00",
       "rating": 4.5,
       "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
     },
