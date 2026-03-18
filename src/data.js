@@ -189,6 +189,12 @@ export const MOVIE_DATA = {
   ],
   "Cine Yelmo Las Arenas": [
     {
+      "title": "La Tarta Del Presidente (Efecto Cinema)",
+      "time": "19:00",
+      "rating": 4.5,
+      "summary": "Irak, años noventa. La pequeña Lamia recibe la misión de preparar una tarta con motivo del cumpleaño..."
+    },
+    {
       "title": "Torrente Presidente",
       "time": "17:00",
       "rating": 4.5,
@@ -261,20 +267,14 @@ export const MOVIE_DATA = {
       "summary": "En medio del caos postsoviético de los años 90, el joven Vadim Baranov (Paul Dano) empieza a labrars..."
     },
     {
-      "title": "Hoppers",
-      "time": "17:10",
+      "title": "¡La Novia!",
+      "time": "22:20",
       "rating": 4.5,
-      "summary": "En Hoppers, los científicos han descubierto la tecnología para instalar la conciencia humana a anima..."
+      "summary": "En el Chicago de los años 30, Frankenstein pide ayuda al Dr. Euphronius para crear una compañera. Da..."
     },
     {
       "title": "Hoppers",
       "time": "18:10",
-      "rating": 4.5,
-      "summary": "En Hoppers, los científicos han descubierto la tecnología para instalar la conciencia humana a anima..."
-    },
-    {
-      "title": "Hoppers",
-      "time": "19:30",
       "rating": 4.5,
       "summary": "En Hoppers, los científicos han descubierto la tecnología para instalar la conciencia humana a anima..."
     },
@@ -289,12 +289,6 @@ export const MOVIE_DATA = {
       "time": "22:50",
       "rating": 4.5,
       "summary": "En Hoppers, los científicos han descubierto la tecnología para instalar la conciencia humana a anima..."
-    },
-    {
-      "title": "¡La Novia!",
-      "time": "22:20",
-      "rating": 4.5,
-      "summary": "En el Chicago de los años 30, Frankenstein pide ayuda al Dr. Euphronius para crear una compañera. Da..."
     },
     {
       "title": "Scream 7",
@@ -327,12 +321,6 @@ export const MOVIE_DATA = {
       "summary": "Después de sobrevivir al fin del mundo por la caída de un cometa, Jeff Garrity, junto con su mujer A..."
     },
     {
-      "title": "El Agente Secreto",
-      "time": "17:25",
-      "rating": 4.5,
-      "summary": "1977. En un Brasil atormentado por la dictadura militar, Marcelo, un cuarentón que huye de un pasado..."
-    },
-    {
       "title": "Cumbres Borrascosas",
       "time": "19:35",
       "rating": 4.5,
@@ -346,7 +334,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "La Asistenta",
-      "time": "20:40",
+      "time": "21:30",
       "rating": 4.5,
       "summary": "Millie es una joven que, tras perder su trabajo, acepta un puesto como sirvienta en la lujosa pero i..."
     },
@@ -538,6 +526,24 @@ export const MOVIE_DATA = {
     {
       "title": "Your Name",
       "time": "18:00",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "Los Pecadores",
+      "time": "19:20",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "Los Pecadores",
+      "time": "20:30",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "Una Batalla Tras Otra",
+      "time": "18:45",
       "rating": 4.5,
       "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
     },
@@ -850,6 +856,36 @@ export const MOVIE_DATA = {
     {
       "title": "Proyecto Salvacion",
       "time": "22:45",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "Te Van A Matar",
+      "time": "18:30",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "Te Van A Matar",
+      "time": "19:50",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "Te Van A Matar",
+      "time": "20:25",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "Te Van A Matar",
+      "time": "21:45",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "Te Van A Matar",
+      "time": "22:15",
       "rating": 4.5,
       "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
     },
