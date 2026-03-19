@@ -189,12 +189,6 @@ export const MOVIE_DATA = {
   ],
   "Cine Yelmo Las Arenas": [
     {
-      "title": "La Tarta Del Presidente (Efecto Cinema)",
-      "time": "19:00",
-      "rating": 4.5,
-      "summary": "Irak, años noventa. La pequeña Lamia recibe la misión de preparar una tarta con motivo del cumpleaño..."
-    },
-    {
       "title": "Torrente Presidente",
       "time": "17:00",
       "rating": 4.5,
@@ -262,7 +256,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "El Mago Del Kremlin",
-      "time": "19:40",
+      "time": "20:45",
       "rating": 4.5,
       "summary": "En medio del caos postsoviético de los años 90, el joven Vadim Baranov (Paul Dano) empieza a labrars..."
     },
@@ -291,6 +285,12 @@ export const MOVIE_DATA = {
       "summary": "En Hoppers, los científicos han descubierto la tecnología para instalar la conciencia humana a anima..."
     },
     {
+      "title": "Enhypen (Walk The Line Summer Edition) In Cinemas",
+      "time": "18:00",
+      "rating": 4.5,
+      "summary": "¡Disfruta ENHYPEN WORLD TOUR ‘WALK THE LINE’ IN JAPAN – SUMMER EDITION en la gran pantalla!\n Desde s..."
+    },
+    {
       "title": "Scream 7",
       "time": "17:40",
       "rating": 4.5,
@@ -304,21 +304,9 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Scream 7",
-      "time": "21:50",
-      "rating": 4.5,
-      "summary": "Cuando un nuevo asesino Ghostface aparece en el tranquilo pueblo donde Sidney Prescott (Neve Campbel..."
-    },
-    {
-      "title": "Scream 7",
       "time": "22:35",
       "rating": 4.5,
       "summary": "Cuando un nuevo asesino Ghostface aparece en el tranquilo pueblo donde Sidney Prescott (Neve Campbel..."
-    },
-    {
-      "title": "Greenland 2",
-      "time": "22:45",
-      "rating": 4.5,
-      "summary": "Después de sobrevivir al fin del mundo por la caída de un cometa, Jeff Garrity, junto con su mujer A..."
     },
     {
       "title": "Cumbres Borrascosas",
@@ -334,15 +322,15 @@ export const MOVIE_DATA = {
     },
     {
       "title": "La Asistenta",
-      "time": "21:30",
+      "time": "20:40",
       "rating": 4.5,
       "summary": "Millie es una joven que, tras perder su trabajo, acepta un puesto como sirvienta en la lujosa pero i..."
     },
     {
-      "title": "Los Domingos",
-      "time": "17:05",
+      "title": "Valor Sentimental",
+      "time": "17:25",
       "rating": 4.5,
-      "summary": "\"Los Domingos\" cuenta la historia de Ainara (Blanca Soroa), una joven idealista y brillante de 17 añ..."
+      "summary": "Las hermanas Nora y Agnes se reencuentran con su distanciado padre, el carismático Gustav, un antigu..."
     },
     {
       "title": "Una Batalla Tras Otra",
@@ -437,18 +425,6 @@ export const MOVIE_DATA = {
       "summary": "En Hoppers, los científicos han descubierto la tecnología para instalar la conciencia humana a anima..."
     },
     {
-      "title": "¡La Novia!",
-      "time": "19:40",
-      "rating": 4.5,
-      "summary": "En el Chicago de los años 30, Frankenstein pide ayuda al Dr. Euphronius para crear una compañera. Da..."
-    },
-    {
-      "title": "¡La Novia!",
-      "time": "22:20",
-      "rating": 4.5,
-      "summary": "En el Chicago de los años 30, Frankenstein pide ayuda al Dr. Euphronius para crear una compañera. Da..."
-    },
-    {
       "title": "Scream 7",
       "time": "17:10",
       "rating": 4.5,
@@ -491,12 +467,6 @@ export const MOVIE_DATA = {
       "summary": "Una audaz y original reinterpretación de una de una de las historias de amor más grandes de todos lo..."
     },
     {
-      "title": "Aída Y Vuelta",
-      "time": "17:25",
-      "rating": 4.5,
-      "summary": "\"Aída y vuelta\", el largometraje, aborda el rodaje de un capítulo de la serie con tramas que transcu..."
-    },
-    {
       "title": "Hamnet",
       "time": "17:20",
       "rating": 4.5,
@@ -531,13 +501,31 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Los Pecadores",
+      "time": "12:00",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "Los Pecadores",
       "time": "19:20",
       "rating": 4.5,
       "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
     },
     {
       "title": "Los Pecadores",
-      "time": "20:30",
+      "time": "21:40",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "Los Pecadores",
+      "time": "21:45",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "Una Batalla Tras Otra",
+      "time": "12:00",
       "rating": 4.5,
       "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
     },
@@ -548,14 +536,14 @@ export const MOVIE_DATA = {
       "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
     },
     {
-      "title": "La Asistenta",
-      "time": "19:20",
+      "title": "Una Batalla Tras Otra",
+      "time": "18:50",
       "rating": 4.5,
       "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
     },
     {
       "title": "La Asistenta",
-      "time": "21:00",
+      "time": "19:20",
       "rating": 4.5,
       "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
     },
@@ -567,31 +555,31 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Cumbres Borrascosas",
-      "time": "15:45",
-      "rating": 4.5,
-      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
-    },
-    {
-      "title": "Cumbres Borrascosas",
       "time": "17:00",
       "rating": 4.5,
       "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
     },
     {
-      "title": "Cumbres Borrascosas",
-      "time": "18:10",
+      "title": "Goat, Como Cabras",
+      "time": "12:30",
       "rating": 4.5,
       "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
     },
     {
       "title": "Goat, Como Cabras",
-      "time": "16:00",
+      "time": "16:30",
       "rating": 4.5,
       "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
     },
     {
       "title": "Goat, Como Cabras",
       "time": "17:00",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "Goat, Como Cabras",
+      "time": "17:30",
       "rating": 4.5,
       "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
     },
@@ -602,8 +590,14 @@ export const MOVIE_DATA = {
       "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
     },
     {
-      "title": "Greenland 2",
-      "time": "22:30",
+      "title": "Scream 7",
+      "time": "12:30",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "Scream 7",
+      "time": "16:00",
       "rating": 4.5,
       "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
     },
@@ -615,25 +609,25 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Scream 7",
-      "time": "18:30",
-      "rating": 4.5,
-      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
-    },
-    {
-      "title": "Scream 7",
       "time": "19:30",
       "rating": 4.5,
       "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
     },
     {
       "title": "Scream 7",
-      "time": "20:30",
+      "time": "20:00",
       "rating": 4.5,
       "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
     },
     {
       "title": "Scream 7",
       "time": "21:30",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "Scream 7",
+      "time": "21:45",
       "rating": 4.5,
       "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
     },
@@ -651,13 +645,13 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Hoppers",
-      "time": "16:00",
+      "time": "12:15",
       "rating": 4.5,
       "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
     },
     {
       "title": "Hoppers",
-      "time": "16:30",
+      "time": "16:00",
       "rating": 4.5,
       "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
     },
@@ -675,13 +669,13 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Hoppers",
-      "time": "18:00",
+      "time": "17:45",
       "rating": 4.5,
       "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
     },
     {
       "title": "Hoppers",
-      "time": "18:30",
+      "time": "18:00",
       "rating": 4.5,
       "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
     },
@@ -693,13 +687,19 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Hoppers",
-      "time": "20:00",
+      "time": "19:15",
       "rating": 4.5,
       "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
     },
     {
       "title": "Hoppers",
-      "time": "20:30",
+      "time": "19:45",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "Hoppers",
+      "time": "20:00",
       "rating": 4.5,
       "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
     },
@@ -710,20 +710,14 @@ export const MOVIE_DATA = {
       "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
     },
     {
-      "title": "¡La Novia!",
-      "time": "21:45",
-      "rating": 4.5,
-      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
-    },
-    {
       "title": "No Te Queda Otra",
       "time": "21:40",
       "rating": 4.5,
       "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
     },
     {
-      "title": "No Te Queda Otra",
-      "time": "22:40",
+      "title": "Torrente Presidente",
+      "time": "12:00",
       "rating": 4.5,
       "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
     },
@@ -735,19 +729,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Torrente Presidente",
-      "time": "16:30",
-      "rating": 4.5,
-      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
-    },
-    {
-      "title": "Torrente Presidente",
       "time": "17:00",
-      "rating": 4.5,
-      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
-    },
-    {
-      "title": "Torrente Presidente",
-      "time": "17:45",
       "rating": 4.5,
       "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
     },
@@ -771,7 +753,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Torrente Presidente",
-      "time": "19:45",
+      "time": "19:30",
       "rating": 4.5,
       "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
     },
@@ -795,6 +777,12 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Torrente Presidente",
+      "time": "21:30",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "Torrente Presidente",
       "time": "21:45",
       "rating": 4.5,
       "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
@@ -807,7 +795,115 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Torrente Presidente",
+      "time": "22:00",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "Torrente Presidente",
       "time": "22:30",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "Amarga Navidad",
+      "time": "12:15",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "Amarga Navidad",
+      "time": "16:00",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "Amarga Navidad",
+      "time": "16:20",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "Amarga Navidad",
+      "time": "17:30",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "Amarga Navidad",
+      "time": "18:00",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "Amarga Navidad",
+      "time": "18:20",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "Amarga Navidad",
+      "time": "19:30",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "Amarga Navidad",
+      "time": "20:00",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "Amarga Navidad",
+      "time": "20:20",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "Amarga Navidad",
+      "time": "21:30",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "Amarga Navidad",
+      "time": "22:00",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "Amarga Navidad",
+      "time": "22:20",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "Tafiti Y Sus Amigos",
+      "time": "12:45",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "Tafiti Y Sus Amigos",
+      "time": "16:15",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "Tafiti Y Sus Amigos",
+      "time": "16:30",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "Tafiti Y Sus Amigos",
+      "time": "17:45",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "Tafiti Y Sus Amigos",
+      "time": "18:00",
       "rating": 4.5,
       "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
     },
@@ -886,6 +982,54 @@ export const MOVIE_DATA = {
     {
       "title": "Te Van A Matar",
       "time": "22:15",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "Whistle: El Silbido Del Mal",
+      "time": "12:30",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "Whistle: El Silbido Del Mal",
+      "time": "16:20",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "Whistle: El Silbido Del Mal",
+      "time": "17:30",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "Whistle: El Silbido Del Mal",
+      "time": "18:20",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "Whistle: El Silbido Del Mal",
+      "time": "19:30",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "Whistle: El Silbido Del Mal",
+      "time": "20:20",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "Whistle: El Silbido Del Mal",
+      "time": "21:30",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "Whistle: El Silbido Del Mal",
+      "time": "22:20",
       "rating": 4.5,
       "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
     },
