@@ -37,10 +37,16 @@ export const MOVIE_DATA = {
       "summary": "Elsa es una directora de publicidad cuya madre muere durante un largo puente del mes de diciembre. E..."
     },
     {
-      "title": "Whistle: El Silbido Del Mal",
+      "title": "Tafiti Y Sus Amigos",
       "time": "16:10",
       "rating": 4.5,
-      "summary": "Un grupo de estudiantes encuentra por accidente un objeto maldito: un antiguo silbato de la muerte a..."
+      "summary": "Cuando Tafiti, una joven suricata, conoce a Púas, el cerdo salvaje, sabe que no pueden ser amigos. “..."
+    },
+    {
+      "title": "Tafiti Y Sus Amigos",
+      "time": "18:20",
+      "rating": 4.5,
+      "summary": "Cuando Tafiti, una joven suricata, conoce a Púas, el cerdo salvaje, sabe que no pueden ser amigos. “..."
     },
     {
       "title": "Whistle: El Silbido Del Mal",
@@ -53,12 +59,6 @@ export const MOVIE_DATA = {
       "time": "22:25",
       "rating": 4.5,
       "summary": "Un grupo de estudiantes encuentra por accidente un objeto maldito: un antiguo silbato de la muerte a..."
-    },
-    {
-      "title": "Tafiti Y Sus Amigos",
-      "time": "18:20",
-      "rating": 4.5,
-      "summary": "Cuando Tafiti, una joven suricata, conoce a Púas, el cerdo salvaje, sabe que no pueden ser amigos. “..."
     },
     {
       "title": "Torrente Presidente",
@@ -225,6 +225,12 @@ export const MOVIE_DATA = {
   ],
   "Cine Yelmo Las Arenas": [
     {
+      "title": "Tristan Und Isolde - Met Live 25-26",
+      "time": "16:00",
+      "rating": 4.5,
+      "summary": "Después de años de anticipación, un evento verdaderamente imperdible llega a los cines de todo el mu..."
+    },
+    {
       "title": "Tafiti Y Sus Amigos",
       "time": "16:15",
       "rating": 4.5,
@@ -244,25 +250,43 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Amarga Navidad",
-      "time": "17:00",
+      "time": "12:30",
       "rating": 4.5,
       "summary": "Elsa es una directora de publicidad cuya madre muere durante un largo puente del mes de diciembre. E..."
     },
     {
       "title": "Amarga Navidad",
-      "time": "19:30",
+      "time": "14:55",
       "rating": 4.5,
       "summary": "Elsa es una directora de publicidad cuya madre muere durante un largo puente del mes de diciembre. E..."
     },
     {
       "title": "Amarga Navidad",
-      "time": "22:00",
+      "time": "17:20",
+      "rating": 4.5,
+      "summary": "Elsa es una directora de publicidad cuya madre muere durante un largo puente del mes de diciembre. E..."
+    },
+    {
+      "title": "Amarga Navidad",
+      "time": "19:45",
+      "rating": 4.5,
+      "summary": "Elsa es una directora de publicidad cuya madre muere durante un largo puente del mes de diciembre. E..."
+    },
+    {
+      "title": "Amarga Navidad",
+      "time": "22:20",
       "rating": 4.5,
       "summary": "Elsa es una directora de publicidad cuya madre muere durante un largo puente del mes de diciembre. E..."
     },
     {
       "title": "Your Name (10º Aniversario)",
-      "time": "16:00",
+      "time": "12:20",
+      "rating": 4.5,
+      "summary": "Ha pasado un mes desde que un cometa que visita la Tierra cada mil años se avistara desde Japón. Mit..."
+    },
+    {
+      "title": "Your Name (10º Aniversario)",
+      "time": "15:50",
       "rating": 4.5,
       "summary": "Ha pasado un mes desde que un cometa que visita la Tierra cada mil años se avistara desde Japón. Mit..."
     },
@@ -271,6 +295,36 @@ export const MOVIE_DATA = {
       "time": "18:30",
       "rating": 4.5,
       "summary": "Ha pasado un mes desde que un cometa que visita la Tierra cada mil años se avistara desde Japón. Mit..."
+    },
+    {
+      "title": "Torrente Presidente",
+      "time": "12:00",
+      "rating": 4.5,
+      "summary": "Han pasado años desde su última aventura, pero José Luis Torrente, el ex-policía más políticamente i..."
+    },
+    {
+      "title": "Torrente Presidente",
+      "time": "12:25",
+      "rating": 4.5,
+      "summary": "Han pasado años desde su última aventura, pero José Luis Torrente, el ex-policía más políticamente i..."
+    },
+    {
+      "title": "Torrente Presidente",
+      "time": "13:50",
+      "rating": 4.5,
+      "summary": "Han pasado años desde su última aventura, pero José Luis Torrente, el ex-policía más políticamente i..."
+    },
+    {
+      "title": "Torrente Presidente",
+      "time": "14:15",
+      "rating": 4.5,
+      "summary": "Han pasado años desde su última aventura, pero José Luis Torrente, el ex-policía más políticamente i..."
+    },
+    {
+      "title": "Torrente Presidente",
+      "time": "14:50",
+      "rating": 4.5,
+      "summary": "Han pasado años desde su última aventura, pero José Luis Torrente, el ex-policía más políticamente i..."
     },
     {
       "title": "Torrente Presidente",
@@ -286,13 +340,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Torrente Presidente",
-      "time": "17:05",
-      "rating": 4.5,
-      "summary": "Han pasado años desde su última aventura, pero José Luis Torrente, el ex-policía más políticamente i..."
-    },
-    {
-      "title": "Torrente Presidente",
-      "time": "17:40",
+      "time": "16:50",
       "rating": 4.5,
       "summary": "Han pasado años desde su última aventura, pero José Luis Torrente, el ex-policía más políticamente i..."
     },
@@ -310,13 +358,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Torrente Presidente",
-      "time": "19:25",
-      "rating": 4.5,
-      "summary": "Han pasado años desde su última aventura, pero José Luis Torrente, el ex-policía más políticamente i..."
-    },
-    {
-      "title": "Torrente Presidente",
-      "time": "20:00",
+      "time": "19:10",
       "rating": 4.5,
       "summary": "Han pasado años desde su última aventura, pero José Luis Torrente, el ex-policía más políticamente i..."
     },
@@ -334,37 +376,67 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Torrente Presidente",
-      "time": "21:45",
+      "time": "21:30",
       "rating": 4.5,
       "summary": "Han pasado años desde su última aventura, pero José Luis Torrente, el ex-policía más políticamente i..."
     },
     {
       "title": "Torrente Presidente",
-      "time": "22:20",
+      "time": "22:10",
       "rating": 4.5,
       "summary": "Han pasado años desde su última aventura, pero José Luis Torrente, el ex-policía más políticamente i..."
     },
     {
       "title": "Torrente Presidente",
-      "time": "22:40",
+      "time": "22:45",
       "rating": 4.5,
       "summary": "Han pasado años desde su última aventura, pero José Luis Torrente, el ex-policía más políticamente i..."
     },
     {
       "title": "El Testamento De Ann Lee",
-      "time": "22:10",
+      "time": "22:00",
       "rating": 4.5,
       "summary": "La leyenda real de Ann Lee, fundadora de la secta devocional conocida como los Shakers. Amanda Seyfr..."
     },
     {
-      "title": "El Mago Del Kremlin",
-      "time": "16:20",
+      "title": "Pillion",
+      "time": "11:45",
       "rating": 4.5,
-      "summary": "En medio del caos postsoviético de los años 90, el joven Vadim Baranov (Paul Dano) empieza a labrars..."
+      "summary": "Colin, un chico introvertido, se queda prendado de Ray, el carismático y atractivo líder de una band..."
+    },
+    {
+      "title": "Hoppers",
+      "time": "11:50",
+      "rating": 4.5,
+      "summary": "En Hoppers, los científicos han descubierto la tecnología para instalar la conciencia humana a anima..."
+    },
+    {
+      "title": "Hoppers",
+      "time": "12:40",
+      "rating": 4.5,
+      "summary": "En Hoppers, los científicos han descubierto la tecnología para instalar la conciencia humana a anima..."
+    },
+    {
+      "title": "Hoppers",
+      "time": "15:10",
+      "rating": 4.5,
+      "summary": "En Hoppers, los científicos han descubierto la tecnología para instalar la conciencia humana a anima..."
+    },
+    {
+      "title": "Hoppers",
+      "time": "17:00",
+      "rating": 4.5,
+      "summary": "En Hoppers, los científicos han descubierto la tecnología para instalar la conciencia humana a anima..."
     },
     {
       "title": "Hoppers",
       "time": "17:50",
+      "rating": 4.5,
+      "summary": "En Hoppers, los científicos han descubierto la tecnología para instalar la conciencia humana a anima..."
+    },
+    {
+      "title": "Hoppers",
+      "time": "19:20",
       "rating": 4.5,
       "summary": "En Hoppers, los científicos han descubierto la tecnología para instalar la conciencia humana a anima..."
     },
@@ -375,14 +447,32 @@ export const MOVIE_DATA = {
       "summary": "En Hoppers, los científicos han descubierto la tecnología para instalar la conciencia humana a anima..."
     },
     {
+      "title": "El Mago Del Kremlin",
+      "time": "17:05",
+      "rating": 4.5,
+      "summary": "En medio del caos postsoviético de los años 90, el joven Vadim Baranov (Paul Dano) empieza a labrars..."
+    },
+    {
       "title": "¡La Novia!",
       "time": "22:25",
       "rating": 4.5,
       "summary": "En el Chicago de los años 30, Frankenstein pide ayuda al Dr. Euphronius para crear una compañera. Da..."
     },
     {
+      "title": "Epic: Elvis Presley In Concert",
+      "time": "14:05",
+      "rating": 4.5,
+      "summary": "Elvis canta y cuenta su historia como nunca antes en una nueva experiencia cinematográfica del visio..."
+    },
+    {
       "title": "Scream 7",
-      "time": "19:50",
+      "time": "20:05",
+      "rating": 4.5,
+      "summary": "Cuando un nuevo asesino Ghostface aparece en el tranquilo pueblo donde Sidney Prescott (Neve Campbel..."
+    },
+    {
+      "title": "Scream 7",
+      "time": "21:40",
       "rating": 4.5,
       "summary": "Cuando un nuevo asesino Ghostface aparece en el tranquilo pueblo donde Sidney Prescott (Neve Campbel..."
     },
@@ -391,6 +481,12 @@ export const MOVIE_DATA = {
       "time": "18:15",
       "rating": 4.5,
       "summary": "Will es una pequeña cabra con grandes sueños que recibe una oportunidad única en la vida para unirse..."
+    },
+    {
+      "title": "Cumbres Borrascosas",
+      "time": "12:10",
+      "rating": 4.5,
+      "summary": "Una audaz y original reinterpretación de una de una de las historias de amor más grandes de todos lo..."
     },
     {
       "title": "Cumbres Borrascosas",
@@ -406,53 +502,107 @@ export const MOVIE_DATA = {
     },
     {
       "title": "La Asistenta",
-      "time": "22:15",
+      "time": "22:30",
       "rating": 4.5,
       "summary": "Millie es una joven que, tras perder su trabajo, acepta un puesto como sirvienta en la lujosa pero i..."
     },
     {
+      "title": "Avatar: Fuego Y Ceniza",
+      "time": "12:50",
+      "rating": 4.5,
+      "summary": "Tercera entrega de la saga \"Avatar\". Presenta al Pueblo de las Cenizas, un clan Na'vi no tan pacífic..."
+    },
+    {
       "title": "Una Batalla Tras Otra",
-      "time": "21:15",
+      "time": "21:20",
       "rating": 4.5,
       "summary": "Cuando Ingrid aprieta el gatillo, sus víctimas no saben quién les ha disparado. Su habilidad para in..."
     }
   ],
   "Cine Yelmo Premium Alisios": [
     {
+      "title": "Your Name (10º Aniversario)",
+      "time": "13:10",
+      "rating": 4.5,
+      "summary": "Ha pasado un mes desde que un cometa que visita la Tierra cada mil años se avistara desde Japón. Mit..."
+    },
+    {
+      "title": "Your Name (10º Aniversario)",
+      "time": "15:55",
+      "rating": 4.5,
+      "summary": "Ha pasado un mes desde que un cometa que visita la Tierra cada mil años se avistara desde Japón. Mit..."
+    },
+    {
+      "title": "Your Name (10º Aniversario)",
+      "time": "18:30",
+      "rating": 4.5,
+      "summary": "Ha pasado un mes desde que un cometa que visita la Tierra cada mil años se avistara desde Japón. Mit..."
+    },
+    {
       "title": "Amarga Navidad",
-      "time": "15:50",
+      "time": "12:40",
       "rating": 4.5,
       "summary": "Elsa es una directora de publicidad cuya madre muere durante un largo puente del mes de diciembre. E..."
     },
     {
       "title": "Amarga Navidad",
-      "time": "18:10",
+      "time": "15:30",
       "rating": 4.5,
       "summary": "Elsa es una directora de publicidad cuya madre muere durante un largo puente del mes de diciembre. E..."
     },
     {
       "title": "Amarga Navidad",
-      "time": "20:30",
+      "time": "18:05",
       "rating": 4.5,
       "summary": "Elsa es una directora de publicidad cuya madre muere durante un largo puente del mes de diciembre. E..."
     },
     {
       "title": "Amarga Navidad",
-      "time": "22:50",
+      "time": "20:25",
+      "rating": 4.5,
+      "summary": "Elsa es una directora de publicidad cuya madre muere durante un largo puente del mes de diciembre. E..."
+    },
+    {
+      "title": "Amarga Navidad",
+      "time": "22:45",
       "rating": 4.5,
       "summary": "Elsa es una directora de publicidad cuya madre muere durante un largo puente del mes de diciembre. E..."
     },
     {
       "title": "Tafiti Y Sus Amigos",
-      "time": "15:45",
+      "time": "15:20",
       "rating": 4.5,
       "summary": "Cuando Tafiti, una joven suricata, conoce a Púas, el cerdo salvaje, sabe que no pueden ser amigos. “..."
     },
     {
       "title": "Whistle: El Silbido Del Mal",
-      "time": "20:40",
+      "time": "20:10",
       "rating": 4.5,
       "summary": "Un grupo de estudiantes encuentra por accidente un objeto maldito: un antiguo silbato de la muerte a..."
+    },
+    {
+      "title": "Torrente Presidente",
+      "time": "12:20",
+      "rating": 4.5,
+      "summary": "Han pasado años desde su última aventura, pero José Luis Torrente, el ex-policía más políticamente i..."
+    },
+    {
+      "title": "Torrente Presidente",
+      "time": "13:00",
+      "rating": 4.5,
+      "summary": "Han pasado años desde su última aventura, pero José Luis Torrente, el ex-policía más políticamente i..."
+    },
+    {
+      "title": "Torrente Presidente",
+      "time": "14:15",
+      "rating": 4.5,
+      "summary": "Han pasado años desde su última aventura, pero José Luis Torrente, el ex-policía más políticamente i..."
+    },
+    {
+      "title": "Torrente Presidente",
+      "time": "15:15",
+      "rating": 4.5,
+      "summary": "Han pasado años desde su última aventura, pero José Luis Torrente, el ex-policía más políticamente i..."
     },
     {
       "title": "Torrente Presidente",
@@ -534,7 +684,31 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Hoppers",
+      "time": "12:30",
+      "rating": 4.5,
+      "summary": "En Hoppers, los científicos han descubierto la tecnología para instalar la conciencia humana a anima..."
+    },
+    {
+      "title": "Hoppers",
+      "time": "12:50",
+      "rating": 4.5,
+      "summary": "En Hoppers, los científicos han descubierto la tecnología para instalar la conciencia humana a anima..."
+    },
+    {
+      "title": "Hoppers",
+      "time": "13:30",
+      "rating": 4.5,
+      "summary": "En Hoppers, los científicos han descubierto la tecnología para instalar la conciencia humana a anima..."
+    },
+    {
+      "title": "Hoppers",
       "time": "16:05",
+      "rating": 4.5,
+      "summary": "En Hoppers, los científicos han descubierto la tecnología para instalar la conciencia humana a anima..."
+    },
+    {
+      "title": "Hoppers",
+      "time": "16:45",
       "rating": 4.5,
       "summary": "En Hoppers, los científicos han descubierto la tecnología para instalar la conciencia humana a anima..."
     },
@@ -564,15 +738,27 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Scream 7",
+      "time": "19:05",
+      "rating": 4.5,
+      "summary": "Cuando un nuevo asesino Ghostface aparece en el tranquilo pueblo donde Sidney Prescott (Neve Campbel..."
+    },
+    {
+      "title": "Scream 7",
       "time": "21:45",
       "rating": 4.5,
       "summary": "Cuando un nuevo asesino Ghostface aparece en el tranquilo pueblo donde Sidney Prescott (Neve Campbel..."
     },
     {
-      "title": "Cumbres Borrascosas",
-      "time": "17:45",
+      "title": "Scream 7",
+      "time": "23:00",
       "rating": 4.5,
-      "summary": "Una audaz y original reinterpretación de una de una de las historias de amor más grandes de todos lo..."
+      "summary": "Cuando un nuevo asesino Ghostface aparece en el tranquilo pueblo donde Sidney Prescott (Neve Campbel..."
+    },
+    {
+      "title": "Como Cabras",
+      "time": "12:00",
+      "rating": 4.5,
+      "summary": "Will es una pequeña cabra con grandes sueños que recibe una oportunidad única en la vida para unirse..."
     },
     {
       "title": "Como Cabras",
@@ -581,10 +767,28 @@ export const MOVIE_DATA = {
       "summary": "Will es una pequeña cabra con grandes sueños que recibe una oportunidad única en la vida para unirse..."
     },
     {
+      "title": "Cumbres Borrascosas",
+      "time": "17:20",
+      "rating": 4.5,
+      "summary": "Una audaz y original reinterpretación de una de una de las historias de amor más grandes de todos lo..."
+    },
+    {
       "title": "La Asistenta",
       "time": "22:55",
       "rating": 4.5,
       "summary": "Millie es una joven que, tras perder su trabajo, acepta un puesto como sirvienta en la lujosa pero i..."
+    },
+    {
+      "title": "Avatar: Fuego Y Ceniza",
+      "time": "12:10",
+      "rating": 4.5,
+      "summary": "Tercera entrega de la saga \"Avatar\". Presenta al Pueblo de las Cenizas, un clan Na'vi no tan pacífic..."
+    },
+    {
+      "title": "Una Batalla Tras Otra",
+      "time": "21:00",
+      "rating": 4.5,
+      "summary": "Cuando Ingrid aprieta el gatillo, sus víctimas no saben quién les ha disparado. Su habilidad para in..."
     }
   ],
   "Ocine Premium Siete Palmas": [],
@@ -712,12 +916,6 @@ export const MOVIE_DATA = {
     {
       "title": "Hoppers",
       "time": "19:00",
-      "rating": 4.5,
-      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
-    },
-    {
-      "title": "Hoppers",
-      "time": "19:15",
       "rating": 4.5,
       "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
     },
@@ -903,19 +1101,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Tafiti Y Sus Amigos",
-      "time": "16:15",
-      "rating": 4.5,
-      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
-    },
-    {
-      "title": "Tafiti Y Sus Amigos",
       "time": "16:30",
-      "rating": 4.5,
-      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
-    },
-    {
-      "title": "Tafiti Y Sus Amigos",
-      "time": "17:45",
       "rating": 4.5,
       "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
     },
@@ -928,6 +1114,12 @@ export const MOVIE_DATA = {
     {
       "title": "Whistle: El Silbido Del Mal",
       "time": "12:30",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "Whistle: El Silbido Del Mal",
+      "time": "16:00",
       "rating": 4.5,
       "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
     },
@@ -970,6 +1162,12 @@ export const MOVIE_DATA = {
     {
       "title": "Whistle: El Silbido Del Mal",
       "time": "22:20",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "La Ultima Cena",
+      "time": "19:30",
       "rating": 4.5,
       "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
     },
@@ -1108,6 +1306,60 @@ export const MOVIE_DATA = {
     {
       "title": "Bts World Tour ‘Arirang’ In Japan: Encore",
       "time": "14:30",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "El Diablo Viste De Prada 2",
+      "time": "12:00",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "El Diablo Viste De Prada 2",
+      "time": "16:00",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "El Diablo Viste De Prada 2",
+      "time": "17:00",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "El Diablo Viste De Prada 2",
+      "time": "17:10",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "El Diablo Viste De Prada 2",
+      "time": "17:50",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "El Diablo Viste De Prada 2",
+      "time": "19:15",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "El Diablo Viste De Prada 2",
+      "time": "20:10",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "El Diablo Viste De Prada 2",
+      "time": "21:40",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "El Diablo Viste De Prada 2",
+      "time": "22:30",
       "rating": 4.5,
       "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
     }
