@@ -163,6 +163,12 @@ export const MOVIE_DATA = {
       "summary": "Davis (Chris Hemsworth) es un escurridizo ladrón cuyos atracos de alto riesgo tienen desconcertada a..."
     },
     {
+      "title": "Como Cabras",
+      "time": "18:00",
+      "rating": 4.5,
+      "summary": "Will es una pequeña cabra con grandes sueños que recibe una oportunidad única en la vida para unirse..."
+    },
+    {
       "title": "Hamnet",
       "time": "17:10",
       "rating": 4.5,
@@ -183,20 +189,20 @@ export const MOVIE_DATA = {
   ],
   "Cine Yelmo Las Arenas": [
     {
-      "title": "Rocío Durcal: 20 Años Sin Ti",
-      "time": "18:15",
-      "rating": 4.5,
-      "summary": "En 1991, Rocío Dúrcal se presentaba por primera vez en el Auditorio Nacional de la Ciudad de México...."
-    },
-    {
-      "title": "Bring Me The Horizon - L.I.V.E. In São Paulo",
+      "title": "Incontrolable (I Swear)",
       "time": "20:00",
       "rating": 4.5,
-      "summary": "Bring Me The Horizon: L.I.V.E. in São Paulo (Live Immersive Virtual Experiment) captura el concierto..."
+      "summary": "La historia real de John Davidson. Diagnosticado con Tourette a los 15 años, señalado como loco por ..."
+    },
+    {
+      "title": "La Última Cena",
+      "time": "21:20",
+      "rating": 4.5,
+      "summary": "Describe los acontecimientos previos a una traición, mientras un grupo de discípulos se reúne, desve..."
     },
     {
       "title": "Whistle: El Silbido Del Mal",
-      "time": "20:35",
+      "time": "17:10",
       "rating": 4.5,
       "summary": "Un grupo de estudiantes encuentra por accidente un objeto maldito: un antiguo silbato de la muerte a..."
     },
@@ -225,18 +231,6 @@ export const MOVIE_DATA = {
       "summary": "Elsa es una directora de publicidad cuya madre muere durante un largo puente del mes de diciembre. E..."
     },
     {
-      "title": "Your Name (10º Aniversario)",
-      "time": "18:30",
-      "rating": 4.5,
-      "summary": "Ha pasado un mes desde que un cometa que visita la Tierra cada mil años se avistara desde Japón. Mit..."
-    },
-    {
-      "title": "Torrente Presidente",
-      "time": "16:45",
-      "rating": 4.5,
-      "summary": "Han pasado años desde su última aventura, pero José Luis Torrente, el ex-policía más políticamente i..."
-    },
-    {
       "title": "Torrente Presidente",
       "time": "17:20",
       "rating": 4.5,
@@ -245,12 +239,6 @@ export const MOVIE_DATA = {
     {
       "title": "Torrente Presidente",
       "time": "18:00",
-      "rating": 4.5,
-      "summary": "Han pasado años desde su última aventura, pero José Luis Torrente, el ex-policía más políticamente i..."
-    },
-    {
-      "title": "Torrente Presidente",
-      "time": "19:00",
       "rating": 4.5,
       "summary": "Han pasado años desde su última aventura, pero José Luis Torrente, el ex-policía más políticamente i..."
     },
@@ -268,13 +256,13 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Torrente Presidente",
-      "time": "21:15",
+      "time": "21:30",
       "rating": 4.5,
       "summary": "Han pasado años desde su última aventura, pero José Luis Torrente, el ex-policía más políticamente i..."
     },
     {
       "title": "Torrente Presidente",
-      "time": "22:00",
+      "time": "22:05",
       "rating": 4.5,
       "summary": "Han pasado años desde su última aventura, pero José Luis Torrente, el ex-policía más políticamente i..."
     },
@@ -286,13 +274,25 @@ export const MOVIE_DATA = {
     },
     {
       "title": "El Testamento De Ann Lee",
-      "time": "22:20",
+      "time": "16:50",
       "rating": 4.5,
       "summary": "La leyenda real de Ann Lee, fundadora de la secta devocional conocida como los Shakers. Amanda Seyfr..."
     },
     {
+      "title": "Pillion",
+      "time": "17:40",
+      "rating": 4.5,
+      "summary": "Colin, un chico introvertido, se queda prendado de Ray, el carismático y atractivo líder de una band..."
+    },
+    {
+      "title": "Pillion",
+      "time": "22:20",
+      "rating": 4.5,
+      "summary": "Colin, un chico introvertido, se queda prendado de Ray, el carismático y atractivo líder de una band..."
+    },
+    {
       "title": "El Mago Del Kremlin",
-      "time": "17:00",
+      "time": "16:45",
       "rating": 4.5,
       "summary": "En medio del caos postsoviético de los años 90, el joven Vadim Baranov (Paul Dano) empieza a labrars..."
     },
@@ -328,12 +328,6 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Scream 7",
-      "time": "17:10",
-      "rating": 4.5,
-      "summary": "Cuando un nuevo asesino Ghostface aparece en el tranquilo pueblo donde Sidney Prescott (Neve Campbel..."
-    },
-    {
-      "title": "Scream 7",
       "time": "19:50",
       "rating": 4.5,
       "summary": "Cuando un nuevo asesino Ghostface aparece en el tranquilo pueblo donde Sidney Prescott (Neve Campbel..."
@@ -358,19 +352,19 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Hamnet",
-      "time": "16:55",
+      "time": "19:40",
       "rating": 4.5,
       "summary": "Narra la historia de Agnes, la esposa de William Shakespeare, en su lucha por superar la pérdida de ..."
     },
     {
       "title": "La Asistenta",
-      "time": "22:20",
+      "time": "22:15",
       "rating": 4.5,
       "summary": "Millie es una joven que, tras perder su trabajo, acepta un puesto como sirvienta en la lujosa pero i..."
     },
     {
       "title": "Una Batalla Tras Otra",
-      "time": "21:20",
+      "time": "18:00",
       "rating": 4.5,
       "summary": "Cuando Ingrid aprieta el gatillo, sus víctimas no saben quién les ha disparado. Su habilidad para in..."
     }
@@ -407,14 +401,8 @@ export const MOVIE_DATA = {
       "summary": "Un grupo de estudiantes encuentra por accidente un objeto maldito: un antiguo silbato de la muerte a..."
     },
     {
-      "title": "Your Name (10º Aniversario)",
-      "time": "18:30",
-      "rating": 4.5,
-      "summary": "Ha pasado un mes desde que un cometa que visita la Tierra cada mil años se avistara desde Japón. Mit..."
-    },
-    {
       "title": "Torrente Presidente",
-      "time": "17:00",
+      "time": "17:10",
       "rating": 4.5,
       "summary": "Han pasado años desde su última aventura, pero José Luis Torrente, el ex-policía más políticamente i..."
     },
@@ -432,13 +420,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Torrente Presidente",
-      "time": "18:15",
-      "rating": 4.5,
-      "summary": "Han pasado años desde su última aventura, pero José Luis Torrente, el ex-policía más políticamente i..."
-    },
-    {
-      "title": "Torrente Presidente",
-      "time": "19:15",
+      "time": "19:25",
       "rating": 4.5,
       "summary": "Han pasado años desde su última aventura, pero José Luis Torrente, el ex-policía más políticamente i..."
     },
@@ -456,13 +438,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Torrente Presidente",
-      "time": "20:45",
-      "rating": 4.5,
-      "summary": "Han pasado años desde su última aventura, pero José Luis Torrente, el ex-policía más políticamente i..."
-    },
-    {
-      "title": "Torrente Presidente",
-      "time": "21:30",
+      "time": "21:40",
       "rating": 4.5,
       "summary": "Han pasado años desde su última aventura, pero José Luis Torrente, el ex-policía más políticamente i..."
     },
@@ -498,25 +474,37 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Scream 7",
-      "time": "19:55",
+      "time": "19:50",
       "rating": 4.5,
       "summary": "Cuando un nuevo asesino Ghostface aparece en el tranquilo pueblo donde Sidney Prescott (Neve Campbel..."
     },
     {
       "title": "Scream 7",
-      "time": "22:25",
+      "time": "22:40",
       "rating": 4.5,
       "summary": "Cuando un nuevo asesino Ghostface aparece en el tranquilo pueblo donde Sidney Prescott (Neve Campbel..."
     },
     {
       "title": "Cumbres Borrascosas",
-      "time": "17:20",
+      "time": "17:00",
+      "rating": 4.5,
+      "summary": "Una audaz y original reinterpretación de una de una de las historias de amor más grandes de todos lo..."
+    },
+    {
+      "title": "Cumbres Borrascosas",
+      "time": "19:50",
+      "rating": 4.5,
+      "summary": "Una audaz y original reinterpretación de una de una de las historias de amor más grandes de todos lo..."
+    },
+    {
+      "title": "Cumbres Borrascosas",
+      "time": "22:20",
       "rating": 4.5,
       "summary": "Una audaz y original reinterpretación de una de una de las historias de amor más grandes de todos lo..."
     },
     {
       "title": "Hamnet",
-      "time": "17:10",
+      "time": "17:50",
       "rating": 4.5,
       "summary": "Narra la historia de Agnes, la esposa de William Shakespeare, en su lucha por superar la pérdida de ..."
     },
@@ -527,8 +515,20 @@ export const MOVIE_DATA = {
       "summary": "Millie es una joven que, tras perder su trabajo, acepta un puesto como sirvienta en la lujosa pero i..."
     },
     {
+      "title": "Los Domingos",
+      "time": "17:15",
+      "rating": 4.5,
+      "summary": "\"Los Domingos\" cuenta la historia de Ainara (Blanca Soroa), una joven idealista y brillante de 17 añ..."
+    },
+    {
       "title": "Una Batalla Tras Otra",
-      "time": "20:55",
+      "time": "18:15",
+      "rating": 4.5,
+      "summary": "Cuando Ingrid aprieta el gatillo, sus víctimas no saben quién les ha disparado. Su habilidad para in..."
+    },
+    {
+      "title": "Una Batalla Tras Otra",
+      "time": "21:35",
       "rating": 4.5,
       "summary": "Cuando Ingrid aprieta el gatillo, sus víctimas no saben quién les ha disparado. Su habilidad para in..."
     }
@@ -548,14 +548,26 @@ export const MOVIE_DATA = {
       "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
     },
     {
-      "title": "Los Pecadores",
-      "time": "21:40",
+      "title": "Una Batalla Tras Otra",
+      "time": "18:50",
       "rating": 4.5,
       "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
     },
     {
-      "title": "Una Batalla Tras Otra",
-      "time": "18:50",
+      "title": "Goat, Como Cabras",
+      "time": "12:15",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "Goat, Como Cabras",
+      "time": "16:00",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "Goat, Como Cabras",
+      "time": "16:30",
       "rating": 4.5,
       "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
     },
@@ -567,25 +579,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Scream 7",
-      "time": "16:00",
-      "rating": 4.5,
-      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
-    },
-    {
-      "title": "Scream 7",
       "time": "20:00",
-      "rating": 4.5,
-      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
-    },
-    {
-      "title": "Scream 7",
-      "time": "21:00",
-      "rating": 4.5,
-      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
-    },
-    {
-      "title": "Scream 7",
-      "time": "21:30",
       "rating": 4.5,
       "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
     },
@@ -597,13 +591,31 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Scream 7",
+      "time": "21:50",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "Scream 7",
       "time": "22:30",
       "rating": 4.5,
       "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
     },
     {
       "title": "Hoppers",
-      "time": "16:00",
+      "time": "12:00",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "Hoppers",
+      "time": "16:30",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "Hoppers",
+      "time": "16:45",
       "rating": 4.5,
       "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
     },
@@ -615,25 +627,19 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Hoppers",
-      "time": "17:00",
-      "rating": 4.5,
-      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
-    },
-    {
-      "title": "Hoppers",
       "time": "17:45",
       "rating": 4.5,
       "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
     },
     {
       "title": "Hoppers",
-      "time": "18:00",
+      "time": "18:30",
       "rating": 4.5,
       "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
     },
     {
       "title": "Hoppers",
-      "time": "19:00",
+      "time": "18:40",
       "rating": 4.5,
       "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
     },
@@ -645,7 +651,25 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Hoppers",
-      "time": "20:00",
+      "time": "20:35",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "Torrente Presidente",
+      "time": "12:15",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "Torrente Presidente",
+      "time": "15:45",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "Torrente Presidente",
+      "time": "16:30",
       "rating": 4.5,
       "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
     },
@@ -657,7 +681,19 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Torrente Presidente",
+      "time": "17:30",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "Torrente Presidente",
       "time": "17:50",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "Torrente Presidente",
+      "time": "18:30",
       "rating": 4.5,
       "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
     },
@@ -699,6 +735,18 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Torrente Presidente",
+      "time": "21:00",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "Torrente Presidente",
+      "time": "21:30",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "Torrente Presidente",
       "time": "21:50",
       "rating": 4.5,
       "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
@@ -711,7 +759,25 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Dhurandhar:  The Revenge",
+      "time": "17:00",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "Dhurandhar:  The Revenge",
       "time": "19:00",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "Dhurandhar:  The Revenge",
+      "time": "20:00",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "Amarga Navidad",
+      "time": "12:30",
       "rating": 4.5,
       "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
     },
@@ -729,13 +795,13 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Amarga Navidad",
-      "time": "19:30",
+      "time": "18:00",
       "rating": 4.5,
       "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
     },
     {
       "title": "Amarga Navidad",
-      "time": "21:00",
+      "time": "19:30",
       "rating": 4.5,
       "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
     },
@@ -747,7 +813,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Tafiti Y Sus Amigos",
-      "time": "16:30",
+      "time": "12:15",
       "rating": 4.5,
       "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
     },
@@ -759,13 +825,19 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Whistle: El Silbido Del Mal",
-      "time": "17:30",
+      "time": "19:30",
       "rating": 4.5,
       "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
     },
     {
       "title": "Whistle: El Silbido Del Mal",
-      "time": "19:30",
+      "time": "20:00",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "Whistle: El Silbido Del Mal",
+      "time": "21:00",
       "rating": 4.5,
       "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
     },
@@ -776,8 +848,80 @@ export const MOVIE_DATA = {
       "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
     },
     {
+      "title": "Whistle: El Silbido Del Mal",
+      "time": "22:00",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "La Ultima Cena",
+      "time": "12:20",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "La Ultima Cena",
+      "time": "18:30",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "La Ultima Cena",
+      "time": "19:00",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
       "title": "La Ultima Cena",
       "time": "19:30",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "Altas Capacidades",
+      "time": "15:45",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "Altas Capacidades",
+      "time": "16:00",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "Altas Capacidades",
+      "time": "18:00",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "Altas Capacidades",
+      "time": "19:20",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "Altas Capacidades",
+      "time": "20:20",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "Altas Capacidades",
+      "time": "21:15",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "Altas Capacidades",
+      "time": "22:20",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "Proyecto Salvacion",
+      "time": "12:00",
       "rating": 4.5,
       "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
     },
@@ -813,6 +957,30 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Proyecto Salvacion",
+      "time": "20:00",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "Proyecto Salvacion",
+      "time": "20:30",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "Proyecto Salvacion",
+      "time": "21:15",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "Proyecto Salvacion",
+      "time": "21:30",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "Proyecto Salvacion",
       "time": "22:00",
       "rating": 4.5,
       "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
@@ -824,8 +992,62 @@ export const MOVIE_DATA = {
       "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
     },
     {
+      "title": "Shelter: El Protector",
+      "time": "12:00",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "Shelter: El Protector",
+      "time": "16:00",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "Shelter: El Protector",
+      "time": "17:45",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "Shelter: El Protector",
+      "time": "19:45",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "Shelter: El Protector",
+      "time": "20:30",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "Shelter: El Protector",
+      "time": "21:45",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "Shelter: El Protector",
+      "time": "22:30",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "Te Van A Matar",
+      "time": "12:30",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
       "title": "Te Van A Matar",
       "time": "17:00",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "Te Van A Matar",
+      "time": "17:30",
       "rating": 4.5,
       "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
     },
@@ -837,7 +1059,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Te Van A Matar",
-      "time": "19:00",
+      "time": "19:30",
       "rating": 4.5,
       "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
     },
@@ -849,7 +1071,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Te Van A Matar",
-      "time": "21:00",
+      "time": "21:30",
       "rating": 4.5,
       "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
     },
