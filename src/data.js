@@ -8,12 +8,6 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Proyecto Salvación",
-      "time": "15:45",
-      "rating": 4.5,
-      "summary": "El profesor de ciencias Ryland Grace (Ryan Gosling) se despierta en una nave espacial a años luz de ..."
-    },
-    {
-      "title": "Proyecto Salvación",
       "time": "17:15",
       "rating": 4.5,
       "summary": "El profesor de ciencias Ryland Grace (Ryan Gosling) se despierta en una nave espacial a años luz de ..."
@@ -44,12 +38,6 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Shelter: El Protector",
-      "time": "16:00",
-      "rating": 4.5,
-      "summary": "En una remota isla, un hombre que vive en el exilio (Jason Statham) rescata a una niña de una peligr..."
-    },
-    {
-      "title": "Shelter: El Protector",
       "time": "18:15",
       "rating": 4.5,
       "summary": "En una remota isla, un hombre que vive en el exilio (Jason Statham) rescata a una niña de una peligr..."
@@ -65,12 +53,6 @@ export const MOVIE_DATA = {
       "time": "22:45",
       "rating": 4.5,
       "summary": "En una remota isla, un hombre que vive en el exilio (Jason Statham) rescata a una niña de una peligr..."
-    },
-    {
-      "title": "Te Van A Matar",
-      "time": "16:20",
-      "rating": 4.5,
-      "summary": "Una mujer acepta un trabajo como ama de llaves en un rascacielos de Nueva York, sin conocer el histo..."
     },
     {
       "title": "Te Van A Matar",
@@ -98,33 +80,21 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Amarga Navidad",
+      "time": "17:05",
+      "rating": 4.5,
+      "summary": "Elsa es una directora de publicidad cuya madre muere durante un largo puente del mes de diciembre. E..."
+    },
+    {
+      "title": "Amarga Navidad",
       "time": "19:20",
       "rating": 4.5,
       "summary": "Elsa es una directora de publicidad cuya madre muere durante un largo puente del mes de diciembre. E..."
     },
     {
       "title": "Whistle: El Silbido Del Mal",
-      "time": "22:40",
+      "time": "22:10",
       "rating": 4.5,
       "summary": "Un grupo de estudiantes encuentra por accidente un objeto maldito: un antiguo silbato de la muerte a..."
-    },
-    {
-      "title": "Tafiti Y Sus Amigos",
-      "time": "15:45",
-      "rating": 4.5,
-      "summary": "Cuando Tafiti, una joven suricata, conoce a Púas, el cerdo salvaje, sabe que no pueden ser amigos. “..."
-    },
-    {
-      "title": "Your Name (10º Aniversario)",
-      "time": "15:45",
-      "rating": 4.5,
-      "summary": "Ha pasado un mes desde que un cometa que visita la Tierra cada mil años se avistara desde Japón. Mit..."
-    },
-    {
-      "title": "Torrente Presidente",
-      "time": "15:50",
-      "rating": 4.5,
-      "summary": "Han pasado años desde su última aventura, pero José Luis Torrente, el ex-policía más políticamente i..."
     },
     {
       "title": "Torrente Presidente",
@@ -176,25 +146,13 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Hoppers",
-      "time": "16:05",
+      "time": "17:45",
       "rating": 4.5,
       "summary": "En Hoppers, los científicos han descubierto la tecnología para instalar la conciencia humana a anima..."
     },
     {
       "title": "Hoppers",
-      "time": "16:45",
-      "rating": 4.5,
-      "summary": "En Hoppers, los científicos han descubierto la tecnología para instalar la conciencia humana a anima..."
-    },
-    {
-      "title": "Hoppers",
-      "time": "18:15",
-      "rating": 4.5,
-      "summary": "En Hoppers, los científicos han descubierto la tecnología para instalar la conciencia humana a anima..."
-    },
-    {
-      "title": "Hoppers",
-      "time": "20:30",
+      "time": "19:55",
       "rating": 4.5,
       "summary": "En Hoppers, los científicos han descubierto la tecnología para instalar la conciencia humana a anima..."
     },
@@ -231,28 +189,10 @@ export const MOVIE_DATA = {
   ],
   "Cine Yelmo Las Arenas": [
     {
-      "title": "Proyecto Salvación",
-      "time": "12:00",
+      "title": "Bluey En Cines: Colección ¡A Jugar Con Los Amigos!",
+      "time": "17:40",
       "rating": 4.5,
-      "summary": "El profesor de ciencias Ryland Grace (Ryan Gosling) se despierta en una nave espacial a años luz de ..."
-    },
-    {
-      "title": "Proyecto Salvación",
-      "time": "13:00",
-      "rating": 4.5,
-      "summary": "El profesor de ciencias Ryland Grace (Ryan Gosling) se despierta en una nave espacial a años luz de ..."
-    },
-    {
-      "title": "Proyecto Salvación",
-      "time": "14:00",
-      "rating": 4.5,
-      "summary": "El profesor de ciencias Ryland Grace (Ryan Gosling) se despierta en una nave espacial a años luz de ..."
-    },
-    {
-      "title": "Proyecto Salvación",
-      "time": "15:40",
-      "rating": 4.5,
-      "summary": "El profesor de ciencias Ryland Grace (Ryan Gosling) se despierta en una nave espacial a años luz de ..."
+      "summary": "Bluey at the Cinema: Colección Playdates with Friends es una hora de diversión que incluye ocho epis..."
     },
     {
       "title": "Proyecto Salvación",
@@ -262,7 +202,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Proyecto Salvación",
-      "time": "19:00",
+      "time": "18:50",
       "rating": 4.5,
       "summary": "El profesor de ciencias Ryland Grace (Ryan Gosling) se despierta en una nave espacial a años luz de ..."
     },
@@ -280,37 +220,13 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Proyecto Salvación",
-      "time": "22:10",
+      "time": "22:00",
       "rating": 4.5,
       "summary": "El profesor de ciencias Ryland Grace (Ryan Gosling) se despierta en una nave espacial a años luz de ..."
     },
     {
-      "title": "Bluey En Cines: Colección ¡A Jugar Con Los Amigos!",
-      "time": "17:20",
-      "rating": 4.5,
-      "summary": "Bluey at the Cinema: Colección Playdates with Friends es una hora de diversión que incluye ocho epis..."
-    },
-    {
-      "title": "Hannah Montana: La Película",
-      "time": "18:20",
-      "rating": 4.5,
-      "summary": "¡Celebra el aniversario de Hannah Montana sólo con Cine Yelmo! Revive Hannah Montana: La Película. M..."
-    },
-    {
       "title": "Shelter: El Protector",
-      "time": "12:30",
-      "rating": 4.5,
-      "summary": "En una remota isla, un hombre que vive en el exilio (Jason Statham) rescata a una niña de una peligr..."
-    },
-    {
-      "title": "Shelter: El Protector",
-      "time": "15:20",
-      "rating": 4.5,
-      "summary": "En una remota isla, un hombre que vive en el exilio (Jason Statham) rescata a una niña de una peligr..."
-    },
-    {
-      "title": "Shelter: El Protector",
-      "time": "18:00",
+      "time": "17:50",
       "rating": 4.5,
       "summary": "En una remota isla, un hombre que vive en el exilio (Jason Statham) rescata a una niña de una peligr..."
     },
@@ -325,18 +241,6 @@ export const MOVIE_DATA = {
       "time": "22:45",
       "rating": 4.5,
       "summary": "En una remota isla, un hombre que vive en el exilio (Jason Statham) rescata a una niña de una peligr..."
-    },
-    {
-      "title": "Te Van A Matar",
-      "time": "13:40",
-      "rating": 4.5,
-      "summary": "Una mujer acepta un trabajo como ama de llaves en un rascacielos de Nueva York, sin conocer el histo..."
-    },
-    {
-      "title": "Te Van A Matar",
-      "time": "16:00",
-      "rating": 4.5,
-      "summary": "Una mujer acepta un trabajo como ama de llaves en un rascacielos de Nueva York, sin conocer el histo..."
     },
     {
       "title": "Te Van A Matar",
@@ -364,12 +268,6 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Amarga Navidad",
-      "time": "15:00",
-      "rating": 4.5,
-      "summary": "Elsa es una directora de publicidad cuya madre muere durante un largo puente del mes de diciembre. E..."
-    },
-    {
-      "title": "Amarga Navidad",
       "time": "17:30",
       "rating": 4.5,
       "summary": "Elsa es una directora de publicidad cuya madre muere durante un largo puente del mes de diciembre. E..."
@@ -388,31 +286,13 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Torrente Presidente",
-      "time": "12:20",
+      "time": "16:50",
       "rating": 4.5,
       "summary": "Han pasado años desde su última aventura, pero José Luis Torrente, el ex-policía más políticamente i..."
     },
     {
       "title": "Torrente Presidente",
-      "time": "13:10",
-      "rating": 4.5,
-      "summary": "Han pasado años desde su última aventura, pero José Luis Torrente, el ex-policía más políticamente i..."
-    },
-    {
-      "title": "Torrente Presidente",
-      "time": "15:30",
-      "rating": 4.5,
-      "summary": "Han pasado años desde su última aventura, pero José Luis Torrente, el ex-policía más políticamente i..."
-    },
-    {
-      "title": "Torrente Presidente",
-      "time": "16:30",
-      "rating": 4.5,
-      "summary": "Han pasado años desde su última aventura, pero José Luis Torrente, el ex-policía más políticamente i..."
-    },
-    {
-      "title": "Torrente Presidente",
-      "time": "17:00",
+      "time": "17:20",
       "rating": 4.5,
       "summary": "Han pasado años desde su última aventura, pero José Luis Torrente, el ex-policía más políticamente i..."
     },
@@ -424,7 +304,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Torrente Presidente",
-      "time": "18:50",
+      "time": "19:10",
       "rating": 4.5,
       "summary": "Han pasado años desde su última aventura, pero José Luis Torrente, el ex-policía más políticamente i..."
     },
@@ -442,13 +322,13 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Torrente Presidente",
-      "time": "21:20",
+      "time": "21:30",
       "rating": 4.5,
       "summary": "Han pasado años desde su última aventura, pero José Luis Torrente, el ex-policía más políticamente i..."
     },
     {
       "title": "Torrente Presidente",
-      "time": "22:00",
+      "time": "22:10",
       "rating": 4.5,
       "summary": "Han pasado años desde su última aventura, pero José Luis Torrente, el ex-policía más políticamente i..."
     },
@@ -460,19 +340,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Hoppers",
-      "time": "12:50",
-      "rating": 4.5,
-      "summary": "En Hoppers, los científicos han descubierto la tecnología para instalar la conciencia humana a anima..."
-    },
-    {
-      "title": "Hoppers",
-      "time": "15:10",
-      "rating": 4.5,
-      "summary": "En Hoppers, los científicos han descubierto la tecnología para instalar la conciencia humana a anima..."
-    },
-    {
-      "title": "Hoppers",
-      "time": "17:35",
+      "time": "17:00",
       "rating": 4.5,
       "summary": "En Hoppers, los científicos han descubierto la tecnología para instalar la conciencia humana a anima..."
     },
@@ -489,37 +357,19 @@ export const MOVIE_DATA = {
       "summary": "Cuando un nuevo asesino Ghostface aparece en el tranquilo pueblo donde Sidney Prescott (Neve Campbel..."
     },
     {
-      "title": "Cumbres Borrascosas",
-      "time": "12:40",
+      "title": "Como Cabras",
+      "time": "18:10",
       "rating": 4.5,
-      "summary": "Una audaz y original reinterpretación de una de una de las historias de amor más grandes de todos lo..."
+      "summary": "Will es una pequeña cabra con grandes sueños que recibe una oportunidad única en la vida para unirse..."
     },
     {
       "title": "Cumbres Borrascosas",
       "time": "21:00",
       "rating": 4.5,
       "summary": "Una audaz y original reinterpretación de una de una de las historias de amor más grandes de todos lo..."
-    },
-    {
-      "title": "Como Cabras",
-      "time": "15:45",
-      "rating": 4.5,
-      "summary": "Will es una pequeña cabra con grandes sueños que recibe una oportunidad única en la vida para unirse..."
     }
   ],
   "Cine Yelmo Premium Alisios": [
-    {
-      "title": "Proyecto Salvación",
-      "time": "12:10",
-      "rating": 4.5,
-      "summary": "El profesor de ciencias Ryland Grace (Ryan Gosling) se despierta en una nave espacial a años luz de ..."
-    },
-    {
-      "title": "Proyecto Salvación",
-      "time": "12:50",
-      "rating": 4.5,
-      "summary": "El profesor de ciencias Ryland Grace (Ryan Gosling) se despierta en una nave espacial a años luz de ..."
-    },
     {
       "title": "Proyecto Salvación",
       "time": "15:45",
@@ -552,115 +402,79 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Shelter: El Protector",
-      "time": "13:10",
-      "rating": 4.5,
-      "summary": "En una remota isla, un hombre que vive en el exilio (Jason Statham) rescata a una niña de una peligr..."
-    },
-    {
-      "title": "Shelter: El Protector",
-      "time": "15:35",
-      "rating": 4.5,
-      "summary": "En una remota isla, un hombre que vive en el exilio (Jason Statham) rescata a una niña de una peligr..."
-    },
-    {
-      "title": "Shelter: El Protector",
-      "time": "18:05",
-      "rating": 4.5,
-      "summary": "En una remota isla, un hombre que vive en el exilio (Jason Statham) rescata a una niña de una peligr..."
-    },
-    {
-      "title": "Shelter: El Protector",
-      "time": "20:25",
-      "rating": 4.5,
-      "summary": "En una remota isla, un hombre que vive en el exilio (Jason Statham) rescata a una niña de una peligr..."
-    },
-    {
-      "title": "Shelter: El Protector",
-      "time": "22:45",
-      "rating": 4.5,
-      "summary": "En una remota isla, un hombre que vive en el exilio (Jason Statham) rescata a una niña de una peligr..."
-    },
-    {
-      "title": "Bluey En Cines: Colección ¡A Jugar Con Los Amigos!",
       "time": "15:45",
       "rating": 4.5,
-      "summary": "Bluey at the Cinema: Colección Playdates with Friends es una hora de diversión que incluye ocho epis..."
+      "summary": "En una remota isla, un hombre que vive en el exilio (Jason Statham) rescata a una niña de una peligr..."
+    },
+    {
+      "title": "Shelter: El Protector",
+      "time": "18:00",
+      "rating": 4.5,
+      "summary": "En una remota isla, un hombre que vive en el exilio (Jason Statham) rescata a una niña de una peligr..."
+    },
+    {
+      "title": "Shelter: El Protector",
+      "time": "20:20",
+      "rating": 4.5,
+      "summary": "En una remota isla, un hombre que vive en el exilio (Jason Statham) rescata a una niña de una peligr..."
+    },
+    {
+      "title": "Shelter: El Protector",
+      "time": "22:40",
+      "rating": 4.5,
+      "summary": "En una remota isla, un hombre que vive en el exilio (Jason Statham) rescata a una niña de una peligr..."
     },
     {
       "title": "Hannah Montana: La Película",
-      "time": "18:00",
+      "time": "15:55",
       "rating": 4.5,
       "summary": "¡Celebra el aniversario de Hannah Montana sólo con Cine Yelmo! Revive Hannah Montana: La Película. M..."
     },
     {
       "title": "Te Van A Matar",
-      "time": "13:20",
+      "time": "16:05",
       "rating": 4.5,
       "summary": "Una mujer acepta un trabajo como ama de llaves en un rascacielos de Nueva York, sin conocer el histo..."
     },
     {
       "title": "Te Van A Matar",
-      "time": "15:30",
+      "time": "18:10",
       "rating": 4.5,
       "summary": "Una mujer acepta un trabajo como ama de llaves en un rascacielos de Nueva York, sin conocer el histo..."
     },
     {
       "title": "Te Van A Matar",
-      "time": "17:45",
+      "time": "20:15",
       "rating": 4.5,
       "summary": "Una mujer acepta un trabajo como ama de llaves en un rascacielos de Nueva York, sin conocer el histo..."
     },
     {
       "title": "Te Van A Matar",
-      "time": "19:55",
-      "rating": 4.5,
-      "summary": "Una mujer acepta un trabajo como ama de llaves en un rascacielos de Nueva York, sin conocer el histo..."
-    },
-    {
-      "title": "Your Name (10º Aniversario)",
-      "time": "12:20",
-      "rating": 4.5,
-      "summary": "Ha pasado un mes desde que un cometa que visita la Tierra cada mil años se avistara desde Japón. Mit..."
-    },
-    {
-      "title": "Your Name (10º Aniversario)",
-      "time": "15:10",
-      "rating": 4.5,
-      "summary": "Ha pasado un mes desde que un cometa que visita la Tierra cada mil años se avistara desde Japón. Mit..."
-    },
-    {
-      "title": "Whistle: El Silbido Del Mal",
       "time": "22:20",
       "rating": 4.5,
-      "summary": "Un grupo de estudiantes encuentra por accidente un objeto maldito: un antiguo silbato de la muerte a..."
+      "summary": "Una mujer acepta un trabajo como ama de llaves en un rascacielos de Nueva York, sin conocer el histo..."
     },
     {
       "title": "Amarga Navidad",
-      "time": "18:30",
+      "time": "18:05",
       "rating": 4.5,
       "summary": "Elsa es una directora de publicidad cuya madre muere durante un largo puente del mes de diciembre. E..."
     },
     {
-      "title": "Torrente Presidente",
-      "time": "12:00",
+      "title": "Amarga Navidad",
+      "time": "20:25",
       "rating": 4.5,
-      "summary": "Han pasado años desde su última aventura, pero José Luis Torrente, el ex-policía más políticamente i..."
+      "summary": "Elsa es una directora de publicidad cuya madre muere durante un largo puente del mes de diciembre. E..."
+    },
+    {
+      "title": "Whistle: El Silbido Del Mal",
+      "time": "22:45",
+      "rating": 4.5,
+      "summary": "Un grupo de estudiantes encuentra por accidente un objeto maldito: un antiguo silbato de la muerte a..."
     },
     {
       "title": "Torrente Presidente",
-      "time": "13:00",
-      "rating": 4.5,
-      "summary": "Han pasado años desde su última aventura, pero José Luis Torrente, el ex-policía más políticamente i..."
-    },
-    {
-      "title": "Torrente Presidente",
-      "time": "14:25",
-      "rating": 4.5,
-      "summary": "Han pasado años desde su última aventura, pero José Luis Torrente, el ex-policía más políticamente i..."
-    },
-    {
-      "title": "Torrente Presidente",
-      "time": "15:25",
+      "time": "15:50",
       "rating": 4.5,
       "summary": "Han pasado años desde su última aventura, pero José Luis Torrente, el ex-policía más políticamente i..."
     },
@@ -672,7 +486,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Torrente Presidente",
-      "time": "17:55",
+      "time": "18:05",
       "rating": 4.5,
       "summary": "Han pasado años desde su última aventura, pero José Luis Torrente, el ex-policía más políticamente i..."
     },
@@ -684,13 +498,13 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Torrente Presidente",
-      "time": "20:15",
+      "time": "20:25",
       "rating": 4.5,
       "summary": "Han pasado años desde su última aventura, pero José Luis Torrente, el ex-policía más políticamente i..."
     },
     {
       "title": "Torrente Presidente",
-      "time": "21:00",
+      "time": "21:15",
       "rating": 4.5,
       "summary": "Han pasado años desde su última aventura, pero José Luis Torrente, el ex-policía más políticamente i..."
     },
@@ -702,43 +516,31 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Torrente Presidente",
-      "time": "22:40",
+      "time": "22:45",
       "rating": 4.5,
       "summary": "Han pasado años desde su última aventura, pero José Luis Torrente, el ex-policía más políticamente i..."
     },
     {
       "title": "Hoppers",
-      "time": "12:05",
+      "time": "15:50",
       "rating": 4.5,
       "summary": "En Hoppers, los científicos han descubierto la tecnología para instalar la conciencia humana a anima..."
     },
     {
       "title": "Hoppers",
-      "time": "12:40",
+      "time": "17:30",
       "rating": 4.5,
       "summary": "En Hoppers, los científicos han descubierto la tecnología para instalar la conciencia humana a anima..."
     },
     {
       "title": "Hoppers",
-      "time": "15:00",
+      "time": "18:05",
       "rating": 4.5,
       "summary": "En Hoppers, los científicos han descubierto la tecnología para instalar la conciencia humana a anima..."
     },
     {
       "title": "Hoppers",
-      "time": "17:20",
-      "rating": 4.5,
-      "summary": "En Hoppers, los científicos han descubierto la tecnología para instalar la conciencia humana a anima..."
-    },
-    {
-      "title": "Hoppers",
-      "time": "17:40",
-      "rating": 4.5,
-      "summary": "En Hoppers, los científicos han descubierto la tecnología para instalar la conciencia humana a anima..."
-    },
-    {
-      "title": "Hoppers",
-      "time": "19:40",
+      "time": "20:20",
       "rating": 4.5,
       "summary": "En Hoppers, los científicos han descubierto la tecnología para instalar la conciencia humana a anima..."
     },
@@ -750,37 +552,25 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Scream 7",
-      "time": "22:10",
+      "time": "22:35",
       "rating": 4.5,
       "summary": "Cuando un nuevo asesino Ghostface aparece en el tranquilo pueblo donde Sidney Prescott (Neve Campbel..."
     },
     {
+      "title": "Como Cabras",
+      "time": "16:15",
+      "rating": 4.5,
+      "summary": "Will es una pequeña cabra con grandes sueños que recibe una oportunidad única en la vida para unirse..."
+    },
+    {
       "title": "Cumbres Borrascosas",
-      "time": "20:10",
+      "time": "18:25",
       "rating": 4.5,
       "summary": "Una audaz y original reinterpretación de una de una de las historias de amor más grandes de todos lo..."
-    },
-    {
-      "title": "Como Cabras",
-      "time": "13:50",
-      "rating": 4.5,
-      "summary": "Will es una pequeña cabra con grandes sueños que recibe una oportunidad única en la vida para unirse..."
-    },
-    {
-      "title": "Como Cabras",
-      "time": "16:20",
-      "rating": 4.5,
-      "summary": "Will es una pequeña cabra con grandes sueños que recibe una oportunidad única en la vida para unirse..."
     }
   ],
   "Ocine Premium Siete Palmas": [],
   "Artesiete Las Terrazas": [
-    {
-      "title": "Goat, Como Cabras",
-      "time": "12:15",
-      "rating": 4.5,
-      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
-    },
     {
       "title": "Goat, Como Cabras",
       "time": "16:00",
@@ -795,12 +585,6 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Hoppers",
-      "time": "12:00",
-      "rating": 4.5,
-      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
-    },
-    {
-      "title": "Hoppers",
       "time": "16:30",
       "rating": 4.5,
       "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
@@ -808,12 +592,6 @@ export const MOVIE_DATA = {
     {
       "title": "Hoppers",
       "time": "18:30",
-      "rating": 4.5,
-      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
-    },
-    {
-      "title": "Torrente Presidente",
-      "time": "12:15",
       "rating": 4.5,
       "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
     },
@@ -854,38 +632,14 @@ export const MOVIE_DATA = {
       "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
     },
     {
-      "title": "Dhurandhar:  The Revenge",
-      "time": "17:00",
-      "rating": 4.5,
-      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
-    },
-    {
-      "title": "Amarga Navidad",
-      "time": "12:30",
-      "rating": 4.5,
-      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
-    },
-    {
       "title": "Amarga Navidad",
       "time": "17:00",
-      "rating": 4.5,
-      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
-    },
-    {
-      "title": "Tafiti Y Sus Amigos",
-      "time": "12:15",
       "rating": 4.5,
       "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
     },
     {
       "title": "Whistle: El Silbido Del Mal",
       "time": "21:00",
-      "rating": 4.5,
-      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
-    },
-    {
-      "title": "La Ultima Cena",
-      "time": "12:20",
       "rating": 4.5,
       "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
     },
@@ -903,12 +657,6 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Altas Capacidades",
-      "time": "17:45",
-      "rating": 4.5,
-      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
-    },
-    {
-      "title": "Altas Capacidades",
       "time": "19:20",
       "rating": 4.5,
       "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
@@ -916,12 +664,6 @@ export const MOVIE_DATA = {
     {
       "title": "Altas Capacidades",
       "time": "21:15",
-      "rating": 4.5,
-      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
-    },
-    {
-      "title": "Proyecto Salvacion",
-      "time": "12:00",
       "rating": 4.5,
       "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
     },
@@ -956,18 +698,6 @@ export const MOVIE_DATA = {
       "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
     },
     {
-      "title": "Proyecto Salvacion",
-      "time": "21:30",
-      "rating": 4.5,
-      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
-    },
-    {
-      "title": "Shelter: El Protector",
-      "time": "12:00",
-      "rating": 4.5,
-      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
-    },
-    {
       "title": "Shelter: El Protector",
       "time": "17:45",
       "rating": 4.5,
@@ -982,12 +712,6 @@ export const MOVIE_DATA = {
     {
       "title": "Shelter: El Protector",
       "time": "21:45",
-      "rating": 4.5,
-      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
-    },
-    {
-      "title": "Te Van A Matar",
-      "time": "12:30",
       "rating": 4.5,
       "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
     },
