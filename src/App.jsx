@@ -46,7 +46,7 @@ const MovieCard = ({ movie }) => (
 );
 
 function App() {
-    const [selectedCinema, setSelectedCinema] = useState(cinemas[0]);
+    const [selectedCinema, setSelectedCinema] = useState("Artesiete Las Terrazas");
 
     const movies = movieData[selectedCinema] || [];
 
