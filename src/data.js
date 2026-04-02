@@ -226,25 +226,67 @@ export const MOVIE_DATA = {
   "Cine Yelmo Las Arenas": [
     {
       "title": "Noche De Bodas 2",
-      "time": "17:20",
+      "time": "12:50",
       "rating": 4.5,
       "summary": "Momentos después de sobrevivir a un ataque de la familia Le Domas, Grace descubre que ha alcanzado e..."
     },
     {
       "title": "Noche De Bodas 2",
-      "time": "19:50",
+      "time": "15:15",
       "rating": 4.5,
       "summary": "Momentos después de sobrevivir a un ataque de la familia Le Domas, Grace descubre que ha alcanzado e..."
     },
     {
       "title": "Noche De Bodas 2",
-      "time": "22:20",
+      "time": "17:40",
+      "rating": 4.5,
+      "summary": "Momentos después de sobrevivir a un ataque de la familia Le Domas, Grace descubre que ha alcanzado e..."
+    },
+    {
+      "title": "Noche De Bodas 2",
+      "time": "20:10",
+      "rating": 4.5,
+      "summary": "Momentos después de sobrevivir a un ataque de la familia Le Domas, Grace descubre que ha alcanzado e..."
+    },
+    {
+      "title": "Noche De Bodas 2",
+      "time": "22:30",
       "rating": 4.5,
       "summary": "Momentos después de sobrevivir a un ataque de la familia Le Domas, Grace descubre que ha alcanzado e..."
     },
     {
       "title": "Super Mario Galaxy: La Película",
-      "time": "15:45",
+      "time": "12:00",
+      "rating": 4.5,
+      "summary": "La película tiene lugar después de los acontecimientos de la primera, en la que dos hermanos, Mario ..."
+    },
+    {
+      "title": "Super Mario Galaxy: La Película",
+      "time": "13:00",
+      "rating": 4.5,
+      "summary": "La película tiene lugar después de los acontecimientos de la primera, en la que dos hermanos, Mario ..."
+    },
+    {
+      "title": "Super Mario Galaxy: La Película",
+      "time": "13:20",
+      "rating": 4.5,
+      "summary": "La película tiene lugar después de los acontecimientos de la primera, en la que dos hermanos, Mario ..."
+    },
+    {
+      "title": "Super Mario Galaxy: La Película",
+      "time": "13:40",
+      "rating": 4.5,
+      "summary": "La película tiene lugar después de los acontecimientos de la primera, en la que dos hermanos, Mario ..."
+    },
+    {
+      "title": "Super Mario Galaxy: La Película",
+      "time": "14:00",
+      "rating": 4.5,
+      "summary": "La película tiene lugar después de los acontecimientos de la primera, en la que dos hermanos, Mario ..."
+    },
+    {
+      "title": "Super Mario Galaxy: La Película",
+      "time": "15:40",
       "rating": 4.5,
       "summary": "La película tiene lugar después de los acontecimientos de la primera, en la que dos hermanos, Mario ..."
     },
@@ -268,7 +310,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Super Mario Galaxy: La Película",
-      "time": "17:30",
+      "time": "17:35",
       "rating": 4.5,
       "summary": "La película tiene lugar después de los acontecimientos de la primera, en la que dos hermanos, Mario ..."
     },
@@ -280,7 +322,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Super Mario Galaxy: La Película",
-      "time": "18:15",
+      "time": "18:20",
       "rating": 4.5,
       "summary": "La película tiene lugar después de los acontecimientos de la primera, en la que dos hermanos, Mario ..."
     },
@@ -310,7 +352,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Super Mario Galaxy: La Película",
-      "time": "20:40",
+      "time": "20:30",
       "rating": 4.5,
       "summary": "La película tiene lugar después de los acontecimientos de la primera, en la que dos hermanos, Mario ..."
     },
@@ -345,26 +387,32 @@ export const MOVIE_DATA = {
       "summary": "La película tiene lugar después de los acontecimientos de la primera, en la que dos hermanos, Mario ..."
     },
     {
-      "title": "La Misteriosa Mirada Del Flamenco (Efecto Cinema)",
-      "time": "19:00",
-      "rating": 4.5,
-      "summary": "A principios de los 80, en el desierto chileno, Lidia, de once años, crece en una familia queer y ca..."
-    },
-    {
       "title": "Proyecto Salvación",
-      "time": "15:40",
+      "time": "11:50",
       "rating": 4.5,
       "summary": "El profesor de ciencias Ryland Grace (Ryan Gosling) se despierta en una nave espacial a años luz de ..."
     },
     {
       "title": "Proyecto Salvación",
-      "time": "18:30",
+      "time": "12:20",
       "rating": 4.5,
       "summary": "El profesor de ciencias Ryland Grace (Ryan Gosling) se despierta en una nave espacial a años luz de ..."
     },
     {
       "title": "Proyecto Salvación",
-      "time": "21:10",
+      "time": "15:30",
+      "rating": 4.5,
+      "summary": "El profesor de ciencias Ryland Grace (Ryan Gosling) se despierta en una nave espacial a años luz de ..."
+    },
+    {
+      "title": "Proyecto Salvación",
+      "time": "18:50",
+      "rating": 4.5,
+      "summary": "El profesor de ciencias Ryland Grace (Ryan Gosling) se despierta en una nave espacial a años luz de ..."
+    },
+    {
+      "title": "Proyecto Salvación",
+      "time": "20:50",
       "rating": 4.5,
       "summary": "El profesor de ciencias Ryland Grace (Ryan Gosling) se despierta en una nave espacial a años luz de ..."
     },
@@ -375,26 +423,56 @@ export const MOVIE_DATA = {
       "summary": "El profesor de ciencias Ryland Grace (Ryan Gosling) se despierta en una nave espacial a años luz de ..."
     },
     {
+      "title": "Hannah Montana: La Película",
+      "time": "14:40",
+      "rating": 4.5,
+      "summary": "¡Celebra el aniversario de Hannah Montana sólo con Cine Yelmo! Revive Hannah Montana: La Película. M..."
+    },
+    {
+      "title": "Bluey En Cines: Colección ¡A Jugar Con Los Amigos!",
+      "time": "16:10",
+      "rating": 4.5,
+      "summary": "Bluey at the Cinema: Colección Playdates with Friends es una hora de diversión que incluye ocho epis..."
+    },
+    {
       "title": "Shelter: El Protector",
-      "time": "20:25",
+      "time": "12:30",
+      "rating": 4.5,
+      "summary": "En una remota isla, un hombre que vive en el exilio (Jason Statham) rescata a una niña de una peligr..."
+    },
+    {
+      "title": "Shelter: El Protector",
+      "time": "20:00",
       "rating": 4.5,
       "summary": "En una remota isla, un hombre que vive en el exilio (Jason Statham) rescata a una niña de una peligr..."
     },
     {
       "title": "Te Van A Matar",
-      "time": "22:50",
+      "time": "22:20",
       "rating": 4.5,
       "summary": "Una mujer acepta un trabajo como ama de llaves en un rascacielos de Nueva York, sin conocer el histo..."
     },
     {
       "title": "Amarga Navidad",
-      "time": "17:55",
+      "time": "17:20",
       "rating": 4.5,
       "summary": "Elsa es una directora de publicidad cuya madre muere durante un largo puente del mes de diciembre. E..."
     },
     {
       "title": "Torrente Presidente",
+      "time": "12:10",
+      "rating": 4.5,
+      "summary": "Han pasado años desde su última aventura, pero José Luis Torrente, el ex-policía más políticamente i..."
+    },
+    {
+      "title": "Torrente Presidente",
       "time": "15:50",
+      "rating": 4.5,
+      "summary": "Han pasado años desde su última aventura, pero José Luis Torrente, el ex-policía más políticamente i..."
+    },
+    {
+      "title": "Torrente Presidente",
+      "time": "16:40",
       "rating": 4.5,
       "summary": "Han pasado años desde su última aventura, pero José Luis Torrente, el ex-policía más políticamente i..."
     },
@@ -406,13 +484,19 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Torrente Presidente",
+      "time": "19:00",
+      "rating": 4.5,
+      "summary": "Han pasado años desde su última aventura, pero José Luis Torrente, el ex-policía más políticamente i..."
+    },
+    {
+      "title": "Torrente Presidente",
       "time": "20:30",
       "rating": 4.5,
       "summary": "Han pasado años desde su última aventura, pero José Luis Torrente, el ex-policía más políticamente i..."
     },
     {
       "title": "Torrente Presidente",
-      "time": "21:50",
+      "time": "21:20",
       "rating": 4.5,
       "summary": "Han pasado años desde su última aventura, pero José Luis Torrente, el ex-policía más políticamente i..."
     },
@@ -424,24 +508,72 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Hoppers",
-      "time": "16:30",
+      "time": "15:10",
       "rating": 4.5,
       "summary": "En Hoppers, los científicos han descubierto la tecnología para instalar la conciencia humana a anima..."
     },
     {
       "title": "Hoppers",
-      "time": "18:50",
+      "time": "18:30",
       "rating": 4.5,
       "summary": "En Hoppers, los científicos han descubierto la tecnología para instalar la conciencia humana a anima..."
     },
     {
+      "title": "Cumbres Borrascosas",
+      "time": "12:40",
+      "rating": 4.5,
+      "summary": "Una audaz y original reinterpretación de una de una de las historias de amor más grandes de todos lo..."
+    },
+    {
       "title": "Como Cabras",
-      "time": "15:40",
+      "time": "15:00",
       "rating": 4.5,
       "summary": "Will es una pequeña cabra con grandes sueños que recibe una oportunidad única en la vida para unirse..."
     }
   ],
   "Cine Yelmo Premium Alisios": [
+    {
+      "title": "Super Mario Galaxy: La Película",
+      "time": "12:00",
+      "rating": 4.5,
+      "summary": "La película tiene lugar después de los acontecimientos de la primera, en la que dos hermanos, Mario ..."
+    },
+    {
+      "title": "Super Mario Galaxy: La Película",
+      "time": "12:30",
+      "rating": 4.5,
+      "summary": "La película tiene lugar después de los acontecimientos de la primera, en la que dos hermanos, Mario ..."
+    },
+    {
+      "title": "Super Mario Galaxy: La Película",
+      "time": "12:50",
+      "rating": 4.5,
+      "summary": "La película tiene lugar después de los acontecimientos de la primera, en la que dos hermanos, Mario ..."
+    },
+    {
+      "title": "Super Mario Galaxy: La Película",
+      "time": "13:20",
+      "rating": 4.5,
+      "summary": "La película tiene lugar después de los acontecimientos de la primera, en la que dos hermanos, Mario ..."
+    },
+    {
+      "title": "Super Mario Galaxy: La Película",
+      "time": "13:45",
+      "rating": 4.5,
+      "summary": "La película tiene lugar después de los acontecimientos de la primera, en la que dos hermanos, Mario ..."
+    },
+    {
+      "title": "Super Mario Galaxy: La Película",
+      "time": "14:15",
+      "rating": 4.5,
+      "summary": "La película tiene lugar después de los acontecimientos de la primera, en la que dos hermanos, Mario ..."
+    },
+    {
+      "title": "Super Mario Galaxy: La Película",
+      "time": "14:45",
+      "rating": 4.5,
+      "summary": "La película tiene lugar después de los acontecimientos de la primera, en la que dos hermanos, Mario ..."
+    },
     {
       "title": "Super Mario Galaxy: La Película",
       "time": "15:45",
@@ -521,6 +653,12 @@ export const MOVIE_DATA = {
       "summary": "La película tiene lugar después de los acontecimientos de la primera, en la que dos hermanos, Mario ..."
     },
     {
+      "title": "Super Mario Galaxy: La Película",
+      "time": "23:15",
+      "rating": 4.5,
+      "summary": "La película tiene lugar después de los acontecimientos de la primera, en la que dos hermanos, Mario ..."
+    },
+    {
       "title": "Noche De Bodas 2",
       "time": "16:50",
       "rating": 4.5,
@@ -540,7 +678,19 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Proyecto Salvación",
-      "time": "15:45",
+      "time": "12:05",
+      "rating": 4.5,
+      "summary": "El profesor de ciencias Ryland Grace (Ryan Gosling) se despierta en una nave espacial a años luz de ..."
+    },
+    {
+      "title": "Proyecto Salvación",
+      "time": "12:20",
+      "rating": 4.5,
+      "summary": "El profesor de ciencias Ryland Grace (Ryan Gosling) se despierta en una nave espacial a años luz de ..."
+    },
+    {
+      "title": "Proyecto Salvación",
+      "time": "15:30",
       "rating": 4.5,
       "summary": "El profesor de ciencias Ryland Grace (Ryan Gosling) se despierta en una nave espacial a años luz de ..."
     },
@@ -552,7 +702,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Proyecto Salvación",
-      "time": "20:50",
+      "time": "20:10",
       "rating": 4.5,
       "summary": "El profesor de ciencias Ryland Grace (Ryan Gosling) se despierta en una nave espacial a años luz de ..."
     },
@@ -561,6 +711,12 @@ export const MOVIE_DATA = {
       "time": "22:00",
       "rating": 4.5,
       "summary": "El profesor de ciencias Ryland Grace (Ryan Gosling) se despierta en una nave espacial a años luz de ..."
+    },
+    {
+      "title": "Hannah Montana: La Película",
+      "time": "14:35",
+      "rating": 4.5,
+      "summary": "¡Celebra el aniversario de Hannah Montana sólo con Cine Yelmo! Revive Hannah Montana: La Película. M..."
     },
     {
       "title": "Bluey En Cines: Colección ¡A Jugar Con Los Amigos!",
@@ -573,6 +729,18 @@ export const MOVIE_DATA = {
       "time": "19:45",
       "rating": 4.5,
       "summary": "En una remota isla, un hombre que vive en el exilio (Jason Statham) rescata a una niña de una peligr..."
+    },
+    {
+      "title": "Te Van A Matar",
+      "time": "23:30",
+      "rating": 4.5,
+      "summary": "Una mujer acepta un trabajo como ama de llaves en un rascacielos de Nueva York, sin conocer el histo..."
+    },
+    {
+      "title": "Torrente Presidente",
+      "time": "13:10",
+      "rating": 4.5,
+      "summary": "Han pasado años desde su última aventura, pero José Luis Torrente, el ex-policía más políticamente i..."
     },
     {
       "title": "Torrente Presidente",
@@ -612,15 +780,27 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Hoppers",
-      "time": "16:15",
+      "time": "12:10",
       "rating": 4.5,
       "summary": "En Hoppers, los científicos han descubierto la tecnología para instalar la conciencia humana a anima..."
     },
     {
       "title": "Hoppers",
-      "time": "18:30",
+      "time": "15:40",
       "rating": 4.5,
       "summary": "En Hoppers, los científicos han descubierto la tecnología para instalar la conciencia humana a anima..."
+    },
+    {
+      "title": "Hoppers",
+      "time": "17:55",
+      "rating": 4.5,
+      "summary": "En Hoppers, los científicos han descubierto la tecnología para instalar la conciencia humana a anima..."
+    },
+    {
+      "title": "Como Cabras",
+      "time": "13:00",
+      "rating": 4.5,
+      "summary": "Will es una pequeña cabra con grandes sueños que recibe una oportunidad única en la vida para unirse..."
     },
     {
       "title": "Como Cabras",
@@ -681,12 +861,6 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Torrente Presidente",
-      "time": "16:00",
-      "rating": 4.5,
-      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
-    },
-    {
-      "title": "Torrente Presidente",
       "time": "16:30",
       "rating": 4.5,
       "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
@@ -705,12 +879,6 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Torrente Presidente",
-      "time": "18:00",
-      "rating": 4.5,
-      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
-    },
-    {
-      "title": "Torrente Presidente",
       "time": "18:30",
       "rating": 4.5,
       "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
@@ -724,12 +892,6 @@ export const MOVIE_DATA = {
     {
       "title": "Torrente Presidente",
       "time": "19:45",
-      "rating": 4.5,
-      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
-    },
-    {
-      "title": "Torrente Presidente",
-      "time": "20:00",
       "rating": 4.5,
       "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
     },
@@ -1065,6 +1227,12 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Super Mario Galaxy: La Pelicula",
+      "time": "16:45",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "Super Mario Galaxy: La Pelicula",
       "time": "17:00",
       "rating": 4.5,
       "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
@@ -1090,6 +1258,12 @@ export const MOVIE_DATA = {
     {
       "title": "Super Mario Galaxy: La Pelicula",
       "time": "18:30",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "Super Mario Galaxy: La Pelicula",
+      "time": "18:45",
       "rating": 4.5,
       "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
     },
@@ -1132,6 +1306,12 @@ export const MOVIE_DATA = {
     {
       "title": "Super Mario Galaxy: La Pelicula",
       "time": "21:30",
+      "rating": 4.5,
+      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+    },
+    {
+      "title": "Super Mario Galaxy: La Pelicula",
+      "time": "21:40",
       "rating": 4.5,
       "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
     },
