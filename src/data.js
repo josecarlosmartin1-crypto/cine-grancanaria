@@ -316,7 +316,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Super Mario Galaxy: La Película",
-      "time": "18:00",
+      "time": "17:50",
       "rating": 4.5,
       "summary": "La película tiene lugar después de los acontecimientos de la primera, en la que dos hermanos, Mario ..."
     },
@@ -1126,12 +1126,6 @@ export const MOVIE_DATA = {
     {
       "title": "Laponia",
       "time": "18:30",
-      "rating": 4.5,
-      "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
-    },
-    {
-      "title": "Laponia",
-      "time": "18:40",
       "rating": 4.5,
       "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
     },
