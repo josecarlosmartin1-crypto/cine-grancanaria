@@ -31,26 +31,48 @@ const CinemaSelector = ({ selected, onSelect }) => (
     </div>
 );
 
-const MovieCard = ({ movie }) => (
-    <div className="movie-card">
-        <div className="movie-header">
-            <span className="movie-time">{movie.time}</span>
-            <div className="movie-rating">
-                <span>★</span>
-                <span>{movie.rating}</span>
+const MovieCard = ({ movie }) => {
+    // Determinar color de la valoración (0-10)
+    const getRatingColor = (rating) => {
+        if (rating >= 7.5) return '#4caf50'; // Verde (Buena)
+        if (rating >= 5.5) return '#ffc107'; // Naranja (Normal)
+        if (rating > 0) return '#ff5722';    // Rojo (Mala)
+        return '#888';                       // Gris (Sin nota)
+    };
+
+    return (
+        <div className="movie-card">
+            <div className="movie-card-inner">
+                {movie.poster ? (
+                    <div className="movie-poster-container">
+                        <img src={movie.poster} alt={movie.title} className="movie-poster" loading="lazy" />
+                    </div>
+                ) : (
+                    <div className="movie-poster-placeholder">🍿</div>
+                )}
+                
+                <div className="movie-details">
+                    <div className="movie-header">
+                        <span className="movie-time">{movie.time}</span>
+                        <div 
+                            className="movie-rating-badge" 
+                            style={{ backgroundColor: getRatingColor(movie.rating) }}
+                        >
+                            {movie.rating > 0 ? movie.rating : 'N/A'}
+                        </div>
+                    </div>
+                    <h2 className="movie-title">{movie.title}</h2>
+                    <p className="movie-summary">{movie.summary || "Ver cartelera para detalles."}</p>
+                </div>
             </div>
         </div>
-        <h2 className="movie-title">{movie.title}</h2>
-        <p className="movie-summary">{movie.summary}</p>
-    </div>
-);
+    );
+};
 
 function App() {
     const [selectedCinema, setSelectedCinema] = useState("Artesiete Las Terrazas");
 
     const movies = movieData[selectedCinema] || [];
-
-    // Sort movies by time (HH:MM format)
     const sortedMovies = [...movies].sort((a, b) => a.time.localeCompare(b.time));
 
     const today = new Date().toLocaleDateString('es-ES', { weekday: 'long', day: 'numeric', month: 'long' });
@@ -61,12 +83,10 @@ function App() {
             <header>
                 <h1>Cine GC</h1>
                 <p style={{ color: '#666', fontSize: '14px' }}>Cartelera del {formattedDate}</p>
+                <p style={{ color: '#999', fontSize: '11px', marginTop: '4px' }}>Notas por TMDb</p>
             </header>
 
-            <CinemaSelector
-                selected={selectedCinema}
-                onSelect={setSelectedCinema}
-            />
+            <CinemaSelector selected={selectedCinema} onSelect={setSelectedCinema} />
 
             <div className="movie-list">
                 {sortedMovies.length > 0 ? (

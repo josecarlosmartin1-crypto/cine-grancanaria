@@ -2,25 +2,62 @@ import cloudscraper
 import json
 import re
 import os
+import sys
 from bs4 import BeautifulSoup
 
-CINEMAS = [
-    {"name": "Artesiete Las Terrazas", "url": "https://artesiete.es/Cine/14/ARTESIETE-LAS-TERRAZAS"},
-    {"name": "Cine Yelmo Vecindario", "url": "https://www.yelmocines.es/cartelera/las-palmas/vecindario"},
-    {"name": "Cine Yelmo Las Arenas", "url": "https://www.yelmocines.es/cartelera/las-palmas/las-arenas"},
-    {"name": "Cine Yelmo Premium Alisios", "url": "https://www.yelmocines.es/cartelera/las-palmas/alisios"},
-    {"name": "Ocine Premium Siete Palmas", "url": "https://www.ocinepremium7palmas.es/cartelera"}
-]
+# Forzamos encoding UTF-8 para consola en Windows si es necesario
+if sys.stdout.encoding != 'utf-8':
+    import io
+    sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8')
+
+# Configuración TMDb
+TMDB_API_KEY = "f93979c3b2100a4a37b08d7c1228f32c"
+TMDB_CACHE = {}
+
+def get_movie_tmdb_info(title):
+    """Busca nota y poster en TMDb con caché para no repetir búsquedas."""
+    clean_title = re.sub(r'\(.*?\)', '', title).strip()
+    clean_title = clean_title.replace("¡", "").replace("!", "")
+    
+    if clean_title in TMDB_CACHE:
+        return TMDB_CACHE[clean_title]
+    
+    print(f"  -> Buscando en TMDb: {clean_title}...")
+    url = "https://api.themoviedb.org/3/search/movie"
+    params = {
+        "api_key": TMDB_API_KEY,
+        "query": clean_title,
+        "language": "es-ES"
+    }
+    
+    try:
+        scraper = cloudscraper.create_scraper()
+        res = scraper.get(url, params=params, timeout=10)
+        if res.status_code == 200:
+            results = res.json().get("results", [])
+            if results:
+                movie = results[0]
+                info = {
+                    "rating": round(movie.get("vote_average", 0), 1),
+                    "poster": f"https://image.tmdb.org/t/p/w342{movie.get('poster_path')}" if movie.get("poster_path") else None
+                }
+                TMDB_CACHE[clean_title] = info
+                return info
+    except Exception as e:
+        print(f"    Error TMDb: {e}")
+    
+    fallback = {"rating": 0, "poster": None}
+    TMDB_CACHE[clean_title] = fallback
+    return fallback
 
 def scrape_yelmo_api():
-    print("Obteniendo cartelera desde la API oficial de Yelmo Cines...")
+    print("Obteniendo cartelera: Yelmo Cines...")
     url = "https://www.yelmocines.es/now-playing.aspx/GetNowPlaying"
     scraper = cloudscraper.create_scraper()
     headers = {
         "Accept": "application/json, text/javascript, */*; q=0.01",
         "Content-Type": "application/json; charset=UTF-8",
-        "X-Requested-With": "XMLHttpRequest",
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/114.0.0.0 Safari/537.36"
+        "X-Requested-With": "XMLHttpRequest"
     }
     payload = {"cityKey": "las-palmas"}
     
@@ -33,210 +70,109 @@ def scrape_yelmo_api():
     try:
         res = scraper.post(url, headers=headers, json=payload, timeout=20)
         if res.status_code == 200:
-            data = res.json()
-            cinemas = data.get("d", {}).get("Cinemas", [])
-            
+            cinemas = res.json().get("d", {}).get("Cinemas", [])
             for c in cinemas:
                 name = c.get("Name", "")
                 target_key = None
-                
-                if "Vecindario" in name:
-                    target_key = "Cine Yelmo Vecindario"
-                elif "Las Arenas" in name:
-                    target_key = "Cine Yelmo Las Arenas"
-                elif "Alisios" in name:
-                    target_key = "Cine Yelmo Premium Alisios"
+                if "Vecindario" in name: target_key = "Cine Yelmo Vecindario"
+                elif "Las Arenas" in name: target_key = "Cine Yelmo Las Arenas"
+                elif "Alisios" in name: target_key = "Cine Yelmo Premium Alisios"
                     
                 if target_key:
                     dates = c.get("Dates", [])
                     if dates:
-                        # Extraemos peliculas de hoy (primer elemento)
                         movies = dates[0].get("Movies", [])
                         for m in movies:
-                            title = m.get("Title", "")
-                            synopsis = m.get("Synopsis", "")[:100] + "..." if m.get("Synopsis") else "Ver cartelera para detalles."
-                            # Juntamos los horarios de todos los formatos
-                            all_times = set()
+                            title = m.get("Title", "").title()
+                            synopsis = m.get("Synopsis", "")[:120] + "..." if m.get("Synopsis") else ""
+                            extra_info = get_movie_tmdb_info(title)
+                            
+                            times = set()
                             for f in m.get("Formats", []):
                                 for s in f.get("Showtimes", []):
-                                    time_str = s.get("Time", "")
-                                    if time_str:
-                                        all_times.add(time_str)
+                                    times.add(s.get("Time", ""))
                             
-                            for t in sorted(all_times):
-                                results[target_key].append({
-                                    "title": title.title(),
-                                    "time": t,
-                                    "rating": 4.5, # Dummy rating for UI
-                                    "summary": synopsis
-                                })
-                    print(f"  -> {target_key}: Encontradas {len(results[target_key])} sesiones.")
-        else:
-            print(f"  Error en API Yelmo: Status {res.status_code}")
+                            for t in sorted(times):
+                                if t:
+                                    results[target_key].append({
+                                        "title": title, "time": t, "rating": extra_info["rating"],
+                                        "poster": extra_info["poster"], "summary": synopsis
+                                    })
     except Exception as e:
-        print(f"  Error obteniendo datos de Yelmo: {e}")
-        
+        print(f"  Error Yelmo: {e}")
     return results
 
 def scrape_ocine_api():
-    print("Obteniendo cartelera desde la API json de Ocine Premium Siete Palmas...")
+    print("Obteniendo cartelera: Ocine Siete Palmas...")
     url = "https://www.ocinepremium7palmas.es/components/com_cines/json/es_cartellera.json"
     scraper = cloudscraper.create_scraper()
-    
-    results = {
-        "Ocine Premium Siete Palmas": []
-    }
-    
+    results = {"Ocine Premium Siete Palmas": []}
     try:
         res = scraper.get(url, timeout=20)
         if res.status_code == 200:
             data = res.json()
             movies = data.get("data", [])
-            today_date = data.get("date", "")
-            
+            today = data.get("date", "")
             for m in movies:
-                title = m.get("peli_titol", "")
-                if not title:
-                    continue
-                
+                title = m.get("peli_titol", "").title()
+                if not title: continue
+                extra_info = get_movie_tmdb_info(title)
                 peli2 = m.get("Pelicules2", {})
                 synopsis = peli2.get("pel2_sinopsis", "") if isinstance(peli2, dict) else ""
-                summary = synopsis[:100] + "..." if synopsis else m.get("peli_generacomercial", "Ver detalles.")
-
-                all_times = set()
-                sessions = m.get("Planificacions", [])
-                
-                for s in sessions:
-                    if today_date and s.get("plan_data") != today_date:
-                        continue
-                    
-                    time_val = s.get("plan_horainici", "")
-                    if time_val:
-                        time_str = ":".join(time_val.split(":")[:2])
-                        all_times.add(time_str)
-                
-                for t in sorted(all_times):
-                    results["Ocine Premium Siete Palmas"].append({
-                        "title": title.title(),
-                        "time": t,
-                        "rating": 4.5,
-                        "summary": summary
-                    })
-            print(f"  -> Ocine Premium Siete Palmas: Encontradas {len(results['Ocine Premium Siete Palmas'])} sesiones.")
-        else:
-            print(f"  Error en API Ocine: Status {res.status_code}")
+                for s in m.get("Planificacions", []):
+                    if today and s.get("plan_data") == today:
+                        time_val = s.get("plan_horainici", "")
+                        if time_val:
+                            results["Ocine Premium Siete Palmas"].append({
+                                "title": title, "time": ":".join(time_val.split(":")[:2]),
+                                "rating": extra_info["rating"], "poster": extra_info["poster"],
+                                "summary": synopsis[:120] + "..."
+                            })
     except Exception as e:
-        print(f"  Error obteniendo datos de Ocine: {e}")
-        
+        print(f"  Error Ocine: {e}")
     return results
 
 def scrape_artesiete():
-    print("Obteniendo cartelera desde la web de Artesiete Las Terrazas...")
+    print("Obteniendo cartelera: Artesiete Las Terrazas...")
     url = "https://terrazas.artesiete.es/Cine/1/ARTESIETE%20Las%20Terrazas/Total"
     scraper = cloudscraper.create_scraper()
-    
-    results = {
-        "Artesiete Las Terrazas": []
-    }
-    
+    results = {"Artesiete Las Terrazas": []}
     try:
         res = scraper.get(url, timeout=20)
         if res.status_code == 200:
             soup = BeautifulSoup(res.text, "html.parser")
-            imgs = soup.find_all('img')
-            
-            for img in imgs:
-                src = img.get('src', '')
+            for img in soup.find_all('img'):
                 alt = img.get('alt', '')
-                if 'posters' in src.lower():
+                if 'posters' in img.get('src', '').lower() and alt:
                     parent = img.parent
                     while parent and parent.name != 'body':
-                        if parent.name == 'div' and ('px-2' in parent.get('class', []) or 'mb-6' in parent.get('class', []) or 'relative' in parent.get('class', []) and len(parent.find_all('img')) == 1):
+                        if parent.name == 'div' and ('px-2' in parent.get('class', []) or 'relative' in parent.get('class', [])):
                             times = parent.find_all(string=re.compile(r'\b\d{1,2}:\d{2}\b'))
-                            if len(times) > 0 and len(parent.find_all('img', src=re.compile(r'(?i)posters'))) == 1:
-                                movie_times = []
-                                for t in times:
-                                    clean_t = t.strip()
-                                    if clean_t and clean_t not in movie_times:
-                                        movie_times.append(clean_t)
-                                
+                            if times:
                                 title = alt.title()
-                                for t in sorted(movie_times):
+                                extra_info = get_movie_tmdb_info(title)
+                                for t in sorted(list(set([ti.strip() for ti in times if ":" in ti]))):
                                     results["Artesiete Las Terrazas"].append({
-                                        "title": title,
-                                        "time": t,
-                                        "rating": 4.5,
-                                        "summary": "Para más detalles y poder comprar tus entradas, pulsa el botón Comprar."
+                                        "title": title, "time": t, "rating": extra_info["rating"],
+                                        "poster": extra_info["poster"], "summary": "Ver detalles en web."
                                     })
                                 break
                         parent = parent.parent
-            print(f"  -> Artesiete Las Terrazas: Encontradas {len(results['Artesiete Las Terrazas'])} sesiones.")
-        else:
-            print(f"  Error en Artesiete: Status {res.status_code}")
     except Exception as e:
-        print(f"  Error obteniendo datos de Artesiete: {e}")
-        
+        print(f"  Error Artesiete: {e}")
     return results
 
 def main():
     all_data = {}
-    
-    # Fully detailed manual data for fallback / missing APIs
-    manual_data = {
-        "Artesiete Las Terrazas": [
-            {"title": "Little Amelie", "time": "16:15", "rating": 4.4, "summary": "Animación entrañable."},
-            {"title": "Greenland 2", "time": "19:30", "rating": 4.2, "summary": "Supervivencia al límite."},
-            {"title": "Hamnet", "time": "17:15", "rating": 4.6, "summary": "Drama basado en el hijo de Shakespeare."},
-            {"title": "La Asistenta", "time": "17:40", "rating": 4.5, "summary": "Intriga psicológica basada en el éxito literario."},
-            {"title": "La Asistenta", "time": "18:00", "rating": 4.5, "summary": "Intriga psicológica basada en el éxito literario."},
-            {"title": "La Asistenta", "time": "21:45", "rating": 4.5, "summary": "Intriga psicológica basada en el éxito literario."},
-            {"title": "La Asistenta", "time": "22:15", "rating": 4.5, "summary": "Intriga psicológica basada en el éxito literario."}
-        ]
-    }
+    all_data.update(scrape_yelmo_api())
+    all_data.update(scrape_ocine_api())
+    all_data.update(scrape_artesiete())
 
-    # Fetch Yelmo live data
-    yelmo_live_data = scrape_yelmo_api()
-    all_data.update(yelmo_live_data)
-
-    # Fetch Ocine live data
-    ocine_live_data = scrape_ocine_api()
-    all_data.update(ocine_live_data)
-
-    # Fetch Artesiete live data
-    artesiete_live_data = scrape_artesiete()
-    all_data.update(artesiete_live_data)
-
-    # El fallback ya no es necesario porque los 5 cines se raspean en directo.
-
-    # Save to src/data.js
-    data_content = f"""export const MOVIE_DATA = {json.dumps(all_data, indent=2, ensure_ascii=False)};
-export const movieData = MOVIE_DATA;
-export const cinemas = Object.keys(MOVIE_DATA);
-"""
     with open("src/data.js", "w", encoding="utf-8") as f:
-        f.write(data_content)
+        f.write(f"export const MOVIE_DATA = {json.dumps(all_data, indent=2, ensure_ascii=False)};\n")
+        f.write("export const movieData = MOVIE_DATA;\nexport const cinemas = Object.keys(MOVIE_DATA);\n")
     
-    # Update PRUEBA_RAPIDA.html safely for standalone preview
-    try:
-        html_path = "PRUEBA_RAPIDA.html"
-        if os.path.exists(html_path):
-            with open(html_path, "r", encoding="utf-8") as f:
-                html = f.read()
-            
-            new_data_json = json.dumps(all_data, indent=2, ensure_ascii=False)
-            replacement = f"const MOVIE_DATA = {new_data_json};"
-            pattern = re.compile(r"const MOVIE_DATA = \{.*?\};", flags=re.DOTALL)
-            match = pattern.search(html)
-            if match:
-                new_html = html[:match.start()] + replacement + html[match.end():]
-                if new_html != html:
-                    with open(html_path, "w", encoding="utf-8") as f:
-                        f.write(new_html)
-                    print("PRUEBA_RAPIDA.html updated successfully.")
-    except Exception as e:
-        print(f"Error updating HTML: {e}")
-
-    print(f"Data updated successfully.")
+    print("\nActualizacion completada exitosamente.")
 
 if __name__ == "__main__":
     main()
