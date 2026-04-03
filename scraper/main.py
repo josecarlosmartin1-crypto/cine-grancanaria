@@ -12,8 +12,34 @@ if sys.stdout.encoding != 'utf-8':
 
 # Configuración TMDb
 TMDB_API_KEY = "f93979c3b2100a4a37b08d7c1228f32c"
-TMDB_CACHE = {}
+CACHE_FILE = "scraper/tmdb_cache.json"
+TMDB_CACHE = {} 
 GENRE_MAP = {} # ID -> Nombre
+
+def load_cache():
+    """Carga la memoria histórica de TMDb desde el archivo JSON."""
+    global TMDB_CACHE
+    if os.path.exists(CACHE_FILE):
+        try:
+            with open(CACHE_FILE, "r", encoding="utf-8") as f:
+                TMDB_CACHE = json.load(f)
+            print(f"  -> Memoria histórica cargada ({len(TMDB_CACHE)} películas recordadas).")
+        except Exception as e:
+            print(f"     Error cargando caché: {e}")
+            TMDB_CACHE = {}
+    else:
+        print("  -> Iniciando memoria nueva (sin historial previo).")
+
+def save_cache():
+    """Guarda la memoria actualizada en el archivo JSON."""
+    try:
+        # Aseguramos que la carpeta exista
+        os.makedirs(os.path.dirname(CACHE_FILE), exist_ok=True)
+        with open(CACHE_FILE, "w", encoding="utf-8") as f:
+            json.dump(TMDB_CACHE, f, indent=2, ensure_ascii=False)
+        print(f"  -> Memoria actualizada y guardada en {CACHE_FILE}.")
+    except Exception as e:
+        print(f"     Error guardando caché: {e}")
 
 def get_tmdb_genres():
     """Descarga la lista maestra de géneros de TMDb al inicio."""
@@ -32,14 +58,15 @@ def get_tmdb_genres():
         print(f"     Error cargando géneros: {e}")
 
 def get_movie_tmdb_info(title, fallback_summary=""):
-    """Busca nota, poster, resumen y GÉNEROS en TMDb con caché."""
+    """Busca nota, poster, resumen y géneros en TMDb con caché persistente."""
     clean_title = re.sub(r'\(.*?\)', '', title).strip()
     clean_title = clean_title.replace("¡", "").replace("!", "")
     
     if clean_title in TMDB_CACHE:
+        # Si ya la conocemos, no preguntamos a internet
         return TMDB_CACHE[clean_title]
     
-    print(f"  -> Consultando TMDb: {clean_title}...")
+    print(f"  -> Consultando TMDb (NUEVA): {clean_title}...")
     url = "https://api.themoviedb.org/3/search/movie"
     params = {"api_key": TMDB_API_KEY, "query": clean_title, "language": "es-ES"}
     
@@ -50,9 +77,8 @@ def get_movie_tmdb_info(title, fallback_summary=""):
             results = res.json().get("results", [])
             if results:
                 movie = results[0]
-                # Traducimos los IDs de géneros a nombres reales
                 genre_ids = movie.get("genre_ids", [])
-                genres = [GENRE_MAP.get(gid) for gid in genre_ids if GENRE_MAP.get(gid)][:3] # Máximo 3
+                genres = [GENRE_MAP.get(gid) for gid in genre_ids if GENRE_MAP.get(gid)][:3]
                 
                 info = {
                     "rating": round(movie.get("vote_average", 0), 1),
@@ -157,7 +183,8 @@ def scrape_artesiete():
     return results
 
 def main():
-    get_tmdb_genres() # Primero cargamos el catálogo de géneros
+    load_cache() # 1. Cargamos memoria histórica
+    get_tmdb_genres() # 2. Cargamos catálogo de géneros
     all_data = {}
     all_data.update(scrape_yelmo_api())
     all_data.update(scrape_ocine_api())
@@ -165,7 +192,8 @@ def main():
     with open("src/data.js", "w", encoding="utf-8") as f:
         f.write(f"export const MOVIE_DATA = {json.dumps(all_data, indent=2, ensure_ascii=False)};\n")
         f.write("export const movieData = MOVIE_DATA;\nexport const cinemas = Object.keys(MOVIE_DATA);\n")
-    print("\nActualizacion completada exitosamente con GÉNEROS detallados.")
+    save_cache() # 3. Guardamos la memoria actualizada
+    print("\nActualizacion completada con memoria persistente.")
 
 if __name__ == "__main__":
     main()

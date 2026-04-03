@@ -2,17 +2,6 @@ export const MOVIE_DATA = {
   "Cine Yelmo Vecindario": [
     {
       "title": "Noche De Bodas 2",
-      "time": "18:15",
-      "rating": 7.4,
-      "poster": "https://image.tmdb.org/t/p/w342/nDXKMOLJuBUKhYmHAY9qJdikuAq.jpg",
-      "summary": "Momentos después de sobrevivir a un ataque de la familia Le Domas, Grace descubre que ha alcanzado el siguiente nivel del juego, y esta vez acompañada por su hermana Faith, con quien mantiene una relación distante. Grace tiene una oportunidad para sobrevivir, mantener con vida a su hermana y reclamar el Alto Trono del Consejo que controla el mundo. Cuatro familias rivales la persiguen para hacerse con el trono, y quien gane lo gobernará todo.",
-      "genres": [
-        "Terror",
-        "Comedia"
-      ]
-    },
-    {
-      "title": "Noche De Bodas 2",
       "time": "20:30",
       "rating": 7.4,
       "poster": "https://image.tmdb.org/t/p/w342/nDXKMOLJuBUKhYmHAY9qJdikuAq.jpg",
@@ -53,18 +42,6 @@ export const MOVIE_DATA = {
       "genres": [
         "Comedia",
         "Familia"
-      ]
-    },
-    {
-      "title": "Super Mario Galaxy: La Película",
-      "time": "18:45",
-      "rating": 6.9,
-      "poster": "https://image.tmdb.org/t/p/w342/eEfzkiW28Y3BaHjjgFNkFERNKiK.jpg",
-      "summary": "La película tiene lugar después de los acontecimientos de la primera, en la que dos hermanos, Mario y Luigi, y la princesa Peach emprenden una aventura hasta los confines del espacio y a través de la galaxia. Secuela de \"Super Mario Bros: La película\", basada en la saga \"Mario Galaxy\".",
-      "genres": [
-        "Aventura",
-        "Animación",
-        "Comedia"
       ]
     },
     {
@@ -153,17 +130,6 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Proyecto Salvación",
-      "time": "18:50",
-      "rating": 8.2,
-      "poster": "https://image.tmdb.org/t/p/w342/7lwOTxajURKEWO6gI370NTrVdBO.jpg",
-      "summary": "El profesor de ciencias Ryland Grace se despierta en una nave espacial a años luz de casa sin recordar quién es ni cómo ha llegado hasta allí. A medida que recupera la memoria, empieza a descubrir su misión: resolver el enigma de la misteriosa sustancia que provoca la extinción del sol. Deberá recurrir a sus conocimientos científicos y a sus ideas poco ortodoxas para salvar todo lo que hay en la Tierra de la extinción... pero una amistad inesperada significa que quizá no tenga que hacerlo solo.",
-      "genres": [
-        "Ciencia ficción",
-        "Aventura"
-      ]
-    },
-    {
-      "title": "Proyecto Salvación",
       "time": "19:50",
       "rating": 8.2,
       "poster": "https://image.tmdb.org/t/p/w342/7lwOTxajURKEWO6gI370NTrVdBO.jpg",
@@ -210,16 +176,6 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Torrente Presidente",
-      "time": "18:05",
-      "rating": 6.4,
-      "poster": "https://image.tmdb.org/t/p/w342/a0Fn0PiGGiU74jIUelpce6z70i9.jpg",
-      "summary": "José Luis Torrente vuelve metido de lleno en la política española, arrastrando su habitual mezcla de vulgaridad, oportunismo e ineptitud. La película plantea una sátira de la realidad social y política del país mediante parodias, situaciones absurdas y numerosos cameos.",
-      "genres": [
-        "Comedia"
-      ]
-    },
-    {
-      "title": "Torrente Presidente",
       "time": "19:05",
       "rating": 6.4,
       "poster": "https://image.tmdb.org/t/p/w342/a0Fn0PiGGiU74jIUelpce6z70i9.jpg",
@@ -257,18 +213,6 @@ export const MOVIE_DATA = {
       "genres": [
         "Comedia"
       ]
-    },
-    {
-      "title": "Hoppers",
-      "time": "18:15",
-      "rating": 7.6,
-      "poster": "https://image.tmdb.org/t/p/w342/4Z0E1W7YvQ0aVtgj7KKtktb9ukd.jpg",
-      "summary": "Una amante de los animales aprovecha la oportunidad de utilizar una tecnología que coloca su conciencia en un castor robótico, descubriendo misterios dentro del mundo animal que van más allá de lo que podría haber imaginado.",
-      "genres": [
-        "Animación",
-        "Familia",
-        "Ciencia ficción"
-      ]
     }
   ],
   "Cine Yelmo Las Arenas": [
@@ -291,30 +235,6 @@ export const MOVIE_DATA = {
       "summary": "Momentos después de sobrevivir a un ataque de la familia Le Domas, Grace descubre que ha alcanzado el siguiente nivel del juego, y esta vez acompañada por su hermana Faith, con quien mantiene una relación distante. Grace tiene una oportunidad para sobrevivir, mantener con vida a su hermana y reclamar el Alto Trono del Consejo que controla el mundo. Cuatro familias rivales la persiguen para hacerse con el trono, y quien gane lo gobernará todo.",
       "genres": [
         "Terror",
-        "Comedia"
-      ]
-    },
-    {
-      "title": "Super Mario Galaxy: La Película",
-      "time": "18:20",
-      "rating": 6.9,
-      "poster": "https://image.tmdb.org/t/p/w342/eEfzkiW28Y3BaHjjgFNkFERNKiK.jpg",
-      "summary": "La película tiene lugar después de los acontecimientos de la primera, en la que dos hermanos, Mario y Luigi, y la princesa Peach emprenden una aventura hasta los confines del espacio y a través de la galaxia. Secuela de \"Super Mario Bros: La película\", basada en la saga \"Mario Galaxy\".",
-      "genres": [
-        "Aventura",
-        "Animación",
-        "Comedia"
-      ]
-    },
-    {
-      "title": "Super Mario Galaxy: La Película",
-      "time": "18:40",
-      "rating": 6.9,
-      "poster": "https://image.tmdb.org/t/p/w342/eEfzkiW28Y3BaHjjgFNkFERNKiK.jpg",
-      "summary": "La película tiene lugar después de los acontecimientos de la primera, en la que dos hermanos, Mario y Luigi, y la princesa Peach emprenden una aventura hasta los confines del espacio y a través de la galaxia. Secuela de \"Super Mario Bros: La película\", basada en la saga \"Mario Galaxy\".",
-      "genres": [
-        "Aventura",
-        "Animación",
         "Comedia"
       ]
     },
@@ -428,17 +348,6 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Proyecto Salvación",
-      "time": "18:50",
-      "rating": 8.2,
-      "poster": "https://image.tmdb.org/t/p/w342/7lwOTxajURKEWO6gI370NTrVdBO.jpg",
-      "summary": "El profesor de ciencias Ryland Grace se despierta en una nave espacial a años luz de casa sin recordar quién es ni cómo ha llegado hasta allí. A medida que recupera la memoria, empieza a descubrir su misión: resolver el enigma de la misteriosa sustancia que provoca la extinción del sol. Deberá recurrir a sus conocimientos científicos y a sus ideas poco ortodoxas para salvar todo lo que hay en la Tierra de la extinción... pero una amistad inesperada significa que quizá no tenga que hacerlo solo.",
-      "genres": [
-        "Ciencia ficción",
-        "Aventura"
-      ]
-    },
-    {
-      "title": "Proyecto Salvación",
       "time": "20:50",
       "rating": 8.2,
       "poster": "https://image.tmdb.org/t/p/w342/7lwOTxajURKEWO6gI370NTrVdBO.jpg",
@@ -485,26 +394,6 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Torrente Presidente",
-      "time": "18:10",
-      "rating": 6.4,
-      "poster": "https://image.tmdb.org/t/p/w342/a0Fn0PiGGiU74jIUelpce6z70i9.jpg",
-      "summary": "José Luis Torrente vuelve metido de lleno en la política española, arrastrando su habitual mezcla de vulgaridad, oportunismo e ineptitud. La película plantea una sátira de la realidad social y política del país mediante parodias, situaciones absurdas y numerosos cameos.",
-      "genres": [
-        "Comedia"
-      ]
-    },
-    {
-      "title": "Torrente Presidente",
-      "time": "19:00",
-      "rating": 6.4,
-      "poster": "https://image.tmdb.org/t/p/w342/a0Fn0PiGGiU74jIUelpce6z70i9.jpg",
-      "summary": "José Luis Torrente vuelve metido de lleno en la política española, arrastrando su habitual mezcla de vulgaridad, oportunismo e ineptitud. La película plantea una sátira de la realidad social y política del país mediante parodias, situaciones absurdas y numerosos cameos.",
-      "genres": [
-        "Comedia"
-      ]
-    },
-    {
-      "title": "Torrente Presidente",
       "time": "20:30",
       "rating": 6.4,
       "poster": "https://image.tmdb.org/t/p/w342/a0Fn0PiGGiU74jIUelpce6z70i9.jpg",
@@ -532,33 +421,9 @@ export const MOVIE_DATA = {
       "genres": [
         "Comedia"
       ]
-    },
-    {
-      "title": "Hoppers",
-      "time": "18:30",
-      "rating": 7.6,
-      "poster": "https://image.tmdb.org/t/p/w342/4Z0E1W7YvQ0aVtgj7KKtktb9ukd.jpg",
-      "summary": "Una amante de los animales aprovecha la oportunidad de utilizar una tecnología que coloca su conciencia en un castor robótico, descubriendo misterios dentro del mundo animal que van más allá de lo que podría haber imaginado.",
-      "genres": [
-        "Animación",
-        "Familia",
-        "Ciencia ficción"
-      ]
     }
   ],
   "Cine Yelmo Premium Alisios": [
-    {
-      "title": "Super Mario Galaxy: La Película",
-      "time": "18:45",
-      "rating": 6.9,
-      "poster": "https://image.tmdb.org/t/p/w342/eEfzkiW28Y3BaHjjgFNkFERNKiK.jpg",
-      "summary": "La película tiene lugar después de los acontecimientos de la primera, en la que dos hermanos, Mario y Luigi, y la princesa Peach emprenden una aventura hasta los confines del espacio y a través de la galaxia. Secuela de \"Super Mario Bros: La película\", basada en la saga \"Mario Galaxy\".",
-      "genres": [
-        "Aventura",
-        "Animación",
-        "Comedia"
-      ]
-    },
     {
       "title": "Super Mario Galaxy: La Película",
       "time": "19:15",
@@ -667,17 +532,6 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Proyecto Salvación",
-      "time": "18:50",
-      "rating": 8.2,
-      "poster": "https://image.tmdb.org/t/p/w342/7lwOTxajURKEWO6gI370NTrVdBO.jpg",
-      "summary": "El profesor de ciencias Ryland Grace se despierta en una nave espacial a años luz de casa sin recordar quién es ni cómo ha llegado hasta allí. A medida que recupera la memoria, empieza a descubrir su misión: resolver el enigma de la misteriosa sustancia que provoca la extinción del sol. Deberá recurrir a sus conocimientos científicos y a sus ideas poco ortodoxas para salvar todo lo que hay en la Tierra de la extinción... pero una amistad inesperada significa que quizá no tenga que hacerlo solo.",
-      "genres": [
-        "Ciencia ficción",
-        "Aventura"
-      ]
-    },
-    {
-      "title": "Proyecto Salvación",
       "time": "20:10",
       "rating": 8.2,
       "poster": "https://image.tmdb.org/t/p/w342/7lwOTxajURKEWO6gI370NTrVdBO.jpg",
@@ -720,26 +574,6 @@ export const MOVIE_DATA = {
         "Acción",
         "Comedia",
         "Terror"
-      ]
-    },
-    {
-      "title": "Torrente Presidente",
-      "time": "18:10",
-      "rating": 6.4,
-      "poster": "https://image.tmdb.org/t/p/w342/a0Fn0PiGGiU74jIUelpce6z70i9.jpg",
-      "summary": "José Luis Torrente vuelve metido de lleno en la política española, arrastrando su habitual mezcla de vulgaridad, oportunismo e ineptitud. La película plantea una sátira de la realidad social y política del país mediante parodias, situaciones absurdas y numerosos cameos.",
-      "genres": [
-        "Comedia"
-      ]
-    },
-    {
-      "title": "Torrente Presidente",
-      "time": "19:00",
-      "rating": 6.4,
-      "poster": "https://image.tmdb.org/t/p/w342/a0Fn0PiGGiU74jIUelpce6z70i9.jpg",
-      "summary": "José Luis Torrente vuelve metido de lleno en la política española, arrastrando su habitual mezcla de vulgaridad, oportunismo e ineptitud. La película plantea una sátira de la realidad social y política del país mediante parodias, situaciones absurdas y numerosos cameos.",
-      "genres": [
-        "Comedia"
       ]
     },
     {
