@@ -31,6 +31,17 @@ const CinemaSelector = ({ selected, onSelect }) => (
     </div>
 );
 
+const GenrePills = ({ genres }) => {
+    if (!genres || genres.length === 0) return null;
+    return (
+        <div className="genre-pills">
+            {genres.map((genre, idx) => (
+                <span key={idx} className="genre-pill">{genre}</span>
+            ))}
+        </div>
+    );
+};
+
 const Modal = ({ movie, onClose }) => {
     if (!movie) return null;
     return (
@@ -45,6 +56,7 @@ const Modal = ({ movie, onClose }) => {
                             <span className="modal-time">{movie.time}</span>
                             <span className="modal-rating">⭐ {movie.rating}</span>
                         </div>
+                        <GenrePills genres={movie.genres} />
                     </div>
                 </div>
                 <div className="modal-body">
@@ -65,7 +77,7 @@ const MovieCard = ({ movie, onShowSummary }) => {
     };
 
     return (
-        <div className="movie-card">
+        <div className="movie-card" onClick={() => onShowSummary(movie)}>
             <div className="movie-card-inner">
                 {movie.poster ? (
                     <div className="movie-poster-container">
@@ -86,7 +98,10 @@ const MovieCard = ({ movie, onShowSummary }) => {
                         </div>
                     </div>
                     <h2 className="movie-title">{movie.title}</h2>
-                    <div className="movie-summary-tap" onClick={() => onShowSummary(movie)}>
+                    
+                    <GenrePills genres={movie.genres} />
+
+                    <div className="movie-summary-tap">
                         <p className="movie-summary">{movie.summary || "Ver detalles en web."}</p>
                         <span className="tap-hint">Pulsa para leer más</span>
                     </div>
@@ -111,7 +126,7 @@ function App() {
             <header>
                 <h1>Cine GC</h1>
                 <p style={{ color: '#666', fontSize: '14px' }}>Cartelera del {formattedDate}</p>
-                <p style={{ color: '#999', fontSize: '11px', marginTop: '4px' }}>Notas y Sinopsis por TMDb</p>
+                <p style={{ color: '#999', fontSize: '11px', marginTop: '4px' }}>Notas, Géneros y Sinopsis por TMDb</p>
             </header>
 
             <CinemaSelector selected={selectedCinema} onSelect={setSelectedCinema} />

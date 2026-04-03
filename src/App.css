@@ -112,11 +112,13 @@ h1 {
   overflow: hidden;
   background: var(--card-bg);
   box-shadow: var(--shadow);
-  transition: transform 0.2s ease;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  cursor: pointer;
 }
 
 .movie-card:active {
   transform: scale(0.98);
+  box-shadow: 0 5px 15px rgba(0,0,0,0.05);
 }
 
 .movie-card-inner {
@@ -153,7 +155,7 @@ h1 {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  margin-bottom: 8px;
+  margin-bottom: 6px;
 }
 
 .movie-time {
@@ -174,18 +176,37 @@ h1 {
   font-size: 18px;
   font-weight: 700;
   color: #111;
-  margin-bottom: 6px;
+  margin-bottom: 8px;
   line-height: 1.2;
 }
 
+/* Genre Pills */
+.genre-pills {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin-bottom: 10px;
+}
+
+.genre-pill {
+  font-size: 10px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.3px;
+  padding: 3px 8px;
+  background: #f1f3f5;
+  color: #666;
+  border-radius: 6px;
+  border: 1px solid #e9ecef;
+}
+
 .movie-summary-tap {
-  cursor: pointer;
   position: relative;
   padding-bottom: 12px;
 }
 
 .movie-summary {
-  font-size: 13px;
+  font-size: 12px;
   color: var(--text-muted);
   line-height: 1.4;
   display: -webkit-box;
@@ -196,13 +217,13 @@ h1 {
 }
 
 .tap-hint {
-  font-size: 10px;
+  font-size: 9px;
   color: var(--primary);
   font-weight: 600;
   position: absolute;
   bottom: 0;
   left: 0;
-  opacity: 0.7;
+  opacity: 0.6;
 }
 
 /* Modal Styles */
@@ -231,7 +252,7 @@ h1 {
   position: relative;
   box-shadow: 0 20px 40px rgba(0,0,0,0.2);
   animation: slideUp 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275);
-  max-height: 80vh;
+  max-height: 85vh;
   overflow-y: auto;
 }
 
@@ -265,16 +286,22 @@ h1 {
   box-shadow: 0 4px 12px rgba(0,0,0,0.1);
 }
 
+.modal-text-header {
+  flex: 1;
+}
+
 .modal-text-header h2 {
-  font-size: 22px;
+  font-size: 20px;
   font-weight: 800;
   margin-bottom: 8px;
   color: #111;
+  line-height: 1.2;
 }
 
 .modal-meta {
   display: flex;
   gap: 12px;
+  margin-bottom: 12px;
 }
 
 .modal-time {
