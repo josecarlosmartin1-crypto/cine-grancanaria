@@ -14,15 +14,15 @@ if sys.stdout.encoding != 'utf-8':
 TMDB_API_KEY = "f93979c3b2100a4a37b08d7c1228f32c"
 TMDB_CACHE = {}
 
-def get_movie_tmdb_info(title):
-    """Busca nota y poster en TMDb con caché para no repetir búsquedas."""
+def get_movie_tmdb_info(title, fallback_summary=""):
+    """Busca nota, poster y resumen en TMDb con caché."""
     clean_title = re.sub(r'\(.*?\)', '', title).strip()
     clean_title = clean_title.replace("¡", "").replace("!", "")
     
     if clean_title in TMDB_CACHE:
         return TMDB_CACHE[clean_title]
     
-    print(f"  -> Buscando en TMDb: {clean_title}...")
+    print(f"  -> Consultando TMDb: {clean_title}...")
     url = "https://api.themoviedb.org/3/search/movie"
     params = {
         "api_key": TMDB_API_KEY,
@@ -39,14 +39,15 @@ def get_movie_tmdb_info(title):
                 movie = results[0]
                 info = {
                     "rating": round(movie.get("vote_average", 0), 1),
-                    "poster": f"https://image.tmdb.org/t/p/w342{movie.get('poster_path')}" if movie.get("poster_path") else None
+                    "poster": f"https://image.tmdb.org/t/p/w342{movie.get('poster_path')}" if movie.get("poster_path") else None,
+                    "summary": movie.get("overview", fallback_summary) or fallback_summary
                 }
                 TMDB_CACHE[clean_title] = info
                 return info
     except Exception as e:
         print(f"    Error TMDb: {e}")
     
-    fallback = {"rating": 0, "poster": None}
+    fallback = {"rating": 0, "poster": None, "summary": fallback_summary or "Ver detalles en web."}
     TMDB_CACHE[clean_title] = fallback
     return fallback
 
@@ -54,52 +55,33 @@ def scrape_yelmo_api():
     print("Obteniendo cartelera: Yelmo Cines...")
     url = "https://www.yelmocines.es/now-playing.aspx/GetNowPlaying"
     scraper = cloudscraper.create_scraper()
-    headers = {
-        "Accept": "application/json, text/javascript, */*; q=0.01",
-        "Content-Type": "application/json; charset=UTF-8",
-        "X-Requested-With": "XMLHttpRequest"
-    }
+    headers = {"Accept": "application/json, text/javascript, */*; q=0.01", "Content-Type": "application/json; charset=UTF-8", "X-Requested-With": "XMLHttpRequest"}
     payload = {"cityKey": "las-palmas"}
-    
-    results = {
-        "Cine Yelmo Vecindario": [],
-        "Cine Yelmo Las Arenas": [],
-        "Cine Yelmo Premium Alisios": []
-    }
-    
+    results = {"Cine Yelmo Vecindario": [], "Cine Yelmo Las Arenas": [], "Cine Yelmo Premium Alisios": []}
     try:
         res = scraper.post(url, headers=headers, json=payload, timeout=20)
         if res.status_code == 200:
-            cinemas = res.json().get("d", {}).get("Cinemas", [])
-            for c in cinemas:
+            for c in res.json().get("d", {}).get("Cinemas", []):
                 name = c.get("Name", "")
-                target_key = None
-                if "Vecindario" in name: target_key = "Cine Yelmo Vecindario"
-                elif "Las Arenas" in name: target_key = "Cine Yelmo Las Arenas"
-                elif "Alisios" in name: target_key = "Cine Yelmo Premium Alisios"
-                    
-                if target_key:
+                target = None
+                if "Vecindario" in name: target = "Cine Yelmo Vecindario"
+                elif "Las Arenas" in name: target = "Cine Yelmo Las Arenas"
+                elif "Alisios" in name: target = "Cine Yelmo Premium Alisios"
+                if target:
                     dates = c.get("Dates", [])
                     if dates:
-                        movies = dates[0].get("Movies", [])
-                        for m in movies:
+                        for m in dates[0].get("Movies", []):
                             title = m.get("Title", "").title()
-                            synopsis = m.get("Synopsis", "")[:120] + "..." if m.get("Synopsis") else ""
-                            extra_info = get_movie_tmdb_info(title)
-                            
-                            times = set()
-                            for f in m.get("Formats", []):
-                                for s in f.get("Showtimes", []):
-                                    times.add(s.get("Time", ""))
-                            
-                            for t in sorted(times):
-                                if t:
-                                    results[target_key].append({
-                                        "title": title, "time": t, "rating": extra_info["rating"],
-                                        "poster": extra_info["poster"], "summary": synopsis
-                                    })
-    except Exception as e:
-        print(f"  Error Yelmo: {e}")
+                            # El resumen de Yelmo a veces es muy corto o inexistente
+                            yelmo_summary = m.get("Synopsis", "")[:150]
+                            info = get_movie_tmdb_info(title, yelmo_summary)
+                            times = sorted(list(set([s.get("Time", "") for f in m.get("Formats", []) for s in f.get("Showtimes", []) if s.get("Time")])))
+                            for t in times:
+                                results[target].append({
+                                    "title": title, "time": t, "rating": info["rating"],
+                                    "poster": info["poster"], "summary": info["summary"]
+                                })
+    except Exception as e: print(f"  Error Yelmo: {e}")
     return results
 
 def scrape_ocine_api():
@@ -111,25 +93,22 @@ def scrape_ocine_api():
         res = scraper.get(url, timeout=20)
         if res.status_code == 200:
             data = res.json()
-            movies = data.get("data", [])
             today = data.get("date", "")
-            for m in movies:
+            for m in data.get("data", []):
                 title = m.get("peli_titol", "").title()
                 if not title: continue
-                extra_info = get_movie_tmdb_info(title)
                 peli2 = m.get("Pelicules2", {})
-                synopsis = peli2.get("pel2_sinopsis", "") if isinstance(peli2, dict) else ""
+                ocine_summary = (peli2.get("pel2_sinopsis") if isinstance(peli2, dict) else "") or ""
+                info = get_movie_tmdb_info(title, ocine_summary)
                 for s in m.get("Planificacions", []):
                     if today and s.get("plan_data") == today:
                         time_val = s.get("plan_horainici", "")
                         if time_val:
                             results["Ocine Premium Siete Palmas"].append({
                                 "title": title, "time": ":".join(time_val.split(":")[:2]),
-                                "rating": extra_info["rating"], "poster": extra_info["poster"],
-                                "summary": synopsis[:120] + "..."
+                                "rating": info["rating"], "poster": info["poster"], "summary": info["summary"]
                             })
-    except Exception as e:
-        print(f"  Error Ocine: {e}")
+    except Exception as e: print(f"  Error Ocine: {e}")
     return results
 
 def scrape_artesiete():
@@ -150,16 +129,16 @@ def scrape_artesiete():
                             times = parent.find_all(string=re.compile(r'\b\d{1,2}:\d{2}\b'))
                             if times:
                                 title = alt.title()
-                                extra_info = get_movie_tmdb_info(title)
-                                for t in sorted(list(set([ti.strip() for ti in times if ":" in ti]))):
+                                info = get_movie_tmdb_info(title, "Ver detalles en la web oficial.")
+                                movie_times = sorted(list(set([ti.strip() for ti in times if ":" in ti])))
+                                for t in movie_times:
                                     results["Artesiete Las Terrazas"].append({
-                                        "title": title, "time": t, "rating": extra_info["rating"],
-                                        "poster": extra_info["poster"], "summary": "Ver detalles en web."
+                                        "title": title, "time": t, "rating": info["rating"],
+                                        "poster": info["poster"], "summary": info["summary"]
                                     })
                                 break
                         parent = parent.parent
-    except Exception as e:
-        print(f"  Error Artesiete: {e}")
+    except Exception as e: print(f"  Error Artesiete: {e}")
     return results
 
 def main():
@@ -167,12 +146,10 @@ def main():
     all_data.update(scrape_yelmo_api())
     all_data.update(scrape_ocine_api())
     all_data.update(scrape_artesiete())
-
     with open("src/data.js", "w", encoding="utf-8") as f:
         f.write(f"export const MOVIE_DATA = {json.dumps(all_data, indent=2, ensure_ascii=False)};\n")
         f.write("export const movieData = MOVIE_DATA;\nexport const cinemas = Object.keys(MOVIE_DATA);\n")
-    
-    print("\nActualizacion completada exitosamente.")
+    print("\nActualizacion completada exitosamente con Sinopsis reales.")
 
 if __name__ == "__main__":
     main()

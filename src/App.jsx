@@ -31,13 +31,37 @@ const CinemaSelector = ({ selected, onSelect }) => (
     </div>
 );
 
-const MovieCard = ({ movie }) => {
-    // Determinar color de la valoración (0-10)
+const Modal = ({ movie, onClose }) => {
+    if (!movie) return null;
+    return (
+        <div className="modal-overlay" onClick={onClose}>
+            <div className="modal-content" onClick={(e) => e.stopPropagation()}>
+                <button className="close-button" onClick={onClose}>&times;</button>
+                <div className="modal-header-info">
+                    <img src={movie.poster} alt={movie.title} className="modal-poster" />
+                    <div className="modal-text-header">
+                        <h2>{movie.title}</h2>
+                        <div className="modal-meta">
+                            <span className="modal-time">{movie.time}</span>
+                            <span className="modal-rating">⭐ {movie.rating}</span>
+                        </div>
+                    </div>
+                </div>
+                <div className="modal-body">
+                    <h3>Sinopsis</h3>
+                    <p>{movie.summary}</p>
+                </div>
+            </div>
+        </div>
+    );
+};
+
+const MovieCard = ({ movie, onShowSummary }) => {
     const getRatingColor = (rating) => {
-        if (rating >= 7.5) return '#4caf50'; // Verde (Buena)
-        if (rating >= 5.5) return '#ffc107'; // Naranja (Normal)
-        if (rating > 0) return '#ff5722';    // Rojo (Mala)
-        return '#888';                       // Gris (Sin nota)
+        if (rating >= 7.5) return '#4caf50';
+        if (rating >= 5.5) return '#ffc107';
+        if (rating > 0) return '#ff5722';
+        return '#888';
     };
 
     return (
@@ -62,7 +86,10 @@ const MovieCard = ({ movie }) => {
                         </div>
                     </div>
                     <h2 className="movie-title">{movie.title}</h2>
-                    <p className="movie-summary">{movie.summary || "Ver cartelera para detalles."}</p>
+                    <div className="movie-summary-tap" onClick={() => onShowSummary(movie)}>
+                        <p className="movie-summary">{movie.summary || "Ver detalles en web."}</p>
+                        <span className="tap-hint">Pulsa para leer más</span>
+                    </div>
                 </div>
             </div>
         </div>
@@ -71,6 +98,7 @@ const MovieCard = ({ movie }) => {
 
 function App() {
     const [selectedCinema, setSelectedCinema] = useState("Artesiete Las Terrazas");
+    const [selectedMovieForSummary, setSelectedMovieForSummary] = useState(null);
 
     const movies = movieData[selectedCinema] || [];
     const sortedMovies = [...movies].sort((a, b) => a.time.localeCompare(b.time));
@@ -83,7 +111,7 @@ function App() {
             <header>
                 <h1>Cine GC</h1>
                 <p style={{ color: '#666', fontSize: '14px' }}>Cartelera del {formattedDate}</p>
-                <p style={{ color: '#999', fontSize: '11px', marginTop: '4px' }}>Notas por TMDb</p>
+                <p style={{ color: '#999', fontSize: '11px', marginTop: '4px' }}>Notas y Sinopsis por TMDb</p>
             </header>
 
             <CinemaSelector selected={selectedCinema} onSelect={setSelectedCinema} />
@@ -91,12 +119,21 @@ function App() {
             <div className="movie-list">
                 {sortedMovies.length > 0 ? (
                     sortedMovies.map((movie, index) => (
-                        <MovieCard key={index} movie={movie} />
+                        <MovieCard 
+                            key={index} 
+                            movie={movie} 
+                            onShowSummary={setSelectedMovieForSummary} 
+                        />
                     ))
                 ) : (
                     <div className="empty-state">No hay películas programadas para hoy.</div>
                 )}
             </div>
+
+            <Modal 
+                movie={selectedMovieForSummary} 
+                onClose={() => setSelectedMovieForSummary(null)} 
+            />
         </div>
     );
 }
