@@ -1,0 +1,16 @@
+node_modules/
+.DS_Store
+dist/
+dist-ssr/
+*.local
+.vercel
+.output
+.env
+build/
+.cache/
+python_venv/
+__pycache__/
+*.pyc
+*.pyo
+venv/
+env/
