@@ -466,7 +466,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Super Mario Galaxy: La Película",
-      "time": "12:00",
+      "time": "12:30",
       "rating": 6.9,
       "poster": "https://image.tmdb.org/t/p/w342/eEfzkiW28Y3BaHjjgFNkFERNKiK.jpg",
       "summary": "La película tiene lugar después de los acontecimientos de la primera, en la que dos hermanos, Mario y Luigi, y la princesa Peach emprenden una aventura hasta los confines del espacio y a través de la galaxia. Secuela de \"Super Mario Bros: La película\", basada en la saga \"Mario Galaxy\".",
@@ -730,7 +730,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Proyecto Salvación",
-      "time": "11:50",
+      "time": "12:20",
       "rating": 8.2,
       "poster": "https://image.tmdb.org/t/p/w342/7lwOTxajURKEWO6gI370NTrVdBO.jpg",
       "summary": "El profesor de ciencias Ryland Grace se despierta en una nave espacial a años luz de casa sin recordar quién es ni cómo ha llegado hasta allí. A medida que recupera la memoria, empieza a descubrir su misión: resolver el enigma de la misteriosa sustancia que provoca la extinción del sol. Deberá recurrir a sus conocimientos científicos y a sus ideas poco ortodoxas para salvar todo lo que hay en la Tierra de la extinción... pero una amistad inesperada significa que quizá no tenga que hacerlo solo.",
@@ -741,7 +741,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Proyecto Salvación",
-      "time": "12:20",
+      "time": "12:40",
       "rating": 8.2,
       "poster": "https://image.tmdb.org/t/p/w342/7lwOTxajURKEWO6gI370NTrVdBO.jpg",
       "summary": "El profesor de ciencias Ryland Grace se despierta en una nave espacial a años luz de casa sin recordar quién es ni cómo ha llegado hasta allí. A medida que recupera la memoria, empieza a descubrir su misión: resolver el enigma de la misteriosa sustancia que provoca la extinción del sol. Deberá recurrir a sus conocimientos científicos y a sus ideas poco ortodoxas para salvar todo lo que hay en la Tierra de la extinción... pero una amistad inesperada significa que quizá no tenga que hacerlo solo.",
@@ -795,38 +795,14 @@ export const MOVIE_DATA = {
       ]
     },
     {
-      "title": "Hannah Montana: La Película",
-      "time": "14:40",
-      "rating": 6.6,
-      "poster": "https://image.tmdb.org/t/p/w342/iA6aOMexDB2Hni3xpauAoiHLVF.jpg",
-      "summary": "Miley Stewart se las arregla como puede para compaginar el colegio, sus amigos y su vida secreta como estrella del pop; pero su enorme popularidad amenaza con invadir toda su vida, y ella parece aceptarlo. Así que cuando la popularidad de Hannah comienza a ser algo parecido a una carga, su padre decide llevarla a Crowley Corners, en Tennessee, para darle una dosis de realidad y reflexionar sobre lo que realmente importa en la vida. Allí comienza una aventura llena de diversión, risas y romance que ni la propia Hannah Montana podría imaginar.",
-      "genres": [
-        "Comedia",
-        "Drama",
-        "Familia"
-      ]
-    },
-    {
       "title": "Bluey En Cines: Colección ¡A Jugar Con Los Amigos!",
       "time": "16:10",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/s7ETRI4k07kjlR4FhyYimMqOHru.jpg",
-      "summary": "Bluey en cines: Colección ¡A jugar con los amigos! es una hora de diversión que incluye ocho episodios de las tres temporadas de la serie, todos celebrando el juego y la imaginación con amigos y familia. La recopilación muestra algunos de los juegos favoritos de Bluey como Shadowlands yOctopus, y destaca momentos especiales de amistad en episodios como Circus ySlide , todos llenos de alegría y risas.",
+      "summary": "Bluey en cines: Colección ¡A jugar con los amigos! es una hora de diversión que incluye ocho episodios de las tres temporadas de la serie, todos celebrando el juego y la imaginación con amigos y familia. La recopilación muestra algunos de los juegos favoritos de Bluey como Shadowlands y Octopus, y destaca momentos especiales de amistad en episodios como Circus y Slide, todos llenos de alegría y risas.",
       "genres": [
         "Animación",
         "Familia"
-      ]
-    },
-    {
-      "title": "Shelter: El Protector",
-      "time": "12:30",
-      "rating": 6.8,
-      "poster": "https://image.tmdb.org/t/p/w342/kOsqd5jFZ0p3O8Z0k0VQvBW2neW.jpg",
-      "summary": "Un recluso en una remota isla escocesa rescata a una niña del mar, desencadenando una peligrosa secuencia de acontecimientos.",
-      "genres": [
-        "Acción",
-        "Crimen",
-        "Suspense"
       ]
     },
     {
@@ -969,17 +945,6 @@ export const MOVIE_DATA = {
       ]
     },
     {
-      "title": "Cumbres Borrascosas",
-      "time": "12:40",
-      "rating": 6.5,
-      "poster": "https://image.tmdb.org/t/p/w342/afGUJcMBJloAUp9uC27MQiqkD7X.jpg",
-      "summary": "Una audaz y original reinterpretación de una de una de las historias de amor más grandes de todos los tiempos, 'Cumbres Borrascosas' de Emerald Fennell está protagonizada por Margot Robbie como Cathy y Jacob Elordi como Heathcliff, cuya pasión prohibida se transforma de romántica a intoxicante en una épica historia de lujuria, amor y locura.",
-      "genres": [
-        "Romance",
-        "Drama"
-      ]
-    },
-    {
       "title": "Como Cabras",
       "time": "15:00",
       "rating": 7.9,
@@ -994,14 +959,6 @@ export const MOVIE_DATA = {
   ],
   "Cine Yelmo Premium Alisios": [
     {
-      "title": "Super Junior 20Th Anniversary Tour <Super Show 10>",
-      "time": "16:15",
-      "rating": 0.0,
-      "poster": null,
-      "summary": "La gira <SUPER SHOW 10>, que comenzó en Seúl el pasado agosto y recorrió 17 regiones, llega a su espectacular final. Disfruta del último espectáculo, <SUPER SHOW 10> SJ-CORE en SEÚL, en la gran pantalla.\n",
-      "genres": []
-    },
-    {
       "title": "Super Mario Galaxy: La Película",
       "time": "12:00",
       "rating": 6.9,
@@ -1015,7 +972,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Super Mario Galaxy: La Película",
-      "time": "12:30",
+      "time": "12:15",
       "rating": 6.9,
       "poster": "https://image.tmdb.org/t/p/w342/eEfzkiW28Y3BaHjjgFNkFERNKiK.jpg",
       "summary": "La película tiene lugar después de los acontecimientos de la primera, en la que dos hermanos, Mario y Luigi, y la princesa Peach emprenden una aventura hasta los confines del espacio y a través de la galaxia. Secuela de \"Super Mario Bros: La película\", basada en la saga \"Mario Galaxy\".",
@@ -1027,7 +984,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Super Mario Galaxy: La Película",
-      "time": "12:50",
+      "time": "12:30",
       "rating": 6.9,
       "poster": "https://image.tmdb.org/t/p/w342/eEfzkiW28Y3BaHjjgFNkFERNKiK.jpg",
       "summary": "La película tiene lugar después de los acontecimientos de la primera, en la que dos hermanos, Mario y Luigi, y la princesa Peach emprenden una aventura hasta los confines del espacio y a través de la galaxia. Secuela de \"Super Mario Bros: La película\", basada en la saga \"Mario Galaxy\".",
@@ -1064,18 +1021,6 @@ export const MOVIE_DATA = {
     {
       "title": "Super Mario Galaxy: La Película",
       "time": "14:15",
-      "rating": 6.9,
-      "poster": "https://image.tmdb.org/t/p/w342/eEfzkiW28Y3BaHjjgFNkFERNKiK.jpg",
-      "summary": "La película tiene lugar después de los acontecimientos de la primera, en la que dos hermanos, Mario y Luigi, y la princesa Peach emprenden una aventura hasta los confines del espacio y a través de la galaxia. Secuela de \"Super Mario Bros: La película\", basada en la saga \"Mario Galaxy\".",
-      "genres": [
-        "Aventura",
-        "Animación",
-        "Comedia"
-      ]
-    },
-    {
-      "title": "Super Mario Galaxy: La Película",
-      "time": "14:35",
       "rating": 6.9,
       "poster": "https://image.tmdb.org/t/p/w342/eEfzkiW28Y3BaHjjgFNkFERNKiK.jpg",
       "summary": "La película tiene lugar después de los acontecimientos de la primera, en la que dos hermanos, Mario y Luigi, y la princesa Peach emprenden una aventura hasta los confines del espacio y a través de la galaxia. Secuela de \"Super Mario Bros: La película\", basada en la saga \"Mario Galaxy\".",
@@ -1254,29 +1199,6 @@ export const MOVIE_DATA = {
       ]
     },
     {
-      "title": "Super Mario Galaxy: La Película",
-      "time": "23:15",
-      "rating": 6.9,
-      "poster": "https://image.tmdb.org/t/p/w342/eEfzkiW28Y3BaHjjgFNkFERNKiK.jpg",
-      "summary": "La película tiene lugar después de los acontecimientos de la primera, en la que dos hermanos, Mario y Luigi, y la princesa Peach emprenden una aventura hasta los confines del espacio y a través de la galaxia. Secuela de \"Super Mario Bros: La película\", basada en la saga \"Mario Galaxy\".",
-      "genres": [
-        "Aventura",
-        "Animación",
-        "Comedia"
-      ]
-    },
-    {
-      "title": "Noche De Bodas 2",
-      "time": "16:50",
-      "rating": 7.4,
-      "poster": "https://image.tmdb.org/t/p/w342/nDXKMOLJuBUKhYmHAY9qJdikuAq.jpg",
-      "summary": "Momentos después de sobrevivir a un ataque de la familia Le Domas, Grace descubre que ha alcanzado el siguiente nivel del juego, y esta vez acompañada por su hermana Faith, con quien mantiene una relación distante. Grace tiene una oportunidad para sobrevivir, mantener con vida a su hermana y reclamar el Alto Trono del Consejo que controla el mundo. Cuatro familias rivales la persiguen para hacerse con el trono, y quien gane lo gobernará todo.",
-      "genres": [
-        "Terror",
-        "Comedia"
-      ]
-    },
-    {
       "title": "Noche De Bodas 2",
       "time": "19:25",
       "rating": 7.4,
@@ -1296,41 +1218,6 @@ export const MOVIE_DATA = {
       "genres": [
         "Terror",
         "Comedia"
-      ]
-    },
-    {
-      "title": "Bluey En Cines: Colección ¡A Jugar Con Los Amigos!",
-      "time": "16:00",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/s7ETRI4k07kjlR4FhyYimMqOHru.jpg",
-      "summary": "Bluey en cines: Colección ¡A jugar con los amigos! es una hora de diversión que incluye ocho episodios de las tres temporadas de la serie, todos celebrando el juego y la imaginación con amigos y familia. La recopilación muestra algunos de los juegos favoritos de Bluey como Shadowlands yOctopus, y destaca momentos especiales de amistad en episodios como Circus ySlide , todos llenos de alegría y risas.",
-      "genres": [
-        "Animación",
-        "Familia"
-      ]
-    },
-    {
-      "title": "Shelter: El Protector",
-      "time": "19:45",
-      "rating": 6.8,
-      "poster": "https://image.tmdb.org/t/p/w342/kOsqd5jFZ0p3O8Z0k0VQvBW2neW.jpg",
-      "summary": "Un recluso en una remota isla escocesa rescata a una niña del mar, desencadenando una peligrosa secuencia de acontecimientos.",
-      "genres": [
-        "Acción",
-        "Crimen",
-        "Suspense"
-      ]
-    },
-    {
-      "title": "Te Van A Matar",
-      "time": "22:10",
-      "rating": 6.7,
-      "poster": "https://image.tmdb.org/t/p/w342/4nMIuF7AnBCA2kEOdZ4t7f2GF10.jpg",
-      "summary": "Una mujer acepta un trabajo como ama de llaves en un rascacielos de Nueva York, sin conocer el historial de desapariciones del edificio. Pronto se da cuenta de que la comunidad está rodeada de misterio.",
-      "genres": [
-        "Acción",
-        "Comedia",
-        "Terror"
       ]
     },
     {
@@ -1357,7 +1244,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Proyecto Salvación",
-      "time": "15:35",
+      "time": "15:30",
       "rating": 8.2,
       "poster": "https://image.tmdb.org/t/p/w342/7lwOTxajURKEWO6gI370NTrVdBO.jpg",
       "summary": "El profesor de ciencias Ryland Grace se despierta en una nave espacial a años luz de casa sin recordar quién es ni cómo ha llegado hasta allí. A medida que recupera la memoria, empieza a descubrir su misión: resolver el enigma de la misteriosa sustancia que provoca la extinción del sol. Deberá recurrir a sus conocimientos científicos y a sus ideas poco ortodoxas para salvar todo lo que hay en la Tierra de la extinción... pero una amistad inesperada significa que quizá no tenga que hacerlo solo.",
@@ -1379,7 +1266,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Proyecto Salvación",
-      "time": "20:50",
+      "time": "20:10",
       "rating": 8.2,
       "poster": "https://image.tmdb.org/t/p/w342/7lwOTxajURKEWO6gI370NTrVdBO.jpg",
       "summary": "El profesor de ciencias Ryland Grace se despierta en una nave espacial a años luz de casa sin recordar quién es ni cómo ha llegado hasta allí. A medida que recupera la memoria, empieza a descubrir su misión: resolver el enigma de la misteriosa sustancia que provoca la extinción del sol. Deberá recurrir a sus conocimientos científicos y a sus ideas poco ortodoxas para salvar todo lo que hay en la Tierra de la extinción... pero una amistad inesperada significa que quizá no tenga que hacerlo solo.",
@@ -1390,13 +1277,48 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Proyecto Salvación",
-      "time": "22:20",
+      "time": "22:00",
       "rating": 8.2,
       "poster": "https://image.tmdb.org/t/p/w342/7lwOTxajURKEWO6gI370NTrVdBO.jpg",
       "summary": "El profesor de ciencias Ryland Grace se despierta en una nave espacial a años luz de casa sin recordar quién es ni cómo ha llegado hasta allí. A medida que recupera la memoria, empieza a descubrir su misión: resolver el enigma de la misteriosa sustancia que provoca la extinción del sol. Deberá recurrir a sus conocimientos científicos y a sus ideas poco ortodoxas para salvar todo lo que hay en la Tierra de la extinción... pero una amistad inesperada significa que quizá no tenga que hacerlo solo.",
       "genres": [
         "Ciencia ficción",
         "Aventura"
+      ]
+    },
+    {
+      "title": "Shelter: El Protector",
+      "time": "16:55",
+      "rating": 6.8,
+      "poster": "https://image.tmdb.org/t/p/w342/kOsqd5jFZ0p3O8Z0k0VQvBW2neW.jpg",
+      "summary": "Un recluso en una remota isla escocesa rescata a una niña del mar, desencadenando una peligrosa secuencia de acontecimientos.",
+      "genres": [
+        "Acción",
+        "Crimen",
+        "Suspense"
+      ]
+    },
+    {
+      "title": "Shelter: El Protector",
+      "time": "19:45",
+      "rating": 6.8,
+      "poster": "https://image.tmdb.org/t/p/w342/kOsqd5jFZ0p3O8Z0k0VQvBW2neW.jpg",
+      "summary": "Un recluso en una remota isla escocesa rescata a una niña del mar, desencadenando una peligrosa secuencia de acontecimientos.",
+      "genres": [
+        "Acción",
+        "Crimen",
+        "Suspense"
+      ]
+    },
+    {
+      "title": "Bluey En Cines: Colección ¡A Jugar Con Los Amigos!",
+      "time": "16:00",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/s7ETRI4k07kjlR4FhyYimMqOHru.jpg",
+      "summary": "Bluey en cines: Colección ¡A jugar con los amigos! es una hora de diversión que incluye ocho episodios de las tres temporadas de la serie, todos celebrando el juego y la imaginación con amigos y familia. La recopilación muestra algunos de los juegos favoritos de Bluey como Shadowlands y Octopus, y destaca momentos especiales de amistad en episodios como Circus y Slide, todos llenos de alegría y risas.",
+      "genres": [
+        "Animación",
+        "Familia"
       ]
     },
     {
@@ -1483,7 +1405,31 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Hoppers",
-      "time": "16:40",
+      "time": "14:30",
+      "rating": 7.6,
+      "poster": "https://image.tmdb.org/t/p/w342/4Z0E1W7YvQ0aVtgj7KKtktb9ukd.jpg",
+      "summary": "Una amante de los animales aprovecha la oportunidad de utilizar una tecnología que coloca su conciencia en un castor robótico, descubriendo misterios dentro del mundo animal que van más allá de lo que podría haber imaginado.",
+      "genres": [
+        "Animación",
+        "Familia",
+        "Ciencia ficción"
+      ]
+    },
+    {
+      "title": "Hoppers",
+      "time": "15:40",
+      "rating": 7.6,
+      "poster": "https://image.tmdb.org/t/p/w342/4Z0E1W7YvQ0aVtgj7KKtktb9ukd.jpg",
+      "summary": "Una amante de los animales aprovecha la oportunidad de utilizar una tecnología que coloca su conciencia en un castor robótico, descubriendo misterios dentro del mundo animal que van más allá de lo que podría haber imaginado.",
+      "genres": [
+        "Animación",
+        "Familia",
+        "Ciencia ficción"
+      ]
+    },
+    {
+      "title": "Hoppers",
+      "time": "17:55",
       "rating": 7.6,
       "poster": "https://image.tmdb.org/t/p/w342/4Z0E1W7YvQ0aVtgj7KKtktb9ukd.jpg",
       "summary": "Una amante de los animales aprovecha la oportunidad de utilizar una tecnología que coloca su conciencia en un castor robótico, descubriendo misterios dentro del mundo animal que van más allá de lo que podría haber imaginado.",
@@ -1495,7 +1441,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Como Cabras",
-      "time": "13:45",
+      "time": "13:00",
       "rating": 7.9,
       "poster": "https://image.tmdb.org/t/p/w342/l8Y8o3RpFg54gmQQ8GVaxVroFmY.jpg",
       "summary": "Will es una pequeña cabra con grandes sueños que recibe una oportunidad única en la vida para unirse a los profesionales y jugar al rugebol, un deporte de alta intensidad, mixto y de contacto total dominado por los animales más rápidos y feroces del mundo. A los nuevos compañeros de equipo de Will no les entusiasma tener a una cabrita en su plantilla, pero Will está decidido a revolucionar el deporte y demostrar de una vez por todas que «¡los pequeños saben jugar!».",
@@ -1503,6 +1449,29 @@ export const MOVIE_DATA = {
         "Animación",
         "Comedia",
         "Familia"
+      ]
+    },
+    {
+      "title": "Como Cabras",
+      "time": "16:40",
+      "rating": 7.9,
+      "poster": "https://image.tmdb.org/t/p/w342/l8Y8o3RpFg54gmQQ8GVaxVroFmY.jpg",
+      "summary": "Will es una pequeña cabra con grandes sueños que recibe una oportunidad única en la vida para unirse a los profesionales y jugar al rugebol, un deporte de alta intensidad, mixto y de contacto total dominado por los animales más rápidos y feroces del mundo. A los nuevos compañeros de equipo de Will no les entusiasma tener a una cabrita en su plantilla, pero Will está decidido a revolucionar el deporte y demostrar de una vez por todas que «¡los pequeños saben jugar!».",
+      "genres": [
+        "Animación",
+        "Comedia",
+        "Familia"
+      ]
+    },
+    {
+      "title": "Cumbres Borrascosas",
+      "time": "22:10",
+      "rating": 6.5,
+      "poster": "https://image.tmdb.org/t/p/w342/afGUJcMBJloAUp9uC27MQiqkD7X.jpg",
+      "summary": "Una audaz y original reinterpretación de una de una de las historias de amor más grandes de todos los tiempos, 'Cumbres Borrascosas' de Emerald Fennell está protagonizada por Margot Robbie como Cathy y Jacob Elordi como Heathcliff, cuya pasión prohibida se transforma de romántica a intoxicante en una épica historia de lujuria, amor y locura.",
+      "genres": [
+        "Romance",
+        "Drama"
       ]
     }
   ],
@@ -1766,17 +1735,6 @@ export const MOVIE_DATA = {
       ]
     },
     {
-      "title": "Altas Capacidades",
-      "time": "22:15",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/65aKcfq06mNR1wLOT1d9Wr3H1mz.jpg",
-      "summary": "Alicia y Gonzalo, una pareja de clase media, se encuentran con la oportunidad de matricular a su hijo Fer en un colegio laico de élite. Las aspiraciones de la pareja se llevarán por delante lo que, hasta entonces, creían incuestionable.",
-      "genres": [
-        "Comedia",
-        "Drama"
-      ]
-    },
-    {
       "title": "Proyecto Salvacion",
       "time": "12:00",
       "rating": 8.2,
@@ -1904,18 +1862,6 @@ export const MOVIE_DATA = {
     {
       "title": "Te Van A Matar",
       "time": "16:30",
-      "rating": 6.7,
-      "poster": "https://image.tmdb.org/t/p/w342/4nMIuF7AnBCA2kEOdZ4t7f2GF10.jpg",
-      "summary": "Una mujer acepta un trabajo como ama de llaves en un rascacielos de Nueva York, sin conocer el historial de desapariciones del edificio. Pronto se da cuenta de que la comunidad está rodeada de misterio.",
-      "genres": [
-        "Acción",
-        "Comedia",
-        "Terror"
-      ]
-    },
-    {
-      "title": "Te Van A Matar",
-      "time": "16:50",
       "rating": 6.7,
       "poster": "https://image.tmdb.org/t/p/w342/4nMIuF7AnBCA2kEOdZ4t7f2GF10.jpg",
       "summary": "Una mujer acepta un trabajo como ama de llaves en un rascacielos de Nueva York, sin conocer el historial de desapariciones del edificio. Pronto se da cuenta de que la comunidad está rodeada de misterio.",
@@ -2076,17 +2022,6 @@ export const MOVIE_DATA = {
       ]
     },
     {
-      "title": "Laponia",
-      "time": "20:20",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/1iDPjqlfRb9f8yl89bc2zvoMnVV.jpg",
-      "summary": "Después de varios años sin celebrar juntas las fiestas de Navidad, una familia asentada en Laponia invita a la familia de la hermana de la mujer para celebrar la Navidad en su casa de Romanievi. Lo que apuntaba a ser una Navidad de ensueño descarrila cuando la hija le cuenta a su primo pequeño que Papá Noel no existe.",
-      "genres": [
-        "Comedia",
-        "Familia"
-      ]
-    },
-    {
       "title": "Noche De Bodas 2",
       "time": "12:15",
       "rating": 7.4,
@@ -2213,18 +2148,6 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Super Mario Galaxy: La Pelicula",
-      "time": "16:45",
-      "rating": 6.9,
-      "poster": "https://image.tmdb.org/t/p/w342/eEfzkiW28Y3BaHjjgFNkFERNKiK.jpg",
-      "summary": "La película tiene lugar después de los acontecimientos de la primera, en la que dos hermanos, Mario y Luigi, y la princesa Peach emprenden una aventura hasta los confines del espacio y a través de la galaxia. Secuela de \"Super Mario Bros: La película\", basada en la saga \"Mario Galaxy\".",
-      "genres": [
-        "Aventura",
-        "Animación",
-        "Comedia"
-      ]
-    },
-    {
-      "title": "Super Mario Galaxy: La Pelicula",
       "time": "17:00",
       "rating": 6.9,
       "poster": "https://image.tmdb.org/t/p/w342/eEfzkiW28Y3BaHjjgFNkFERNKiK.jpg",
@@ -2274,18 +2197,6 @@ export const MOVIE_DATA = {
     {
       "title": "Super Mario Galaxy: La Pelicula",
       "time": "18:30",
-      "rating": 6.9,
-      "poster": "https://image.tmdb.org/t/p/w342/eEfzkiW28Y3BaHjjgFNkFERNKiK.jpg",
-      "summary": "La película tiene lugar después de los acontecimientos de la primera, en la que dos hermanos, Mario y Luigi, y la princesa Peach emprenden una aventura hasta los confines del espacio y a través de la galaxia. Secuela de \"Super Mario Bros: La película\", basada en la saga \"Mario Galaxy\".",
-      "genres": [
-        "Aventura",
-        "Animación",
-        "Comedia"
-      ]
-    },
-    {
-      "title": "Super Mario Galaxy: La Pelicula",
-      "time": "18:45",
       "rating": 6.9,
       "poster": "https://image.tmdb.org/t/p/w342/eEfzkiW28Y3BaHjjgFNkFERNKiK.jpg",
       "summary": "La película tiene lugar después de los acontecimientos de la primera, en la que dos hermanos, Mario y Luigi, y la princesa Peach emprenden una aventura hasta los confines del espacio y a través de la galaxia. Secuela de \"Super Mario Bros: La película\", basada en la saga \"Mario Galaxy\".",
@@ -2370,18 +2281,6 @@ export const MOVIE_DATA = {
     {
       "title": "Super Mario Galaxy: La Pelicula",
       "time": "21:30",
-      "rating": 6.9,
-      "poster": "https://image.tmdb.org/t/p/w342/eEfzkiW28Y3BaHjjgFNkFERNKiK.jpg",
-      "summary": "La película tiene lugar después de los acontecimientos de la primera, en la que dos hermanos, Mario y Luigi, y la princesa Peach emprenden una aventura hasta los confines del espacio y a través de la galaxia. Secuela de \"Super Mario Bros: La película\", basada en la saga \"Mario Galaxy\".",
-      "genres": [
-        "Aventura",
-        "Animación",
-        "Comedia"
-      ]
-    },
-    {
-      "title": "Super Mario Galaxy: La Pelicula",
-      "time": "21:40",
       "rating": 6.9,
       "poster": "https://image.tmdb.org/t/p/w342/eEfzkiW28Y3BaHjjgFNkFERNKiK.jpg",
       "summary": "La película tiene lugar después de los acontecimientos de la primera, en la que dos hermanos, Mario y Luigi, y la princesa Peach emprenden una aventura hasta los confines del espacio y a través de la galaxia. Secuela de \"Super Mario Bros: La película\", basada en la saga \"Mario Galaxy\".",
