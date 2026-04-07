@@ -82,7 +82,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Super Mario Galaxy: La Película",
-      "time": "18:45",
+      "time": "18:50",
       "rating": 6.9,
       "poster": "https://image.tmdb.org/t/p/w342/eEfzkiW28Y3BaHjjgFNkFERNKiK.jpg",
       "summary": "La película tiene lugar después de los acontecimientos de la primera, en la que dos hermanos, Mario y Luigi, y la princesa Peach emprenden una aventura hasta los confines del espacio y a través de la galaxia. Secuela de \"Super Mario Bros: La película\", basada en la saga \"Mario Galaxy\".",
@@ -118,18 +118,6 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Super Mario Galaxy: La Película",
-      "time": "21:00",
-      "rating": 6.9,
-      "poster": "https://image.tmdb.org/t/p/w342/eEfzkiW28Y3BaHjjgFNkFERNKiK.jpg",
-      "summary": "La película tiene lugar después de los acontecimientos de la primera, en la que dos hermanos, Mario y Luigi, y la princesa Peach emprenden una aventura hasta los confines del espacio y a través de la galaxia. Secuela de \"Super Mario Bros: La película\", basada en la saga \"Mario Galaxy\".",
-      "genres": [
-        "Aventura",
-        "Animación",
-        "Comedia"
-      ]
-    },
-    {
-      "title": "Super Mario Galaxy: La Película",
       "time": "21:30",
       "rating": 6.9,
       "poster": "https://image.tmdb.org/t/p/w342/eEfzkiW28Y3BaHjjgFNkFERNKiK.jpg",
@@ -150,6 +138,30 @@ export const MOVIE_DATA = {
         "Aventura",
         "Animación",
         "Comedia"
+      ]
+    },
+    {
+      "title": "Te Van A Matar",
+      "time": "21:00",
+      "rating": 6.7,
+      "poster": "https://image.tmdb.org/t/p/w342/4nMIuF7AnBCA2kEOdZ4t7f2GF10.jpg",
+      "summary": "Una mujer acepta un trabajo como ama de llaves en un rascacielos de Nueva York, sin conocer el historial de desapariciones del edificio. Pronto se da cuenta de que la comunidad está rodeada de misterio.",
+      "genres": [
+        "Acción",
+        "Comedia",
+        "Terror"
+      ]
+    },
+    {
+      "title": "Te Van A Matar",
+      "time": "22:15",
+      "rating": 6.7,
+      "poster": "https://image.tmdb.org/t/p/w342/4nMIuF7AnBCA2kEOdZ4t7f2GF10.jpg",
+      "summary": "Una mujer acepta un trabajo como ama de llaves en un rascacielos de Nueva York, sin conocer el historial de desapariciones del edificio. Pronto se da cuenta de que la comunidad está rodeada de misterio.",
+      "genres": [
+        "Acción",
+        "Comedia",
+        "Terror"
       ]
     },
     {
@@ -209,7 +221,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Shelter: El Protector",
-      "time": "19:55",
+      "time": "20:00",
       "rating": 6.8,
       "poster": "https://image.tmdb.org/t/p/w342/kOsqd5jFZ0p3O8Z0k0VQvBW2neW.jpg",
       "summary": "Un recluso en una remota isla escocesa rescata a una niña del mar, desencadenando una peligrosa secuencia de acontecimientos.",
@@ -217,18 +229,6 @@ export const MOVIE_DATA = {
         "Acción",
         "Crimen",
         "Suspense"
-      ]
-    },
-    {
-      "title": "Te Van A Matar",
-      "time": "22:10",
-      "rating": 6.7,
-      "poster": "https://image.tmdb.org/t/p/w342/4nMIuF7AnBCA2kEOdZ4t7f2GF10.jpg",
-      "summary": "Una mujer acepta un trabajo como ama de llaves en un rascacielos de Nueva York, sin conocer el historial de desapariciones del edificio. Pronto se da cuenta de que la comunidad está rodeada de misterio.",
-      "genres": [
-        "Acción",
-        "Comedia",
-        "Terror"
       ]
     },
     {
@@ -315,7 +315,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Hoppers",
-      "time": "17:40",
+      "time": "17:45",
       "rating": 7.6,
       "poster": "https://image.tmdb.org/t/p/w342/4Z0E1W7YvQ0aVtgj7KKtktb9ukd.jpg",
       "summary": "Una amante de los animales aprovecha la oportunidad de utilizar una tecnología que coloca su conciencia en un castor robótico, descubriendo misterios dentro del mundo animal que van más allá de lo que podría haber imaginado.",
@@ -1143,7 +1143,7 @@ export const MOVIE_DATA = {
     {
       "title": "Dhurandhar: The Revenge",
       "time": "19:00",
-      "rating": 7.8,
+      "rating": 7.7,
       "poster": "https://image.tmdb.org/t/p/w342/ov8vrRLZGoXHpYjSY9Vpv1tHJX7.jpg",
       "summary": "Hamza Ali Mazari, cuya verdadera identidad es Jaskirat Singh Rangi, continúa su operación encubierta en el mundo criminal de Pakistán mientras rastrea a Majo.",
       "genres": [
@@ -1175,19 +1175,30 @@ export const MOVIE_DATA = {
       ]
     },
     {
-      "title": "Altas Capacidades",
-      "time": "20:20",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/65aKcfq06mNR1wLOT1d9Wr3H1mz.jpg",
-      "summary": "Alicia y Gonzalo, una pareja de clase media, se encuentran con la oportunidad de matricular a su hijo Fer en un colegio laico de élite. Las aspiraciones de la pareja se llevarán por delante lo que, hasta entonces, creían incuestionable.",
+      "title": "Proyecto Salvacion",
+      "time": "16:45",
+      "rating": 8.2,
+      "poster": "https://image.tmdb.org/t/p/w342/7lwOTxajURKEWO6gI370NTrVdBO.jpg",
+      "summary": "El profesor de ciencias Ryland Grace se despierta en una nave espacial a años luz de casa sin recordar quién es ni cómo ha llegado hasta allí. A medida que recupera la memoria, empieza a descubrir su misión: resolver el enigma de la misteriosa sustancia que provoca la extinción del sol. Deberá recurrir a sus conocimientos científicos y a sus ideas poco ortodoxas para salvar todo lo que hay en la Tierra de la extinción... pero una amistad inesperada significa que quizá no tenga que hacerlo solo.",
       "genres": [
-        "Comedia",
-        "Drama"
+        "Ciencia ficción",
+        "Aventura"
       ]
     },
     {
       "title": "Proyecto Salvacion",
-      "time": "16:45",
+      "time": "19:30",
+      "rating": 8.2,
+      "poster": "https://image.tmdb.org/t/p/w342/7lwOTxajURKEWO6gI370NTrVdBO.jpg",
+      "summary": "El profesor de ciencias Ryland Grace se despierta en una nave espacial a años luz de casa sin recordar quién es ni cómo ha llegado hasta allí. A medida que recupera la memoria, empieza a descubrir su misión: resolver el enigma de la misteriosa sustancia que provoca la extinción del sol. Deberá recurrir a sus conocimientos científicos y a sus ideas poco ortodoxas para salvar todo lo que hay en la Tierra de la extinción... pero una amistad inesperada significa que quizá no tenga que hacerlo solo.",
+      "genres": [
+        "Ciencia ficción",
+        "Aventura"
+      ]
+    },
+    {
+      "title": "Proyecto Salvacion",
+      "time": "19:45",
       "rating": 8.2,
       "poster": "https://image.tmdb.org/t/p/w342/7lwOTxajURKEWO6gI370NTrVdBO.jpg",
       "summary": "El profesor de ciencias Ryland Grace se despierta en una nave espacial a años luz de casa sin recordar quién es ni cómo ha llegado hasta allí. A medida que recupera la memoria, empieza a descubrir su misión: resolver el enigma de la misteriosa sustancia que provoca la extinción del sol. Deberá recurrir a sus conocimientos científicos y a sus ideas poco ortodoxas para salvar todo lo que hay en la Tierra de la extinción... pero una amistad inesperada significa que quizá no tenga que hacerlo solo.",
@@ -1266,18 +1277,6 @@ export const MOVIE_DATA = {
       ]
     },
     {
-      "title": "Shelter: El Protector",
-      "time": "22:30",
-      "rating": 6.8,
-      "poster": "https://image.tmdb.org/t/p/w342/kOsqd5jFZ0p3O8Z0k0VQvBW2neW.jpg",
-      "summary": "Un recluso en una remota isla escocesa rescata a una niña del mar, desencadenando una peligrosa secuencia de acontecimientos.",
-      "genres": [
-        "Acción",
-        "Crimen",
-        "Suspense"
-      ]
-    },
-    {
       "title": "Te Van A Matar",
       "time": "20:15",
       "rating": 6.7,
@@ -1287,28 +1286,6 @@ export const MOVIE_DATA = {
         "Acción",
         "Comedia",
         "Terror"
-      ]
-    },
-    {
-      "title": "Te Van A Matar",
-      "time": "20:30",
-      "rating": 6.7,
-      "poster": "https://image.tmdb.org/t/p/w342/4nMIuF7AnBCA2kEOdZ4t7f2GF10.jpg",
-      "summary": "Una mujer acepta un trabajo como ama de llaves en un rascacielos de Nueva York, sin conocer el historial de desapariciones del edificio. Pronto se da cuenta de que la comunidad está rodeada de misterio.",
-      "genres": [
-        "Acción",
-        "Comedia",
-        "Terror"
-      ]
-    },
-    {
-      "title": "La Grazia",
-      "time": "17:00",
-      "rating": 7.4,
-      "poster": "https://image.tmdb.org/t/p/w342/95d6l6FhGnagGcOFbvPVQxW1KcX.jpg",
-      "summary": "Mariano De Santis, presidente (ficiticio) de la República italiana, es un veterano político demócrata, humanista y católico, que de repente comienza a dudar sobre varias importantes decisiones que debe tomar, en especial sobre si aprueba o no una ley de eutanasia, planteándose un gran dilema moral.",
-      "genres": [
-        "Drama"
       ]
     },
     {
@@ -1334,16 +1311,6 @@ export const MOVIE_DATA = {
     {
       "title": "La Grazia",
       "time": "19:30",
-      "rating": 7.4,
-      "poster": "https://image.tmdb.org/t/p/w342/95d6l6FhGnagGcOFbvPVQxW1KcX.jpg",
-      "summary": "Mariano De Santis, presidente (ficiticio) de la República italiana, es un veterano político demócrata, humanista y católico, que de repente comienza a dudar sobre varias importantes decisiones que debe tomar, en especial sobre si aprueba o no una ley de eutanasia, planteándose un gran dilema moral.",
-      "genres": [
-        "Drama"
-      ]
-    },
-    {
-      "title": "La Grazia",
-      "time": "21:45",
       "rating": 7.4,
       "poster": "https://image.tmdb.org/t/p/w342/95d6l6FhGnagGcOFbvPVQxW1KcX.jpg",
       "summary": "Mariano De Santis, presidente (ficiticio) de la República italiana, es un veterano político demócrata, humanista y católico, que de repente comienza a dudar sobre varias importantes decisiones que debe tomar, en especial sobre si aprueba o no una ley de eutanasia, planteándose un gran dilema moral.",
@@ -1408,7 +1375,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Noche De Bodas 2",
-      "time": "19:45",
+      "time": "21:30",
       "rating": 7.4,
       "poster": "https://image.tmdb.org/t/p/w342/nDXKMOLJuBUKhYmHAY9qJdikuAq.jpg",
       "summary": "Momentos después de sobrevivir a un ataque de la familia Le Domas, Grace descubre que ha alcanzado el siguiente nivel del juego, y esta vez acompañada por su hermana Faith, con quien mantiene una relación distante. Grace tiene una oportunidad para sobrevivir, mantener con vida a su hermana y reclamar el Alto Trono del Consejo que controla el mundo. Cuatro familias rivales la persiguen para hacerse con el trono, y quien gane lo gobernará todo.",
@@ -1419,7 +1386,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Noche De Bodas 2",
-      "time": "21:45",
+      "time": "22:30",
       "rating": 7.4,
       "poster": "https://image.tmdb.org/t/p/w342/nDXKMOLJuBUKhYmHAY9qJdikuAq.jpg",
       "summary": "Momentos después de sobrevivir a un ataque de la familia Le Domas, Grace descubre que ha alcanzado el siguiente nivel del juego, y esta vez acompañada por su hermana Faith, con quien mantiene una relación distante. Grace tiene una oportunidad para sobrevivir, mantener con vida a su hermana y reclamar el Alto Trono del Consejo que controla el mundo. Cuatro familias rivales la persiguen para hacerse con el trono, y quien gane lo gobernará todo.",
@@ -1585,6 +1552,17 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Kill Bill: The Whole Bloody Affair",
+      "time": "19:30",
+      "rating": 8.0,
+      "poster": "https://image.tmdb.org/t/p/w342/rrdOoifC74O7YLdQsaIXA393RlR.jpg",
+      "summary": "Kill Bill es una película de acción y suspense de dos partes estrenada en 2003 y 2004 respectivamente, que fue escrita y dirigida por Quentin Tarantino. Kill Bill originalmente fue propuesta para tener un lanzamiento único en los cines, pero con una duración de más de cuatro horas, fue separada en dos volúmenes: Kill Bill: Volumen 1, lanzada a finales de 2003, y Kill Bill: Volumen 2, lanzada a inicios de 2004. Las dos películas fueron bien recibidas por la crítica, muchos notando su estilo de dirección y su homenaje a géneros cinematográficos como las películas de artes marciales hongkonesa, las películas de samuráis, spaghetti western, chicas con armas, violación y venganza. En 2011, las dos películas fueron unidas y, junto a una secuencia animada extensa, fueron estrenadas bajo título de Kill Bill: The Whole Bloody Affair en el New Beverly Cinema, en Los Ángeles, California.",
+      "genres": [
+        "Acción",
+        "Crimen"
+      ]
+    },
+    {
+      "title": "Kill Bill: The Whole Bloody Affair",
       "time": "20:00",
       "rating": 8.0,
       "poster": "https://image.tmdb.org/t/p/w342/rrdOoifC74O7YLdQsaIXA393RlR.jpg",
@@ -1627,6 +1605,90 @@ export const MOVIE_DATA = {
       "poster": null,
       "summary": "",
       "genres": []
+    },
+    {
+      "title": "Michael",
+      "time": "16:00",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/2uK36ujoDXOfNiJ5Yp3raVprB51.jpg",
+      "summary": "El viaje de Michael Jackson más allá de la música, desde el descubrimiento de su extraordinario talento como líder de los Jackson Five hasta convertirse en una visionaria estrella cuya ambición creativa despertó un incansable afán por consagrarse como el mayor icono de la industria del entretenimiento.",
+      "genres": [
+        "Música",
+        "Drama",
+        "Historia"
+      ]
+    },
+    {
+      "title": "Michael",
+      "time": "16:50",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/2uK36ujoDXOfNiJ5Yp3raVprB51.jpg",
+      "summary": "El viaje de Michael Jackson más allá de la música, desde el descubrimiento de su extraordinario talento como líder de los Jackson Five hasta convertirse en una visionaria estrella cuya ambición creativa despertó un incansable afán por consagrarse como el mayor icono de la industria del entretenimiento.",
+      "genres": [
+        "Música",
+        "Drama",
+        "Historia"
+      ]
+    },
+    {
+      "title": "Michael",
+      "time": "17:50",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/2uK36ujoDXOfNiJ5Yp3raVprB51.jpg",
+      "summary": "El viaje de Michael Jackson más allá de la música, desde el descubrimiento de su extraordinario talento como líder de los Jackson Five hasta convertirse en una visionaria estrella cuya ambición creativa despertó un incansable afán por consagrarse como el mayor icono de la industria del entretenimiento.",
+      "genres": [
+        "Música",
+        "Drama",
+        "Historia"
+      ]
+    },
+    {
+      "title": "Michael",
+      "time": "19:10",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/2uK36ujoDXOfNiJ5Yp3raVprB51.jpg",
+      "summary": "El viaje de Michael Jackson más allá de la música, desde el descubrimiento de su extraordinario talento como líder de los Jackson Five hasta convertirse en una visionaria estrella cuya ambición creativa despertó un incansable afán por consagrarse como el mayor icono de la industria del entretenimiento.",
+      "genres": [
+        "Música",
+        "Drama",
+        "Historia"
+      ]
+    },
+    {
+      "title": "Michael",
+      "time": "20:10",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/2uK36ujoDXOfNiJ5Yp3raVprB51.jpg",
+      "summary": "El viaje de Michael Jackson más allá de la música, desde el descubrimiento de su extraordinario talento como líder de los Jackson Five hasta convertirse en una visionaria estrella cuya ambición creativa despertó un incansable afán por consagrarse como el mayor icono de la industria del entretenimiento.",
+      "genres": [
+        "Música",
+        "Drama",
+        "Historia"
+      ]
+    },
+    {
+      "title": "Michael",
+      "time": "21:30",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/2uK36ujoDXOfNiJ5Yp3raVprB51.jpg",
+      "summary": "El viaje de Michael Jackson más allá de la música, desde el descubrimiento de su extraordinario talento como líder de los Jackson Five hasta convertirse en una visionaria estrella cuya ambición creativa despertó un incansable afán por consagrarse como el mayor icono de la industria del entretenimiento.",
+      "genres": [
+        "Música",
+        "Drama",
+        "Historia"
+      ]
+    },
+    {
+      "title": "Michael",
+      "time": "22:30",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/2uK36ujoDXOfNiJ5Yp3raVprB51.jpg",
+      "summary": "El viaje de Michael Jackson más allá de la música, desde el descubrimiento de su extraordinario talento como líder de los Jackson Five hasta convertirse en una visionaria estrella cuya ambición creativa despertó un incansable afán por consagrarse como el mayor icono de la industria del entretenimiento.",
+      "genres": [
+        "Música",
+        "Drama",
+        "Historia"
+      ]
     },
     {
       "title": "El Diablo Viste De Prada 2",
