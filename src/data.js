@@ -1039,18 +1039,6 @@ export const MOVIE_DATA = {
       ]
     },
     {
-      "title": "Hoppers",
-      "time": "18:30",
-      "rating": 7.6,
-      "poster": "https://image.tmdb.org/t/p/w342/4Z0E1W7YvQ0aVtgj7KKtktb9ukd.jpg",
-      "summary": "Una amante de los animales aprovecha la oportunidad de utilizar una tecnología que coloca su conciencia en un castor robótico, descubriendo misterios dentro del mundo animal que van más allá de lo que podría haber imaginado.",
-      "genres": [
-        "Animación",
-        "Familia",
-        "Ciencia ficción"
-      ]
-    },
-    {
       "title": "Torrente Presidente",
       "time": "12:15",
       "rating": 6.4,
@@ -1063,16 +1051,6 @@ export const MOVIE_DATA = {
     {
       "title": "Torrente Presidente",
       "time": "16:15",
-      "rating": 6.4,
-      "poster": "https://image.tmdb.org/t/p/w342/a0Fn0PiGGiU74jIUelpce6z70i9.jpg",
-      "summary": "José Luis Torrente vuelve metido de lleno en la política española, arrastrando su habitual mezcla de vulgaridad, oportunismo e ineptitud. La película plantea una sátira de la realidad social y política del país mediante parodias, situaciones absurdas y numerosos cameos.",
-      "genres": [
-        "Comedia"
-      ]
-    },
-    {
-      "title": "Torrente Presidente",
-      "time": "16:30",
       "rating": 6.4,
       "poster": "https://image.tmdb.org/t/p/w342/a0Fn0PiGGiU74jIUelpce6z70i9.jpg",
       "summary": "José Luis Torrente vuelve metido de lleno en la política española, arrastrando su habitual mezcla de vulgaridad, oportunismo e ineptitud. La película plantea una sátira de la realidad social y política del país mediante parodias, situaciones absurdas y numerosos cameos.",
@@ -1103,16 +1081,6 @@ export const MOVIE_DATA = {
     {
       "title": "Torrente Presidente",
       "time": "18:15",
-      "rating": 6.4,
-      "poster": "https://image.tmdb.org/t/p/w342/a0Fn0PiGGiU74jIUelpce6z70i9.jpg",
-      "summary": "José Luis Torrente vuelve metido de lleno en la política española, arrastrando su habitual mezcla de vulgaridad, oportunismo e ineptitud. La película plantea una sátira de la realidad social y política del país mediante parodias, situaciones absurdas y numerosos cameos.",
-      "genres": [
-        "Comedia"
-      ]
-    },
-    {
-      "title": "Torrente Presidente",
-      "time": "18:30",
       "rating": 6.4,
       "poster": "https://image.tmdb.org/t/p/w342/a0Fn0PiGGiU74jIUelpce6z70i9.jpg",
       "summary": "José Luis Torrente vuelve metido de lleno en la política española, arrastrando su habitual mezcla de vulgaridad, oportunismo e ineptitud. La película plantea una sátira de la realidad social y política del país mediante parodias, situaciones absurdas y numerosos cameos.",
@@ -1192,27 +1160,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Torrente Presidente",
-      "time": "22:00",
-      "rating": 6.4,
-      "poster": "https://image.tmdb.org/t/p/w342/a0Fn0PiGGiU74jIUelpce6z70i9.jpg",
-      "summary": "José Luis Torrente vuelve metido de lleno en la política española, arrastrando su habitual mezcla de vulgaridad, oportunismo e ineptitud. La película plantea una sátira de la realidad social y política del país mediante parodias, situaciones absurdas y numerosos cameos.",
-      "genres": [
-        "Comedia"
-      ]
-    },
-    {
-      "title": "Torrente Presidente",
       "time": "22:15",
-      "rating": 6.4,
-      "poster": "https://image.tmdb.org/t/p/w342/a0Fn0PiGGiU74jIUelpce6z70i9.jpg",
-      "summary": "José Luis Torrente vuelve metido de lleno en la política española, arrastrando su habitual mezcla de vulgaridad, oportunismo e ineptitud. La película plantea una sátira de la realidad social y política del país mediante parodias, situaciones absurdas y numerosos cameos.",
-      "genres": [
-        "Comedia"
-      ]
-    },
-    {
-      "title": "Torrente Presidente",
-      "time": "22:30",
       "rating": 6.4,
       "poster": "https://image.tmdb.org/t/p/w342/a0Fn0PiGGiU74jIUelpce6z70i9.jpg",
       "summary": "José Luis Torrente vuelve metido de lleno en la política española, arrastrando su habitual mezcla de vulgaridad, oportunismo e ineptitud. La película plantea una sátira de la realidad social y política del país mediante parodias, situaciones absurdas y numerosos cameos.",
@@ -1223,24 +1171,13 @@ export const MOVIE_DATA = {
     {
       "title": "Dhurandhar: The Revenge",
       "time": "19:00",
-      "rating": 7.8,
+      "rating": 7.7,
       "poster": "https://image.tmdb.org/t/p/w342/ov8vrRLZGoXHpYjSY9Vpv1tHJX7.jpg",
       "summary": "Hamza Ali Mazari, cuya verdadera identidad es Jaskirat Singh Rangi, continúa su operación encubierta en el mundo criminal de Pakistán mientras rastrea a Majo.",
       "genres": [
         "Acción",
         "Crimen",
         "Suspense"
-      ]
-    },
-    {
-      "title": "Altas Capacidades",
-      "time": "17:00",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/65aKcfq06mNR1wLOT1d9Wr3H1mz.jpg",
-      "summary": "Alicia y Gonzalo, una pareja de clase media, se encuentran con la oportunidad de matricular a su hijo Fer en un colegio laico de élite. Las aspiraciones de la pareja se llevarán por delante lo que, hasta entonces, creían incuestionable.",
-      "genres": [
-        "Comedia",
-        "Drama"
       ]
     },
     {
@@ -1257,6 +1194,17 @@ export const MOVIE_DATA = {
     {
       "title": "Proyecto Salvacion",
       "time": "16:45",
+      "rating": 8.2,
+      "poster": "https://image.tmdb.org/t/p/w342/7lwOTxajURKEWO6gI370NTrVdBO.jpg",
+      "summary": "El profesor de ciencias Ryland Grace se despierta en una nave espacial a años luz de casa sin recordar quién es ni cómo ha llegado hasta allí. A medida que recupera la memoria, empieza a descubrir su misión: resolver el enigma de la misteriosa sustancia que provoca la extinción del sol. Deberá recurrir a sus conocimientos científicos y a sus ideas poco ortodoxas para salvar todo lo que hay en la Tierra de la extinción... pero una amistad inesperada significa que quizá no tenga que hacerlo solo.",
+      "genres": [
+        "Ciencia ficción",
+        "Aventura"
+      ]
+    },
+    {
+      "title": "Proyecto Salvacion",
+      "time": "17:00",
       "rating": 8.2,
       "poster": "https://image.tmdb.org/t/p/w342/7lwOTxajURKEWO6gI370NTrVdBO.jpg",
       "summary": "El profesor de ciencias Ryland Grace se despierta en una nave espacial a años luz de casa sin recordar quién es ni cómo ha llegado hasta allí. A medida que recupera la memoria, empieza a descubrir su misión: resolver el enigma de la misteriosa sustancia que provoca la extinción del sol. Deberá recurrir a sus conocimientos científicos y a sus ideas poco ortodoxas para salvar todo lo que hay en la Tierra de la extinción... pero una amistad inesperada significa que quizá no tenga que hacerlo solo.",
@@ -1300,6 +1248,17 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Proyecto Salvacion",
+      "time": "20:00",
+      "rating": 8.2,
+      "poster": "https://image.tmdb.org/t/p/w342/7lwOTxajURKEWO6gI370NTrVdBO.jpg",
+      "summary": "El profesor de ciencias Ryland Grace se despierta en una nave espacial a años luz de casa sin recordar quién es ni cómo ha llegado hasta allí. A medida que recupera la memoria, empieza a descubrir su misión: resolver el enigma de la misteriosa sustancia que provoca la extinción del sol. Deberá recurrir a sus conocimientos científicos y a sus ideas poco ortodoxas para salvar todo lo que hay en la Tierra de la extinción... pero una amistad inesperada significa que quizá no tenga que hacerlo solo.",
+      "genres": [
+        "Ciencia ficción",
+        "Aventura"
+      ]
+    },
+    {
+      "title": "Proyecto Salvacion",
       "time": "20:30",
       "rating": 8.2,
       "poster": "https://image.tmdb.org/t/p/w342/7lwOTxajURKEWO6gI370NTrVdBO.jpg",
@@ -1333,7 +1292,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Proyecto Salvacion",
-      "time": "21:30",
+      "time": "21:50",
       "rating": 8.2,
       "poster": "https://image.tmdb.org/t/p/w342/7lwOTxajURKEWO6gI370NTrVdBO.jpg",
       "summary": "El profesor de ciencias Ryland Grace se despierta en una nave espacial a años luz de casa sin recordar quién es ni cómo ha llegado hasta allí. A medida que recupera la memoria, empieza a descubrir su misión: resolver el enigma de la misteriosa sustancia que provoca la extinción del sol. Deberá recurrir a sus conocimientos científicos y a sus ideas poco ortodoxas para salvar todo lo que hay en la Tierra de la extinción... pero una amistad inesperada significa que quizá no tenga que hacerlo solo.",
@@ -1354,19 +1313,20 @@ export const MOVIE_DATA = {
       ]
     },
     {
-      "title": "Proyecto Salvacion",
-      "time": "22:30",
-      "rating": 8.2,
-      "poster": "https://image.tmdb.org/t/p/w342/7lwOTxajURKEWO6gI370NTrVdBO.jpg",
-      "summary": "El profesor de ciencias Ryland Grace se despierta en una nave espacial a años luz de casa sin recordar quién es ni cómo ha llegado hasta allí. A medida que recupera la memoria, empieza a descubrir su misión: resolver el enigma de la misteriosa sustancia que provoca la extinción del sol. Deberá recurrir a sus conocimientos científicos y a sus ideas poco ortodoxas para salvar todo lo que hay en la Tierra de la extinción... pero una amistad inesperada significa que quizá no tenga que hacerlo solo.",
+      "title": "Shelter: El Protector",
+      "time": "16:30",
+      "rating": 6.8,
+      "poster": "https://image.tmdb.org/t/p/w342/kOsqd5jFZ0p3O8Z0k0VQvBW2neW.jpg",
+      "summary": "Un recluso en una remota isla escocesa rescata a una niña del mar, desencadenando una peligrosa secuencia de acontecimientos.",
       "genres": [
-        "Ciencia ficción",
-        "Aventura"
+        "Acción",
+        "Crimen",
+        "Suspense"
       ]
     },
     {
       "title": "Shelter: El Protector",
-      "time": "16:30",
+      "time": "17:00",
       "rating": 6.8,
       "poster": "https://image.tmdb.org/t/p/w342/kOsqd5jFZ0p3O8Z0k0VQvBW2neW.jpg",
       "summary": "Un recluso en una remota isla escocesa rescata a una niña del mar, desencadenando una peligrosa secuencia de acontecimientos.",
@@ -1390,18 +1350,6 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Shelter: El Protector",
-      "time": "20:30",
-      "rating": 6.8,
-      "poster": "https://image.tmdb.org/t/p/w342/kOsqd5jFZ0p3O8Z0k0VQvBW2neW.jpg",
-      "summary": "Un recluso en una remota isla escocesa rescata a una niña del mar, desencadenando una peligrosa secuencia de acontecimientos.",
-      "genres": [
-        "Acción",
-        "Crimen",
-        "Suspense"
-      ]
-    },
-    {
-      "title": "Shelter: El Protector",
       "time": "21:45",
       "rating": 6.8,
       "poster": "https://image.tmdb.org/t/p/w342/kOsqd5jFZ0p3O8Z0k0VQvBW2neW.jpg",
@@ -1413,40 +1361,20 @@ export const MOVIE_DATA = {
       ]
     },
     {
-      "title": "Te Van A Matar",
-      "time": "20:15",
-      "rating": 6.7,
-      "poster": "https://image.tmdb.org/t/p/w342/4nMIuF7AnBCA2kEOdZ4t7f2GF10.jpg",
-      "summary": "Una mujer acepta un trabajo como ama de llaves en un rascacielos de Nueva York, sin conocer el historial de desapariciones del edificio. Pronto se da cuenta de que la comunidad está rodeada de misterio.",
+      "title": "Shelter: El Protector",
+      "time": "21:50",
+      "rating": 6.8,
+      "poster": "https://image.tmdb.org/t/p/w342/kOsqd5jFZ0p3O8Z0k0VQvBW2neW.jpg",
+      "summary": "Un recluso en una remota isla escocesa rescata a una niña del mar, desencadenando una peligrosa secuencia de acontecimientos.",
       "genres": [
         "Acción",
-        "Comedia",
-        "Terror"
+        "Crimen",
+        "Suspense"
       ]
     },
     {
       "title": "La Grazia",
       "time": "15:50",
-      "rating": 7.4,
-      "poster": "https://image.tmdb.org/t/p/w342/95d6l6FhGnagGcOFbvPVQxW1KcX.jpg",
-      "summary": "Mariano De Santis, presidente (ficiticio) de la República italiana, es un veterano político demócrata, humanista y católico, que de repente comienza a dudar sobre varias importantes decisiones que debe tomar, en especial sobre si aprueba o no una ley de eutanasia, planteándose un gran dilema moral.",
-      "genres": [
-        "Drama"
-      ]
-    },
-    {
-      "title": "La Grazia",
-      "time": "16:30",
-      "rating": 7.4,
-      "poster": "https://image.tmdb.org/t/p/w342/95d6l6FhGnagGcOFbvPVQxW1KcX.jpg",
-      "summary": "Mariano De Santis, presidente (ficiticio) de la República italiana, es un veterano político demócrata, humanista y católico, que de repente comienza a dudar sobre varias importantes decisiones que debe tomar, en especial sobre si aprueba o no una ley de eutanasia, planteándose un gran dilema moral.",
-      "genres": [
-        "Drama"
-      ]
-    },
-    {
-      "title": "La Grazia",
-      "time": "19:00",
       "rating": 7.4,
       "poster": "https://image.tmdb.org/t/p/w342/95d6l6FhGnagGcOFbvPVQxW1KcX.jpg",
       "summary": "Mariano De Santis, presidente (ficiticio) de la República italiana, es un veterano político demócrata, humanista y católico, que de repente comienza a dudar sobre varias importantes decisiones que debe tomar, en especial sobre si aprueba o no una ley de eutanasia, planteándose un gran dilema moral.",
@@ -1462,17 +1390,6 @@ export const MOVIE_DATA = {
       "summary": "Mariano De Santis, presidente (ficiticio) de la República italiana, es un veterano político demócrata, humanista y católico, que de repente comienza a dudar sobre varias importantes decisiones que debe tomar, en especial sobre si aprueba o no una ley de eutanasia, planteándose un gran dilema moral.",
       "genres": [
         "Drama"
-      ]
-    },
-    {
-      "title": "Laponia",
-      "time": "16:50",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/1iDPjqlfRb9f8yl89bc2zvoMnVV.jpg",
-      "summary": "Después de varios años sin celebrar juntas las fiestas de Navidad, una familia asentada en Laponia invita a la familia de la hermana de la mujer para celebrar la Navidad en su casa de Romanievi. Lo que apuntaba a ser una Navidad de ensueño descarrila cuando la hija le cuenta a su primo pequeño que Papá Noel no existe.",
-      "genres": [
-        "Comedia",
-        "Familia"
       ]
     },
     {
@@ -1499,7 +1416,29 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Noche De Bodas 2",
+      "time": "19:00",
+      "rating": 7.4,
+      "poster": "https://image.tmdb.org/t/p/w342/nDXKMOLJuBUKhYmHAY9qJdikuAq.jpg",
+      "summary": "Momentos después de sobrevivir a un ataque de la familia Le Domas, Grace descubre que ha alcanzado el siguiente nivel del juego, y esta vez acompañada por su hermana Faith, con quien mantiene una relación distante. Grace tiene una oportunidad para sobrevivir, mantener con vida a su hermana y reclamar el Alto Trono del Consejo que controla el mundo. Cuatro familias rivales la persiguen para hacerse con el trono, y quien gane lo gobernará todo.",
+      "genres": [
+        "Terror",
+        "Comedia"
+      ]
+    },
+    {
+      "title": "Noche De Bodas 2",
       "time": "19:30",
+      "rating": 7.4,
+      "poster": "https://image.tmdb.org/t/p/w342/nDXKMOLJuBUKhYmHAY9qJdikuAq.jpg",
+      "summary": "Momentos después de sobrevivir a un ataque de la familia Le Domas, Grace descubre que ha alcanzado el siguiente nivel del juego, y esta vez acompañada por su hermana Faith, con quien mantiene una relación distante. Grace tiene una oportunidad para sobrevivir, mantener con vida a su hermana y reclamar el Alto Trono del Consejo que controla el mundo. Cuatro familias rivales la persiguen para hacerse con el trono, y quien gane lo gobernará todo.",
+      "genres": [
+        "Terror",
+        "Comedia"
+      ]
+    },
+    {
+      "title": "Noche De Bodas 2",
+      "time": "20:15",
       "rating": 7.4,
       "poster": "https://image.tmdb.org/t/p/w342/nDXKMOLJuBUKhYmHAY9qJdikuAq.jpg",
       "summary": "Momentos después de sobrevivir a un ataque de la familia Le Domas, Grace descubre que ha alcanzado el siguiente nivel del juego, y esta vez acompañada por su hermana Faith, con quien mantiene una relación distante. Grace tiene una oportunidad para sobrevivir, mantener con vida a su hermana y reclamar el Alto Trono del Consejo que controla el mundo. Cuatro familias rivales la persiguen para hacerse con el trono, y quien gane lo gobernará todo.",
@@ -1520,31 +1459,8 @@ export const MOVIE_DATA = {
       ]
     },
     {
-      "title": "Noche De Bodas 2",
-      "time": "22:30",
-      "rating": 7.4,
-      "poster": "https://image.tmdb.org/t/p/w342/nDXKMOLJuBUKhYmHAY9qJdikuAq.jpg",
-      "summary": "Momentos después de sobrevivir a un ataque de la familia Le Domas, Grace descubre que ha alcanzado el siguiente nivel del juego, y esta vez acompañada por su hermana Faith, con quien mantiene una relación distante. Grace tiene una oportunidad para sobrevivir, mantener con vida a su hermana y reclamar el Alto Trono del Consejo que controla el mundo. Cuatro familias rivales la persiguen para hacerse con el trono, y quien gane lo gobernará todo.",
-      "genres": [
-        "Terror",
-        "Comedia"
-      ]
-    },
-    {
       "title": "Super Mario Galaxy: La Pelicula",
       "time": "12:00",
-      "rating": 6.9,
-      "poster": "https://image.tmdb.org/t/p/w342/eEfzkiW28Y3BaHjjgFNkFERNKiK.jpg",
-      "summary": "La película tiene lugar después de los acontecimientos de la primera, en la que dos hermanos, Mario y Luigi, y la princesa Peach emprenden una aventura hasta los confines del espacio y a través de la galaxia. Secuela de \"Super Mario Bros: La película\", basada en la saga \"Mario Galaxy\".",
-      "genres": [
-        "Aventura",
-        "Animación",
-        "Comedia"
-      ]
-    },
-    {
-      "title": "Super Mario Galaxy: La Pelicula",
-      "time": "12:30",
       "rating": 6.9,
       "poster": "https://image.tmdb.org/t/p/w342/eEfzkiW28Y3BaHjjgFNkFERNKiK.jpg",
       "summary": "La película tiene lugar después de los acontecimientos de la primera, en la que dos hermanos, Mario y Luigi, y la princesa Peach emprenden una aventura hasta los confines del espacio y a través de la galaxia. Secuela de \"Super Mario Bros: La película\", basada en la saga \"Mario Galaxy\".",
@@ -1568,31 +1484,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Super Mario Galaxy: La Pelicula",
-      "time": "16:30",
-      "rating": 6.9,
-      "poster": "https://image.tmdb.org/t/p/w342/eEfzkiW28Y3BaHjjgFNkFERNKiK.jpg",
-      "summary": "La película tiene lugar después de los acontecimientos de la primera, en la que dos hermanos, Mario y Luigi, y la princesa Peach emprenden una aventura hasta los confines del espacio y a través de la galaxia. Secuela de \"Super Mario Bros: La película\", basada en la saga \"Mario Galaxy\".",
-      "genres": [
-        "Aventura",
-        "Animación",
-        "Comedia"
-      ]
-    },
-    {
-      "title": "Super Mario Galaxy: La Pelicula",
       "time": "17:00",
-      "rating": 6.9,
-      "poster": "https://image.tmdb.org/t/p/w342/eEfzkiW28Y3BaHjjgFNkFERNKiK.jpg",
-      "summary": "La película tiene lugar después de los acontecimientos de la primera, en la que dos hermanos, Mario y Luigi, y la princesa Peach emprenden una aventura hasta los confines del espacio y a través de la galaxia. Secuela de \"Super Mario Bros: La película\", basada en la saga \"Mario Galaxy\".",
-      "genres": [
-        "Aventura",
-        "Animación",
-        "Comedia"
-      ]
-    },
-    {
-      "title": "Super Mario Galaxy: La Pelicula",
-      "time": "17:15",
       "rating": 6.9,
       "poster": "https://image.tmdb.org/t/p/w342/eEfzkiW28Y3BaHjjgFNkFERNKiK.jpg",
       "summary": "La película tiene lugar después de los acontecimientos de la primera, en la que dos hermanos, Mario y Luigi, y la princesa Peach emprenden una aventura hasta los confines del espacio y a través de la galaxia. Secuela de \"Super Mario Bros: La película\", basada en la saga \"Mario Galaxy\".",
@@ -1664,7 +1556,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Super Mario Galaxy: La Pelicula",
-      "time": "19:00",
+      "time": "18:40",
       "rating": 6.9,
       "poster": "https://image.tmdb.org/t/p/w342/eEfzkiW28Y3BaHjjgFNkFERNKiK.jpg",
       "summary": "La película tiene lugar después de los acontecimientos de la primera, en la que dos hermanos, Mario y Luigi, y la princesa Peach emprenden una aventura hasta los confines del espacio y a través de la galaxia. Secuela de \"Super Mario Bros: La película\", basada en la saga \"Mario Galaxy\".",
@@ -1676,7 +1568,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Super Mario Galaxy: La Pelicula",
-      "time": "19:15",
+      "time": "19:00",
       "rating": 6.9,
       "poster": "https://image.tmdb.org/t/p/w342/eEfzkiW28Y3BaHjjgFNkFERNKiK.jpg",
       "summary": "La película tiene lugar después de los acontecimientos de la primera, en la que dos hermanos, Mario y Luigi, y la princesa Peach emprenden una aventura hasta los confines del espacio y a través de la galaxia. Secuela de \"Super Mario Bros: La película\", basada en la saga \"Mario Galaxy\".",
@@ -1724,7 +1616,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Super Mario Galaxy: La Pelicula",
-      "time": "21:15",
+      "time": "21:00",
       "rating": 6.9,
       "poster": "https://image.tmdb.org/t/p/w342/eEfzkiW28Y3BaHjjgFNkFERNKiK.jpg",
       "summary": "La película tiene lugar después de los acontecimientos de la primera, en la que dos hermanos, Mario y Luigi, y la princesa Peach emprenden una aventura hasta los confines del espacio y a través de la galaxia. Secuela de \"Super Mario Bros: La película\", basada en la saga \"Mario Galaxy\".",
@@ -1747,18 +1639,6 @@ export const MOVIE_DATA = {
       ]
     },
     {
-      "title": "Super Mario Galaxy: La Pelicula",
-      "time": "22:00",
-      "rating": 6.9,
-      "poster": "https://image.tmdb.org/t/p/w342/eEfzkiW28Y3BaHjjgFNkFERNKiK.jpg",
-      "summary": "La película tiene lugar después de los acontecimientos de la primera, en la que dos hermanos, Mario y Luigi, y la princesa Peach emprenden una aventura hasta los confines del espacio y a través de la galaxia. Secuela de \"Super Mario Bros: La película\", basada en la saga \"Mario Galaxy\".",
-      "genres": [
-        "Aventura",
-        "Animación",
-        "Comedia"
-      ]
-    },
-    {
       "title": "A Una Isla De Ti",
       "time": "12:20",
       "rating": 0.0,
@@ -1771,29 +1651,18 @@ export const MOVIE_DATA = {
     },
     {
       "title": "A Una Isla De Ti",
+      "time": "17:00",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/ddYZksoDokxjNHm2E0u1GeWVBsE.jpg",
+      "summary": "Un cocinero con el corazón partido va de vacaciones a Gran Canaria con su amigo, enamorándose de la isla, su cultura y cocina-e inesperadamente, del padre de su amigo.",
+      "genres": [
+        "Comedia",
+        "Romance"
+      ]
+    },
+    {
+      "title": "A Una Isla De Ti",
       "time": "18:10",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/ddYZksoDokxjNHm2E0u1GeWVBsE.jpg",
-      "summary": "Un cocinero con el corazón partido va de vacaciones a Gran Canaria con su amigo, enamorándose de la isla, su cultura y cocina-e inesperadamente, del padre de su amigo.",
-      "genres": [
-        "Comedia",
-        "Romance"
-      ]
-    },
-    {
-      "title": "A Una Isla De Ti",
-      "time": "18:15",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/ddYZksoDokxjNHm2E0u1GeWVBsE.jpg",
-      "summary": "Un cocinero con el corazón partido va de vacaciones a Gran Canaria con su amigo, enamorándose de la isla, su cultura y cocina-e inesperadamente, del padre de su amigo.",
-      "genres": [
-        "Comedia",
-        "Romance"
-      ]
-    },
-    {
-      "title": "A Una Isla De Ti",
-      "time": "19:00",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/ddYZksoDokxjNHm2E0u1GeWVBsE.jpg",
       "summary": "Un cocinero con el corazón partido va de vacaciones a Gran Canaria con su amigo, enamorándose de la isla, su cultura y cocina-e inesperadamente, del padre de su amigo.",
@@ -1903,20 +1772,8 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Buena Suerte, Pasalo Bien, No Mueras",
-      "time": "20:00",
-      "rating": 7.0,
-      "poster": "https://image.tmdb.org/t/p/w342/vzJkrTx01ol7FTIhzS50pms5xEG.jpg",
-      "summary": "Un hombre que afirma venir del futuro llega a un pequeño restaurante en Los Ángeles. Su misión: reclutar a los humanos descontentos para que, en el transcurso de una noche, formen parte de una misión global: detener a una inteligencia artificial que se ha vuelto rebelde y amenaza la supervivencia del mundo.",
-      "genres": [
-        "Ciencia ficción",
-        "Acción",
-        "Comedia"
-      ]
-    },
-    {
-      "title": "Buena Suerte, Pasalo Bien, No Mueras",
       "time": "21:15",
-      "rating": 7.0,
+      "rating": 6.9,
       "poster": "https://image.tmdb.org/t/p/w342/vzJkrTx01ol7FTIhzS50pms5xEG.jpg",
       "summary": "Un hombre que afirma venir del futuro llega a un pequeño restaurante en Los Ángeles. Su misión: reclutar a los humanos descontentos para que, en el transcurso de una noche, formen parte de una misión global: detener a una inteligencia artificial que se ha vuelto rebelde y amenaza la supervivencia del mundo.",
       "genres": [
@@ -1928,7 +1785,7 @@ export const MOVIE_DATA = {
     {
       "title": "Buena Suerte, Pasalo Bien, No Mueras",
       "time": "22:20",
-      "rating": 7.0,
+      "rating": 6.9,
       "poster": "https://image.tmdb.org/t/p/w342/vzJkrTx01ol7FTIhzS50pms5xEG.jpg",
       "summary": "Un hombre que afirma venir del futuro llega a un pequeño restaurante en Los Ángeles. Su misión: reclutar a los humanos descontentos para que, en el transcurso de una noche, formen parte de una misión global: detener a una inteligencia artificial que se ha vuelto rebelde y amenaza la supervivencia del mundo.",
       "genres": [
@@ -1985,6 +1842,18 @@ export const MOVIE_DATA = {
     {
       "title": "Mi Robot Favorito",
       "time": "16:00",
+      "rating": 5.5,
+      "poster": "https://image.tmdb.org/t/p/w342/3O3TTJbKKf7npnV0v83xxpxVTHv.jpg",
+      "summary": "",
+      "genres": [
+        "Animación",
+        "Familia",
+        "Ciencia ficción"
+      ]
+    },
+    {
+      "title": "Mi Robot Favorito",
+      "time": "17:00",
       "rating": 5.5,
       "poster": "https://image.tmdb.org/t/p/w342/3O3TTJbKKf7npnV0v83xxpxVTHv.jpg",
       "summary": "",
