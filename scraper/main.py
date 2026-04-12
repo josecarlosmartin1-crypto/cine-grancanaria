@@ -167,25 +167,27 @@ def scrape_artesiete():
                 if 'posters' in img.get('src', '').lower() and alt:
                     parent = img.parent
                     while parent and parent.name != 'body':
-                        if parent.name == 'div' and ('px-2' in parent.get('class', []) or 'relative' in parent.get('class', [])):
-                            # Solo buscamos sesiones en el contenedor con id="0" (Hoy)
-                            # Esto evita capturar sesiones de toda la semana que están ocultas en el HTML
+                        # Buscamos el contenedor que aísla cada película (grid o relative)
+                        classes = parent.get('class', [])
+                        if parent.name == 'div' and ('grid' in classes or 'relative' in classes):
+                            # CRÍTICO: Solo buscamos sesiones en el contenedor con id="0" (Hoy)
+                            # Si no existe id="0", es una película de venta anticipada y la ignoramos
                             day_today = parent.find('div', id='0')
                             if day_today:
                                 times = day_today.find_all(string=re.compile(r'\b\d{1,2}:\d{2}\b'))
+                                if times:
+                                    # Limpiamos el título de coletillas como (Atmos) o (Vose)
+                                    clean_alt = re.sub(r'\(.*?\)', '', alt).strip().title()
+                                    info = get_movie_tmdb_info(clean_alt)
+                                    movie_times = sorted(list(set([ti.strip() for ti in times if ":" in ti])))
+                                    for t in movie_times:
+                                        results["Artesiete Las Terrazas"].append({
+                                            "title": clean_alt, "time": t, "rating": info["rating"],
+                                            "poster": info["poster"], "summary": info["summary"], "genres": info["genres"]
+                                        })
+                                    break
                             else:
-                                # Fallback: si no hay id="0", buscamos en el contenedor padre pero limitando
-                                times = parent.find_all(string=re.compile(r'\b\d{1,2}:\d{2}\b'))
-                            
-                            if times:
-                                title = alt.title()
-                                info = get_movie_tmdb_info(title)
-                                movie_times = sorted(list(set([ti.strip() for ti in times if ":" in ti])))
-                                for t in movie_times:
-                                    results["Artesiete Las Terrazas"].append({
-                                        "title": title, "time": t, "rating": info["rating"],
-                                        "poster": info["poster"], "summary": info["summary"], "genres": info["genres"]
-                                    })
+                                # Si no hay sesiones para hoy (no existe id="0" en esta película), saltamos
                                 break
                         parent = parent.parent
     except Exception as e: print(f"  Error Artesiete: {e}")
