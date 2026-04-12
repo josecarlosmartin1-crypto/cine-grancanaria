@@ -166,24 +166,26 @@ def scrape_artesiete():
                 alt = img.get('alt', '')
                 if 'posters' in img.get('src', '').lower() and alt:
                     parent = img.parent
-                    # Identificamos el contenedor de la película (el más cercano con clase 'relative')
-                    movie_card = None
-                    temp_p = img.parent
-                    while temp_p and temp_p.name != 'body':
-                        if temp_p.name == 'div' and 'relative' in temp_p.get('class', []):
-                            movie_card = temp_p
+                    # Buscamos el contenedor raíz de la película (el grid)
+                    card = None
+                    tp = img.parent
+                    while tp and tp.name != 'body':
+                        # El contenedor principal tiene clase 'grid'
+                        if tp.name == 'div' and 'grid' in tp.get('class', []):
+                            card = tp
                             break
-                        temp_p = temp_p.parent
+                        tp = tp.parent
                     
-                    if movie_card:
-                        # 1. ¿Es venta anticipada? Evitamos películas con fecha en el póster (ej: 30/04/2026)
-                        if movie_card.find(string=re.compile(r'\d{2}/\d{2}/20\d{2}')):
+                    if card:
+                        # 1. ¿Es venta anticipada? Evitamos películas con fecha (ej: 30/04/2026)
+                        if card.find(string=re.compile(r'\d{2}/\d{2}/2\d{3}')):
                             break
                             
-                        # 2. ¿Tiene sesiones hoy? Buscamos el contenedor con id="0" dentro de ESTA tarjeta
-                        day_today = movie_card.find('div', id='0')
-                        if day_today:
-                            times = day_today.find_all(string=re.compile(r'\b\d{1,2}:\d{2}\b'))
+                        # 2. ¿Tiene sesiones hoy? Buscamos específicamente el DIV con id="0"
+                        # (Evitamos el <a> id="0" que es solo la pestaña)
+                        day_div = card.select_one('div[id="0"]')
+                        if day_div:
+                            times = day_div.find_all(string=re.compile(r'\b\d{1,2}:\d{2}\b'))
                             if times:
                                 clean_alt = re.sub(r'\(.*?\)', '', alt).strip().title()
                                 info = get_movie_tmdb_info(clean_alt)
@@ -193,7 +195,7 @@ def scrape_artesiete():
                                         "title": clean_alt, "time": t, "rating": info["rating"],
                                         "poster": info["poster"], "summary": info["summary"], "genres": info["genres"]
                                     })
-                        break # Ya procesamos esta imagen/película
+                        break # Ya procesamos esta película
     except Exception as e: print(f"  Error Artesiete: {e}")
     return results
 

@@ -1640,7 +1640,32 @@ export const MOVIE_DATA = {
       ]
     }
   ],
-  "Artesiete Las Terrazas": []
+  "Artesiete Las Terrazas": [
+    {
+      "title": "Hoppers",
+      "time": "12:30",
+      "rating": 7.6,
+      "poster": "https://image.tmdb.org/t/p/w342/4Z0E1W7YvQ0aVtgj7KKtktb9ukd.jpg",
+      "summary": "Una amante de los animales aprovecha la oportunidad de utilizar una tecnología que coloca su conciencia en un castor robótico, descubriendo misterios dentro del mundo animal que van más allá de lo que podría haber imaginado.",
+      "genres": [
+        "Animación",
+        "Familia",
+        "Ciencia ficción"
+      ]
+    },
+    {
+      "title": "Hoppers",
+      "time": "16:30",
+      "rating": 7.6,
+      "poster": "https://image.tmdb.org/t/p/w342/4Z0E1W7YvQ0aVtgj7KKtktb9ukd.jpg",
+      "summary": "Una amante de los animales aprovecha la oportunidad de utilizar una tecnología que coloca su conciencia en un castor robótico, descubriendo misterios dentro del mundo animal que van más allá de lo que podría haber imaginado.",
+      "genres": [
+        "Animación",
+        "Familia",
+        "Ciencia ficción"
+      ]
+    }
+  ]
 };
 export const movieData = MOVIE_DATA;
 export const cinemas = Object.keys(MOVIE_DATA);
