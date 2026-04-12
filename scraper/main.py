@@ -91,6 +91,7 @@ def get_movie_tmdb_info(title, fallback_summary=""):
     except Exception as e:
         print(f"    Error TMDb: {e}")
     
+    # Si falla la búsqueda, devolvemos un objeto vacío con el resumen original si existe
     fallback = {"rating": 0, "poster": None, "summary": fallback_summary, "genres": []}
     TMDB_CACHE[clean_title] = fallback
     return fallback
@@ -167,7 +168,15 @@ def scrape_artesiete():
                     parent = img.parent
                     while parent and parent.name != 'body':
                         if parent.name == 'div' and ('px-2' in parent.get('class', []) or 'relative' in parent.get('class', [])):
-                            times = parent.find_all(string=re.compile(r'\b\d{1,2}:\d{2}\b'))
+                            # Solo buscamos sesiones en el contenedor con id="0" (Hoy)
+                            # Esto evita capturar sesiones de toda la semana que están ocultas en el HTML
+                            day_today = parent.find('div', id='0')
+                            if day_today:
+                                times = day_today.find_all(string=re.compile(r'\b\d{1,2}:\d{2}\b'))
+                            else:
+                                # Fallback: si no hay id="0", buscamos en el contenedor padre pero limitando
+                                times = parent.find_all(string=re.compile(r'\b\d{1,2}:\d{2}\b'))
+                            
                             if times:
                                 title = alt.title()
                                 info = get_movie_tmdb_info(title)

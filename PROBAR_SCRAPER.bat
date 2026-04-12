@@ -1,6 +1,6 @@
 @echo off
 echo Instalando dependencias necesarias...
-python -m pip install requests beautifulsoup4
+python -m pip install requests beautifulsoup4 cloudscraper
 
 echo Ejecutando el scraper...
 python scraper/main.py

@@ -250,5 +250,133 @@
     "poster": null,
     "summary": "",
     "genres": []
+  },
+  "Boulevard": {
+    "rating": 3.0,
+    "poster": "https://image.tmdb.org/t/p/w342/o5M5mjnfRO50t3Wha1QPD04oHfT.jpg",
+    "summary": "Cuando Hasley (Eve Ryan) se muda a una nueva ciudad con su madre, lo último que espera es cruzarse con Luke (Mikel Niso), un joven envuelto en un aura peligrosa y un pasado trágico. Atrapado en sus propios demonios, Luke es todo lo que Hasley debería temer... pero a lo que se siente irremediablemente atraída. A pesar de las sombras que lo rodean, Hasley descubre en Luke una vulnerabilidad y un mundo interior apasionante. Juntos, crearán su propio boulevard: un refugio escondido donde poder ser ellos mismos, cumplir sueños imposibles, atreverse a amar a pesar de los prejuicios, el dolor y las cicatrices que arrastran, y demostrar que el amor es capaz de florecer incluso en los corazones más insospechados.",
+    "genres": [
+      "Drama",
+      "Romance"
+    ]
+  },
+  "No Te Olvidaré": {
+    "rating": 7.1,
+    "poster": "https://image.tmdb.org/t/p/w342/mIx9KAE3DgmrGJKwIL0xjIUfkBT.jpg",
+    "summary": "Cuando los abuelos y tutores de Diem se niegan categóricamente a permitir que la vea, Kenna descubre una compasión inesperada seguida de un sentimiento más profundo y real con Ledger, exjugador de la NFL y propietario de un bar local. A medida que su romance secreto va cobrando forma, surgen problemas para los dos, lo que llevará a Kenna a una situación sentimental desoladora y, en último término, a reavivar la esperanza de una segunda oportunidad.",
+    "genres": [
+      "Romance",
+      "Drama"
+    ]
+  },
+  "Amarga Navidad": {
+    "rating": 7.5,
+    "poster": "https://image.tmdb.org/t/p/w342/ji29dXqoeIsQiVnXAkzI4nzxMjr.jpg",
+    "summary": "Tras el fallecimiento de su madre en diciembre, Elsa, directora de publicidad, se sumerge en el trabajo para afrontar la situación. Cuando un ataque de pánico la obliga a tomarse un descanso, decide viajar a Lanzarote con su amiga Patricia mientras su pareja, Bonifacio, se queda en Madrid.",
+    "genres": [
+      "Drama",
+      "Comedia"
+    ]
+  },
+  "A Una Isla De Ti": {
+    "rating": 0.0,
+    "poster": "https://image.tmdb.org/t/p/w342/ddYZksoDokxjNHm2E0u1GeWVBsE.jpg",
+    "summary": "Un cocinero con el corazón partido va de vacaciones a Gran Canaria con su amigo, enamorándose de la isla, su cultura y cocina-e inesperadamente, del padre de su amigo.",
+    "genres": [
+      "Comedia",
+      "Romance"
+    ]
+  },
+  "Incontrolable": {
+    "rating": 4.0,
+    "poster": "https://image.tmdb.org/t/p/w342/phHq95qfPMD3Qy0e6FQDBSzhzf5.jpg",
+    "summary": "La historia real de John Davidson. Diagnosticado con Tourette a los 15 años, señalado como loco por sus compañeros, luchó con una condición que pocos habían presenciado. Ya adulto, hizo campaña en favor del síndrome de Tourette.",
+    "genres": [
+      "Comedia"
+    ]
+  },
+  "Como Cabras": {
+    "rating": 7.9,
+    "poster": "https://image.tmdb.org/t/p/w342/l8Y8o3RpFg54gmQQ8GVaxVroFmY.jpg",
+    "summary": "Will es una pequeña cabra con grandes sueños que recibe una oportunidad única en la vida para unirse a los profesionales y jugar al rugebol, un deporte de alta intensidad, mixto y de contacto total dominado por los animales más rápidos y feroces del mundo. A los nuevos compañeros de equipo de Will no les entusiasma tener a una cabrita en su plantilla, pero Will está decidido a revolucionar el deporte y demostrar de una vez por todas que «¡los pequeños saben jugar!».",
+    "genres": [
+      "Animación",
+      "Comedia",
+      "Familia"
+    ]
+  },
+  "Atrapando A Un Monstruo": {
+    "rating": 6.6,
+    "poster": "https://image.tmdb.org/t/p/w342/mfWPUc2izmwjLvljMDvuYhcUDLL.jpg",
+    "summary": "Una niña de ocho años le pide ayuda a su insidiosa vecina en su misión para matar al monstruo que vive debajo de su cama, el cual, según ella, devoró a su familia.",
+    "genres": [
+      "Fantasía",
+      "Acción",
+      "Terror"
+    ]
+  },
+  "Buena Suerte, Pásalo Bien, No Mueras": {
+    "rating": 6.9,
+    "poster": "https://image.tmdb.org/t/p/w342/vzJkrTx01ol7FTIhzS50pms5xEG.jpg",
+    "summary": "Un hombre que afirma venir del futuro llega a un pequeño restaurante en Los Ángeles. Su misión: reclutar a los humanos descontentos para que, en el transcurso de una noche, formen parte de una misión global: detener a una inteligencia artificial que se ha vuelto rebelde y amenaza la supervivencia del mundo.",
+    "genres": [
+      "Ciencia ficción",
+      "Acción",
+      "Comedia"
+    ]
+  },
+  "Michael": {
+    "rating": 0.0,
+    "poster": "https://image.tmdb.org/t/p/w342/2uK36ujoDXOfNiJ5Yp3raVprB51.jpg",
+    "summary": "El viaje de Michael Jackson más allá de la música, desde el descubrimiento de su extraordinario talento como líder de los Jackson Five hasta convertirse en una visionaria estrella cuya ambición creativa despertó un incansable afán por consagrarse como el mayor icono de la industria del entretenimiento.",
+    "genres": [
+      "Música",
+      "Drama"
+    ]
+  },
+  "Michael Vose": {
+    "rating": 0,
+    "poster": null,
+    "summary": "MICHAEL es el retrato en la gran pantalla de la vida y el legado de uno de los artistas más influyentes que el mundo haya conocido. \r\n\r\nLa película nos muestra el viaje de Michael Jackson más allá de la música, desde el descubrimiento de su extraordinario talento como líder de los Jackson Five hasta convertirse en una visionaria estrella cuya ambición creativa despertó un incansable afán por consagrarse como el mayor icono de la industria del entretenimiento. \r\n\r\nDescubriéndonos tanto su vida fuera de los escenarios como algunas de las actuaciones más emblemáticas de su carrera en solitario, MICHAEL nos brinda un asiento en primera fila para conocer a Michael Jackson como nunca. Aquí comienza su historia.",
+    "genres": []
+  },
+  "Mortal Kombat Ii": {
+    "rating": 0.0,
+    "poster": "https://image.tmdb.org/t/p/w342/dxUg4OCHJJdQURZdLiMcTv7OZfn.jpg",
+    "summary": "Los campeones favoritos de los fans, ahora acompañados por el propio Johnny Cage, se enfrentan cara a cara en la definitiva y sangrienta batalla a muerte para vencer al oscuro régimen de Shao Kahn, que amenaza la existencia del Reino de la Tierra y a sus defensores.",
+    "genres": [
+      "Acción",
+      "Fantasía",
+      "Aventura"
+    ]
+  },
+  "Buena Suerte, Pasalo Bien, No Mueras": {
+    "rating": 6.9,
+    "poster": "https://image.tmdb.org/t/p/w342/vzJkrTx01ol7FTIhzS50pms5xEG.jpg",
+    "summary": "Un hombre que afirma venir del futuro llega a un pequeño restaurante en Los Ángeles. Su misión: reclutar a los humanos descontentos para que, en el transcurso de una noche, formen parte de una misión global: detener a una inteligencia artificial que se ha vuelto rebelde y amenaza la supervivencia del mundo.",
+    "genres": [
+      "Ciencia ficción",
+      "Acción",
+      "Comedia"
+    ]
+  },
+  "Mi Robot Favorito": {
+    "rating": 5.5,
+    "poster": "https://image.tmdb.org/t/p/w342/3O3TTJbKKf7npnV0v83xxpxVTHv.jpg",
+    "summary": "",
+    "genres": [
+      "Animación",
+      "Familia",
+      "Ciencia ficción"
+    ]
+  },
+  "No Te Olvidare": {
+    "rating": 7.1,
+    "poster": "https://image.tmdb.org/t/p/w342/mIx9KAE3DgmrGJKwIL0xjIUfkBT.jpg",
+    "summary": "Cuando los abuelos y tutores de Diem se niegan categóricamente a permitir que la vea, Kenna descubre una compasión inesperada seguida de un sentimiento más profundo y real con Ledger, exjugador de la NFL y propietario de un bar local. A medida que su romance secreto va cobrando forma, surgen problemas para los dos, lo que llevará a Kenna a una situación sentimental desoladora y, en último término, a reavivar la esperanza de una segunda oportunidad.",
+    "genres": [
+      "Romance",
+      "Drama"
+    ]
   }
 }
