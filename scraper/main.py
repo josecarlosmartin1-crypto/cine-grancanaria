@@ -165,29 +165,30 @@ def scrape_artesiete():
             for img in soup.find_all('img'):
                 alt = img.get('alt', '')
                 if 'posters' in img.get('src', '').lower() and alt:
-                    parent = img.parent
+                    clean_alt = re.sub(r'\(.*?\)', '', alt).strip().title()
+                    # Evitamos procesar la misma película dos veces si tiene varias imágenes
+                    if any(m["title"] == clean_alt for m in results["Artesiete Las Terrazas"]):
+                        continue
+
                     # Buscamos el contenedor raíz de la película (el grid)
                     card = None
                     tp = img.parent
                     while tp and tp.name != 'body':
-                        # El contenedor principal tiene clase 'grid'
                         if tp.name == 'div' and 'grid' in tp.get('class', []):
                             card = tp
                             break
                         tp = tp.parent
                     
                     if card:
-                        # 1. ¿Es venta anticipada? Evitamos películas con fecha (ej: 30/04/2026)
+                        # 1. ¿Es venta anticipada?
                         if card.find(string=re.compile(r'\d{2}/\d{2}/2\d{3}')):
-                            break
+                            continue
                             
-                        # 2. ¿Tiene sesiones hoy? Buscamos específicamente el DIV con id="0"
-                        # (Evitamos el <a> id="0" que es solo la pestaña)
+                        # 2. ¿Tiene sesiones hoy?
                         day_div = card.select_one('div[id="0"]')
                         if day_div:
                             times = day_div.find_all(string=re.compile(r'\b\d{1,2}:\d{2}\b'))
                             if times:
-                                clean_alt = re.sub(r'\(.*?\)', '', alt).strip().title()
                                 info = get_movie_tmdb_info(clean_alt)
                                 movie_times = sorted(list(set([ti.strip() for ti in times if ":" in ti])))
                                 for t in movie_times:
@@ -195,7 +196,6 @@ def scrape_artesiete():
                                         "title": clean_alt, "time": t, "rating": info["rating"],
                                         "poster": info["poster"], "summary": info["summary"], "genres": info["genres"]
                                     })
-                        break # Ya procesamos esta película
     except Exception as e: print(f"  Error Artesiete: {e}")
     return results
 
