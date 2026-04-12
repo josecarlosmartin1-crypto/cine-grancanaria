@@ -166,18 +166,25 @@ def scrape_artesiete():
                 alt = img.get('alt', '')
                 if 'posters' in img.get('src', '').lower() and alt:
                     parent = img.parent
-                    while parent and parent.name != 'body':
-                        # Buscamos el contenedor que tiene las sesiones de hoy (id="0")
-                        day_today = parent.find('div', id='0')
-                        if day_today and 'views' in parent.get('class', []):
+                    # Identificamos el contenedor de la película (el más cercano con clase 'relative')
+                    movie_card = None
+                    temp_p = img.parent
+                    while temp_p and temp_p.name != 'body':
+                        if temp_p.name == 'div' and 'relative' in temp_p.get('class', []):
+                            movie_card = temp_p
+                            break
+                        temp_p = temp_p.parent
+                    
+                    if movie_card:
+                        # 1. ¿Es venta anticipada? Evitamos películas con fecha en el póster (ej: 30/04/2026)
+                        if movie_card.find(string=re.compile(r'\d{2}/\d{2}/20\d{2}')):
+                            break
+                            
+                        # 2. ¿Tiene sesiones hoy? Buscamos el contenedor con id="0" dentro de ESTA tarjeta
+                        day_today = movie_card.find('div', id='0')
+                        if day_today:
                             times = day_today.find_all(string=re.compile(r'\b\d{1,2}:\d{2}\b'))
                             if times:
-                                # Verificamos si el contenedor padre tiene una fecha futura (venta anticipada)
-                                movie_card = parent.find_parent('div', class_=re.compile(r'grid|relative'))
-                                if movie_card and movie_card.find(string=re.compile(r'\d{2}/\d{2}/20\d{2}')):
-                                    break # Es venta anticipada, saltamos
-                                    
-                                # Limpiamos el título de coletillas como (Atmos) o (Vose)
                                 clean_alt = re.sub(r'\(.*?\)', '', alt).strip().title()
                                 info = get_movie_tmdb_info(clean_alt)
                                 movie_times = sorted(list(set([ti.strip() for ti in times if ":" in ti])))
@@ -186,8 +193,7 @@ def scrape_artesiete():
                                         "title": clean_alt, "time": t, "rating": info["rating"],
                                         "poster": info["poster"], "summary": info["summary"], "genres": info["genres"]
                                     })
-                                break
-                        parent = parent.parent
+                        break # Ya procesamos esta imagen/película
     except Exception as e: print(f"  Error Artesiete: {e}")
     return results
 
