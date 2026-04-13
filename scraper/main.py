@@ -185,7 +185,7 @@ def scrape_artesiete():
                             continue
                             
                         # 2. ¿Tiene sesiones hoy?
-                        day_div = card.select_one('div[id="0"]')
+                        day_div = card.select_one('div.tab-pane.active')
                         if day_div:
                             times = day_div.find_all(string=re.compile(r'\b\d{1,2}:\d{2}\b'))
                             if times:
