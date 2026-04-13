@@ -104,6 +104,12 @@ def scrape_yelmo_api():
     headers = {"Accept": "application/json, text/javascript, */*; q=0.01", "Content-Type": "application/json; charset=UTF-8", "X-Requested-With": "XMLHttpRequest"}
     payload = {"cityKey": "las-palmas"}
     results = {"Cine Yelmo Vecindario": [], "Cine Yelmo Las Arenas": [], "Cine Yelmo Premium Alisios": []}
+    
+    # 1. Preparar fechas de búsqueda (Yelmo usa "14 abril")
+    meses = ["enero", "febrero", "marzo", "abril", "mayo", "junio", "julio", "agosto", "septiembre", "octubre", "noviembre", "diciembre"]
+    now = datetime.date.today()
+    today_str = f"{now.day} {meses[now.month-1]}"
+    
     try:
         res = scraper.post(url, headers=headers, json=payload, timeout=20)
         if res.status_code == 200:
@@ -115,8 +121,15 @@ def scrape_yelmo_api():
                 elif "Alisios" in name: target = "Cine Yelmo Premium Alisios"
                 if target:
                     dates = c.get("Dates", [])
-                    if dates:
-                        for m in dates[0].get("Movies", []):
+                    # Buscamos el objeto Date que coincida con hoy
+                    target_date_obj = next((d for d in dates if d.get("ShowtimeDate") == today_str), None)
+                    
+                    if not target_date_obj and dates:
+                        # Si no hay hoy (raro), tomamos el primero como fallback
+                        target_date_obj = dates[0]
+                    
+                    if target_date_obj:
+                        for m in target_date_obj.get("Movies", []):
                             title = m.get("Title", "").title()
                             info = get_movie_tmdb_info(title, m.get("Synopsis", ""))
                             times = sorted(list(set([s.get("Time", "") for f in m.get("Formats", []) for s in f.get("Showtimes", []) if s.get("Time")])))
@@ -133,18 +146,28 @@ def scrape_ocine_api():
     url = "https://www.ocinepremium7palmas.es/components/com_cines/json/es_cartellera.json"
     scraper = cloudscraper.create_scraper()
     results = {"Ocine Premium Siete Palmas": []}
+    
+    now_str = datetime.date.today().strftime("%Y-%m-%d")
+    
     try:
         res = scraper.get(url, timeout=20)
         if res.status_code == 200:
             data = res.json()
-            today = data.get("date", "")
+            api_date = data.get("date", "")
+            
+            # Ocine a veces tarda en rotar. Si la API dice que es ayer, 
+            # avisamos pero procesamos lo que hay (o podríamos saltar si tuviera más días)
+            if api_date != now_str:
+                print(f"  Aviso: Ocine aún reporta fecha {api_date} (esperado {now_str})")
+
             for m in data.get("data", []):
                 title = m.get("peli_titol", "").title()
                 if not title: continue
                 peli2 = m.get("Pelicules2", {})
                 info = get_movie_tmdb_info(title, (peli2.get("pel2_sinopsis") if isinstance(peli2, dict) else "") or "")
                 for s in m.get("Planificacions", []):
-                    if today and s.get("plan_data") == today:
+                    # Solo incluimos sesiones si coinciden con la fecha que reporta la API como "hoy"
+                    if api_date and s.get("plan_data") == api_date:
                         time_val = s.get("plan_horainici", "")
                         if time_val:
                             results["Ocine Premium Siete Palmas"].append({
