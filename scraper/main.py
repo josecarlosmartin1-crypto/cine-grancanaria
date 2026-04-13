@@ -3,6 +3,7 @@ import json
 import re
 import os
 import sys
+import datetime
 from bs4 import BeautifulSoup
 
 # Forzamos encoding UTF-8 para consola en Windows si es necesario
@@ -184,8 +185,16 @@ def scrape_artesiete():
                         if card.find(string=re.compile(r'\d{2}/\d{2}/2\d{3}')):
                             continue
                             
-                        # 2. ¿Tiene sesiones hoy?
-                        day_div = card.select_one('div.tab-pane.active')
+                        # 2. Localizar el ID de HOY (evitando IDs fijos/rotativos)
+                        today_str = datetime.date.today().strftime("%d/%m")
+                        today_tab = card.select_one(f'a[mostrar*="/{today_str}"], a:-soup-contains("{today_str}")')
+                        
+                        target_id = "0" # Fallback
+                        if today_tab:
+                            target_id = today_tab.get('id', '0')
+                        
+                        # 3. ¿Tiene sesiones para ese ID?
+                        day_div = card.find('div', id=target_id)
                         if day_div:
                             times = day_div.find_all(string=re.compile(r'\b\d{1,2}:\d{2}\b'))
                             if times:
