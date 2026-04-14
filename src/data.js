@@ -823,7 +823,142 @@ export const MOVIE_DATA = {
       ]
     }
   ],
-  "Ocine Premium Siete Palmas": [],
+  "Ocine Premium Siete Palmas": [
+    {
+      "title": "A Una Isla De Ti (Sala Premium)",
+      "time": "16:50",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/ddYZksoDokxjNHm2E0u1GeWVBsE.jpg",
+      "summary": "Un cocinero con el corazón partido va de vacaciones a Gran Canaria con su amigo, enamorándose de la isla, su cultura y cocina-e inesperadamente, del padre de su amigo.",
+      "genres": [
+        "Comedia",
+        "Romance"
+      ]
+    },
+    {
+      "title": "A Una Isla De Ti (Sala Premium)",
+      "time": "22:10",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/ddYZksoDokxjNHm2E0u1GeWVBsE.jpg",
+      "summary": "Un cocinero con el corazón partido va de vacaciones a Gran Canaria con su amigo, enamorándose de la isla, su cultura y cocina-e inesperadamente, del padre de su amigo.",
+      "genres": [
+        "Comedia",
+        "Romance"
+      ]
+    },
+    {
+      "title": "Atrapando A Un Monstruo",
+      "time": "16:40",
+      "rating": 6.6,
+      "poster": "https://image.tmdb.org/t/p/w342/mfWPUc2izmwjLvljMDvuYhcUDLL.jpg",
+      "summary": "Una niña de ocho años le pide ayuda a su insidiosa vecina en su misión para matar al monstruo que vive debajo de su cama, el cual, según ella, devoró a su familia.",
+      "genres": [
+        "Fantasía",
+        "Acción",
+        "Terror"
+      ]
+    },
+    {
+      "title": "Atrapando A Un Monstruo",
+      "time": "22:30",
+      "rating": 6.6,
+      "poster": "https://image.tmdb.org/t/p/w342/mfWPUc2izmwjLvljMDvuYhcUDLL.jpg",
+      "summary": "Una niña de ocho años le pide ayuda a su insidiosa vecina en su misión para matar al monstruo que vive debajo de su cama, el cual, según ella, devoró a su familia.",
+      "genres": [
+        "Fantasía",
+        "Acción",
+        "Terror"
+      ]
+    },
+    {
+      "title": "Boulevard",
+      "time": "17:30",
+      "rating": 3.0,
+      "poster": "https://image.tmdb.org/t/p/w342/o5M5mjnfRO50t3Wha1QPD04oHfT.jpg",
+      "summary": "Cuando Hasley (Eve Ryan) se muda a una nueva ciudad con su madre, lo último que espera es cruzarse con Luke (Mikel Niso), un joven envuelto en un aura peligrosa y un pasado trágico. Atrapado en sus propios demonios, Luke es todo lo que Hasley debería temer... pero a lo que se siente irremediablemente atraída. A pesar de las sombras que lo rodean, Hasley descubre en Luke una vulnerabilidad y un mundo interior apasionante. Juntos, crearán su propio boulevard: un refugio escondido donde poder ser ellos mismos, cumplir sueños imposibles, atreverse a amar a pesar de los prejuicios, el dolor y las cicatrices que arrastran, y demostrar que el amor es capaz de florecer incluso en los corazones más insospechados.",
+      "genres": [
+        "Drama",
+        "Romance"
+      ]
+    },
+    {
+      "title": "Boulevard",
+      "time": "19:45",
+      "rating": 3.0,
+      "poster": "https://image.tmdb.org/t/p/w342/o5M5mjnfRO50t3Wha1QPD04oHfT.jpg",
+      "summary": "Cuando Hasley (Eve Ryan) se muda a una nueva ciudad con su madre, lo último que espera es cruzarse con Luke (Mikel Niso), un joven envuelto en un aura peligrosa y un pasado trágico. Atrapado en sus propios demonios, Luke es todo lo que Hasley debería temer... pero a lo que se siente irremediablemente atraída. A pesar de las sombras que lo rodean, Hasley descubre en Luke una vulnerabilidad y un mundo interior apasionante. Juntos, crearán su propio boulevard: un refugio escondido donde poder ser ellos mismos, cumplir sueños imposibles, atreverse a amar a pesar de los prejuicios, el dolor y las cicatrices que arrastran, y demostrar que el amor es capaz de florecer incluso en los corazones más insospechados.",
+      "genres": [
+        "Drama",
+        "Romance"
+      ]
+    },
+    {
+      "title": "Hoppers (Atmos)",
+      "time": "17:50",
+      "rating": 7.6,
+      "poster": "https://image.tmdb.org/t/p/w342/4Z0E1W7YvQ0aVtgj7KKtktb9ukd.jpg",
+      "summary": "Una amante de los animales aprovecha la oportunidad de utilizar una tecnología que coloca su conciencia en un castor robótico, descubriendo misterios dentro del mundo animal que van más allá de lo que podría haber imaginado.",
+      "genres": [
+        "Animación",
+        "Familia",
+        "Ciencia ficción"
+      ]
+    },
+    {
+      "title": "Kill Bill:The Whole Bloody Affair",
+      "time": "19:00",
+      "rating": 8.0,
+      "poster": "https://image.tmdb.org/t/p/w342/rrdOoifC74O7YLdQsaIXA393RlR.jpg",
+      "summary": "Kill Bill es una película de acción y suspense de dos partes estrenada en 2003 y 2004 respectivamente, que fue escrita y dirigida por Quentin Tarantino. Kill Bill originalmente fue propuesta para tener un lanzamiento único en los cines, pero con una duración de más de cuatro horas, fue separada en dos volúmenes: Kill Bill: Volumen 1, lanzada a finales de 2003, y Kill Bill: Volumen 2, lanzada a inicios de 2004. Las dos películas fueron bien recibidas por la crítica, muchos notando su estilo de dirección y su homenaje a géneros cinematográficos como las películas de artes marciales hongkonesa, las películas de samuráis, spaghetti western, chicas con armas, violación y venganza. En 2011, las dos películas fueron unidas y, junto a una secuencia animada extensa, fueron estrenadas bajo título de Kill Bill: The Whole Bloody Affair en el New Beverly Cinema, en Los Ángeles, California.",
+      "genres": [
+        "Acción",
+        "Crimen"
+      ]
+    },
+    {
+      "title": "Noche De Bodas 2 (Atmos)",
+      "time": "22:15",
+      "rating": 7.4,
+      "poster": "https://image.tmdb.org/t/p/w342/nDXKMOLJuBUKhYmHAY9qJdikuAq.jpg",
+      "summary": "Momentos después de sobrevivir a un ataque de la familia Le Domas, Grace descubre que ha alcanzado el siguiente nivel del juego, y esta vez acompañada por su hermana Faith, con quien mantiene una relación distante. Grace tiene una oportunidad para sobrevivir, mantener con vida a su hermana y reclamar el Alto Trono del Consejo que controla el mundo. Cuatro familias rivales la persiguen para hacerse con el trono, y quien gane lo gobernará todo.",
+      "genres": [
+        "Terror",
+        "Comedia"
+      ]
+    },
+    {
+      "title": "Shelter: El Protector",
+      "time": "22:45",
+      "rating": 6.8,
+      "poster": "https://image.tmdb.org/t/p/w342/kOsqd5jFZ0p3O8Z0k0VQvBW2neW.jpg",
+      "summary": "Un recluso en una remota isla escocesa rescata a una niña del mar, desencadenando una peligrosa secuencia de acontecimientos.",
+      "genres": [
+        "Acción",
+        "Crimen",
+        "Suspense"
+      ]
+    },
+    {
+      "title": "Torrente Presidente",
+      "time": "18:10",
+      "rating": 6.4,
+      "poster": "https://image.tmdb.org/t/p/w342/a0Fn0PiGGiU74jIUelpce6z70i9.jpg",
+      "summary": "José Luis Torrente vuelve metido de lleno en la política española, arrastrando su habitual mezcla de vulgaridad, oportunismo e ineptitud. La película plantea una sátira de la realidad social y política del país mediante parodias, situaciones absurdas y numerosos cameos.",
+      "genres": [
+        "Comedia"
+      ]
+    },
+    {
+      "title": "Torrente Presidente",
+      "time": "20:20",
+      "rating": 6.4,
+      "poster": "https://image.tmdb.org/t/p/w342/a0Fn0PiGGiU74jIUelpce6z70i9.jpg",
+      "summary": "José Luis Torrente vuelve metido de lleno en la política española, arrastrando su habitual mezcla de vulgaridad, oportunismo e ineptitud. La película plantea una sátira de la realidad social y política del país mediante parodias, situaciones absurdas y numerosos cameos.",
+      "genres": [
+        "Comedia"
+      ]
+    }
+  ],
   "Artesiete Las Terrazas": [
     {
       "title": "Hoppers",
