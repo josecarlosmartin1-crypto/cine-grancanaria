@@ -166,8 +166,8 @@ def scrape_ocine_api():
                 peli2 = m.get("Pelicules2", {})
                 info = get_movie_tmdb_info(title, (peli2.get("pel2_sinopsis") if isinstance(peli2, dict) else "") or "")
                 for s in m.get("Planificacions", []):
-                    # Solo incluimos sesiones si coinciden con la fecha que reporta la API como "hoy"
-                    if api_date and s.get("plan_data") == api_date:
+                    # Filtramos por la fecha real de hoy, no por la que diga la cabecera de la API
+                    if s.get("plan_data") == now_str:
                         time_val = s.get("plan_horainici", "")
                         if time_val:
                             results["Ocine Premium Siete Palmas"].append({
