@@ -342,5 +342,7 @@ h1 {
 .empty-state {
   text-align: center;
   padding: 60px 40px;
-  color: #adb5bd;
+  color: var(--text-muted);
+  font-weight: 500;
+  opacity: 0.8;
 }

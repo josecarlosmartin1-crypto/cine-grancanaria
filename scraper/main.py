@@ -165,8 +165,13 @@ def scrape_ocine_api():
             target_date = next((d for d in available_dates if d >= now_str), None)
             if not target_date and available_dates: target_date = available_dates[0]
             
-            if target_date and target_date != now_str:
-                print(f"  Aviso: Ocine no tiene sesiones para {now_str}. Usando fecha más cercana: {target_date}")
+            if target_date:
+                if target_date != now_str:
+                    print(f"  Aviso: Ocine no tiene sesiones para {now_str}. Usando fecha más cercana: {target_date}")
+                else:
+                    print(f"  Ocine: Sesiones encontradas para hoy ({now_str})")
+            else:
+                print("  ERROR: Ocine no tiene fechas disponibles en su API.")
 
             for m in data.get("data", []):
                 title = m.get("peli_titol", "").title()
@@ -175,14 +180,16 @@ def scrape_ocine_api():
                 info = get_movie_tmdb_info(title, (peli2.get("pel2_sinopsis") if isinstance(peli2, dict) else "") or "")
                 
                 for s in m.get("Planificacions", []):
-                    # Usamos la fecha objetivo calculada (hoy o el fallback más cercano)
-                    if s.get("plan_data") == target_date:
+                    # Usamos la fecha objetivo calculada con limpieza de espacios para evitar fallos de matching
+                    if s.get("plan_data", "").strip() == target_date:
                         time_val = s.get("plan_horainici", "")
                         if time_val:
                             results["Ocine Premium Siete Palmas"].append({
                                 "title": title, "time": ":".join(time_val.split(":")[:2]),
                                 "rating": info["rating"], "poster": info["poster"], "summary": info["summary"], "genres": info["genres"]
                             })
+            
+            print(f"  Ocine: {len(results['Ocine Premium Siete Palmas'])} sesiones capturadas.")
     except Exception as e: print(f"  Error Ocine: {e}")
     return results
 
