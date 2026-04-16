@@ -4,6 +4,7 @@ import re
 import os
 import sys
 import datetime
+import time
 from bs4 import BeautifulSoup
 
 # Forzamos encoding UTF-8 para consola en Windows si es necesario
@@ -150,24 +151,32 @@ def scrape_ocine_api():
     now_str = datetime.date.today().strftime("%Y-%m-%d")
     
     try:
-        res = scraper.get(url, timeout=20)
+        # Añadimos cache-buster para evitar que GitHub reciba una versión antigua por caché de red
+        url_with_cache_buster = f"{url}?t={int(time.time())}"
+        res = scraper.get(url_with_cache_buster, timeout=20)
+        
         if res.status_code == 200:
             data = res.json()
-            api_date = data.get("date", "")
             
-            # Ocine a veces tarda en rotar. Si la API dice que es ayer, 
-            # avisamos pero procesamos lo que hay (o podríamos saltar si tuviera más días)
-            if api_date != now_str:
-                print(f"  Aviso: Ocine aún reporta fecha {api_date} (esperado {now_str})")
+            # Buscamos todas las fechas disponibles en las sesiones
+            available_dates = sorted(list(set([s.get("plan_data") for m in data.get("data", []) for s in m.get("Planificacions", []) if s.get("plan_data")])))
+            
+            # Prioridad 1: Hoy exacto. Prioridad 2: Primera fecha disponible (fallback)
+            target_date = next((d for d in available_dates if d >= now_str), None)
+            if not target_date and available_dates: target_date = available_dates[0]
+            
+            if target_date and target_date != now_str:
+                print(f"  Aviso: Ocine no tiene sesiones para {now_str}. Usando fecha más cercana: {target_date}")
 
             for m in data.get("data", []):
                 title = m.get("peli_titol", "").title()
                 if not title: continue
                 peli2 = m.get("Pelicules2", {})
                 info = get_movie_tmdb_info(title, (peli2.get("pel2_sinopsis") if isinstance(peli2, dict) else "") or "")
+                
                 for s in m.get("Planificacions", []):
-                    # Filtramos por la fecha real de hoy, no por la que diga la cabecera de la API
-                    if s.get("plan_data") == now_str:
+                    # Usamos la fecha objetivo calculada (hoy o el fallback más cercano)
+                    if s.get("plan_data") == target_date:
                         time_val = s.get("plan_horainici", "")
                         if time_val:
                             results["Ocine Premium Siete Palmas"].append({

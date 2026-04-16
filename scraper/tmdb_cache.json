@@ -378,5 +378,28 @@
       "Romance",
       "Drama"
     ]
+  },
+  "La Familia Beneton +2": {
+    "rating": 0.0,
+    "poster": "https://image.tmdb.org/t/p/w342/qJhTQ2TFMG2q9Tv6xsyntTMibcU.jpg",
+    "summary": "Cuando Toni cree que tiene todo bajo control en su entrañable y divertida familia multicultural, la llegada de dos nuevos bebés pondrá patas arriba la casa y a toda la familia.",
+    "genres": [
+      "Comedia"
+    ]
+  },
+  "La Momia De Lee Cronin": {
+    "rating": 8.2,
+    "poster": "https://image.tmdb.org/t/p/w342/qlLsNgRUiPPEIVbcqZR2KmOBL7e.jpg",
+    "summary": "La joven hija de un periodista desaparece en el desierto sin dejar rastro—ocho años más tarde, la familia rota se conmociona cuando ella es devuelta a ellos, y lo que debiera haber sido una reunión jubilosa se convierte en una auténtica pesadilla.",
+    "genres": [
+      "Terror",
+      "Misterio"
+    ]
+  },
+  "En Busca Del Mesias": {
+    "rating": 0.0,
+    "poster": "https://image.tmdb.org/t/p/w342/jAZpwZ6yAh9pExq9GRINSIWForG.jpg",
+    "summary": "Por primera vez una película reúne a judíos destacados de diversos países, que revelan sus extraordinarias experiencias con Jesús. Estos testimonios de judíos conversos, tan sorprendentes como íntimos, hablan al corazón de los demás hijos de Israel, y al de los propios cristianos, con una mirada llena de esperanza. En tiempos de incertidumbre, este documental se pregunta si la conversión de Israel anunciada por San Pablo puede empezar a hacerse visible hoy.",
+    "genres": []
   }
 }
