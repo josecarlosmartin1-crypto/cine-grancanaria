@@ -17,8 +17,11 @@ Para evitar que los cines muestren datos del día anterior o listas vacías dura
 - **Fallback**: Si no encuentra la fecha exacta, usa el primero de la lista.
 
 ### C. Ocine Siete Palmas
-- **Lógica**: El encabezado de su API (`date`) puede estar desfasado hasta bien entrada la mañana.
-- **Solución**: El script itera por todas las sesiones en `Planificacions` y solo captura aquellas cuyo campo `plan_data` coincida con la fecha real de hoy (`YYYY-MM-DD`), ignorando el `api_date` principal si está desincronizado.
+- **Lógica**: El archivo JSON puede ser servido desde caché antigua o su encabezado (`date`) puede estar desfasado.
+- **Solución Ultra-Robusta**:
+    - **Cache Busting**: Se añade un timestamp dinámico a la URL (`?t=...`) para forzar la recepción de datos frescos desde el servidor.
+    - **Smart Fallback**: El script busca primero la fecha real de hoy. Si no encuentra sesiones, selecciona automáticamente la **fecha más temprana disponible** que sea igual o posterior a hoy.
+- **Resultado**: Nunca debería mostrarse vacío si existe alguna cartelera publicada en el sistema del cine, ignorando retrasos de sincronización de su servidor.
 
 ## 2. Enriquecimiento de Datos (TMDb)
 
