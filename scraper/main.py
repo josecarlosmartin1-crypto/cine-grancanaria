@@ -153,7 +153,14 @@ def scrape_ocine_api():
     try:
         # Añadimos cache-buster para evitar que GitHub reciba una versión antigua por caché de red
         url_with_cache_buster = f"{url}?t={int(time.time())}"
-        res = scraper.get(url_with_cache_buster, timeout=20)
+        headers = {
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36",
+            "Accept": "application/json, text/plain, */*",
+            "Accept-Language": "es-ES,es;q=0.9,en;q=0.8",
+            "Referer": "https://www.ocinepremium7palmas.es/cartelera",
+            "Origin": "https://www.ocinepremium7palmas.es"
+        }
+        res = scraper.get(url_with_cache_buster, headers=headers, timeout=20)
         
         if res.status_code == 200:
             data = res.json()
@@ -190,6 +197,8 @@ def scrape_ocine_api():
                             })
             
             print(f"  Ocine: {len(results['Ocine Premium Siete Palmas'])} sesiones capturadas.")
+        else:
+            print(f"  ERROR Ocine (Status {res.status_code}): {res.text[:300]}")
     except Exception as e: print(f"  Error Ocine: {e}")
     return results
 
