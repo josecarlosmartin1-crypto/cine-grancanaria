@@ -401,5 +401,78 @@
     "poster": "https://image.tmdb.org/t/p/w342/jAZpwZ6yAh9pExq9GRINSIWForG.jpg",
     "summary": "Por primera vez una película reúne a judíos destacados de diversos países, que revelan sus extraordinarias experiencias con Jesús. Estos testimonios de judíos conversos, tan sorprendentes como íntimos, hablan al corazón de los demás hijos de Israel, y al de los propios cristianos, con una mirada llena de esperanza. En tiempos de incertidumbre, este documental se pregunta si la conversión de Israel anunciada por San Pablo puede empezar a hacerse visible hoy.",
     "genres": []
+  },
+  "La Familia Benetón +2": {
+    "rating": 7.0,
+    "poster": "https://image.tmdb.org/t/p/w342/qJhTQ2TFMG2q9Tv6xsyntTMibcU.jpg",
+    "summary": "Cuando Toni cree que tiene todo bajo control en su entrañable y divertida familia multicultural, la llegada de dos nuevos bebés pondrá patas arriba la casa y a toda la familia.",
+    "genres": [
+      "Comedia"
+    ]
+  },
+  "Billie Eilish. Hit Me Hard And Soft. The Tour En 3D": {
+    "rating": 0.0,
+    "poster": "https://image.tmdb.org/t/p/w342/8aCrzKY3cwkpS4T72BvcGyuaaX4.jpg",
+    "summary": "Concierto de Billie Eilish dirigido por Billie Eilish y James Cameron. Capturado durante su gira mundial con todas las entradas agotadas, ofrece una innovadora experiencia de concierto en la gran pantalla de una de las artistas más celebradas y exitosas de su generación.",
+    "genres": [
+      "Música",
+      "Documental"
+    ]
+  },
+  "El Señor De Los Anillos: La Comunidad Del Anillo": {
+    "rating": 8.4,
+    "poster": "https://image.tmdb.org/t/p/w342/9xtH1RmAzQ0rrMBNUMXstb2s3er.jpg",
+    "summary": "En la Tierra Media, el Señor Oscuro Saurón creó los Grandes Anillos de Poder, forjados por los herreros Elfos. Tres para los reyes Elfos, siete para los Señores Enanos, y nueve para los Hombres Mortales. Secretamente, Saurón también forjó un anillo maestro, el Anillo Único, que contiene en sí el poder para esclavizar a toda la Tierra Media. Con la ayuda de un grupo de amigos y de valientes aliados, Frodo emprende un peligroso viaje con la misión de destruir el Anillo Único. Pero el Señor Oscuro Sauron, quien creara el Anillo, envía a sus servidores para perseguir al grupo. Si Sauron lograra recuperar el Anillo, sería el final de la Tierra Media.",
+    "genres": [
+      "Aventura",
+      "Fantasía",
+      "Acción"
+    ]
+  },
+  "The Mandalorian And Grogu": {
+    "rating": 0.0,
+    "poster": "https://image.tmdb.org/t/p/w342/aY7a38Ef0lNn0ohMpaG4ODUuPIG.jpg",
+    "summary": "Continuación de la serie \"The Mandalorian\" en forma de película. Un solitario cazarrecompensas a la fuga protege a un codiciado bebé alienígena mientras evita ser capturado en una galaxia anárquica y peligrosa.",
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Ciencia ficción"
+    ]
+  },
+  "La Mujer Más Rica Del Mundo": {
+    "rating": 6.0,
+    "poster": "https://image.tmdb.org/t/p/w342/jTwf2Q4HCdfRvrOmGG5OoD1yX5n.jpg",
+    "summary": "La mujer más rica del mundo: su belleza, su inteligencia, su poder. Un fotógrafo: su ambición, su audacia, su locura. Un amor a primera vista que los arrastra. Una heredera desconfiada que lucha por ser amada. Un mayordomo vigilante que sabe más de lo que dice. Secretos de familia. Donaciones astronómicas. Una guerra en la que todo vale. Historia inspirada en el escándalo de la familia Bettencourt",
+    "genres": [
+      "Comedia",
+      "Drama"
+    ]
+  },
+  "La Familia Beneton 2": {
+    "rating": 7.0,
+    "poster": "https://image.tmdb.org/t/p/w342/qJhTQ2TFMG2q9Tv6xsyntTMibcU.jpg",
+    "summary": "Cuando Toni cree que tiene todo bajo control en su entrañable y divertida familia multicultural, la llegada de dos nuevos bebés pondrá patas arriba la casa y a toda la familia.",
+    "genres": [
+      "Comedia"
+    ]
+  },
+  "Prime Crime: A True Story": {
+    "rating": 6.4,
+    "poster": "https://image.tmdb.org/t/p/w342/hmqQqYEr3TS9WmQ1X2JjOVM2jjk.jpg",
+    "summary": "Recrea la historia real del secuestro de 1977 que convirtió a Tony Kiritsis, un aspirante a empresario de Indianápolis, en un excéntrico héroe popular proscrito.",
+    "genres": [
+      "Crimen",
+      "Drama",
+      "Suspense"
+    ]
+  },
+  "Renoir": {
+    "rating": 6.3,
+    "poster": "https://image.tmdb.org/t/p/w342/zla7j5SOq6n6U6GwdGFC3e7DVhp.jpg",
+    "summary": "Auguste Renoir, en el ocaso de su vida, está atormentado por la pérdida de su esposa, los dolores artríticos y la noticia de que su hijo ha sido herido en la guerra. Sin embargo, cuando una joven entra en su mundo, el pintor se siente dueño de una nueva energía. Radiante de vida, bellísima, Andrée se convertirá en su última modelo. Jean regresa a casa para reponerse y también cae bajo el encanto de la estrella pelirroja que brilla en el firmamento de Renoir. A pesar de la oposición de su padre, se enamora de la joven indomable y empieza a desarrollarse el gran cineasta.",
+    "genres": [
+      "Drama",
+      "Romance"
+    ]
   }
 }

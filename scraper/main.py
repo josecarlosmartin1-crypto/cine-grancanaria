@@ -197,9 +197,23 @@ def scrape_ocine_api():
                             })
             
             print(f"  Ocine: {len(results['Ocine Premium Siete Palmas'])} sesiones capturadas.")
+            # Si tiene éxito, eliminamos el log de error anterior si existe
+            if os.path.exists("scraper/ocine_last_error.log"):
+                os.remove("scraper/ocine_last_error.log")
         else:
-            print(f"  ERROR Ocine (Status {res.status_code}): {res.text[:300]}")
-    except Exception as e: print(f"  Error Ocine: {e}")
+            error_msg = f"ERROR Ocine (Status {res.status_code}): {res.text[:500]}"
+            print(f"  {error_msg}")
+            # Guardamos el error en un archivo para que el bot de GitHub lo suba
+            with open("scraper/ocine_last_error.log", "w", encoding="utf-8") as f:
+                f.write(f"TIMESTAMP: {datetime.datetime.now().isoformat()}\n")
+                f.write(f"STATUS: {res.status_code}\n")
+                f.write(f"URL: {url_with_cache_buster}\n")
+                f.write(f"HEADERS: {json.dumps(headers, indent=2)}\n")
+                f.write(f"BODY_START: {res.text[:2000]}\n")
+    except Exception as e: 
+        print(f"  Error Ocine: {e}")
+        with open("scraper/ocine_last_error.log", "w", encoding="utf-8") as f:
+            f.write(f"EXCEPTION: {str(e)}\n")
     return results
 
 def scrape_artesiete():
