@@ -474,5 +474,25 @@
       "Drama",
       "Romance"
     ]
+  },
+  "Turno De Noche": {
+    "rating": 6.8,
+    "poster": "https://image.tmdb.org/t/p/w342/bp0tX5Q02YtkFAQI8TMwwsvQs1d.jpg",
+    "summary": "Cuando un hongo mutante altamente contagioso escapa de una instalación sellada, dos jóvenes empleados, acompañados por un veterano agente de bioterrorismo, deben sobrevivir al turno de noche más alocado de la historia para salvar a la humanidad de la extinción, mientras el microorganismo se propaga y destruye todo a su paso.",
+    "genres": [
+      "Terror",
+      "Ciencia ficción",
+      "Comedia"
+    ]
+  },
+  "Maracuda": {
+    "rating": 7.9,
+    "poster": "https://image.tmdb.org/t/p/w342/921uxRXPTQZHaTCMR2uCOmVdfC2.jpg",
+    "summary": "Maracuda, hijo de un respetado líder tribal, lucha por estar a la altura de las expectativas de su padre. Se aventura en un bosque misterioso para probarse a sí mismo y se encuentra con Tink, un pájaro extraterrestre mágico, y juntos se embarcan en increíbles aventuras en el bosque de la Edad de Piedra habitado por ardillas dientes de sable, adorables suricatos e incluso dinosaurios. En medio de sus aventuras, Tink transforma involuntariamente al padre de Maracuda en una pequeña criatura, lo que lleva al niño a enseñarle a Tink cómo controlar sus poderes.",
+    "genres": [
+      "Familia",
+      "Animación",
+      "Aventura"
+    ]
   }
 }

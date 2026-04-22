@@ -168,9 +168,8 @@ def scrape_ocine_api():
             # Buscamos todas las fechas disponibles en las sesiones
             available_dates = sorted(list(set([s.get("plan_data") for m in data.get("data", []) for s in m.get("Planificacions", []) if s.get("plan_data")])))
             
-            # Prioridad 1: Hoy exacto. Prioridad 2: Primera fecha disponible (fallback)
+            # Prioridad 1: Hoy exacto. Prioridad 2: Primera fecha disponible FUTURA (>= hoy)
             target_date = next((d for d in available_dates if d >= now_str), None)
-            if not target_date and available_dates: target_date = available_dates[0]
             
             if target_date:
                 if target_date != now_str:
@@ -178,7 +177,13 @@ def scrape_ocine_api():
                 else:
                     print(f"  Ocine: Sesiones encontradas para hoy ({now_str})")
             else:
-                print("  ERROR: Ocine no tiene fechas disponibles en su API.")
+                error_msg = f"ERROR: Ocine no tiene fechas futuras disponibles (Hoy: {now_str}, Encontradas: {available_dates})"
+                print(f"  {error_msg}")
+                with open("scraper/ocine_last_error.log", "w", encoding="utf-8") as f:
+                    f.write(f"TIMESTAMP: {datetime.datetime.now().isoformat()}\n")
+                    f.write(f"REASON: NO_FUTURE_DATES\n")
+                    f.write(f"AVAILABLE_DATES: {available_dates}\n")
+                return results # Devolvemos vacío pero forzamos el log
 
             for m in data.get("data", []):
                 title = m.get("peli_titol", "").title()
