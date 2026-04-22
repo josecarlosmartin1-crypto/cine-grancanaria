@@ -276,17 +276,55 @@ def scrape_artesiete():
     return results
 
 def main():
+    import sys
+    only_ocine = "--only-ocine" in sys.argv
+    force = "--force" in sys.argv
+
+    # Intentamos leer los datos actuales para ver si ya están al día
+    existing_data = {}
+    try:
+        if os.path.exists("src/data.js"):
+            with open("src/data.js", "r", encoding="utf-8") as f:
+                content = f.read()
+                start = content.find('{')
+                end = content.rfind('}')
+                if start != -1 and end != -1:
+                    existing_data = json.loads(content[start:end+1])
+    except Exception as e:
+        print(f"  Aviso: No se pudo leer data.js actual: {e}")
+
     load_cache() # 1. Cargamos memoria histórica
     get_tmdb_genres() # 2. Cargamos catálogo de géneros
-    all_data = {}
-    all_data.update(scrape_yelmo_api())
-    all_data.update(scrape_ocine_api())
-    all_data.update(scrape_artesiete())
+    
+    all_data = existing_data if not force else {}
+    
+    # 3. Lógica selectiva de scrapers
+    if not only_ocine:
+        print("\n--- Actualización General ---")
+        all_data.update(scrape_yelmo_api())
+        all_data.update(scrape_artesiete())
+    
+    # Ocine siempre se intenta si: 
+    # a) Estamos en modo only_ocine
+    # b) Ocine está vacío o no existe en los datos actuales
+    # c) Es una ejecución general
+    ocine_current = existing_data.get("Ocine Premium Siete Palmas", [])
+    if only_ocine or not ocine_current or force:
+        print("\n--- Actualización Ocine ---")
+        ocine_res = scrape_ocine_api()
+        # Solo actualizamos si Ocine ha devuelto algo válido hoy
+        if ocine_res.get("Ocine Premium Siete Palmas"):
+            all_data.update(ocine_res)
+        else:
+            print("  Ocine: No se han encontrado sesiones nuevas. Manteniendo datos previos si existen.")
+
+    # 4. Guardado final
     with open("src/data.js", "w", encoding="utf-8") as f:
         f.write(f"export const MOVIE_DATA = {json.dumps(all_data, indent=2, ensure_ascii=False)};\n")
         f.write("export const movieData = MOVIE_DATA;\nexport const cinemas = Object.keys(MOVIE_DATA);\n")
-    save_cache() # 3. Guardamos la memoria actualizada
-    print("\nActualizacion completada con memoria persistente.")
+    
+    save_cache() # 5. Guardamos la memoria actualizada
+    print("\nActualizacion completada.")
 
 if __name__ == "__main__":
     main()
