@@ -113,18 +113,6 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Turno De Noche",
-      "time": "20:25",
-      "rating": 6.8,
-      "poster": "https://image.tmdb.org/t/p/w342/bp0tX5Q02YtkFAQI8TMwwsvQs1d.jpg",
-      "summary": "Cuando un hongo mutante altamente contagioso escapa de una instalación sellada, dos jóvenes empleados, acompañados por un veterano agente de bioterrorismo, deben sobrevivir al turno de noche más alocado de la historia para salvar a la humanidad de la extinción, mientras el microorganismo se propaga y destruye todo a su paso.",
-      "genres": [
-        "Terror",
-        "Ciencia ficción",
-        "Comedia"
-      ]
-    },
-    {
-      "title": "Turno De Noche",
       "time": "22:35",
       "rating": 6.8,
       "poster": "https://image.tmdb.org/t/p/w342/bp0tX5Q02YtkFAQI8TMwwsvQs1d.jpg",
@@ -186,6 +174,17 @@ export const MOVIE_DATA = {
       "summary": "Cuando Toni cree que tiene todo bajo control en su entrañable y divertida familia multicultural, la llegada de dos nuevos bebés pondrá patas arriba la casa y a toda la familia.",
       "genres": [
         "Comedia"
+      ]
+    },
+    {
+      "title": "Boulevard",
+      "time": "20:15",
+      "rating": 3.0,
+      "poster": "https://image.tmdb.org/t/p/w342/o5M5mjnfRO50t3Wha1QPD04oHfT.jpg",
+      "summary": "Cuando Hasley (Eve Ryan) se muda a una nueva ciudad con su madre, lo último que espera es cruzarse con Luke (Mikel Niso), un joven envuelto en un aura peligrosa y un pasado trágico. Atrapado en sus propios demonios, Luke es todo lo que Hasley debería temer... pero a lo que se siente irremediablemente atraída. A pesar de las sombras que lo rodean, Hasley descubre en Luke una vulnerabilidad y un mundo interior apasionante. Juntos, crearán su propio boulevard: un refugio escondido donde poder ser ellos mismos, cumplir sueños imposibles, atreverse a amar a pesar de los prejuicios, el dolor y las cicatrices que arrastran, y demostrar que el amor es capaz de florecer incluso en los corazones más insospechados.",
+      "genres": [
+        "Drama",
+        "Romance"
       ]
     },
     {
@@ -289,6 +288,16 @@ export const MOVIE_DATA = {
     }
   ],
   "Cine Yelmo Las Arenas": [
+    {
+      "title": "Sidosa",
+      "time": "20:00",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/jSWZUMameuBUlnSUFAJZPseTHcj.jpg",
+      "summary": "En 'Sidosa', el director y actor Eduardo Casanova hace la revelación más íntima y trascendente de su vida: tiene VIH. No hay en España un precedente de una figura tan conocida como él que haya contado públicamente que vive con VIH, un paso que las organizaciones y el activismo reclaman desde hace años para ayudar a acabar con el estigma social que sigue asociado al virus.",
+      "genres": [
+        "Documental"
+      ]
+    },
     {
       "title": "Michael",
       "time": "17:00",
@@ -456,17 +465,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "La Familia Benetón +2",
-      "time": "17:20",
-      "rating": 7.0,
-      "poster": "https://image.tmdb.org/t/p/w342/qJhTQ2TFMG2q9Tv6xsyntTMibcU.jpg",
-      "summary": "Cuando Toni cree que tiene todo bajo control en su entrañable y divertida familia multicultural, la llegada de dos nuevos bebés pondrá patas arriba la casa y a toda la familia.",
-      "genres": [
-        "Comedia"
-      ]
-    },
-    {
-      "title": "La Familia Benetón +2",
-      "time": "19:30",
+      "time": "17:30",
       "rating": 7.0,
       "poster": "https://image.tmdb.org/t/p/w342/qJhTQ2TFMG2q9Tv6xsyntTMibcU.jpg",
       "summary": "Cuando Toni cree que tiene todo bajo control en su entrañable y divertida familia multicultural, la llegada de dos nuevos bebés pondrá patas arriba la casa y a toda la familia.",
@@ -556,7 +555,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Incontrolable (I Swear)",
-      "time": "19:50",
+      "time": "19:45",
       "rating": 4.0,
       "poster": "https://image.tmdb.org/t/p/w342/phHq95qfPMD3Qy0e6FQDBSzhzf5.jpg",
       "summary": "La historia real de John Davidson. Diagnosticado con Tourette a los 15 años, señalado como loco por sus compañeros, luchó con una condición que pocos habían presenciado. Ya adulto, hizo campaña en favor del síndrome de Tourette.",
@@ -708,7 +707,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "La Momia De Lee Cronin",
-      "time": "19:40",
+      "time": "19:45",
       "rating": 8.2,
       "poster": "https://image.tmdb.org/t/p/w342/qlLsNgRUiPPEIVbcqZR2KmOBL7e.jpg",
       "summary": "La joven hija de un periodista desaparece en el desierto sin dejar rastro—ocho años más tarde, la familia rota se conmociona cuando ella es devuelta a ellos, y lo que debiera haber sido una reunión jubilosa se convierte en una auténtica pesadilla.",
@@ -719,7 +718,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "La Momia De Lee Cronin",
-      "time": "22:20",
+      "time": "22:25",
       "rating": 8.2,
       "poster": "https://image.tmdb.org/t/p/w342/qlLsNgRUiPPEIVbcqZR2KmOBL7e.jpg",
       "summary": "La joven hija de un periodista desaparece en el desierto sin dejar rastro—ocho años más tarde, la familia rota se conmociona cuando ella es devuelta a ellos, y lo que debiera haber sido una reunión jubilosa se convierte en una auténtica pesadilla.",
@@ -853,154 +852,6 @@ export const MOVIE_DATA = {
     {
       "title": "Torrente Presidente",
       "time": "20:25",
-      "rating": 6.4,
-      "poster": "https://image.tmdb.org/t/p/w342/a0Fn0PiGGiU74jIUelpce6z70i9.jpg",
-      "summary": "José Luis Torrente vuelve metido de lleno en la política española, arrastrando su habitual mezcla de vulgaridad, oportunismo e ineptitud. La película plantea una sátira de la realidad social y política del país mediante parodias, situaciones absurdas y numerosos cameos.",
-      "genres": [
-        "Comedia"
-      ]
-    }
-  ],
-  "Ocine Premium Siete Palmas": [
-    {
-      "title": "A Una Isla De Ti (Kids)",
-      "time": "23:00",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/ddYZksoDokxjNHm2E0u1GeWVBsE.jpg",
-      "summary": "Un cocinero con el corazón partido va de vacaciones a Gran Canaria con su amigo, enamorándose de la isla, su cultura y cocina-e inesperadamente, del padre de su amigo.",
-      "genres": [
-        "Comedia",
-        "Romance"
-      ]
-    },
-    {
-      "title": "A Una Isla De Ti (Sala Premium)",
-      "time": "16:10",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/ddYZksoDokxjNHm2E0u1GeWVBsE.jpg",
-      "summary": "Un cocinero con el corazón partido va de vacaciones a Gran Canaria con su amigo, enamorándose de la isla, su cultura y cocina-e inesperadamente, del padre de su amigo.",
-      "genres": [
-        "Comedia",
-        "Romance"
-      ]
-    },
-    {
-      "title": "Boulevard",
-      "time": "15:50",
-      "rating": 3.0,
-      "poster": "https://image.tmdb.org/t/p/w342/o5M5mjnfRO50t3Wha1QPD04oHfT.jpg",
-      "summary": "Cuando Hasley (Eve Ryan) se muda a una nueva ciudad con su madre, lo último que espera es cruzarse con Luke (Mikel Niso), un joven envuelto en un aura peligrosa y un pasado trágico. Atrapado en sus propios demonios, Luke es todo lo que Hasley debería temer... pero a lo que se siente irremediablemente atraída. A pesar de las sombras que lo rodean, Hasley descubre en Luke una vulnerabilidad y un mundo interior apasionante. Juntos, crearán su propio boulevard: un refugio escondido donde poder ser ellos mismos, cumplir sueños imposibles, atreverse a amar a pesar de los prejuicios, el dolor y las cicatrices que arrastran, y demostrar que el amor es capaz de florecer incluso en los corazones más insospechados.",
-      "genres": [
-        "Drama",
-        "Romance"
-      ]
-    },
-    {
-      "title": "Boulevard",
-      "time": "22:55",
-      "rating": 3.0,
-      "poster": "https://image.tmdb.org/t/p/w342/o5M5mjnfRO50t3Wha1QPD04oHfT.jpg",
-      "summary": "Cuando Hasley (Eve Ryan) se muda a una nueva ciudad con su madre, lo último que espera es cruzarse con Luke (Mikel Niso), un joven envuelto en un aura peligrosa y un pasado trágico. Atrapado en sus propios demonios, Luke es todo lo que Hasley debería temer... pero a lo que se siente irremediablemente atraída. A pesar de las sombras que lo rodean, Hasley descubre en Luke una vulnerabilidad y un mundo interior apasionante. Juntos, crearán su propio boulevard: un refugio escondido donde poder ser ellos mismos, cumplir sueños imposibles, atreverse a amar a pesar de los prejuicios, el dolor y las cicatrices que arrastran, y demostrar que el amor es capaz de florecer incluso en los corazones más insospechados.",
-      "genres": [
-        "Drama",
-        "Romance"
-      ]
-    },
-    {
-      "title": "La Familia Beneton +2",
-      "time": "17:00",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/qJhTQ2TFMG2q9Tv6xsyntTMibcU.jpg",
-      "summary": "Cuando Toni cree que tiene todo bajo control en su entrañable y divertida familia multicultural, la llegada de dos nuevos bebés pondrá patas arriba la casa y a toda la familia.",
-      "genres": [
-        "Comedia"
-      ]
-    },
-    {
-      "title": "La Familia Beneton +2",
-      "time": "15:40",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/qJhTQ2TFMG2q9Tv6xsyntTMibcU.jpg",
-      "summary": "Cuando Toni cree que tiene todo bajo control en su entrañable y divertida familia multicultural, la llegada de dos nuevos bebés pondrá patas arriba la casa y a toda la familia.",
-      "genres": [
-        "Comedia"
-      ]
-    },
-    {
-      "title": "La Familia Beneton +2",
-      "time": "18:10",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/qJhTQ2TFMG2q9Tv6xsyntTMibcU.jpg",
-      "summary": "Cuando Toni cree que tiene todo bajo control en su entrañable y divertida familia multicultural, la llegada de dos nuevos bebés pondrá patas arriba la casa y a toda la familia.",
-      "genres": [
-        "Comedia"
-      ]
-    },
-    {
-      "title": "La Familia Beneton +2",
-      "time": "20:00",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/qJhTQ2TFMG2q9Tv6xsyntTMibcU.jpg",
-      "summary": "Cuando Toni cree que tiene todo bajo control en su entrañable y divertida familia multicultural, la llegada de dos nuevos bebés pondrá patas arriba la casa y a toda la familia.",
-      "genres": [
-        "Comedia"
-      ]
-    },
-    {
-      "title": "La Familia Beneton +2",
-      "time": "21:50",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/qJhTQ2TFMG2q9Tv6xsyntTMibcU.jpg",
-      "summary": "Cuando Toni cree que tiene todo bajo control en su entrañable y divertida familia multicultural, la llegada de dos nuevos bebés pondrá patas arriba la casa y a toda la familia.",
-      "genres": [
-        "Comedia"
-      ]
-    },
-    {
-      "title": "No Te Olvidaré",
-      "time": "18:25",
-      "rating": 7.1,
-      "poster": "https://image.tmdb.org/t/p/w342/mIx9KAE3DgmrGJKwIL0xjIUfkBT.jpg",
-      "summary": "Cuando los abuelos y tutores de Diem se niegan categóricamente a permitir que la vea, Kenna descubre una compasión inesperada seguida de un sentimiento más profundo y real con Ledger, exjugador de la NFL y propietario de un bar local. A medida que su romance secreto va cobrando forma, surgen problemas para los dos, lo que llevará a Kenna a una situación sentimental desoladora y, en último término, a reavivar la esperanza de una segunda oportunidad.",
-      "genres": [
-        "Romance",
-        "Drama"
-      ]
-    },
-    {
-      "title": "No Te Olvidaré",
-      "time": "20:40",
-      "rating": 7.1,
-      "poster": "https://image.tmdb.org/t/p/w342/mIx9KAE3DgmrGJKwIL0xjIUfkBT.jpg",
-      "summary": "Cuando los abuelos y tutores de Diem se niegan categóricamente a permitir que la vea, Kenna descubre una compasión inesperada seguida de un sentimiento más profundo y real con Ledger, exjugador de la NFL y propietario de un bar local. A medida que su romance secreto va cobrando forma, surgen problemas para los dos, lo que llevará a Kenna a una situación sentimental desoladora y, en último término, a reavivar la esperanza de una segunda oportunidad.",
-      "genres": [
-        "Romance",
-        "Drama"
-      ]
-    },
-    {
-      "title": "Torrente Presidente",
-      "time": "18:20",
-      "rating": 6.4,
-      "poster": "https://image.tmdb.org/t/p/w342/a0Fn0PiGGiU74jIUelpce6z70i9.jpg",
-      "summary": "José Luis Torrente vuelve metido de lleno en la política española, arrastrando su habitual mezcla de vulgaridad, oportunismo e ineptitud. La película plantea una sátira de la realidad social y política del país mediante parodias, situaciones absurdas y numerosos cameos.",
-      "genres": [
-        "Comedia"
-      ]
-    },
-    {
-      "title": "Torrente Presidente",
-      "time": "20:30",
-      "rating": 6.4,
-      "poster": "https://image.tmdb.org/t/p/w342/a0Fn0PiGGiU74jIUelpce6z70i9.jpg",
-      "summary": "José Luis Torrente vuelve metido de lleno en la política española, arrastrando su habitual mezcla de vulgaridad, oportunismo e ineptitud. La película plantea una sátira de la realidad social y política del país mediante parodias, situaciones absurdas y numerosos cameos.",
-      "genres": [
-        "Comedia"
-      ]
-    },
-    {
-      "title": "Torrente Presidente",
-      "time": "22:35",
       "rating": 6.4,
       "poster": "https://image.tmdb.org/t/p/w342/a0Fn0PiGGiU74jIUelpce6z70i9.jpg",
       "summary": "José Luis Torrente vuelve metido de lleno en la política española, arrastrando su habitual mezcla de vulgaridad, oportunismo e ineptitud. La película plantea una sátira de la realidad social y política del país mediante parodias, situaciones absurdas y numerosos cameos.",

@@ -494,5 +494,13 @@
       "Animación",
       "Aventura"
     ]
+  },
+  "Sidosa": {
+    "rating": 0.0,
+    "poster": "https://image.tmdb.org/t/p/w342/jSWZUMameuBUlnSUFAJZPseTHcj.jpg",
+    "summary": "En 'Sidosa', el director y actor Eduardo Casanova hace la revelación más íntima y trascendente de su vida: tiene VIH. No hay en España un precedente de una figura tan conocida como él que haya contado públicamente que vive con VIH, un paso que las organizaciones y el activismo reclaman desde hace años para ayudar a acabar con el estigma social que sigue asociado al virus.",
+    "genres": [
+      "Documental"
+    ]
   }
 }
