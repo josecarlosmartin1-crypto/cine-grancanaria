@@ -155,11 +155,20 @@ def scrape_ocine_api():
         url_with_cache_buster = f"{url}?t={int(time.time())}"
         headers = {
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36",
-            "Accept": "application/json, text/plain, */*",
+            "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8",
             "Accept-Language": "es-ES,es;q=0.9,en;q=0.8",
-            "Referer": "https://www.ocinepremium7palmas.es/cartelera",
+            "Referer": "https://www.google.com/",
             "Origin": "https://www.ocinepremium7palmas.es"
         }
+        
+        # Paso de Camuflaje: Visitamos la home primero para establecer cookies de sesión
+        print("  Ocine: Visitando página de inicio para camuflaje...")
+        scraper.get("https://www.ocinepremium7palmas.es/", headers=headers, timeout=15)
+        
+        # Ahora pedimos el JSON con las cookies ya establecidas
+        headers["Accept"] = "application/json, text/plain, */*"
+        headers["Referer"] = "https://www.ocinepremium7palmas.es/cartelera"
+        
         res = scraper.get(url_with_cache_buster, headers=headers, timeout=20)
         
         if res.status_code == 200:
