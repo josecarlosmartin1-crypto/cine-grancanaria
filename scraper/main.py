@@ -308,15 +308,23 @@ def main():
     # a) Estamos en modo only_ocine
     # b) Ocine está vacío o no existe en los datos actuales
     # c) Es una ejecución general
-    ocine_current = existing_data.get("Ocine Premium Siete Palmas", [])
+    ocine_key = "Ocine Premium Siete Palmas"
+    ocine_current = existing_data.get(ocine_key, [])
+    
     if only_ocine or not ocine_current or force:
         print("\n--- Actualización Ocine ---")
         ocine_res = scrape_ocine_api()
         # Solo actualizamos si Ocine ha devuelto algo válido hoy
-        if ocine_res.get("Ocine Premium Siete Palmas"):
+        if ocine_res.get(ocine_key):
             all_data.update(ocine_res)
+            print(f"  Ocine: Actualizado con {len(ocine_res[ocine_key])} sesiones.")
+        elif ocine_current:
+            # BUG FIX: Si falla el scrape pero tenemos datos previos, los mantenemos
+            # en lugar de dejar que Ocine desaparezca del archivo.
+            all_data[ocine_key] = ocine_current
+            print("  Ocine: Fallo en captura. Manteniendo datos previos para no ocultar la pestaña.")
         else:
-            print("  Ocine: No se han encontrado sesiones nuevas. Manteniendo datos previos si existen.")
+            print("  Ocine: No se han encontrado sesiones y no hay datos previos.")
 
     # 4. Guardado final
     with open("src/data.js", "w", encoding="utf-8") as f:
