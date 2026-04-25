@@ -26,7 +26,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Kraken: El Libro Negro De Las Horas",
-      "time": "21:55",
+      "time": "22:00",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/3ZIhW9gyIARln6Tnn92lOS2o419.jpg",
       "summary": "Unai López de Ayala debe introducirse en el mundo del coleccionismo y las falsificaciones para encontrar el mítico Libro Negro de Horas y poder salvar a su madre que creía ya muerta",
@@ -34,6 +34,28 @@ export const MOVIE_DATA = {
         "Crimen",
         "Misterio",
         "Suspense"
+      ]
+    },
+    {
+      "title": "Michael",
+      "time": "15:45",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/2uK36ujoDXOfNiJ5Yp3raVprB51.jpg",
+      "summary": "El viaje de Michael Jackson más allá de la música, desde el descubrimiento de su extraordinario talento como líder de los Jackson Five hasta convertirse en una visionaria estrella cuya ambición creativa despertó un incansable afán por consagrarse como el mayor icono de la industria del entretenimiento.",
+      "genres": [
+        "Música",
+        "Drama"
+      ]
+    },
+    {
+      "title": "Michael",
+      "time": "16:20",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/2uK36ujoDXOfNiJ5Yp3raVprB51.jpg",
+      "summary": "El viaje de Michael Jackson más allá de la música, desde el descubrimiento de su extraordinario talento como líder de los Jackson Five hasta convertirse en una visionaria estrella cuya ambición creativa despertó un incansable afán por consagrarse como el mayor icono de la industria del entretenimiento.",
+      "genres": [
+        "Música",
+        "Drama"
       ]
     },
     {
@@ -194,6 +216,16 @@ export const MOVIE_DATA = {
     },
     {
       "title": "La Familia Benetón +2",
+      "time": "16:10",
+      "rating": 7.0,
+      "poster": "https://image.tmdb.org/t/p/w342/qJhTQ2TFMG2q9Tv6xsyntTMibcU.jpg",
+      "summary": "Cuando Toni cree que tiene todo bajo control en su entrañable y divertida familia multicultural, la llegada de dos nuevos bebés pondrá patas arriba la casa y a toda la familia.",
+      "genres": [
+        "Comedia"
+      ]
+    },
+    {
+      "title": "La Familia Benetón +2",
       "time": "18:05",
       "rating": 7.0,
       "poster": "https://image.tmdb.org/t/p/w342/qJhTQ2TFMG2q9Tv6xsyntTMibcU.jpg",
@@ -221,6 +253,18 @@ export const MOVIE_DATA = {
       "genres": [
         "Drama",
         "Romance"
+      ]
+    },
+    {
+      "title": "Super Mario Galaxy: La Película",
+      "time": "15:55",
+      "rating": 6.9,
+      "poster": "https://image.tmdb.org/t/p/w342/eEfzkiW28Y3BaHjjgFNkFERNKiK.jpg",
+      "summary": "La película tiene lugar después de los acontecimientos de la primera, en la que dos hermanos, Mario y Luigi, y la princesa Peach emprenden una aventura hasta los confines del espacio y a través de la galaxia. Secuela de \"Super Mario Bros: La película\", basada en la saga \"Mario Galaxy\".",
+      "genres": [
+        "Aventura",
+        "Animación",
+        "Comedia"
       ]
     },
     {
@@ -261,7 +305,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Proyecto Salvación",
-      "time": "17:30",
+      "time": "15:50",
       "rating": 8.2,
       "poster": "https://image.tmdb.org/t/p/w342/7lwOTxajURKEWO6gI370NTrVdBO.jpg",
       "summary": "El profesor de ciencias Ryland Grace se despierta en una nave espacial a años luz de casa sin recordar quién es ni cómo ha llegado hasta allí. A medida que recupera la memoria, empieza a descubrir su misión: resolver el enigma de la misteriosa sustancia que provoca la extinción del sol. Deberá recurrir a sus conocimientos científicos y a sus ideas poco ortodoxas para salvar todo lo que hay en la Tierra de la extinción... pero una amistad inesperada significa que quizá no tenga que hacerlo solo.",
@@ -272,7 +316,18 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Proyecto Salvación",
-      "time": "20:40",
+      "time": "18:50",
+      "rating": 8.2,
+      "poster": "https://image.tmdb.org/t/p/w342/7lwOTxajURKEWO6gI370NTrVdBO.jpg",
+      "summary": "El profesor de ciencias Ryland Grace se despierta en una nave espacial a años luz de casa sin recordar quién es ni cómo ha llegado hasta allí. A medida que recupera la memoria, empieza a descubrir su misión: resolver el enigma de la misteriosa sustancia que provoca la extinción del sol. Deberá recurrir a sus conocimientos científicos y a sus ideas poco ortodoxas para salvar todo lo que hay en la Tierra de la extinción... pero una amistad inesperada significa que quizá no tenga que hacerlo solo.",
+      "genres": [
+        "Ciencia ficción",
+        "Aventura"
+      ]
+    },
+    {
+      "title": "Proyecto Salvación",
+      "time": "21:55",
       "rating": 8.2,
       "poster": "https://image.tmdb.org/t/p/w342/7lwOTxajURKEWO6gI370NTrVdBO.jpg",
       "summary": "El profesor de ciencias Ryland Grace se despierta en una nave espacial a años luz de casa sin recordar quién es ni cómo ha llegado hasta allí. A medida que recupera la memoria, empieza a descubrir su misión: resolver el enigma de la misteriosa sustancia que provoca la extinción del sol. Deberá recurrir a sus conocimientos científicos y a sus ideas poco ortodoxas para salvar todo lo que hay en la Tierra de la extinción... pero una amistad inesperada significa que quizá no tenga que hacerlo solo.",
@@ -290,9 +345,87 @@ export const MOVIE_DATA = {
       "genres": [
         "Comedia"
       ]
+    },
+    {
+      "title": "Hoppers",
+      "time": "16:00",
+      "rating": 7.6,
+      "poster": "https://image.tmdb.org/t/p/w342/4Z0E1W7YvQ0aVtgj7KKtktb9ukd.jpg",
+      "summary": "Una amante de los animales aprovecha la oportunidad de utilizar una tecnología que coloca su conciencia en un castor robótico, descubriendo misterios dentro del mundo animal que van más allá de lo que podría haber imaginado.",
+      "genres": [
+        "Animación",
+        "Familia",
+        "Ciencia ficción"
+      ]
     }
   ],
   "Cine Yelmo Las Arenas": [
+    {
+      "title": "Michael",
+      "time": "12:00",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/2uK36ujoDXOfNiJ5Yp3raVprB51.jpg",
+      "summary": "El viaje de Michael Jackson más allá de la música, desde el descubrimiento de su extraordinario talento como líder de los Jackson Five hasta convertirse en una visionaria estrella cuya ambición creativa despertó un incansable afán por consagrarse como el mayor icono de la industria del entretenimiento.",
+      "genres": [
+        "Música",
+        "Drama"
+      ]
+    },
+    {
+      "title": "Michael",
+      "time": "12:15",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/2uK36ujoDXOfNiJ5Yp3raVprB51.jpg",
+      "summary": "El viaje de Michael Jackson más allá de la música, desde el descubrimiento de su extraordinario talento como líder de los Jackson Five hasta convertirse en una visionaria estrella cuya ambición creativa despertó un incansable afán por consagrarse como el mayor icono de la industria del entretenimiento.",
+      "genres": [
+        "Música",
+        "Drama"
+      ]
+    },
+    {
+      "title": "Michael",
+      "time": "12:45",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/2uK36ujoDXOfNiJ5Yp3raVprB51.jpg",
+      "summary": "El viaje de Michael Jackson más allá de la música, desde el descubrimiento de su extraordinario talento como líder de los Jackson Five hasta convertirse en una visionaria estrella cuya ambición creativa despertó un incansable afán por consagrarse como el mayor icono de la industria del entretenimiento.",
+      "genres": [
+        "Música",
+        "Drama"
+      ]
+    },
+    {
+      "title": "Michael",
+      "time": "13:15",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/2uK36ujoDXOfNiJ5Yp3raVprB51.jpg",
+      "summary": "El viaje de Michael Jackson más allá de la música, desde el descubrimiento de su extraordinario talento como líder de los Jackson Five hasta convertirse en una visionaria estrella cuya ambición creativa despertó un incansable afán por consagrarse como el mayor icono de la industria del entretenimiento.",
+      "genres": [
+        "Música",
+        "Drama"
+      ]
+    },
+    {
+      "title": "Michael",
+      "time": "15:30",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/2uK36ujoDXOfNiJ5Yp3raVprB51.jpg",
+      "summary": "El viaje de Michael Jackson más allá de la música, desde el descubrimiento de su extraordinario talento como líder de los Jackson Five hasta convertirse en una visionaria estrella cuya ambición creativa despertó un incansable afán por consagrarse como el mayor icono de la industria del entretenimiento.",
+      "genres": [
+        "Música",
+        "Drama"
+      ]
+    },
+    {
+      "title": "Michael",
+      "time": "16:10",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/2uK36ujoDXOfNiJ5Yp3raVprB51.jpg",
+      "summary": "El viaje de Michael Jackson más allá de la música, desde el descubrimiento de su extraordinario talento como líder de los Jackson Five hasta convertirse en una visionaria estrella cuya ambición creativa despertó un incansable afán por consagrarse como el mayor icono de la industria del entretenimiento.",
+      "genres": [
+        "Música",
+        "Drama"
+      ]
+    },
     {
       "title": "Michael",
       "time": "17:00",
@@ -383,7 +516,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "La Momia De Lee Cronin",
-      "time": "19:05",
+      "time": "18:45",
       "rating": 8.2,
       "poster": "https://image.tmdb.org/t/p/w342/qlLsNgRUiPPEIVbcqZR2KmOBL7e.jpg",
       "summary": "La joven hija de un periodista desaparece en el desierto sin dejar rastro—ocho años más tarde, la familia rota se conmociona cuando ella es devuelta a ellos, y lo que debiera haber sido una reunión jubilosa se convierte en una auténtica pesadilla.",
@@ -393,97 +526,155 @@ export const MOVIE_DATA = {
       ]
     },
     {
-      "title": "El Príncipe De Nanawa (The Prince Of Nanawa)",
-      "time": "17:00",
-      "rating": 10.0,
-      "poster": "https://image.tmdb.org/t/p/w342/2OLcd9HiOa05usTZ3KYUsu2ME0A.jpg",
-      "summary": "Con la frontera de Nanawa-Clorinda como escenario, el documental fue construido con los diarios cotidianos que Ángel filma desde los 10 años, combinados con imágenes de diferentes registros que dialogan entre sí y vienen acompañando desde hace tiempo los encuentros entre la realizadora y el protagonista.",
+      "title": "La Familia Benetón +2",
+      "time": "15:45",
+      "rating": 7.0,
+      "poster": "https://image.tmdb.org/t/p/w342/qJhTQ2TFMG2q9Tv6xsyntTMibcU.jpg",
+      "summary": "Cuando Toni cree que tiene todo bajo control en su entrañable y divertida familia multicultural, la llegada de dos nuevos bebés pondrá patas arriba la casa y a toda la familia.",
       "genres": [
-        "Documental"
+        "Comedia"
       ]
     },
     {
-      "title": "Embers (Sholay)",
-      "time": "19:00",
-      "rating": 5.6,
-      "poster": "https://image.tmdb.org/t/p/w342/1pdOleZZ8jdXq7gPIdNvoRRcYrF.jpg",
-      "summary": "Tras una pandemia global, los supervivientes intentan buscar sentido a su existencia y las relaciones con los demás en un mundo donde la memoria y los recuerdos han desaparecido. (FILMAFFINITY)",
-      "genres": [
-        "Drama",
-        "Ciencia ficción"
-      ]
-    },
-    {
-      "title": "Hair, Paper, Water.",
-      "time": "18:15",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/4z2v3v2v4y54oABfqtAwmB0YCep.jpg",
-      "summary": "La proyección de este pase se exhibirá con subtítulos en español e inglés.\n\nThis show will be exhibited with Spanish and English subtitles. \n\nHAIR, PAPER, WATER... explora el concepto del hogar a través del idioma. Una mujer ruc que nació en una cueva en las montañas de Vietnam añora su lugar de nacimiento e intenta transmitir a sus nietos sus conocimientos y lengua olvidada. Un retrato sensorial que observa la relación entre paisaje y tradición, la película evoca la fragilidad de una cultura en transformación a través de una historia personal. \n\nEN HAIR, PAPER, WATER... examines the concept of home through language. A Ruc woman, born in a cave in the mountains of Vietnam, longs for her birthplace and seeks to pass on her knowledge and forgotten language to her grandchildren. Employing sensory observation, the film explores the relationship between landscape and tradition through a personal narrative, highlighting the fragility of a culture in transition.",
+      "title": "Apocalypse Now: Final Cut",
+      "time": "21:30",
+      "rating": 8.3,
+      "poster": "https://image.tmdb.org/t/p/w342/zJXRrkJTlcb5x87v4VWN1zZX0Xk.jpg",
+      "summary": "Durante la guerra de Vietnam, al joven Capitán Willard, un oficial de los servicios de inteligencia del ejército estadounidense, se le ha encomendado entrar en Camboya con la peligrosa misión de eliminar a Kurtz, un coronel renegado que se ha vuelto loco. El capitán deberá ir navegar por el río hasta el corazón de la selva, donde parece ser que Kurtz reina como un buda despótico sobre los miembros de la tribu Montagnard, que le adoran como a un dios.",
       "genres": [
         "Drama",
-        "Documental"
+        "Bélica"
       ]
     },
     {
-      "title": "Tal Vez (Love On A Tightrope)",
+      "title": "La Gran Fiesta Del Bosque",
       "time": "12:00",
       "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/sY9PsGiR8VQ0oeKhndvuuvFc7tp.jpg",
-      "summary": "Relata una relación amorosa imaginaria entre la escritora canaria Natalia Sosa Ayala y la famosa artista circense Pinito del Oro, que se conocieron en 1968 cuando la primera ayudó a la segunda a escribir sus memorias.",
+      "poster": "https://image.tmdb.org/t/p/w342/dlLlAINgInFzHC10JV44oOSw5gG.jpg",
+      "summary": "La obra animada LA GRAN FIESTA DEL BOSQUE reúne varios cortometrajes ambientados en un entorno natural, donde distintos animales protagonizan historias centradas en el cuidado, la convivencia y el apoyo mutuo. Entre ellas y como pieza central, Betty O’Barley y Harry O’Hay, dos espantapájaros, deciden organizar una celebración con la ayuda del resto del bosque. A través de estos relatos, el conjunto pone el foco en los vínculos cotidianos y en gestos de generosidad, compañerismo y vida en común. \n\nEN The animated film LA GRAN FIESTA DEL BOSQUE brings together several short films set in a natural environment, where different animals star in stories focused on care, coexistence, and mutual support. Among them, and as the central story, Betty O’Barley and Harry O’Hay, two scare crows, decide to organise a celebration with the help of the rest of the forest. Through these tales, the film highlights everyday bonds and gestures of generosity, companionship, and community",
       "genres": [
-        "Drama",
+        "Animación",
+        "Familia",
         "Romance"
       ]
     },
     {
-      "title": "Tal Vez (Love On A Tightrope)",
-      "time": "20:15",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/sY9PsGiR8VQ0oeKhndvuuvFc7tp.jpg",
-      "summary": "Relata una relación amorosa imaginaria entre la escritora canaria Natalia Sosa Ayala y la famosa artista circense Pinito del Oro, que se conocieron en 1968 cuando la primera ayudó a la segunda a escribir sus memorias.",
-      "genres": [
-        "Drama",
-        "Romance"
-      ]
-    },
-    {
-      "title": "Canarias Cinema Cortos Sesión 1",
-      "time": "17:15",
+      "title": "Linterna Magiar (Cortos Húngaros)",
+      "time": "17:30",
       "rating": 0,
       "poster": null,
-      "summary": "Toma Tierra (Take Ground). Acúfeno (Tinnitus). Somos islas (We are Islands). Querido diario (Dear Diary). Sonidos en el monte (Sounds in the Countryside). Escultura (Is Culture). Elles Son, Cruces De Neón (Them, Neon Crosses). El pez rojo (The Red Fish).",
+      "summary": "Animalia (Animália - Állatságok). The Fly (A légy). The Naughty Owly (Uhuka, aki egész nap a tévét nézte). The Greedy Bee (A telhetetlen méhecske). Green Warnings for Every Day (Zöld Intelmek minden napra). The Mouse and the Lion (Egér és Oroszlán). Wizards (Garabonciák). ",
       "genres": []
     },
     {
-      "title": "Titicut Follies",
-      "time": "20:45",
-      "rating": 7.2,
-      "poster": "https://image.tmdb.org/t/p/w342/hAJOSqWB4FeVV7yi0fRSYFoCwvM.jpg",
-      "summary": "Controvertido y aclamado documental que narra la vida de los reclusos de una prisión psiquiátrica de Massachussets. El documental estuvo prohibido en algunos estados norteamericanos varios años debido a su crudo retrato de los abusos sufridos por los internos a mano de los guardas de seguridad y los médicos de la institución. El título viene de un concurso de talentos organizado por los propios internos.",
+      "title": "Holofiction",
+      "time": "20:15",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/sljahpunrkFqG2QEIgcoOe1ocmV.jpg",
+      "summary": "Este cortometraje experimental explora la representación visual del Holocausto mediante un montaje de miles de fragmentos de películas y series de televisión de ficción producidas entre 1938 y la actualidad. Partiendo de un extenso archivo de más de 3000 obras narrativas, el filme examina críticamente cómo las imágenes del Holocausto se han codificado y reproducido en el cine a lo largo de las décadas.",
       "genres": [
-        "Documental",
+        "Documental"
+      ]
+    },
+    {
+      "title": "Sátántangó",
+      "time": "10:15",
+      "rating": 8.0,
+      "poster": "https://image.tmdb.org/t/p/w342/cOrtWdUflqXL9BqoQNjv9WwQiPs.jpg",
+      "summary": "La historia relata gradualmente los problemas de una granja colectiva durante unos pocos días de otoño en los años de la Hungría post-comunista, observada desde la perspectiva de distintos personajes. (FILMAFFINITY)",
+      "genres": [
         "Drama"
       ]
     },
     {
-      "title": "Hiedra (The Ivy)",
+      "title": "La Lucha (Dance Of The Living)",
+      "time": "10:15",
+      "rating": 8.4,
+      "poster": "https://image.tmdb.org/t/p/w342/sgTAWJFaB2kBvdQxRGabYFiQqEK.jpg",
+      "summary": "Un hombre consumido por el insomnio y una vida sin sentido conoce a Tyler Durden, un carismático anarquista que lo arrastra a un club secreto donde el dolor despierta algo dormido. Lo que comienza como liberación pronto se convierte en una guerra contra el sistema…",
+      "genres": [
+        "Drama",
+        "Suspense"
+      ]
+    },
+    {
+      "title": "La Lucha (Dance Of The Living)",
       "time": "18:00",
-      "rating": 5.4,
-      "poster": "https://image.tmdb.org/t/p/w342/aBreWBGcu4ejlDo2U7ZPqilRGoQ.jpg",
-      "summary": "Cooper es una introvertida alumna de bachillerato cuya rebeldía refleja conflictos dentro de su acomodada familia. Su padre es un ejecutivo de televisión cuya carrera profesional está en declive. Y su madre, en otro tiempo bellísima, ahora está enferma. Una misteriosa y encantadora joven, Ivy, se hace amiga de Cooper y la utiliza para ganarse también a sus padres. Ivy comienza a tejer una red de engaños sobre toda la familia.",
+      "rating": 8.4,
+      "poster": "https://image.tmdb.org/t/p/w342/sgTAWJFaB2kBvdQxRGabYFiQqEK.jpg",
+      "summary": "Un hombre consumido por el insomnio y una vida sin sentido conoce a Tyler Durden, un carismático anarquista que lo arrastra a un club secreto donde el dolor despierta algo dormido. Lo que comienza como liberación pronto se convierte en una guerra contra el sistema…",
       "genres": [
-        "Suspense",
+        "Drama",
+        "Suspense"
+      ]
+    },
+    {
+      "title": "Krakatoa",
+      "time": "12:15",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/gZq6W48cKX5vP367N7VwJbWDrVw.jpg",
+      "summary": "Un pescador javanés vive la mayor erupción volcánica de todos los tiempos. Varado en una isla desierta, en busca de comida y agua, se adentra cada vez más en las profundidades de la tierra. Una odisea visceral y psicodélica.",
+      "genres": [
+        "Acción",
+        "Drama",
+        "Documental"
+      ]
+    },
+    {
+      "title": "Krakatoa",
+      "time": "20:35",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/gZq6W48cKX5vP367N7VwJbWDrVw.jpg",
+      "summary": "Un pescador javanés vive la mayor erupción volcánica de todos los tiempos. Varado en una isla desierta, en busca de comida y agua, se adentra cada vez más en las profundidades de la tierra. Una odisea visceral y psicodélica.",
+      "genres": [
+        "Acción",
+        "Drama",
+        "Documental"
+      ]
+    },
+    {
+      "title": "Días Y Noches En El Bosque",
+      "time": "18:45",
+      "rating": 6.9,
+      "poster": "https://image.tmdb.org/t/p/w342/v4hsB4seYLmohC0EzE0WdS7fIA.jpg",
+      "summary": "Cuatro amigos, que viven en Calcuta, hacen una excursión en coche en dirección a los bosques de Palmau. Llegados a una aldea, buscan alojamiento en un albergue y, como no han hecho reserva, para ser admitidos tienen que sobornar al vigilante, que se arriesga a perder su trabajo, pero necesita el dinero, pues su esposa está enferma. Los jóvenes, muy seguros de sí mismos, muestran muy poco respeto por los aldeanos. El líder del grupo es Ashim (Soumitra Chatterjee), el más rico de todos. Sanjoy (Subhendu Chatterjee) es un joven tímido. Hari (Samit Bhanja) es un deportista que trata de olvidar a una chica que acaba de rechazarlo. Shekhar (Robi Ghosh) es el más gracioso y seguro de sí mismo.",
+      "genres": [
+        "Drama",
+        "Comedia"
+      ]
+    },
+    {
+      "title": "Back Home (Hui Jia)",
+      "time": "18:15",
+      "rating": 7.6,
+      "poster": "https://image.tmdb.org/t/p/w342/89osRMpsYPfSFsmP5v9Hwvm47Yh.jpg",
+      "summary": "Una mujer engañada por un amigo de su marido es arrestada por posesión de drogas en el aeropuerto de París. Siendo luego, encarcelada en una prisión situada en una isla remota. Ahora, su esposo tendrá que luchar para llevarla a casa.Basada en una historia real, sucedida en 2004.",
+      "genres": [
         "Drama"
       ]
     },
     {
-      "title": "Two Seasons, Two Strangers (Tabi To Hibi)",
-      "time": "20:20",
-      "rating": 7.7,
-      "poster": "https://image.tmdb.org/t/p/w342/d5kqa17dP6UqBBctkXJOsbhHjnm.jpg",
-      "summary": "La proyección de este pase se exhibirá con subtítulos en español e inglés.\n\nThis show will be exhibited with Spanish and English subtitles. \n\nEntre el verano y el invierno, la película presenta dos encuentros marcados por la distancia y la dificultad de comunicación. En la costa, Nagisa y Natsuo se conocen junto al mar, donde intercambian palabras compartiendo el paisaje lluvioso. Meses después, Li, una guionista en un momento de incertidumbre personal y creativa, llega a un pueblo nevado y se hospeda en la pensión de Benzo. A partir de conversaciones fragmentadas, ambos inician un recorrido conjunto en ese entorno aislado. \n\nEN Between summer and winter, the film presents two encounters marked by distance and the difficulty of communication. On the coast, Nagisa and Natsuo meet by the sea, exchanging words while sharing the rainy landscape. Months later, Li—a screenwriter adrift in personal and creative uncertainty—arrives in a remote, snowbound village and takes refuge at Benzo’s guesthouse. Through fragmented conversations, they embark on a shared journey through this isolated environment.",
+      "title": "Dracula",
+      "time": "20:00",
+      "rating": 7.1,
+      "poster": "https://image.tmdb.org/t/p/w342/ff7fyDdtXM2wu9jsm9gOMYtpvOl.jpg",
+      "summary": "Tras una devastadora pérdida, el príncipe Vlad II, conde Drácula (Caleb Landy Jones), renuncia a Dios y es maldecido a la vida eterna, condenado a vagar solitario a lo largo de los siglos. Este es el relato sobre la historia de amor jamás contada del infame vampiro, que desafiará al destino y la mortalidad en busca de su amor perdido.",
       "genres": [
-        "Drama"
+        "Terror",
+        "Fantasía",
+        "Romance"
+      ]
+    },
+    {
+      "title": "Super Mario Galaxy: La Película",
+      "time": "12:30",
+      "rating": 6.9,
+      "poster": "https://image.tmdb.org/t/p/w342/eEfzkiW28Y3BaHjjgFNkFERNKiK.jpg",
+      "summary": "La película tiene lugar después de los acontecimientos de la primera, en la que dos hermanos, Mario y Luigi, y la princesa Peach emprenden una aventura hasta los confines del espacio y a través de la galaxia. Secuela de \"Super Mario Bros: La película\", basada en la saga \"Mario Galaxy\".",
+      "genres": [
+        "Aventura",
+        "Animación",
+        "Comedia"
       ]
     },
     {
@@ -500,7 +691,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Proyecto Salvación",
-      "time": "21:55",
+      "time": "22:00",
       "rating": 8.2,
       "poster": "https://image.tmdb.org/t/p/w342/7lwOTxajURKEWO6gI370NTrVdBO.jpg",
       "summary": "El profesor de ciencias Ryland Grace se despierta en una nave espacial a años luz de casa sin recordar quién es ni cómo ha llegado hasta allí. A medida que recupera la memoria, empieza a descubrir su misión: resolver el enigma de la misteriosa sustancia que provoca la extinción del sol. Deberá recurrir a sus conocimientos científicos y a sus ideas poco ortodoxas para salvar todo lo que hay en la Tierra de la extinción... pero una amistad inesperada significa que quizá no tenga que hacerlo solo.",
@@ -511,7 +702,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Torrente Presidente",
-      "time": "16:45",
+      "time": "16:20",
       "rating": 6.4,
       "poster": "https://image.tmdb.org/t/p/w342/a0Fn0PiGGiU74jIUelpce6z70i9.jpg",
       "summary": "José Luis Torrente vuelve metido de lleno en la política española, arrastrando su habitual mezcla de vulgaridad, oportunismo e ineptitud. La película plantea una sátira de la realidad social y política del país mediante parodias, situaciones absurdas y numerosos cameos.",
@@ -523,7 +714,7 @@ export const MOVIE_DATA = {
   "Cine Yelmo Premium Alisios": [
     {
       "title": "Kraken: El Libro Negro De Las Horas",
-      "time": "17:05",
+      "time": "16:30",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/3ZIhW9gyIARln6Tnn92lOS2o419.jpg",
       "summary": "Unai López de Ayala debe introducirse en el mundo del coleccionismo y las falsificaciones para encontrar el mítico Libro Negro de Horas y poder salvar a su madre que creía ya muerta",
@@ -535,7 +726,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Kraken: El Libro Negro De Las Horas",
-      "time": "19:30",
+      "time": "19:10",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/3ZIhW9gyIARln6Tnn92lOS2o419.jpg",
       "summary": "Unai López de Ayala debe introducirse en el mundo del coleccionismo y las falsificaciones para encontrar el mítico Libro Negro de Horas y poder salvar a su madre que creía ya muerta",
@@ -546,15 +737,25 @@ export const MOVIE_DATA = {
       ]
     },
     {
-      "title": "Kraken: El Libro Negro De Las Horas",
-      "time": "22:00",
+      "title": "Michael",
+      "time": "15:45",
       "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/3ZIhW9gyIARln6Tnn92lOS2o419.jpg",
-      "summary": "Unai López de Ayala debe introducirse en el mundo del coleccionismo y las falsificaciones para encontrar el mítico Libro Negro de Horas y poder salvar a su madre que creía ya muerta",
+      "poster": "https://image.tmdb.org/t/p/w342/2uK36ujoDXOfNiJ5Yp3raVprB51.jpg",
+      "summary": "El viaje de Michael Jackson más allá de la música, desde el descubrimiento de su extraordinario talento como líder de los Jackson Five hasta convertirse en una visionaria estrella cuya ambición creativa despertó un incansable afán por consagrarse como el mayor icono de la industria del entretenimiento.",
       "genres": [
-        "Crimen",
-        "Misterio",
-        "Suspense"
+        "Música",
+        "Drama"
+      ]
+    },
+    {
+      "title": "Michael",
+      "time": "16:20",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/2uK36ujoDXOfNiJ5Yp3raVprB51.jpg",
+      "summary": "El viaje de Michael Jackson más allá de la música, desde el descubrimiento de su extraordinario talento como líder de los Jackson Five hasta convertirse en una visionaria estrella cuya ambición creativa despertó un incansable afán por consagrarse como el mayor icono de la industria del entretenimiento.",
+      "genres": [
+        "Música",
+        "Drama"
       ]
     },
     {
@@ -636,6 +837,17 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Michael",
+      "time": "21:30",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/2uK36ujoDXOfNiJ5Yp3raVprB51.jpg",
+      "summary": "El viaje de Michael Jackson más allá de la música, desde el descubrimiento de su extraordinario talento como líder de los Jackson Five hasta convertirse en una visionaria estrella cuya ambición creativa despertó un incansable afán por consagrarse como el mayor icono de la industria del entretenimiento.",
+      "genres": [
+        "Música",
+        "Drama"
+      ]
+    },
+    {
+      "title": "Michael",
       "time": "21:50",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/2uK36ujoDXOfNiJ5Yp3raVprB51.jpg",
@@ -658,7 +870,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "La Momia De Lee Cronin",
-      "time": "17:00",
+      "time": "16:50",
       "rating": 8.2,
       "poster": "https://image.tmdb.org/t/p/w342/qlLsNgRUiPPEIVbcqZR2KmOBL7e.jpg",
       "summary": "La joven hija de un periodista desaparece en el desierto sin dejar rastro—ocho años más tarde, la familia rota se conmociona cuando ella es devuelta a ellos, y lo que debiera haber sido una reunión jubilosa se convierte en una auténtica pesadilla.",
@@ -669,7 +881,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "La Momia De Lee Cronin",
-      "time": "19:45",
+      "time": "19:35",
       "rating": 8.2,
       "poster": "https://image.tmdb.org/t/p/w342/qlLsNgRUiPPEIVbcqZR2KmOBL7e.jpg",
       "summary": "La joven hija de un periodista desaparece en el desierto sin dejar rastro—ocho años más tarde, la familia rota se conmociona cuando ella es devuelta a ellos, y lo que debiera haber sido una reunión jubilosa se convierte en una auténtica pesadilla.",
@@ -687,6 +899,16 @@ export const MOVIE_DATA = {
       "genres": [
         "Terror",
         "Misterio"
+      ]
+    },
+    {
+      "title": "La Familia Benetón +2",
+      "time": "16:00",
+      "rating": 7.0,
+      "poster": "https://image.tmdb.org/t/p/w342/qJhTQ2TFMG2q9Tv6xsyntTMibcU.jpg",
+      "summary": "Cuando Toni cree que tiene todo bajo control en su entrañable y divertida familia multicultural, la llegada de dos nuevos bebés pondrá patas arriba la casa y a toda la familia.",
+      "genres": [
+        "Comedia"
       ]
     },
     {
@@ -719,6 +941,18 @@ export const MOVIE_DATA = {
       "genres": [
         "Drama",
         "Romance"
+      ]
+    },
+    {
+      "title": "Super Mario Galaxy: La Película",
+      "time": "15:55",
+      "rating": 6.9,
+      "poster": "https://image.tmdb.org/t/p/w342/eEfzkiW28Y3BaHjjgFNkFERNKiK.jpg",
+      "summary": "La película tiene lugar después de los acontecimientos de la primera, en la que dos hermanos, Mario y Luigi, y la princesa Peach emprenden una aventura hasta los confines del espacio y a través de la galaxia. Secuela de \"Super Mario Bros: La película\", basada en la saga \"Mario Galaxy\".",
+      "genres": [
+        "Aventura",
+        "Animación",
+        "Comedia"
       ]
     },
     {
@@ -811,12 +1045,24 @@ export const MOVIE_DATA = {
       "genres": [
         "Comedia"
       ]
+    },
+    {
+      "title": "Hoppers",
+      "time": "16:45",
+      "rating": 7.6,
+      "poster": "https://image.tmdb.org/t/p/w342/4Z0E1W7YvQ0aVtgj7KKtktb9ukd.jpg",
+      "summary": "Una amante de los animales aprovecha la oportunidad de utilizar una tecnología que coloca su conciencia en un castor robótico, descubriendo misterios dentro del mundo animal que van más allá de lo que podría haber imaginado.",
+      "genres": [
+        "Animación",
+        "Familia",
+        "Ciencia ficción"
+      ]
     }
   ],
   "Artesiete Las Terrazas": [
     {
       "title": "Torrente Presidente",
-      "time": "20:50",
+      "time": "20:30",
       "rating": 6.4,
       "poster": "https://image.tmdb.org/t/p/w342/a0Fn0PiGGiU74jIUelpce6z70i9.jpg",
       "summary": "José Luis Torrente vuelve metido de lleno en la política española, arrastrando su habitual mezcla de vulgaridad, oportunismo e ineptitud. La película plantea una sátira de la realidad social y política del país mediante parodias, situaciones absurdas y numerosos cameos.",
@@ -826,7 +1072,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Torrente Presidente",
-      "time": "22:40",
+      "time": "22:30",
       "rating": 6.4,
       "poster": "https://image.tmdb.org/t/p/w342/a0Fn0PiGGiU74jIUelpce6z70i9.jpg",
       "summary": "José Luis Torrente vuelve metido de lleno en la política española, arrastrando su habitual mezcla de vulgaridad, oportunismo e ineptitud. La película plantea una sátira de la realidad social y política del país mediante parodias, situaciones absurdas y numerosos cameos.",
@@ -859,7 +1105,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Super Mario Galaxy: La Pelicula",
-      "time": "16:50",
+      "time": "16:30",
       "rating": 6.9,
       "poster": "https://image.tmdb.org/t/p/w342/eEfzkiW28Y3BaHjjgFNkFERNKiK.jpg",
       "summary": "La película tiene lugar después de los acontecimientos de la primera, en la que dos hermanos, Mario y Luigi, y la princesa Peach emprenden una aventura hasta los confines del espacio y a través de la galaxia. Secuela de \"Super Mario Bros: La película\", basada en la saga \"Mario Galaxy\".",
@@ -871,7 +1117,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Super Mario Galaxy: La Pelicula",
-      "time": "18:40",
+      "time": "18:30",
       "rating": 6.9,
       "poster": "https://image.tmdb.org/t/p/w342/eEfzkiW28Y3BaHjjgFNkFERNKiK.jpg",
       "summary": "La película tiene lugar después de los acontecimientos de la primera, en la que dos hermanos, Mario y Luigi, y la princesa Peach emprenden una aventura hasta los confines del espacio y a través de la galaxia. Secuela de \"Super Mario Bros: La película\", basada en la saga \"Mario Galaxy\".",
@@ -990,7 +1236,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Michael",
-      "time": "17:00",
+      "time": "16:00",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/2uK36ujoDXOfNiJ5Yp3raVprB51.jpg",
       "summary": "El viaje de Michael Jackson más allá de la música, desde el descubrimiento de su extraordinario talento como líder de los Jackson Five hasta convertirse en una visionaria estrella cuya ambición creativa despertó un incansable afán por consagrarse como el mayor icono de la industria del entretenimiento.",
@@ -1012,7 +1258,18 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Michael",
-      "time": "19:30",
+      "time": "18:15",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/2uK36ujoDXOfNiJ5Yp3raVprB51.jpg",
+      "summary": "El viaje de Michael Jackson más allá de la música, desde el descubrimiento de su extraordinario talento como líder de los Jackson Five hasta convertirse en una visionaria estrella cuya ambición creativa despertó un incansable afán por consagrarse como el mayor icono de la industria del entretenimiento.",
+      "genres": [
+        "Música",
+        "Drama"
+      ]
+    },
+    {
+      "title": "Michael",
+      "time": "19:20",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/2uK36ujoDXOfNiJ5Yp3raVprB51.jpg",
       "summary": "El viaje de Michael Jackson más allá de la música, desde el descubrimiento de su extraordinario talento como líder de los Jackson Five hasta convertirse en una visionaria estrella cuya ambición creativa despertó un incansable afán por consagrarse como el mayor icono de la industria del entretenimiento.",
@@ -1024,6 +1281,17 @@ export const MOVIE_DATA = {
     {
       "title": "Michael",
       "time": "20:10",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/2uK36ujoDXOfNiJ5Yp3raVprB51.jpg",
+      "summary": "El viaje de Michael Jackson más allá de la música, desde el descubrimiento de su extraordinario talento como líder de los Jackson Five hasta convertirse en una visionaria estrella cuya ambición creativa despertó un incansable afán por consagrarse como el mayor icono de la industria del entretenimiento.",
+      "genres": [
+        "Música",
+        "Drama"
+      ]
+    },
+    {
+      "title": "Michael",
+      "time": "20:30",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/2uK36ujoDXOfNiJ5Yp3raVprB51.jpg",
       "summary": "El viaje de Michael Jackson más allá de la música, desde el descubrimiento de su extraordinario talento como líder de los Jackson Five hasta convertirse en una visionaria estrella cuya ambición creativa despertó un incansable afán por consagrarse como el mayor icono de la industria del entretenimiento.",
@@ -1056,7 +1324,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Kraken: El Libro Negro De Las Horas",
-      "time": "16:50",
+      "time": "16:30",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/3ZIhW9gyIARln6Tnn92lOS2o419.jpg",
       "summary": "Unai López de Ayala debe introducirse en el mundo del coleccionismo y las falsificaciones para encontrar el mítico Libro Negro de Horas y poder salvar a su madre que creía ya muerta",
@@ -1068,7 +1336,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Kraken: El Libro Negro De Las Horas",
-      "time": "18:50",
+      "time": "18:30",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/3ZIhW9gyIARln6Tnn92lOS2o419.jpg",
       "summary": "Unai López de Ayala debe introducirse en el mundo del coleccionismo y las falsificaciones para encontrar el mítico Libro Negro de Horas y poder salvar a su madre que creía ya muerta",
@@ -1092,7 +1360,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "La Ahorcada",
-      "time": "19:15",
+      "time": "17:40",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/277U1iDp01XMQ6KBkPTMsmaLrBA.jpg",
       "summary": "",
@@ -1102,17 +1370,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "La Ahorcada",
-      "time": "20:50",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/277U1iDp01XMQ6KBkPTMsmaLrBA.jpg",
-      "summary": "",
-      "genres": [
-        "Terror"
-      ]
-    },
-    {
-      "title": "La Ahorcada",
-      "time": "22:30",
+      "time": "21:40",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/277U1iDp01XMQ6KBkPTMsmaLrBA.jpg",
       "summary": "",
@@ -1123,18 +1381,6 @@ export const MOVIE_DATA = {
     {
       "title": "Maracuda",
       "time": "16:00",
-      "rating": 7.9,
-      "poster": "https://image.tmdb.org/t/p/w342/921uxRXPTQZHaTCMR2uCOmVdfC2.jpg",
-      "summary": "Maracuda, hijo de un respetado líder tribal, lucha por estar a la altura de las expectativas de su padre. Se aventura en un bosque misterioso para probarse a sí mismo y se encuentra con Tink, un pájaro extraterrestre mágico, y juntos se embarcan en increíbles aventuras en el bosque de la Edad de Piedra habitado por ardillas dientes de sable, adorables suricatos e incluso dinosaurios. En medio de sus aventuras, Tink transforma involuntariamente al padre de Maracuda en una pequeña criatura, lo que lleva al niño a enseñarle a Tink cómo controlar sus poderes.",
-      "genres": [
-        "Familia",
-        "Animación",
-        "Aventura"
-      ]
-    },
-    {
-      "title": "Maracuda",
-      "time": "17:40",
       "rating": 7.9,
       "poster": "https://image.tmdb.org/t/p/w342/921uxRXPTQZHaTCMR2uCOmVdfC2.jpg",
       "summary": "Maracuda, hijo de un respetado líder tribal, lucha por estar a la altura de las expectativas de su padre. Se aventura en un bosque misterioso para probarse a sí mismo y se encuentra con Tink, un pájaro extraterrestre mágico, y juntos se embarcan en increíbles aventuras en el bosque de la Edad de Piedra habitado por ardillas dientes de sable, adorables suricatos e incluso dinosaurios. En medio de sus aventuras, Tink transforma involuntariamente al padre de Maracuda en una pequeña criatura, lo que lleva al niño a enseñarle a Tink cómo controlar sus poderes.",
@@ -1158,7 +1404,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Turno De Noche",
-      "time": "22:40",
+      "time": "22:30",
       "rating": 6.8,
       "poster": "https://image.tmdb.org/t/p/w342/bp0tX5Q02YtkFAQI8TMwwsvQs1d.jpg",
       "summary": "Cuando un hongo mutante altamente contagioso escapa de una instalación sellada, dos jóvenes empleados, acompañados por un veterano agente de bioterrorismo, deben sobrevivir al turno de noche más alocado de la historia para salvar a la humanidad de la extinción, mientras el microorganismo se propaga y destruye todo a su paso.",
