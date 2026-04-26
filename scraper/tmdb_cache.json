@@ -674,5 +674,64 @@
       "Fantasía",
       "Romance"
     ]
+  },
+  "Las Líneas Discontinuas": {
+    "rating": 6.0,
+    "poster": "https://image.tmdb.org/t/p/w342/1B6uSLpq7kqhwF6lQVtkfFXMwdZ.jpg",
+    "summary": "Bea es una mujer de 50 años que se está separando de su marido. El día en el que tiene que abandonar el hogar en el que ha vivido los últimos veinte años llega a su casa y se encuentra todo patas arriba y a uno de los ladrones dormido en su cama. Denís es un chico de 28 años que, a pesar de haber estudiado una carrera, lucha con la precariedad laboral y la falta de oportunidades. Después de pasar tres días juntos, cada uno deberá continuar su camino.",
+    "genres": [
+      "Drama",
+      "Romance"
+    ]
+  },
+  "Ivan&Hadoum": {
+    "rating": 0.0,
+    "poster": "https://image.tmdb.org/t/p/w342/gqtBos9yGlMPFulwcGjdX53CZx8.jpg",
+    "summary": "Iván se enamora de Hadoum en el invernadero donde trabajan. Sin embargo, su anhelado ascenso laboral interfiere en la relación, obligándole a decidir qué tipo de hombre quiere ser.",
+    "genres": [
+      "Drama",
+      "Romance"
+    ]
+  },
+  "Canarias Cinema Cortos Sesión 2": {
+    "rating": 0,
+    "poster": null,
+    "summary": "La proyección de este pase se exhibirá con subtítulos en español e inglés.\n\nThis show will be exhibited with Spanish and English subtitles. \n\nKipuka. La mujer imaginada (The imagined woman). Mariners. Las Mayorets (The Mayorettes). Cosecha (Harvest). Muy bien (Great).  ",
+    "genres": []
+  },
+  "Por Qué No Escribo Nada": {
+    "rating": 0.0,
+    "poster": "https://image.tmdb.org/t/p/w342/vuY2A58jHTA0VMU2y5rYr6Vttp3.jpg",
+    "summary": "Con solo 23 años, Carmen Laforet revolucionó la literatura española con su novela “Nada”. Su talento natural prometía una larga trayectoria llena de éxitos, pero no fue así: escribió poco y fue cayendo en el silencio… O esa es la historia que nos han contado. Sin embargo, los textos de la autora revelan otra verdad muy distinta: la de una mujer libre, original, rebelde, que no cedió a los dictados de nadie. Esta vez Carmen Laforet (Mónica López) toma la palabra y nos sumerge en el mundo de una escritora única, luchando por su libertad. Su historia es la de todas las mujeres que intentan salirse del guión.",
+    "genres": [
+      "Documental",
+      "Historia"
+    ]
+  },
+  "The Girls": {
+    "rating": 6.3,
+    "poster": "https://image.tmdb.org/t/p/w342/cKLATvYcVUn6FfmgOU811TJgHWl.jpg",
+    "summary": "Las \"chicas guepardo\" -Galleria, Chanel, Aquanette y Dorinda- son cuatro adolescentes de Nueva York destinadas al estrellato. Intentan convencer a dos de las madres, Dorothea y Juanita, para que las acompañen a Barcelona, ya que quieren disfrutar de una \"experiencia cultural y educacional\", aunque su verdadero objetivo es participar en el Festival de las Nuevas Voces de la Música que se celebra allí. Ya en la ciudad condal, sus intereses personales comienzan a llevarlas en diferentes direcciones... (FILMAFFINITY)",
+    "genres": [
+      "Familia",
+      "Comedia",
+      "Drama"
+    ]
+  },
+  "La Agitación": {
+    "rating": 7.1,
+    "poster": "https://image.tmdb.org/t/p/w342/8aDIOFLoSpqpbv5LRqjhoaSZwo9.jpg",
+    "summary": "La proyección de este pase se exhibirá con subtítulos en español e inglés.\n\nThis show will be exhibited with Spanish and English subtitles. \n\nUn veterinario idealista llega a un pueblo indio con la intención de fundar una cooperativa lechera. Las reticencias iniciales de los habitantes ante el cambio se transforman poco a poco en una conciencia colectiva, y el proceso sirve al director Shyam Benegal para subrayar la fuerza de la acción social frente a los abusos de poder en este poderoso hito político del cine independiente indio. \n\nEN An idealistic veterinarian arrives in an Indian village with the intention of founding a dairy cooperative. The villagers' initial reluctance to change gradually transforms into a collective consciousness, and the story development allows director Shyam Benegal to underscore the power of social action against abuses of power in this powerful political milestone of Indian independent cinema.",
+    "genres": [
+      "Drama"
+    ]
+  },
+  "Mary Anning": {
+    "rating": 0.0,
+    "poster": "https://image.tmdb.org/t/p/w342/pLAGjepZWIaBQy996bP0chhxDHR.jpg",
+    "summary": "Ambientada en 1811, esta animación sigue a Mary Anning, una niña de doce años que recorre la costa en busca de fósiles, una pasión que ha heredado de su padre. Tras su muerte repentina, la familia queda en una situación precaria y Mary se propone descifrar un dibujo enigmático que él dejó atrás. En esa búsqueda, la joven se abre a nuevas relaciones y a descubrimientos que marcarán sus primeros pasos en el estudio de los restos del pasado. \n\nEN Set in 1811, this animation follows Mary Anning, a twelve-year-old girl who travels the coast in search of fossils, a passion she has inherited from her father. After his sudden death, the family is left in dire straits, and Mary sets out to decipher an enigmatic drawing he left behind. In this quest, the young girl opens herself up to new relationships and discoveries that will mark her first steps in the study of the remnants of the past.",
+    "genres": [
+      "Drama"
+    ]
   }
 }
