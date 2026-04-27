@@ -733,5 +733,65 @@
     "genres": [
       "Drama"
     ]
+  },
+  "Sucia": {
+    "rating": 7.0,
+    "poster": "https://image.tmdb.org/t/p/w342/zhvyWzZii2SWpsrcUvLZJNaJyoG.jpg",
+    "summary": "El ejército británico recluta a un pequeño grupo de soldados de élite para atacar a los nazis detrás de las líneas enemigas durante la Segunda Guerra Mundial.",
+    "genres": [
+      "Acción",
+      "Comedia",
+      "Bélica"
+    ]
+  },
+  "Aro Berria": {
+    "rating": 0.0,
+    "poster": "https://image.tmdb.org/t/p/w342/5icULxLdWwkf05rdsXqpKNgAuro.jpg",
+    "summary": "La proyección de este pase se exhibirá con subtítulos en español e inglés.\n\nThis show will be exhibited with Spanish and English subtitles. \n\nA finales de los años setenta, en Donostia, un grupo de trabajadores de una fábrica experimenta la frustración tras el fracaso de una movilización laboral que buscaba cambios. Algunos de ellos deciden alejarse de ese contexto y trasladarse a una comunidad en la montaña. En ese espacio compartido, los jóvenes experimentan nuevas formas de convivencia y exploran modos de vida alejados de las estructuras sociales convencionales. \n\nEN Late 1970s, San Sebastian. A group of factory workers are frustrated with the failure of a labour mobilisation that sought changes. Some of them decide to move away from that environment and relocate to a community in the mountains. In this shared space, these young people experiment with new forms of coexistence and explore alternative ways of living outside conventional social structures.",
+    "genres": [
+      "Historia",
+      "Drama"
+    ]
+  },
+  "Two Acres Of Land": {
+    "rating": 8.0,
+    "poster": "https://image.tmdb.org/t/p/w342/t4blIwJ6HG9dqCSmifIhMsu4LvQ.jpg",
+    "summary": "Un hombre pobre y su hijo pequeño viajan a Calcuta en busca de trabajo para ganar dinero y evitar que una corporación se apropie de sus tierras ancestrales.",
+    "genres": [
+      "Drama"
+    ]
+  },
+  "La Carpa De Circo": {
+    "rating": 0.0,
+    "poster": "https://image.tmdb.org/t/p/w342/jdTJX8h4UQKcuSQe2wGLUflGAIy.jpg",
+    "summary": "Esta es una historia de amor, la historia de una familia de circo: Los Magote. Pablo, el director y maestro de ceremonias; su esposa, payasa y acróbata; y los hijos que desde bebés se van incorporando al espectáculo. Es también la historia de amor y de identificación que siente la gente por el circo de su pueblo, un clásico también de quienes van todos los años a veranear a una pequeña playa de Argentina: Aguas Verdes.  This is a love story, the story of a circus family: Los Magote. Pablo, the director and master of ceremonies; his wife, a clown and acrobat; and the children who from babies are incorporated into the show. It is also the story of love and identification that people feel for the circus of their town, also a classic for those who go every year to spend the summer on a small beach in Argentina: Aguas Verdes.",
+    "genres": [
+      "Documental"
+    ]
+  },
+  "Remake": {
+    "rating": 3.7,
+    "poster": "https://image.tmdb.org/t/p/w342/yubngQSAhehExcLQqTHA75pPPKF.jpg",
+    "summary": "Tras más de cuatro décadas explorando a través de la cámara cómo su vida personal se relaciona con el mundo, la muerte de su hijo Adrian lleva al veterano director Ross McElwee a repensar por completo sus propias imágenes. Partiendo del profundo dolor de la ausencia, la película explora el vínculo que el cine formó entre ellos dos. \n\nEN After more than four decades of exploring through his lens how his personal life relates to the world, the death of his son, Adrian, leads veteran director Ross McElwee to completely rethink his own imagery. Starting from the profound pain of loss, the film explores the bond that cinema formed between them.",
+    "genres": [
+      "Comedia",
+      "Familia"
+    ]
+  },
+  "Trial Of Hein": {
+    "rating": 0.0,
+    "poster": "https://image.tmdb.org/t/p/w342/cBxkNpLZtNVNv7Ot5FAA2WsWlQ5.jpg",
+    "summary": "Tras 14 años en el continente, lejos de su hogar, Hein decide regresar a su isla en el Mar del Norte. Sin embargo, la comunidad no lo reconoce y lo considera un impostor. Para probar su identidad, es sometido a un juicio en el que participa todo el pueblo.",
+    "genres": [
+      "Drama"
+    ]
+  },
+  "Aquí Se Construye": {
+    "rating": 0.0,
+    "poster": "https://image.tmdb.org/t/p/w342/ZXluyyGINpqmbiIz8wGJs4TcGK.jpg",
+    "summary": "En Santiago, en poco más de dos años, un hombre observa la demolición de la casa vecina y la construcción de otro edificio nuevo en el mismo lugar. En este periodo, muchas cosas cambian alrededor. Cuando las estaciones pasan y el proceso termina, los nuevos vecinos miran al protagonista desde arriba. \n\nEN In Santiago, over a little more than two years, a man watches the demolition of his neighbour's house and the construction of a new building on the same site. During this time, many things change around him. When the seasons change, and the process is complete, the new neighbours look down on the protagonist. Se proyectará también el cortometraje Aquí se construye (Under Construction)",
+    "genres": [
+      "Documental"
+    ]
   }
 }
