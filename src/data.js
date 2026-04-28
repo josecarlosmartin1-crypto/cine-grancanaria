@@ -37,6 +37,16 @@ export const MOVIE_DATA = {
       ]
     },
     {
+      "title": "Esperanza Viva",
+      "time": "18:10",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/yqJxKaJvkwdmrLJTnVzabfi1o2f.jpg",
+      "summary": "¿Todavía hay lugar para la esperanza? Desde la ayuda a los más pobres de Madrid, pasando por jóvenes que encuentran sentido en la fe, una artista que anuncia el amor de Dios con su música, un sacerdote que halla luz tras la adversidad y un hombre que reconstruye su vida después de perderlo todo, 'Esperanza viva' se convierte en una invitación a creer que, incluso en los momentos más oscuros, la esperanza puede renacer y dar un nuevo sentido a la vida.",
+      "genres": [
+        "Documental"
+      ]
+    },
+    {
       "title": "Michael",
       "time": "17:00",
       "rating": 0.0,
@@ -133,18 +143,6 @@ export const MOVIE_DATA = {
       "genres": [
         "Música",
         "Drama"
-      ]
-    },
-    {
-      "title": "Turno De Noche",
-      "time": "18:10",
-      "rating": 6.8,
-      "poster": "https://image.tmdb.org/t/p/w342/bp0tX5Q02YtkFAQI8TMwwsvQs1d.jpg",
-      "summary": "Cuando un hongo mutante altamente contagioso escapa de una instalación sellada, dos jóvenes empleados, acompañados por un veterano agente de bioterrorismo, deben sobrevivir al turno de noche más alocado de la historia para salvar a la humanidad de la extinción, mientras el microorganismo se propaga y destruye todo a su paso.",
-      "genres": [
-        "Terror",
-        "Ciencia ficción",
-        "Comedia"
       ]
     },
     {
@@ -295,17 +293,6 @@ export const MOVIE_DATA = {
   "Cine Yelmo Las Arenas": [
     {
       "title": "Michael",
-      "time": "17:00",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/2uK36ujoDXOfNiJ5Yp3raVprB51.jpg",
-      "summary": "El viaje de Michael Jackson más allá de la música, desde el descubrimiento de su extraordinario talento como líder de los Jackson Five hasta convertirse en una visionaria estrella cuya ambición creativa despertó un incansable afán por consagrarse como el mayor icono de la industria del entretenimiento.",
-      "genres": [
-        "Música",
-        "Drama"
-      ]
-    },
-    {
-      "title": "Michael",
       "time": "18:20",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/2uK36ujoDXOfNiJ5Yp3raVprB51.jpg",
@@ -318,17 +305,6 @@ export const MOVIE_DATA = {
     {
       "title": "Michael",
       "time": "19:00",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/2uK36ujoDXOfNiJ5Yp3raVprB51.jpg",
-      "summary": "El viaje de Michael Jackson más allá de la música, desde el descubrimiento de su extraordinario talento como líder de los Jackson Five hasta convertirse en una visionaria estrella cuya ambición creativa despertó un incansable afán por consagrarse como el mayor icono de la industria del entretenimiento.",
-      "genres": [
-        "Música",
-        "Drama"
-      ]
-    },
-    {
-      "title": "Michael",
-      "time": "19:45",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/2uK36ujoDXOfNiJ5Yp3raVprB51.jpg",
       "summary": "El viaje de Michael Jackson más allá de la música, desde el descubrimiento de su extraordinario talento como líder de los Jackson Five hasta convertirse en una visionaria estrella cuya ambición creativa despertó un incansable afán por consagrarse como el mayor icono de la industria del entretenimiento.",
@@ -371,17 +347,6 @@ export const MOVIE_DATA = {
       ]
     },
     {
-      "title": "Michael",
-      "time": "22:30",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/2uK36ujoDXOfNiJ5Yp3raVprB51.jpg",
-      "summary": "El viaje de Michael Jackson más allá de la música, desde el descubrimiento de su extraordinario talento como líder de los Jackson Five hasta convertirse en una visionaria estrella cuya ambición creativa despertó un incansable afán por consagrarse como el mayor icono de la industria del entretenimiento.",
-      "genres": [
-        "Música",
-        "Drama"
-      ]
-    },
-    {
       "title": "La Momia De Lee Cronin",
       "time": "19:05",
       "rating": 8.2,
@@ -393,126 +358,128 @@ export const MOVIE_DATA = {
       ]
     },
     {
-      "title": "La Agitación (Manthan / The Churning)",
+      "title": "Canarias Cinema Cortos Sesión 2",
       "time": "18:00",
-      "rating": 7.1,
-      "poster": "https://image.tmdb.org/t/p/w342/8aDIOFLoSpqpbv5LRqjhoaSZwo9.jpg",
-      "summary": "La proyección de este pase se exhibirá con subtítulos en español e inglés.\n\nThis show will be exhibited with Spanish and English subtitles. \n\nUn veterinario idealista llega a un pueblo indio con la intención de fundar una cooperativa lechera. Las reticencias iniciales de los habitantes ante el cambio se transforman poco a poco en una conciencia colectiva, y el proceso sirve al director Shyam Benegal para subrayar la fuerza de la acción social frente a los abusos de poder en este poderoso hito político del cine independiente indio. \n\nEN An idealistic veterinarian arrives in an Indian village with the intention of founding a dairy cooperative. The villagers' initial reluctance to change gradually transforms into a collective consciousness, and the story development allows director Shyam Benegal to underscore the power of social action against abuses of power in this powerful political milestone of Indian independent cinema.",
-      "genres": [
-        "Drama"
-      ]
-    },
-    {
-      "title": "Canarias Cinema Cortos Sesión 1",
-      "time": "21:00",
       "rating": 0,
       "poster": null,
-      "summary": "Toma Tierra (Take Ground). Acúfeno (Tinnitus). Somos islas (We are Islands). Querido diario (Dear Diary). Sonidos en el monte (Sounds in the Countryside). Escultura (Is Culture). Elles Son, Cruces De Neón (Them, Neon Crosses). El pez rojo (The Red Fish).",
+      "summary": "La proyección de este pase se exhibirá con subtítulos en español e inglés.\n\nThis show will be exhibited with Spanish and English subtitles. \n\nKipuka. La mujer imaginada (The imagined woman). Mariners. Las Mayorets (The Mayorettes). Cosecha (Harvest). Muy bien (Great).  ",
       "genres": []
     },
     {
-      "title": "Sucia",
-      "time": "19:15",
-      "rating": 7.0,
-      "poster": "https://image.tmdb.org/t/p/w342/zhvyWzZii2SWpsrcUvLZJNaJyoG.jpg",
-      "summary": "El ejército británico recluta a un pequeño grupo de soldados de élite para atacar a los nazis detrás de las líneas enemigas durante la Segunda Guerra Mundial.",
-      "genres": [
-        "Acción",
-        "Comedia",
-        "Bélica"
-      ]
-    },
-    {
-      "title": "Aro Berria (Lpa Film Festival)",
-      "time": "21:30",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/5icULxLdWwkf05rdsXqpKNgAuro.jpg",
-      "summary": "La proyección de este pase se exhibirá con subtítulos en español e inglés.\n\nThis show will be exhibited with Spanish and English subtitles. \n\nA finales de los años setenta, en Donostia, un grupo de trabajadores de una fábrica experimenta la frustración tras el fracaso de una movilización laboral que buscaba cambios. Algunos de ellos deciden alejarse de ese contexto y trasladarse a una comunidad en la montaña. En ese espacio compartido, los jóvenes experimentan nuevas formas de convivencia y exploran modos de vida alejados de las estructuras sociales convencionales. \n\nEN Late 1970s, San Sebastian. A group of factory workers are frustrated with the failure of a labour mobilisation that sought changes. Some of them decide to move away from that environment and relocate to a community in the mountains. In this shared space, these young people experiment with new forms of coexistence and explore alternative ways of living outside conventional social structures.",
-      "genres": [
-        "Historia",
-        "Drama"
-      ]
-    },
-    {
-      "title": "Two Acres Of Land (Do Bigha Zamin)",
-      "time": "17:30",
-      "rating": 8.0,
-      "poster": "https://image.tmdb.org/t/p/w342/t4blIwJ6HG9dqCSmifIhMsu4LvQ.jpg",
-      "summary": "Un hombre pobre y su hijo pequeño viajan a Calcuta en busca de trabajo para ganar dinero y evitar que una corporación se apropie de sus tierras ancestrales.",
-      "genres": [
-        "Drama"
-      ]
-    },
-    {
-      "title": "La Carpa De Circo (Thampu. The Circus Tent)",
-      "time": "20:30",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/jdTJX8h4UQKcuSQe2wGLUflGAIy.jpg",
-      "summary": "Esta es una historia de amor, la historia de una familia de circo: Los Magote. Pablo, el director y maestro de ceremonias; su esposa, payasa y acróbata; y los hijos que desde bebés se van incorporando al espectáculo. Es también la historia de amor y de identificación que siente la gente por el circo de su pueblo, un clásico también de quienes van todos los años a veranear a una pequeña playa de Argentina: Aguas Verdes.  This is a love story, the story of a circus family: Los Magote. Pablo, the director and master of ceremonies; his wife, a clown and acrobat; and the children who from babies are incorporated into the show. It is also the story of love and identification that people feel for the circus of their town, also a classic for those who go every year to spend the summer on a small beach in Argentina: Aguas Verdes.",
-      "genres": [
-        "Documental"
-      ]
-    },
-    {
-      "title": "Remake",
-      "time": "12:00",
-      "rating": 3.7,
-      "poster": "https://image.tmdb.org/t/p/w342/yubngQSAhehExcLQqTHA75pPPKF.jpg",
-      "summary": "Tras más de cuatro décadas explorando a través de la cámara cómo su vida personal se relaciona con el mundo, la muerte de su hijo Adrian lleva al veterano director Ross McElwee a repensar por completo sus propias imágenes. Partiendo del profundo dolor de la ausencia, la película explora el vínculo que el cine formó entre ellos dos. \n\nEN After more than four decades of exploring through his lens how his personal life relates to the world, the death of his son, Adrian, leads veteran director Ross McElwee to completely rethink his own imagery. Starting from the profound pain of loss, the film explores the bond that cinema formed between them.",
-      "genres": [
-        "Comedia",
-        "Familia"
-      ]
-    },
-    {
-      "title": "Remake",
-      "time": "17:30",
-      "rating": 3.7,
-      "poster": "https://image.tmdb.org/t/p/w342/yubngQSAhehExcLQqTHA75pPPKF.jpg",
-      "summary": "Tras más de cuatro décadas explorando a través de la cámara cómo su vida personal se relaciona con el mundo, la muerte de su hijo Adrian lleva al veterano director Ross McElwee a repensar por completo sus propias imágenes. Partiendo del profundo dolor de la ausencia, la película explora el vínculo que el cine formó entre ellos dos. \n\nEN After more than four decades of exploring through his lens how his personal life relates to the world, the death of his son, Adrian, leads veteran director Ross McElwee to completely rethink his own imagery. Starting from the profound pain of loss, the film explores the bond that cinema formed between them.",
-      "genres": [
-        "Comedia",
-        "Familia"
-      ]
-    },
-    {
-      "title": "Trial Of Hein (Der Heimatlose)",
-      "time": "20:00",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/cBxkNpLZtNVNv7Ot5FAA2WsWlQ5.jpg",
-      "summary": "Tras 14 años en el continente, lejos de su hogar, Hein decide regresar a su isla en el Mar del Norte. Sin embargo, la comunidad no lo reconoce y lo considera un impostor. Para probar su identidad, es sometido a un juicio en el que participa todo el pueblo.",
-      "genres": [
-        "Drama"
-      ]
-    },
-    {
-      "title": "Aquí Se Construye",
-      "time": "19:30",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/ZXluyyGINpqmbiIz8wGJs4TcGK.jpg",
-      "summary": "En Santiago, en poco más de dos años, un hombre observa la demolición de la casa vecina y la construcción de otro edificio nuevo en el mismo lugar. En este periodo, muchas cosas cambian alrededor. Cuando las estaciones pasan y el proceso termina, los nuevos vecinos miran al protagonista desde arriba. \n\nEN In Santiago, over a little more than two years, a man watches the demolition of his neighbour's house and the construction of a new building on the same site. During this time, many things change around him. When the seasons change, and the process is complete, the new neighbours look down on the protagonist. Se proyectará también el cortometraje Aquí se construye (Under Construction)",
-      "genres": [
-        "Documental"
-      ]
-    },
-    {
-      "title": "Tal Vez (Love On A Tightrope)",
-      "time": "17:15",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/sY9PsGiR8VQ0oeKhndvuuvFc7tp.jpg",
-      "summary": "Relata una relación amorosa imaginaria entre la escritora canaria Natalia Sosa Ayala y la famosa artista circense Pinito del Oro, que se conocieron en 1968 cuando la primera ayudó a la segunda a escribir sus memorias.",
+      "title": "La Lucha (Dance Of The Living)",
+      "time": "20:15",
+      "rating": 8.4,
+      "poster": "https://image.tmdb.org/t/p/w342/sgTAWJFaB2kBvdQxRGabYFiQqEK.jpg",
+      "summary": "Un hombre consumido por el insomnio y una vida sin sentido conoce a Tyler Durden, un carismático anarquista que lo arrastra a un club secreto donde el dolor despierta algo dormido. Lo que comienza como liberación pronto se convierte en una guerra contra el sistema…",
       "genres": [
         "Drama",
-        "Romance"
+        "Suspense"
       ]
     },
     {
-      "title": "Two Seasons, Two Strangers (Tabi To Hibi)",
-      "time": "20:15",
-      "rating": 7.7,
-      "poster": "https://image.tmdb.org/t/p/w342/d5kqa17dP6UqBBctkXJOsbhHjnm.jpg",
-      "summary": "La proyección de este pase se exhibirá con subtítulos en español e inglés.\n\nThis show will be exhibited with Spanish and English subtitles. \n\nEntre el verano y el invierno, la película presenta dos encuentros marcados por la distancia y la dificultad de comunicación. En la costa, Nagisa y Natsuo se conocen junto al mar, donde intercambian palabras compartiendo el paisaje lluvioso. Meses después, Li, una guionista en un momento de incertidumbre personal y creativa, llega a un pueblo nevado y se hospeda en la pensión de Benzo. A partir de conversaciones fragmentadas, ambos inician un recorrido conjunto en ese entorno aislado. \n\nEN Between summer and winter, the film presents two encounters marked by distance and the difficulty of communication. On the coast, Nagisa and Natsuo meet by the sea, exchanging words while sharing the rainy landscape. Months later, Li—a screenwriter adrift in personal and creative uncertainty—arrives in a remote, snowbound village and takes refuge at Benzo’s guesthouse. Through fragmented conversations, they embark on a shared journey through this isolated environment.",
+      "title": "La Carn",
+      "time": "17:30",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/7OrOyDGt5WlzvTiRX4U2Lx9eCYg.jpg",
+      "summary": "La proyección de este pase se exhibirá con subtítulos en español e inglés.\n\nThis show will be exhibited with Spanish and English subtitles. \n\nEn su nueva performance, el artista emergente balear Lluís Garau se inspira en una plataforma que conecta al azar a desconocidos mediante videollamadas. La frontera entre el mundo real y ese espacio digital deja de estar clara y su vida comienza a confundirse con la obra. \n\nEN In his new performance, the emerging Balearic artist Lluís Garau draws inspiration from a platform that randomly connects strangers through video calls. The boundary between the real world and this digital space becomes blurred, and his life begins to merge with his artwork.",
       "genres": [
+        "Drama",
+        "Documental"
+      ]
+    },
+    {
+      "title": "Nothing But Time (Rien Que Les Heures)",
+      "time": "20:00",
+      "rating": 7.3,
+      "poster": "https://image.tmdb.org/t/p/w342/CbH5b1fKyD1l0Ubxz0om9iZVsK.jpg",
+      "summary": "La vida de una gran ciudad (París) desde el amanecer hasta el anochecer, incluyendo a los bellos y a los desaliñados, a los ricos y a los pobres.",
+      "genres": [
+        "Documental",
+        "Drama"
+      ]
+    },
+    {
+      "title": "Fantasy (Fantaisie)",
+      "time": "18:15",
+      "rating": 5.8,
+      "poster": "https://image.tmdb.org/t/p/w342/gpkUJF9SFdCIbyQNzq5ImZZFbP1.jpg",
+      "summary": "El enigmático Sr. Roarke hace realidad los sueños de los afortunados huéspedes que acuden a su lujoso y remoto resort tropical. Sin embargo, sus fantasías se convertirán en pesadillas, y los invitados deberán resolver el misterio que oculta la isla para poder escapar con vida. Adaptación en clave de terror del famoso programa de televisión de los años 70 ambientado en un resort ubicado en una isla mágica.",
+      "genres": [
+        "Aventura",
+        "Fantasía",
+        "Terror"
+      ]
+    },
+    {
+      "title": "Blue Heron",
+      "time": "20:00",
+      "rating": 10.0,
+      "poster": "https://image.tmdb.org/t/p/w342/4hfMbVbYc2gsMnSE1K8Oc9LQH4j.jpg",
+      "summary": "La proyección de este pase se exhibirá con subtítulos en español e inglés.\n\nThis show will be exhibited with Spanish and English subtitles. \n\nAmbientada a finales de los años noventa, el debut de Sophy Romvari en el largometraje sigue a una familia de seis miembros que se instala en un nuevo hogar en la isla de Vancouver. A través de la mirada de la hija menor, un alter ego de la directora, el relato observa la adaptación a la convivencia y las dinámicas que se establecen entre los hermanos y el padre. La aparente calma del entorno doméstico se ve desafiada por tensiones internas, especialmente vinculadas al hijo mayor. \n\nEN Set in the late 1990s, Sophy Romvari’s feature debut follows a family of six as they move into a new home on Vancouver Island. Through the eyes of the youngest daughter, an alter ego of the director, the story observes their adjustment to living together and the dynamics that develop among the siblings and the father. The apparent calm of the domestic environment is challenged by underlying tensions, particularly those involving the eldest son.",
+      "genres": [
+        "Drama"
+      ]
+    },
+    {
+      "title": "If I Go Will They Miss Me",
+      "time": "12:15",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/mJ0WbeOIOlW6upIAYsFuJ5R7u9.jpg",
+      "summary": "En 1992 en el South Central, un barrio de Los Ángeles, un gesto impulsivo de Anthony marca su infancia con culpa y una visión inquietante que parece perseguirle. Treinta años después, su hijo Lil Ant crece en un mundo entre la realidad y la imaginación, idealizando a un padre ausente convertido en figura mítica. Mientras el barrio cambia, las heridas del pasado resurgen y se entrelazan con el presente. Un retrato generacional donde memoria, culpa y fantasía conviven en un mismo espacio.",
+      "genres": [
+        "Drama"
+      ]
+    },
+    {
+      "title": "If I Go Will They Miss Me",
+      "time": "18:00",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/mJ0WbeOIOlW6upIAYsFuJ5R7u9.jpg",
+      "summary": "En 1992 en el South Central, un barrio de Los Ángeles, un gesto impulsivo de Anthony marca su infancia con culpa y una visión inquietante que parece perseguirle. Treinta años después, su hijo Lil Ant crece en un mundo entre la realidad y la imaginación, idealizando a un padre ausente convertido en figura mítica. Mientras el barrio cambia, las heridas del pasado resurgen y se entrelazan con el presente. Un retrato generacional donde memoria, culpa y fantasía conviven en un mismo espacio.",
+      "genres": [
+        "Drama"
+      ]
+    },
+    {
+      "title": "17",
+      "time": "20:10",
+      "rating": 6.8,
+      "poster": "https://image.tmdb.org/t/p/w342/iOKu6Hf5atv3DuXBS0jBF3OYYdu.jpg",
+      "summary": "Mickey 17, un miembro de la tripulación 'expendable' (prescindible) enviado a un planeta helado para colonizarlo, se niega a dejar que su clon de reemplazo, Mickey 18, tome su lugar... Adaptación del libro original de Edward Ashton.",
+      "genres": [
+        "Ciencia ficción",
+        "Comedia",
+        "Aventura"
+      ]
+    },
+    {
+      "title": "Banda Aparte Ignacio Agüero Sesión 2",
+      "time": "17:00",
+      "rating": 0,
+      "poster": null,
+      "summary": "La proyección de este pase se exhibirá con subtítulos en español e inglés.\n\nThis show will be exhibited with Spanish and English subtitles. \n\nNo olvidar. Cien niños esperando un tren ( One Hundred Children Waiting for a Train ). Sueños de hielo ( Dreams of Ice )",
+      "genres": []
+    },
+    {
+      "title": "Días Y Noches En El Bosque",
+      "time": "17:15",
+      "rating": 6.9,
+      "poster": "https://image.tmdb.org/t/p/w342/v4hsB4seYLmohC0EzE0WdS7fIA.jpg",
+      "summary": "Cuatro amigos, que viven en Calcuta, hacen una excursión en coche en dirección a los bosques de Palmau. Llegados a una aldea, buscan alojamiento en un albergue y, como no han hecho reserva, para ser admitidos tienen que sobornar al vigilante, que se arriesga a perder su trabajo, pero necesita el dinero, pues su esposa está enferma. Los jóvenes, muy seguros de sí mismos, muestran muy poco respeto por los aldeanos. El líder del grupo es Ashim (Soumitra Chatterjee), el más rico de todos. Sanjoy (Subhendu Chatterjee) es un joven tímido. Hari (Samit Bhanja) es un deportista que trata de olvidar a una chica que acaba de rechazarlo. Shekhar (Robi Ghosh) es el más gracioso y seguro de sí mismo.",
+      "genres": [
+        "Drama",
+        "Comedia"
+      ]
+    },
+    {
+      "title": "The Girls (Gehenu Lamai)",
+      "time": "19:45",
+      "rating": 6.3,
+      "poster": "https://image.tmdb.org/t/p/w342/cKLATvYcVUn6FfmgOU811TJgHWl.jpg",
+      "summary": "Las \"chicas guepardo\" -Galleria, Chanel, Aquanette y Dorinda- son cuatro adolescentes de Nueva York destinadas al estrellato. Intentan convencer a dos de las madres, Dorothea y Juanita, para que las acompañen a Barcelona, ya que quieren disfrutar de una \"experiencia cultural y educacional\", aunque su verdadero objetivo es participar en el Festival de las Nuevas Voces de la Música que se celebra allí. Ya en la ciudad condal, sus intereses personales comienzan a llevarlas en diferentes direcciones... (FILMAFFINITY)",
+      "genres": [
+        "Familia",
+        "Comedia",
         "Drama"
       ]
     },
@@ -845,18 +812,6 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Super Mario Galaxy: La Pelicula",
-      "time": "16:00",
-      "rating": 6.9,
-      "poster": "https://image.tmdb.org/t/p/w342/eEfzkiW28Y3BaHjjgFNkFERNKiK.jpg",
-      "summary": "La película tiene lugar después de los acontecimientos de la primera, en la que dos hermanos, Mario y Luigi, y la princesa Peach emprenden una aventura hasta los confines del espacio y a través de la galaxia. Secuela de \"Super Mario Bros: La película\", basada en la saga \"Mario Galaxy\".",
-      "genres": [
-        "Aventura",
-        "Animación",
-        "Comedia"
-      ]
-    },
-    {
-      "title": "Super Mario Galaxy: La Pelicula",
       "time": "17:00",
       "rating": 6.9,
       "poster": "https://image.tmdb.org/t/p/w342/eEfzkiW28Y3BaHjjgFNkFERNKiK.jpg",
@@ -978,17 +933,6 @@ export const MOVIE_DATA = {
     {
       "title": "Michael",
       "time": "16:50",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/2uK36ujoDXOfNiJ5Yp3raVprB51.jpg",
-      "summary": "El viaje de Michael Jackson más allá de la música, desde el descubrimiento de su extraordinario talento como líder de los Jackson Five hasta convertirse en una visionaria estrella cuya ambición creativa despertó un incansable afán por consagrarse como el mayor icono de la industria del entretenimiento.",
-      "genres": [
-        "Música",
-        "Drama"
-      ]
-    },
-    {
-      "title": "Michael",
-      "time": "18:00",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/2uK36ujoDXOfNiJ5Yp3raVprB51.jpg",
       "summary": "El viaje de Michael Jackson más allá de la música, desde el descubrimiento de su extraordinario talento como líder de los Jackson Five hasta convertirse en una visionaria estrella cuya ambición creativa despertó un incansable afán por consagrarse como el mayor icono de la industria del entretenimiento.",

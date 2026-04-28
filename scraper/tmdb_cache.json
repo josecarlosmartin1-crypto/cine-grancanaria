@@ -793,5 +793,73 @@
     "genres": [
       "Documental"
     ]
+  },
+  "La Carn": {
+    "rating": 0.0,
+    "poster": "https://image.tmdb.org/t/p/w342/7OrOyDGt5WlzvTiRX4U2Lx9eCYg.jpg",
+    "summary": "La proyección de este pase se exhibirá con subtítulos en español e inglés.\n\nThis show will be exhibited with Spanish and English subtitles. \n\nEn su nueva performance, el artista emergente balear Lluís Garau se inspira en una plataforma que conecta al azar a desconocidos mediante videollamadas. La frontera entre el mundo real y ese espacio digital deja de estar clara y su vida comienza a confundirse con la obra. \n\nEN In his new performance, the emerging Balearic artist Lluís Garau draws inspiration from a platform that randomly connects strangers through video calls. The boundary between the real world and this digital space becomes blurred, and his life begins to merge with his artwork.",
+    "genres": [
+      "Drama",
+      "Documental"
+    ]
+  },
+  "Nothing But Time": {
+    "rating": 7.3,
+    "poster": "https://image.tmdb.org/t/p/w342/CbH5b1fKyD1l0Ubxz0om9iZVsK.jpg",
+    "summary": "La vida de una gran ciudad (París) desde el amanecer hasta el anochecer, incluyendo a los bellos y a los desaliñados, a los ricos y a los pobres.",
+    "genres": [
+      "Documental",
+      "Drama"
+    ]
+  },
+  "Fantasy": {
+    "rating": 5.8,
+    "poster": "https://image.tmdb.org/t/p/w342/gpkUJF9SFdCIbyQNzq5ImZZFbP1.jpg",
+    "summary": "El enigmático Sr. Roarke hace realidad los sueños de los afortunados huéspedes que acuden a su lujoso y remoto resort tropical. Sin embargo, sus fantasías se convertirán en pesadillas, y los invitados deberán resolver el misterio que oculta la isla para poder escapar con vida. Adaptación en clave de terror del famoso programa de televisión de los años 70 ambientado en un resort ubicado en una isla mágica.",
+    "genres": [
+      "Aventura",
+      "Fantasía",
+      "Terror"
+    ]
+  },
+  "Blue Heron": {
+    "rating": 10.0,
+    "poster": "https://image.tmdb.org/t/p/w342/4hfMbVbYc2gsMnSE1K8Oc9LQH4j.jpg",
+    "summary": "La proyección de este pase se exhibirá con subtítulos en español e inglés.\n\nThis show will be exhibited with Spanish and English subtitles. \n\nAmbientada a finales de los años noventa, el debut de Sophy Romvari en el largometraje sigue a una familia de seis miembros que se instala en un nuevo hogar en la isla de Vancouver. A través de la mirada de la hija menor, un alter ego de la directora, el relato observa la adaptación a la convivencia y las dinámicas que se establecen entre los hermanos y el padre. La aparente calma del entorno doméstico se ve desafiada por tensiones internas, especialmente vinculadas al hijo mayor. \n\nEN Set in the late 1990s, Sophy Romvari’s feature debut follows a family of six as they move into a new home on Vancouver Island. Through the eyes of the youngest daughter, an alter ego of the director, the story observes their adjustment to living together and the dynamics that develop among the siblings and the father. The apparent calm of the domestic environment is challenged by underlying tensions, particularly those involving the eldest son.",
+    "genres": [
+      "Drama"
+    ]
+  },
+  "If I Go Will They Miss Me": {
+    "rating": 0.0,
+    "poster": "https://image.tmdb.org/t/p/w342/mJ0WbeOIOlW6upIAYsFuJ5R7u9.jpg",
+    "summary": "En 1992 en el South Central, un barrio de Los Ángeles, un gesto impulsivo de Anthony marca su infancia con culpa y una visión inquietante que parece perseguirle. Treinta años después, su hijo Lil Ant crece en un mundo entre la realidad y la imaginación, idealizando a un padre ausente convertido en figura mítica. Mientras el barrio cambia, las heridas del pasado resurgen y se entrelazan con el presente. Un retrato generacional donde memoria, culpa y fantasía conviven en un mismo espacio.",
+    "genres": [
+      "Drama"
+    ]
+  },
+  "17": {
+    "rating": 6.8,
+    "poster": "https://image.tmdb.org/t/p/w342/iOKu6Hf5atv3DuXBS0jBF3OYYdu.jpg",
+    "summary": "Mickey 17, un miembro de la tripulación 'expendable' (prescindible) enviado a un planeta helado para colonizarlo, se niega a dejar que su clon de reemplazo, Mickey 18, tome su lugar... Adaptación del libro original de Edward Ashton.",
+    "genres": [
+      "Ciencia ficción",
+      "Comedia",
+      "Aventura"
+    ]
+  },
+  "Banda Aparte Ignacio Agüero Sesión 2": {
+    "rating": 0,
+    "poster": null,
+    "summary": "La proyección de este pase se exhibirá con subtítulos en español e inglés.\n\nThis show will be exhibited with Spanish and English subtitles. \n\nNo olvidar. Cien niños esperando un tren ( One Hundred Children Waiting for a Train ). Sueños de hielo ( Dreams of Ice )",
+    "genres": []
+  },
+  "Esperanza Viva": {
+    "rating": 0.0,
+    "poster": "https://image.tmdb.org/t/p/w342/yqJxKaJvkwdmrLJTnVzabfi1o2f.jpg",
+    "summary": "¿Todavía hay lugar para la esperanza? Desde la ayuda a los más pobres de Madrid, pasando por jóvenes que encuentran sentido en la fe, una artista que anuncia el amor de Dios con su música, un sacerdote que halla luz tras la adversidad y un hombre que reconstruye su vida después de perderlo todo, 'Esperanza viva' se convierte en una invitación a creer que, incluso en los momentos más oscuros, la esperanza puede renacer y dar un nuevo sentido a la vida.",
+    "genres": [
+      "Documental"
+    ]
   }
 }
