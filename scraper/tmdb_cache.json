@@ -861,5 +861,42 @@
     "genres": [
       "Documental"
     ]
+  },
+  "Sección Oficial Cortos Sesión 1": {
+    "rating": 0,
+    "poster": null,
+    "summary": "La proyección de este pase se exhibirá con subtítulos en español e inglés.\n\nThis show will be exhibited with Spanish and English subtitles. \n\nSamba infinito. Gone People. Citizen-Inmate (Dar Brand). Ofélia. Earworm (Öronmask).",
+    "genres": []
+  },
+  "El Otro Día": {
+    "rating": 6.3,
+    "poster": "https://image.tmdb.org/t/p/w342/uEsdruCnUKc0GZ5YYLcddKnzvG5.jpg",
+    "summary": "La casa del realizador tiene una puerta que da a la vereda. Esta puerta separa el interior del exterior. El interior contiene la historia personal del realizador y su mundo de objetos, pensamientos e imaginaciones. El espacio exterior contiene la ciudad de Santiago de Chile. Las historias del mundo interior de la casa son interrumpidas cuando desconocidos tocan el timbre y de ese modo entran en la película.",
+    "genres": [
+      "Documental"
+    ]
+  },
+  "Lucky Lu": {
+    "rating": 5.8,
+    "poster": "https://image.tmdb.org/t/p/w342/rNE3tyOvNP3q2MH4bgdPFHkHCcI.jpg",
+    "summary": "La película sigue durante 48 horas a un repartidor de una plataforma de entregas cuya bicicleta es robada en Nueva York. Ante la inminente llegada de su familia desde Asia, inicia una búsqueda contrarreloj para recuperarla. En su recorrido por distintos rincones de la ciudad, el relato se adentra en las dinámicas laborales, las redes de apoyo y las tensiones que atraviesan la vida de los trabajadores migrantes.",
+    "genres": [
+      "Drama"
+    ]
+  },
+  "Songs Of The Forgotten Trees": {
+    "rating": 0,
+    "poster": null,
+    "summary": "La proyección de este pase se exhibirá con subtítulos en español e inglés.\n\nThis show will be exhibited with Spanish and English subtitles. \n\nThooya es una joven migrante en Mumbai que aspira ser actriz. Subarrienda una habitación de su vivienda a otra mujer recién llegada a la ciudad, empleada en un call center. La convivencia entre estas mujeres tan distintas, atravesada por la precariedad laboral y la búsqueda de estabilidad, las acerca de modo inesperado. \n\nEN Thooya is a young migrant in Mumbai who aspires to be an actress. She sublets a room in her apartment to another woman who has recently arrived in the city and works in a call center. Their shared life, marked by job insecurity and the search for stability, brings these very different women closer in unexpected ways.",
+    "genres": []
+  },
+  "Resurrection": {
+    "rating": 7.1,
+    "poster": "https://image.tmdb.org/t/p/w342/76uPr6mqXiEY935oH2IxTCJjLxo.jpg",
+    "summary": "En un mundo donde la humanidad ha perdido la capacidad de soñar, una criatura sigue fascinada por las ilusiones que se desvanecen del mundo onírico. Este monstruo, a la deriva en la ensoñación, se aferra a visiones que nadie más puede ver… hasta que aparece una mujer. Dotada del raro poder de percibir estas ilusiones tal como son, decide adentrarse en los sueños del monstruo, decidida a descubrir la verdad que se oculta en su interior.",
+    "genres": [
+      "Ciencia ficción",
+      "Drama"
+    ]
   }
 }

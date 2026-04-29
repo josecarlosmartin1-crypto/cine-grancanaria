@@ -37,16 +37,6 @@ export const MOVIE_DATA = {
       ]
     },
     {
-      "title": "Esperanza Viva",
-      "time": "18:10",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/yqJxKaJvkwdmrLJTnVzabfi1o2f.jpg",
-      "summary": "¿Todavía hay lugar para la esperanza? Desde la ayuda a los más pobres de Madrid, pasando por jóvenes que encuentran sentido en la fe, una artista que anuncia el amor de Dios con su música, un sacerdote que halla luz tras la adversidad y un hombre que reconstruye su vida después de perderlo todo, 'Esperanza viva' se convierte en una invitación a creer que, incluso en los momentos más oscuros, la esperanza puede renacer y dar un nuevo sentido a la vida.",
-      "genres": [
-        "Documental"
-      ]
-    },
-    {
       "title": "Michael",
       "time": "17:00",
       "rating": 0.0,
@@ -143,6 +133,18 @@ export const MOVIE_DATA = {
       "genres": [
         "Música",
         "Drama"
+      ]
+    },
+    {
+      "title": "Turno De Noche",
+      "time": "18:10",
+      "rating": 6.8,
+      "poster": "https://image.tmdb.org/t/p/w342/bp0tX5Q02YtkFAQI8TMwwsvQs1d.jpg",
+      "summary": "Cuando un hongo mutante altamente contagioso escapa de una instalación sellada, dos jóvenes empleados, acompañados por un veterano agente de bioterrorismo, deben sobrevivir al turno de noche más alocado de la historia para salvar a la humanidad de la extinción, mientras el microorganismo se propaga y destruye todo a su paso.",
+      "genres": [
+        "Terror",
+        "Ciencia ficción",
+        "Comedia"
       ]
     },
     {
@@ -358,129 +360,102 @@ export const MOVIE_DATA = {
       ]
     },
     {
-      "title": "Canarias Cinema Cortos Sesión 2",
-      "time": "18:00",
+      "title": "Sección Oficial Cortos Sesión 1",
+      "time": "17:30",
       "rating": 0,
       "poster": null,
-      "summary": "La proyección de este pase se exhibirá con subtítulos en español e inglés.\n\nThis show will be exhibited with Spanish and English subtitles. \n\nKipuka. La mujer imaginada (The imagined woman). Mariners. Las Mayorets (The Mayorettes). Cosecha (Harvest). Muy bien (Great).  ",
+      "summary": "La proyección de este pase se exhibirá con subtítulos en español e inglés.\n\nThis show will be exhibited with Spanish and English subtitles. \n\nSamba infinito. Gone People. Citizen-Inmate (Dar Brand). Ofélia. Earworm (Öronmask).",
       "genres": []
     },
     {
-      "title": "La Lucha (Dance Of The Living)",
-      "time": "20:15",
-      "rating": 8.4,
-      "poster": "https://image.tmdb.org/t/p/w342/sgTAWJFaB2kBvdQxRGabYFiQqEK.jpg",
-      "summary": "Un hombre consumido por el insomnio y una vida sin sentido conoce a Tyler Durden, un carismático anarquista que lo arrastra a un club secreto donde el dolor despierta algo dormido. Lo que comienza como liberación pronto se convierte en una guerra contra el sistema…",
-      "genres": [
-        "Drama",
-        "Suspense"
-      ]
-    },
-    {
-      "title": "La Carn",
-      "time": "17:30",
+      "title": "La Carpa De Circo (Thampu. The Circus Tent)",
+      "time": "17:00",
       "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/7OrOyDGt5WlzvTiRX4U2Lx9eCYg.jpg",
-      "summary": "La proyección de este pase se exhibirá con subtítulos en español e inglés.\n\nThis show will be exhibited with Spanish and English subtitles. \n\nEn su nueva performance, el artista emergente balear Lluís Garau se inspira en una plataforma que conecta al azar a desconocidos mediante videollamadas. La frontera entre el mundo real y ese espacio digital deja de estar clara y su vida comienza a confundirse con la obra. \n\nEN In his new performance, the emerging Balearic artist Lluís Garau draws inspiration from a platform that randomly connects strangers through video calls. The boundary between the real world and this digital space becomes blurred, and his life begins to merge with his artwork.",
+      "poster": "https://image.tmdb.org/t/p/w342/jdTJX8h4UQKcuSQe2wGLUflGAIy.jpg",
+      "summary": "Esta es una historia de amor, la historia de una familia de circo: Los Magote. Pablo, el director y maestro de ceremonias; su esposa, payasa y acróbata; y los hijos que desde bebés se van incorporando al espectáculo. Es también la historia de amor y de identificación que siente la gente por el circo de su pueblo, un clásico también de quienes van todos los años a veranear a una pequeña playa de Argentina: Aguas Verdes.  This is a love story, the story of a circus family: Los Magote. Pablo, the director and master of ceremonies; his wife, a clown and acrobat; and the children who from babies are incorporated into the show. It is also the story of love and identification that people feel for the circus of their town, also a classic for those who go every year to spend the summer on a small beach in Argentina: Aguas Verdes.",
       "genres": [
-        "Drama",
         "Documental"
       ]
     },
     {
-      "title": "Nothing But Time (Rien Que Les Heures)",
-      "time": "20:00",
-      "rating": 7.3,
-      "poster": "https://image.tmdb.org/t/p/w342/CbH5b1fKyD1l0Ubxz0om9iZVsK.jpg",
-      "summary": "La vida de una gran ciudad (París) desde el amanecer hasta el anochecer, incluyendo a los bellos y a los desaliñados, a los ricos y a los pobres.",
+      "title": "Por Qué No Escribo Nada",
+      "time": "12:00",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/vuY2A58jHTA0VMU2y5rYr6Vttp3.jpg",
+      "summary": "Con solo 23 años, Carmen Laforet revolucionó la literatura española con su novela “Nada”. Su talento natural prometía una larga trayectoria llena de éxitos, pero no fue así: escribió poco y fue cayendo en el silencio… O esa es la historia que nos han contado. Sin embargo, los textos de la autora revelan otra verdad muy distinta: la de una mujer libre, original, rebelde, que no cedió a los dictados de nadie. Esta vez Carmen Laforet (Mónica López) toma la palabra y nos sumerge en el mundo de una escritora única, luchando por su libertad. Su historia es la de todas las mujeres que intentan salirse del guión.",
       "genres": [
         "Documental",
-        "Drama"
+        "Historia"
       ]
     },
     {
-      "title": "Fantasy (Fantaisie)",
+      "title": "El Otro Día (The Other Day)",
       "time": "18:15",
+      "rating": 6.3,
+      "poster": "https://image.tmdb.org/t/p/w342/uEsdruCnUKc0GZ5YYLcddKnzvG5.jpg",
+      "summary": "La casa del realizador tiene una puerta que da a la vereda. Esta puerta separa el interior del exterior. El interior contiene la historia personal del realizador y su mundo de objetos, pensamientos e imaginaciones. El espacio exterior contiene la ciudad de Santiago de Chile. Las historias del mundo interior de la casa son interrumpidas cuando desconocidos tocan el timbre y de ese modo entran en la película.",
+      "genres": [
+        "Documental"
+      ]
+    },
+    {
+      "title": "Lucky Lu",
+      "time": "11:45",
       "rating": 5.8,
-      "poster": "https://image.tmdb.org/t/p/w342/gpkUJF9SFdCIbyQNzq5ImZZFbP1.jpg",
-      "summary": "El enigmático Sr. Roarke hace realidad los sueños de los afortunados huéspedes que acuden a su lujoso y remoto resort tropical. Sin embargo, sus fantasías se convertirán en pesadillas, y los invitados deberán resolver el misterio que oculta la isla para poder escapar con vida. Adaptación en clave de terror del famoso programa de televisión de los años 70 ambientado en un resort ubicado en una isla mágica.",
-      "genres": [
-        "Aventura",
-        "Fantasía",
-        "Terror"
-      ]
-    },
-    {
-      "title": "Blue Heron",
-      "time": "20:00",
-      "rating": 10.0,
-      "poster": "https://image.tmdb.org/t/p/w342/4hfMbVbYc2gsMnSE1K8Oc9LQH4j.jpg",
-      "summary": "La proyección de este pase se exhibirá con subtítulos en español e inglés.\n\nThis show will be exhibited with Spanish and English subtitles. \n\nAmbientada a finales de los años noventa, el debut de Sophy Romvari en el largometraje sigue a una familia de seis miembros que se instala en un nuevo hogar en la isla de Vancouver. A través de la mirada de la hija menor, un alter ego de la directora, el relato observa la adaptación a la convivencia y las dinámicas que se establecen entre los hermanos y el padre. La aparente calma del entorno doméstico se ve desafiada por tensiones internas, especialmente vinculadas al hijo mayor. \n\nEN Set in the late 1990s, Sophy Romvari’s feature debut follows a family of six as they move into a new home on Vancouver Island. Through the eyes of the youngest daughter, an alter ego of the director, the story observes their adjustment to living together and the dynamics that develop among the siblings and the father. The apparent calm of the domestic environment is challenged by underlying tensions, particularly those involving the eldest son.",
+      "poster": "https://image.tmdb.org/t/p/w342/rNE3tyOvNP3q2MH4bgdPFHkHCcI.jpg",
+      "summary": "La película sigue durante 48 horas a un repartidor de una plataforma de entregas cuya bicicleta es robada en Nueva York. Ante la inminente llegada de su familia desde Asia, inicia una búsqueda contrarreloj para recuperarla. En su recorrido por distintos rincones de la ciudad, el relato se adentra en las dinámicas laborales, las redes de apoyo y las tensiones que atraviesan la vida de los trabajadores migrantes.",
       "genres": [
         "Drama"
       ]
     },
     {
-      "title": "If I Go Will They Miss Me",
-      "time": "12:15",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/mJ0WbeOIOlW6upIAYsFuJ5R7u9.jpg",
-      "summary": "En 1992 en el South Central, un barrio de Los Ángeles, un gesto impulsivo de Anthony marca su infancia con culpa y una visión inquietante que parece perseguirle. Treinta años después, su hijo Lil Ant crece en un mundo entre la realidad y la imaginación, idealizando a un padre ausente convertido en figura mítica. Mientras el barrio cambia, las heridas del pasado resurgen y se entrelazan con el presente. Un retrato generacional donde memoria, culpa y fantasía conviven en un mismo espacio.",
+      "title": "Lucky Lu",
+      "time": "17:10",
+      "rating": 5.8,
+      "poster": "https://image.tmdb.org/t/p/w342/rNE3tyOvNP3q2MH4bgdPFHkHCcI.jpg",
+      "summary": "La película sigue durante 48 horas a un repartidor de una plataforma de entregas cuya bicicleta es robada en Nueva York. Ante la inminente llegada de su familia desde Asia, inicia una búsqueda contrarreloj para recuperarla. En su recorrido por distintos rincones de la ciudad, el relato se adentra en las dinámicas laborales, las redes de apoyo y las tensiones que atraviesan la vida de los trabajadores migrantes.",
       "genres": [
         "Drama"
       ]
     },
     {
-      "title": "If I Go Will They Miss Me",
-      "time": "18:00",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/mJ0WbeOIOlW6upIAYsFuJ5R7u9.jpg",
-      "summary": "En 1992 en el South Central, un barrio de Los Ángeles, un gesto impulsivo de Anthony marca su infancia con culpa y una visión inquietante que parece perseguirle. Treinta años después, su hijo Lil Ant crece en un mundo entre la realidad y la imaginación, idealizando a un padre ausente convertido en figura mítica. Mientras el barrio cambia, las heridas del pasado resurgen y se entrelazan con el presente. Un retrato generacional donde memoria, culpa y fantasía conviven en un mismo espacio.",
-      "genres": [
-        "Drama"
-      ]
-    },
-    {
-      "title": "17",
-      "time": "20:10",
-      "rating": 6.8,
-      "poster": "https://image.tmdb.org/t/p/w342/iOKu6Hf5atv3DuXBS0jBF3OYYdu.jpg",
-      "summary": "Mickey 17, un miembro de la tripulación 'expendable' (prescindible) enviado a un planeta helado para colonizarlo, se niega a dejar que su clon de reemplazo, Mickey 18, tome su lugar... Adaptación del libro original de Edward Ashton.",
-      "genres": [
-        "Ciencia ficción",
-        "Comedia",
-        "Aventura"
-      ]
-    },
-    {
-      "title": "Banda Aparte Ignacio Agüero Sesión 2",
-      "time": "17:00",
+      "title": "Songs Of The Forgotten Trees",
+      "time": "20:20",
       "rating": 0,
       "poster": null,
-      "summary": "La proyección de este pase se exhibirá con subtítulos en español e inglés.\n\nThis show will be exhibited with Spanish and English subtitles. \n\nNo olvidar. Cien niños esperando un tren ( One Hundred Children Waiting for a Train ). Sueños de hielo ( Dreams of Ice )",
+      "summary": "La proyección de este pase se exhibirá con subtítulos en español e inglés.\n\nThis show will be exhibited with Spanish and English subtitles. \n\nThooya es una joven migrante en Mumbai que aspira ser actriz. Subarrienda una habitación de su vivienda a otra mujer recién llegada a la ciudad, empleada en un call center. La convivencia entre estas mujeres tan distintas, atravesada por la precariedad laboral y la búsqueda de estabilidad, las acerca de modo inesperado. \n\nEN Thooya is a young migrant in Mumbai who aspires to be an actress. She sublets a room in her apartment to another woman who has recently arrived in the city and works in a call center. Their shared life, marked by job insecurity and the search for stability, brings these very different women closer in unexpected ways.",
       "genres": []
     },
     {
-      "title": "Días Y Noches En El Bosque",
-      "time": "17:15",
-      "rating": 6.9,
-      "poster": "https://image.tmdb.org/t/p/w342/v4hsB4seYLmohC0EzE0WdS7fIA.jpg",
-      "summary": "Cuatro amigos, que viven en Calcuta, hacen una excursión en coche en dirección a los bosques de Palmau. Llegados a una aldea, buscan alojamiento en un albergue y, como no han hecho reserva, para ser admitidos tienen que sobornar al vigilante, que se arriesga a perder su trabajo, pero necesita el dinero, pues su esposa está enferma. Los jóvenes, muy seguros de sí mismos, muestran muy poco respeto por los aldeanos. El líder del grupo es Ashim (Soumitra Chatterjee), el más rico de todos. Sanjoy (Subhendu Chatterjee) es un joven tímido. Hari (Samit Bhanja) es un deportista que trata de olvidar a una chica que acaba de rechazarlo. Shekhar (Robi Ghosh) es el más gracioso y seguro de sí mismo.",
+      "title": "Resurrection (Kuang Ye Shi Dai)",
+      "time": "19:00",
+      "rating": 7.1,
+      "poster": "https://image.tmdb.org/t/p/w342/76uPr6mqXiEY935oH2IxTCJjLxo.jpg",
+      "summary": "En un mundo donde la humanidad ha perdido la capacidad de soñar, una criatura sigue fascinada por las ilusiones que se desvanecen del mundo onírico. Este monstruo, a la deriva en la ensoñación, se aferra a visiones que nadie más puede ver… hasta que aparece una mujer. Dotada del raro poder de percibir estas ilusiones tal como son, decide adentrarse en los sueños del monstruo, decidida a descubrir la verdad que se oculta en su interior.",
       "genres": [
-        "Drama",
-        "Comedia"
+        "Ciencia ficción",
+        "Drama"
       ]
     },
     {
-      "title": "The Girls (Gehenu Lamai)",
-      "time": "19:45",
-      "rating": 6.3,
-      "poster": "https://image.tmdb.org/t/p/w342/cKLATvYcVUn6FfmgOU811TJgHWl.jpg",
-      "summary": "Las \"chicas guepardo\" -Galleria, Chanel, Aquanette y Dorinda- son cuatro adolescentes de Nueva York destinadas al estrellato. Intentan convencer a dos de las madres, Dorothea y Juanita, para que las acompañen a Barcelona, ya que quieren disfrutar de una \"experiencia cultural y educacional\", aunque su verdadero objetivo es participar en el Festival de las Nuevas Voces de la Música que se celebra allí. Ya en la ciudad condal, sus intereses personales comienzan a llevarlas en diferentes direcciones... (FILMAFFINITY)",
+      "title": "Trial Of Hein (Der Heimatlose)",
+      "time": "18:00",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/cBxkNpLZtNVNv7Ot5FAA2WsWlQ5.jpg",
+      "summary": "Tras 14 años en el continente, lejos de su hogar, Hein decide regresar a su isla en el Mar del Norte. Sin embargo, la comunidad no lo reconoce y lo considera un impostor. Para probar su identidad, es sometido a un juicio en el que participa todo el pueblo.",
       "genres": [
-        "Familia",
-        "Comedia",
         "Drama"
+      ]
+    },
+    {
+      "title": "Remake",
+      "time": "20:30",
+      "rating": 3.7,
+      "poster": "https://image.tmdb.org/t/p/w342/yubngQSAhehExcLQqTHA75pPPKF.jpg",
+      "summary": "Tras más de cuatro décadas explorando a través de la cámara cómo su vida personal se relaciona con el mundo, la muerte de su hijo Adrian lleva al veterano director Ross McElwee a repensar por completo sus propias imágenes. Partiendo del profundo dolor de la ausencia, la película explora el vínculo que el cine formó entre ellos dos. \n\nEN After more than four decades of exploring through his lens how his personal life relates to the world, the death of his son, Adrian, leads veteran director Ross McElwee to completely rethink his own imagery. Starting from the profound pain of loss, the film explores the bond that cinema formed between them.",
+      "genres": [
+        "Comedia",
+        "Familia"
       ]
     },
     {
@@ -812,7 +787,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Super Mario Galaxy: La Pelicula",
-      "time": "17:00",
+      "time": "16:30",
       "rating": 6.9,
       "poster": "https://image.tmdb.org/t/p/w342/eEfzkiW28Y3BaHjjgFNkFERNKiK.jpg",
       "summary": "La película tiene lugar después de los acontecimientos de la primera, en la que dos hermanos, Mario y Luigi, y la princesa Peach emprenden una aventura hasta los confines del espacio y a través de la galaxia. Secuela de \"Super Mario Bros: La película\", basada en la saga \"Mario Galaxy\".",
@@ -824,7 +799,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Super Mario Galaxy: La Pelicula",
-      "time": "19:00",
+      "time": "18:30",
       "rating": 6.9,
       "poster": "https://image.tmdb.org/t/p/w342/eEfzkiW28Y3BaHjjgFNkFERNKiK.jpg",
       "summary": "La película tiene lugar después de los acontecimientos de la primera, en la que dos hermanos, Mario y Luigi, y la princesa Peach emprenden una aventura hasta los confines del espacio y a través de la galaxia. Secuela de \"Super Mario Bros: La película\", basada en la saga \"Mario Galaxy\".",
@@ -836,7 +811,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Super Mario Galaxy: La Pelicula",
-      "time": "21:00",
+      "time": "20:30",
       "rating": 6.9,
       "poster": "https://image.tmdb.org/t/p/w342/eEfzkiW28Y3BaHjjgFNkFERNKiK.jpg",
       "summary": "La película tiene lugar después de los acontecimientos de la primera, en la que dos hermanos, Mario y Luigi, y la princesa Peach emprenden una aventura hasta los confines del espacio y a través de la galaxia. Secuela de \"Super Mario Bros: La película\", basada en la saga \"Mario Galaxy\".",
@@ -848,7 +823,17 @@ export const MOVIE_DATA = {
     },
     {
       "title": "La Familia Beneton 2",
-      "time": "17:30",
+      "time": "16:00",
+      "rating": 7.0,
+      "poster": "https://image.tmdb.org/t/p/w342/qJhTQ2TFMG2q9Tv6xsyntTMibcU.jpg",
+      "summary": "Cuando Toni cree que tiene todo bajo control en su entrañable y divertida familia multicultural, la llegada de dos nuevos bebés pondrá patas arriba la casa y a toda la familia.",
+      "genres": [
+        "Comedia"
+      ]
+    },
+    {
+      "title": "La Familia Beneton 2",
+      "time": "17:40",
       "rating": 7.0,
       "poster": "https://image.tmdb.org/t/p/w342/qJhTQ2TFMG2q9Tv6xsyntTMibcU.jpg",
       "summary": "Cuando Toni cree que tiene todo bajo control en su entrañable y divertida familia multicultural, la llegada de dos nuevos bebés pondrá patas arriba la casa y a toda la familia.",
@@ -911,8 +896,19 @@ export const MOVIE_DATA = {
       ]
     },
     {
+      "title": "La Momia De Lee Cronin",
+      "time": "22:30",
+      "rating": 8.2,
+      "poster": "https://image.tmdb.org/t/p/w342/qlLsNgRUiPPEIVbcqZR2KmOBL7e.jpg",
+      "summary": "La joven hija de un periodista desaparece en el desierto sin dejar rastro—ocho años más tarde, la familia rota se conmociona cuando ella es devuelta a ellos, y lo que debiera haber sido una reunión jubilosa se convierte en una auténtica pesadilla.",
+      "genres": [
+        "Terror",
+        "Misterio"
+      ]
+    },
+    {
       "title": "La Ahorcada",
-      "time": "19:00",
+      "time": "19:20",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/277U1iDp01XMQ6KBkPTMsmaLrBA.jpg",
       "summary": "",
@@ -932,7 +928,29 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Michael",
+      "time": "16:00",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/2uK36ujoDXOfNiJ5Yp3raVprB51.jpg",
+      "summary": "El viaje de Michael Jackson más allá de la música, desde el descubrimiento de su extraordinario talento como líder de los Jackson Five hasta convertirse en una visionaria estrella cuya ambición creativa despertó un incansable afán por consagrarse como el mayor icono de la industria del entretenimiento.",
+      "genres": [
+        "Música",
+        "Drama"
+      ]
+    },
+    {
+      "title": "Michael",
       "time": "16:50",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/2uK36ujoDXOfNiJ5Yp3raVprB51.jpg",
+      "summary": "El viaje de Michael Jackson más allá de la música, desde el descubrimiento de su extraordinario talento como líder de los Jackson Five hasta convertirse en una visionaria estrella cuya ambición creativa despertó un incansable afán por consagrarse como el mayor icono de la industria del entretenimiento.",
+      "genres": [
+        "Música",
+        "Drama"
+      ]
+    },
+    {
+      "title": "Michael",
+      "time": "18:10",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/2uK36ujoDXOfNiJ5Yp3raVprB51.jpg",
       "summary": "El viaje de Michael Jackson más allá de la música, desde el descubrimiento de su extraordinario talento como líder de los Jackson Five hasta convertirse en una visionaria estrella cuya ambición creativa despertó un incansable afán por consagrarse como el mayor icono de la industria del entretenimiento.",
@@ -1035,7 +1053,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Kraken: El Libro Negro De Las Horas",
-      "time": "21:45",
+      "time": "21:40",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/3ZIhW9gyIARln6Tnn92lOS2o419.jpg",
       "summary": "Unai López de Ayala debe introducirse en el mundo del coleccionismo y las falsificaciones para encontrar el mítico Libro Negro de Horas y poder salvar a su madre que creía ya muerta",
@@ -1047,7 +1065,19 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Maracuda",
-      "time": "17:00",
+      "time": "16:00",
+      "rating": 7.9,
+      "poster": "https://image.tmdb.org/t/p/w342/921uxRXPTQZHaTCMR2uCOmVdfC2.jpg",
+      "summary": "Maracuda, hijo de un respetado líder tribal, lucha por estar a la altura de las expectativas de su padre. Se aventura en un bosque misterioso para probarse a sí mismo y se encuentra con Tink, un pájaro extraterrestre mágico, y juntos se embarcan en increíbles aventuras en el bosque de la Edad de Piedra habitado por ardillas dientes de sable, adorables suricatos e incluso dinosaurios. En medio de sus aventuras, Tink transforma involuntariamente al padre de Maracuda en una pequeña criatura, lo que lleva al niño a enseñarle a Tink cómo controlar sus poderes.",
+      "genres": [
+        "Familia",
+        "Animación",
+        "Aventura"
+      ]
+    },
+    {
+      "title": "Maracuda",
+      "time": "17:40",
       "rating": 7.9,
       "poster": "https://image.tmdb.org/t/p/w342/921uxRXPTQZHaTCMR2uCOmVdfC2.jpg",
       "summary": "Maracuda, hijo de un respetado líder tribal, lucha por estar a la altura de las expectativas de su padre. Se aventura en un bosque misterioso para probarse a sí mismo y se encuentra con Tink, un pájaro extraterrestre mágico, y juntos se embarcan en increíbles aventuras en el bosque de la Edad de Piedra habitado por ardillas dientes de sable, adorables suricatos e incluso dinosaurios. En medio de sus aventuras, Tink transforma involuntariamente al padre de Maracuda en una pequeña criatura, lo que lleva al niño a enseñarle a Tink cómo controlar sus poderes.",
