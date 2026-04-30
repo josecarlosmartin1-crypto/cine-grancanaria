@@ -1,44 +1,104 @@
 export const MOVIE_DATA = {
   "Cine Yelmo Vecindario": [
     {
-      "title": "Kraken: El Libro Negro De Las Horas",
-      "time": "17:15",
+      "title": "El Diablo Viste De Prada 2",
+      "time": "17:00",
       "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/3ZIhW9gyIARln6Tnn92lOS2o419.jpg",
-      "summary": "Unai López de Ayala debe introducirse en el mundo del coleccionismo y las falsificaciones para encontrar el mítico Libro Negro de Horas y poder salvar a su madre que creía ya muerta",
+      "poster": "https://image.tmdb.org/t/p/w342/ld68XXTztvYt5DaD1IHoRvCpgOA.jpg",
+      "summary": "Sigue la lucha de Miranda Priestly contra Emily Charlton, su ex asistente convertida en ejecutiva rival, mientras compiten por los ingresos por publicidad en medio de la decadencia de los medios impresos y Miranda se acerca a la jubilación.",
       "genres": [
-        "Crimen",
-        "Misterio",
+        "Drama",
+        "Comedia"
+      ]
+    },
+    {
+      "title": "El Diablo Viste De Prada 2",
+      "time": "18:00",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/ld68XXTztvYt5DaD1IHoRvCpgOA.jpg",
+      "summary": "Sigue la lucha de Miranda Priestly contra Emily Charlton, su ex asistente convertida en ejecutiva rival, mientras compiten por los ingresos por publicidad en medio de la decadencia de los medios impresos y Miranda se acerca a la jubilación.",
+      "genres": [
+        "Drama",
+        "Comedia"
+      ]
+    },
+    {
+      "title": "El Diablo Viste De Prada 2",
+      "time": "18:30",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/ld68XXTztvYt5DaD1IHoRvCpgOA.jpg",
+      "summary": "Sigue la lucha de Miranda Priestly contra Emily Charlton, su ex asistente convertida en ejecutiva rival, mientras compiten por los ingresos por publicidad en medio de la decadencia de los medios impresos y Miranda se acerca a la jubilación.",
+      "genres": [
+        "Drama",
+        "Comedia"
+      ]
+    },
+    {
+      "title": "El Diablo Viste De Prada 2",
+      "time": "19:30",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/ld68XXTztvYt5DaD1IHoRvCpgOA.jpg",
+      "summary": "Sigue la lucha de Miranda Priestly contra Emily Charlton, su ex asistente convertida en ejecutiva rival, mientras compiten por los ingresos por publicidad en medio de la decadencia de los medios impresos y Miranda se acerca a la jubilación.",
+      "genres": [
+        "Drama",
+        "Comedia"
+      ]
+    },
+    {
+      "title": "El Diablo Viste De Prada 2",
+      "time": "20:30",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/ld68XXTztvYt5DaD1IHoRvCpgOA.jpg",
+      "summary": "Sigue la lucha de Miranda Priestly contra Emily Charlton, su ex asistente convertida en ejecutiva rival, mientras compiten por los ingresos por publicidad en medio de la decadencia de los medios impresos y Miranda se acerca a la jubilación.",
+      "genres": [
+        "Drama",
+        "Comedia"
+      ]
+    },
+    {
+      "title": "El Diablo Viste De Prada 2",
+      "time": "21:00",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/ld68XXTztvYt5DaD1IHoRvCpgOA.jpg",
+      "summary": "Sigue la lucha de Miranda Priestly contra Emily Charlton, su ex asistente convertida en ejecutiva rival, mientras compiten por los ingresos por publicidad en medio de la decadencia de los medios impresos y Miranda se acerca a la jubilación.",
+      "genres": [
+        "Drama",
+        "Comedia"
+      ]
+    },
+    {
+      "title": "El Diablo Viste De Prada 2",
+      "time": "22:00",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/ld68XXTztvYt5DaD1IHoRvCpgOA.jpg",
+      "summary": "Sigue la lucha de Miranda Priestly contra Emily Charlton, su ex asistente convertida en ejecutiva rival, mientras compiten por los ingresos por publicidad en medio de la decadencia de los medios impresos y Miranda se acerca a la jubilación.",
+      "genres": [
+        "Drama",
+        "Comedia"
+      ]
+    },
+    {
+      "title": "Strangers: Capítulo Final",
+      "time": "22:45",
+      "rating": 5.6,
+      "poster": "https://image.tmdb.org/t/p/w342/mIiwoDukWkEoo90WXqOHxHmwhYD.jpg",
+      "summary": "Los supervivientes se enfrentan a nuevas amenazas de extraños enmascarados. Secretos salen a la luz, poniendo en peligro sus vidas mientras la línea entre realidad y peligro se difumina en su lucha por sobrevivir. Tercera y última de la trilogía de películas basadas en \"Los extraños\" (2008)",
+      "genres": [
+        "Terror",
         "Suspense"
       ]
     },
     {
-      "title": "Kraken: El Libro Negro De Las Horas",
-      "time": "19:35",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/3ZIhW9gyIARln6Tnn92lOS2o419.jpg",
-      "summary": "Unai López de Ayala debe introducirse en el mundo del coleccionismo y las falsificaciones para encontrar el mítico Libro Negro de Horas y poder salvar a su madre que creía ya muerta",
-      "genres": [
-        "Crimen",
-        "Misterio",
-        "Suspense"
-      ]
-    },
-    {
-      "title": "Kraken: El Libro Negro De Las Horas",
-      "time": "21:55",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/3ZIhW9gyIARln6Tnn92lOS2o419.jpg",
-      "summary": "Unai López de Ayala debe introducirse en el mundo del coleccionismo y las falsificaciones para encontrar el mítico Libro Negro de Horas y poder salvar a su madre que creía ya muerta",
-      "genres": [
-        "Crimen",
-        "Misterio",
-        "Suspense"
-      ]
+      "title": "David: Una Aventura Gigante",
+      "time": "18:35",
+      "rating": 0,
+      "poster": null,
+      "summary": "David, un joven pastor, se embarca en una aventura épica cuando una amenaza gigantesca pone en peligro a su pueblo. Descubrirá, así, que el valor y el corazón pueden convertir a un pequeño héroe en leyenda.",
+      "genres": []
     },
     {
       "title": "Michael",
-      "time": "17:00",
+      "time": "17:10",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/2uK36ujoDXOfNiJ5Yp3raVprB51.jpg",
       "summary": "El viaje de Michael Jackson más allá de la música, desde el descubrimiento de su extraordinario talento como líder de los Jackson Five hasta convertirse en una visionaria estrella cuya ambición creativa despertó un incansable afán por consagrarse como el mayor icono de la industria del entretenimiento.",
@@ -71,18 +131,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Michael",
-      "time": "19:00",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/2uK36ujoDXOfNiJ5Yp3raVprB51.jpg",
-      "summary": "El viaje de Michael Jackson más allá de la música, desde el descubrimiento de su extraordinario talento como líder de los Jackson Five hasta convertirse en una visionaria estrella cuya ambición creativa despertó un incansable afán por consagrarse como el mayor icono de la industria del entretenimiento.",
-      "genres": [
-        "Música",
-        "Drama"
-      ]
-    },
-    {
-      "title": "Michael",
-      "time": "19:40",
+      "time": "19:45",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/2uK36ujoDXOfNiJ5Yp3raVprB51.jpg",
       "summary": "El viaje de Michael Jackson más allá de la música, desde el descubrimiento de su extraordinario talento como líder de los Jackson Five hasta convertirse en una visionaria estrella cuya ambición creativa despertó un incansable afán por consagrarse como el mayor icono de la industria del entretenimiento.",
@@ -115,7 +164,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Michael",
-      "time": "21:40",
+      "time": "21:20",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/2uK36ujoDXOfNiJ5Yp3raVprB51.jpg",
       "summary": "El viaje de Michael Jackson más allá de la música, desde el descubrimiento de su extraordinario talento como líder de los Jackson Five hasta convertirse en una visionaria estrella cuya ambición creativa despertó un incansable afán por consagrarse como el mayor icono de la industria del entretenimiento.",
@@ -126,7 +175,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Michael",
-      "time": "22:20",
+      "time": "22:25",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/2uK36ujoDXOfNiJ5Yp3raVprB51.jpg",
       "summary": "El viaje de Michael Jackson más allá de la música, desde el descubrimiento de su extraordinario talento como líder de los Jackson Five hasta convertirse en una visionaria estrella cuya ambición creativa despertó un incansable afán por consagrarse como el mayor icono de la industria del entretenimiento.",
@@ -136,32 +185,8 @@ export const MOVIE_DATA = {
       ]
     },
     {
-      "title": "Turno De Noche",
-      "time": "18:10",
-      "rating": 6.8,
-      "poster": "https://image.tmdb.org/t/p/w342/bp0tX5Q02YtkFAQI8TMwwsvQs1d.jpg",
-      "summary": "Cuando un hongo mutante altamente contagioso escapa de una instalación sellada, dos jóvenes empleados, acompañados por un veterano agente de bioterrorismo, deben sobrevivir al turno de noche más alocado de la historia para salvar a la humanidad de la extinción, mientras el microorganismo se propaga y destruye todo a su paso.",
-      "genres": [
-        "Terror",
-        "Ciencia ficción",
-        "Comedia"
-      ]
-    },
-    {
-      "title": "Turno De Noche",
-      "time": "22:35",
-      "rating": 6.8,
-      "poster": "https://image.tmdb.org/t/p/w342/bp0tX5Q02YtkFAQI8TMwwsvQs1d.jpg",
-      "summary": "Cuando un hongo mutante altamente contagioso escapa de una instalación sellada, dos jóvenes empleados, acompañados por un veterano agente de bioterrorismo, deben sobrevivir al turno de noche más alocado de la historia para salvar a la humanidad de la extinción, mientras el microorganismo se propaga y destruye todo a su paso.",
-      "genres": [
-        "Terror",
-        "Ciencia ficción",
-        "Comedia"
-      ]
-    },
-    {
       "title": "La Momia De Lee Cronin",
-      "time": "17:05",
+      "time": "20:00",
       "rating": 8.2,
       "poster": "https://image.tmdb.org/t/p/w342/qlLsNgRUiPPEIVbcqZR2KmOBL7e.jpg",
       "summary": "La joven hija de un periodista desaparece en el desierto sin dejar rastro—ocho años más tarde, la familia rota se conmociona cuando ella es devuelta a ellos, y lo que debiera haber sido una reunión jubilosa se convierte en una auténtica pesadilla.",
@@ -172,18 +197,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "La Momia De Lee Cronin",
-      "time": "19:45",
-      "rating": 8.2,
-      "poster": "https://image.tmdb.org/t/p/w342/qlLsNgRUiPPEIVbcqZR2KmOBL7e.jpg",
-      "summary": "La joven hija de un periodista desaparece en el desierto sin dejar rastro—ocho años más tarde, la familia rota se conmociona cuando ella es devuelta a ellos, y lo que debiera haber sido una reunión jubilosa se convierte en una auténtica pesadilla.",
-      "genres": [
-        "Terror",
-        "Misterio"
-      ]
-    },
-    {
-      "title": "La Momia De Lee Cronin",
-      "time": "22:25",
+      "time": "22:15",
       "rating": 8.2,
       "poster": "https://image.tmdb.org/t/p/w342/qlLsNgRUiPPEIVbcqZR2KmOBL7e.jpg",
       "summary": "La joven hija de un periodista desaparece en el desierto sin dejar rastro—ocho años más tarde, la familia rota se conmociona cuando ella es devuelta a ellos, y lo que debiera haber sido una reunión jubilosa se convierte en una auténtica pesadilla.",
@@ -194,7 +208,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "La Familia Benetón +2",
-      "time": "18:05",
+      "time": "17:55",
       "rating": 7.0,
       "poster": "https://image.tmdb.org/t/p/w342/qJhTQ2TFMG2q9Tv6xsyntTMibcU.jpg",
       "summary": "Cuando Toni cree que tiene todo bajo control en su entrañable y divertida familia multicultural, la llegada de dos nuevos bebés pondrá patas arriba la casa y a toda la familia.",
@@ -203,24 +217,294 @@ export const MOVIE_DATA = {
       ]
     },
     {
-      "title": "La Familia Benetón +2",
+      "title": "Super Mario Galaxy: La Película",
+      "time": "17:55",
+      "rating": 6.9,
+      "poster": "https://image.tmdb.org/t/p/w342/eEfzkiW28Y3BaHjjgFNkFERNKiK.jpg",
+      "summary": "La película tiene lugar después de los acontecimientos de la primera, en la que dos hermanos, Mario y Luigi, y la princesa Peach emprenden una aventura hasta los confines del espacio y a través de la galaxia. Secuela de \"Super Mario Bros: La película\", basada en la saga \"Mario Galaxy\".",
+      "genres": [
+        "Aventura",
+        "Animación",
+        "Comedia"
+      ]
+    },
+    {
+      "title": "Super Mario Galaxy: La Película",
       "time": "20:05",
-      "rating": 7.0,
-      "poster": "https://image.tmdb.org/t/p/w342/qJhTQ2TFMG2q9Tv6xsyntTMibcU.jpg",
-      "summary": "Cuando Toni cree que tiene todo bajo control en su entrañable y divertida familia multicultural, la llegada de dos nuevos bebés pondrá patas arriba la casa y a toda la familia.",
+      "rating": 6.9,
+      "poster": "https://image.tmdb.org/t/p/w342/eEfzkiW28Y3BaHjjgFNkFERNKiK.jpg",
+      "summary": "La película tiene lugar después de los acontecimientos de la primera, en la que dos hermanos, Mario y Luigi, y la princesa Peach emprenden una aventura hasta los confines del espacio y a través de la galaxia. Secuela de \"Super Mario Bros: La película\", basada en la saga \"Mario Galaxy\".",
       "genres": [
+        "Aventura",
+        "Animación",
         "Comedia"
       ]
     },
     {
-      "title": "Boulevard",
-      "time": "22:05",
-      "rating": 3.0,
-      "poster": "https://image.tmdb.org/t/p/w342/o5M5mjnfRO50t3Wha1QPD04oHfT.jpg",
-      "summary": "Cuando Hasley (Eve Ryan) se muda a una nueva ciudad con su madre, lo último que espera es cruzarse con Luke (Mikel Niso), un joven envuelto en un aura peligrosa y un pasado trágico. Atrapado en sus propios demonios, Luke es todo lo que Hasley debería temer... pero a lo que se siente irremediablemente atraída. A pesar de las sombras que lo rodean, Hasley descubre en Luke una vulnerabilidad y un mundo interior apasionante. Juntos, crearán su propio boulevard: un refugio escondido donde poder ser ellos mismos, cumplir sueños imposibles, atreverse a amar a pesar de los prejuicios, el dolor y las cicatrices que arrastran, y demostrar que el amor es capaz de florecer incluso en los corazones más insospechados.",
+      "title": "Proyecto Salvación",
+      "time": "20:50",
+      "rating": 8.2,
+      "poster": "https://image.tmdb.org/t/p/w342/7lwOTxajURKEWO6gI370NTrVdBO.jpg",
+      "summary": "El profesor de ciencias Ryland Grace se despierta en una nave espacial a años luz de casa sin recordar quién es ni cómo ha llegado hasta allí. A medida que recupera la memoria, empieza a descubrir su misión: resolver el enigma de la misteriosa sustancia que provoca la extinción del sol. Deberá recurrir a sus conocimientos científicos y a sus ideas poco ortodoxas para salvar todo lo que hay en la Tierra de la extinción... pero una amistad inesperada significa que quizá no tenga que hacerlo solo.",
+      "genres": [
+        "Ciencia ficción",
+        "Aventura"
+      ]
+    },
+    {
+      "title": "Torrente Presidente",
+      "time": "19:00",
+      "rating": 6.4,
+      "poster": "https://image.tmdb.org/t/p/w342/a0Fn0PiGGiU74jIUelpce6z70i9.jpg",
+      "summary": "José Luis Torrente vuelve metido de lleno en la política española, arrastrando su habitual mezcla de vulgaridad, oportunismo e ineptitud. La película plantea una sátira de la realidad social y política del país mediante parodias, situaciones absurdas y numerosos cameos.",
+      "genres": [
+        "Comedia"
+      ]
+    }
+  ],
+  "Cine Yelmo Las Arenas": [
+    {
+      "title": "El Diablo Viste De Prada 2",
+      "time": "17:00",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/ld68XXTztvYt5DaD1IHoRvCpgOA.jpg",
+      "summary": "Sigue la lucha de Miranda Priestly contra Emily Charlton, su ex asistente convertida en ejecutiva rival, mientras compiten por los ingresos por publicidad en medio de la decadencia de los medios impresos y Miranda se acerca a la jubilación.",
       "genres": [
         "Drama",
-        "Romance"
+        "Comedia"
+      ]
+    },
+    {
+      "title": "El Diablo Viste De Prada 2",
+      "time": "18:30",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/ld68XXTztvYt5DaD1IHoRvCpgOA.jpg",
+      "summary": "Sigue la lucha de Miranda Priestly contra Emily Charlton, su ex asistente convertida en ejecutiva rival, mientras compiten por los ingresos por publicidad en medio de la decadencia de los medios impresos y Miranda se acerca a la jubilación.",
+      "genres": [
+        "Drama",
+        "Comedia"
+      ]
+    },
+    {
+      "title": "El Diablo Viste De Prada 2",
+      "time": "19:40",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/ld68XXTztvYt5DaD1IHoRvCpgOA.jpg",
+      "summary": "Sigue la lucha de Miranda Priestly contra Emily Charlton, su ex asistente convertida en ejecutiva rival, mientras compiten por los ingresos por publicidad en medio de la decadencia de los medios impresos y Miranda se acerca a la jubilación.",
+      "genres": [
+        "Drama",
+        "Comedia"
+      ]
+    },
+    {
+      "title": "El Diablo Viste De Prada 2",
+      "time": "21:10",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/ld68XXTztvYt5DaD1IHoRvCpgOA.jpg",
+      "summary": "Sigue la lucha de Miranda Priestly contra Emily Charlton, su ex asistente convertida en ejecutiva rival, mientras compiten por los ingresos por publicidad en medio de la decadencia de los medios impresos y Miranda se acerca a la jubilación.",
+      "genres": [
+        "Drama",
+        "Comedia"
+      ]
+    },
+    {
+      "title": "El Diablo Viste De Prada 2",
+      "time": "22:20",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/ld68XXTztvYt5DaD1IHoRvCpgOA.jpg",
+      "summary": "Sigue la lucha de Miranda Priestly contra Emily Charlton, su ex asistente convertida en ejecutiva rival, mientras compiten por los ingresos por publicidad en medio de la decadencia de los medios impresos y Miranda se acerca a la jubilación.",
+      "genres": [
+        "Drama",
+        "Comedia"
+      ]
+    },
+    {
+      "title": "Michael",
+      "time": "17:10",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/2uK36ujoDXOfNiJ5Yp3raVprB51.jpg",
+      "summary": "El viaje de Michael Jackson más allá de la música, desde el descubrimiento de su extraordinario talento como líder de los Jackson Five hasta convertirse en una visionaria estrella cuya ambición creativa despertó un incansable afán por consagrarse como el mayor icono de la industria del entretenimiento.",
+      "genres": [
+        "Música",
+        "Drama"
+      ]
+    },
+    {
+      "title": "Michael",
+      "time": "19:50",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/2uK36ujoDXOfNiJ5Yp3raVprB51.jpg",
+      "summary": "El viaje de Michael Jackson más allá de la música, desde el descubrimiento de su extraordinario talento como líder de los Jackson Five hasta convertirse en una visionaria estrella cuya ambición creativa despertó un incansable afán por consagrarse como el mayor icono de la industria del entretenimiento.",
+      "genres": [
+        "Música",
+        "Drama"
+      ]
+    },
+    {
+      "title": "Michael",
+      "time": "20:40",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/2uK36ujoDXOfNiJ5Yp3raVprB51.jpg",
+      "summary": "El viaje de Michael Jackson más allá de la música, desde el descubrimiento de su extraordinario talento como líder de los Jackson Five hasta convertirse en una visionaria estrella cuya ambición creativa despertó un incansable afán por consagrarse como el mayor icono de la industria del entretenimiento.",
+      "genres": [
+        "Música",
+        "Drama"
+      ]
+    },
+    {
+      "title": "Michael",
+      "time": "22:35",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/2uK36ujoDXOfNiJ5Yp3raVprB51.jpg",
+      "summary": "El viaje de Michael Jackson más allá de la música, desde el descubrimiento de su extraordinario talento como líder de los Jackson Five hasta convertirse en una visionaria estrella cuya ambición creativa despertó un incansable afán por consagrarse como el mayor icono de la industria del entretenimiento.",
+      "genres": [
+        "Música",
+        "Drama"
+      ]
+    },
+    {
+      "title": "Sección Oficial Cortos Sesión 2",
+      "time": "18:00",
+      "rating": 0,
+      "poster": null,
+      "summary": "La proyección de este pase se exhibirá con subtítulos en español e inglés.\n\nThis show will be exhibited with Spanish and English subtitles. \n\nIt Lives Under the Snow. Wassupkaylee. Chuuraa. Hyena. Pobre de mí (Stakkars Meg / Poor me). ",
+      "genres": []
+    },
+    {
+      "title": "17",
+      "time": "17:45",
+      "rating": 6.8,
+      "poster": "https://image.tmdb.org/t/p/w342/iOKu6Hf5atv3DuXBS0jBF3OYYdu.jpg",
+      "summary": "Mickey 17, un miembro de la tripulación 'expendable' (prescindible) enviado a un planeta helado para colonizarlo, se niega a dejar que su clon de reemplazo, Mickey 18, tome su lugar... Adaptación del libro original de Edward Ashton.",
+      "genres": [
+        "Ciencia ficción",
+        "Comedia",
+        "Aventura"
+      ]
+    },
+    {
+      "title": "If I Go Will They Miss Me",
+      "time": "20:15",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/mJ0WbeOIOlW6upIAYsFuJ5R7u9.jpg",
+      "summary": "En 1992 en el South Central, un barrio de Los Ángeles, un gesto impulsivo de Anthony marca su infancia con culpa y una visión inquietante que parece perseguirle. Treinta años después, su hijo Lil Ant crece en un mundo entre la realidad y la imaginación, idealizando a un padre ausente convertido en figura mítica. Mientras el barrio cambia, las heridas del pasado resurgen y se entrelazan con el presente. Un retrato generacional donde memoria, culpa y fantasía conviven en un mismo espacio.",
+      "genres": [
+        "Drama"
+      ]
+    },
+    {
+      "title": "Bajo Las Banderas, El Sol",
+      "time": "20:45",
+      "rating": 8.0,
+      "poster": "https://image.tmdb.org/t/p/w342/f9PbH0SH8UehyNQbMNwXwYRJMWN.jpg",
+      "summary": "La proyección de este pase se exhibirá con subtítulos en español e inglés.\n\nThis show will be exhibited with Spanish and English subtitles. \n\nLa dictadura de Alfredo Stroessner en Paraguay, que duró más de cuatro décadas, fue posible gracias a la enorme maquinaria que sustentó el poder. Utilizando material de archivo apenas visto, Juanjo Pereira expone cómo los medios de comunicación fueron capaces de dar forma a todo un legado histórico. \n\nEN The dictatorship of Alfredo Stroessner in Paraguay, which lasted more than four decades, was made possible by the enormous machinery that sustained his power. Using rarely seen archival material, Juanjo Pereira reveals how the media shaped this entire historical legacy.",
+      "genres": [
+        "Documental"
+      ]
+    },
+    {
+      "title": "Una Página De Locura",
+      "time": "20:00",
+      "rating": 7.3,
+      "poster": "https://image.tmdb.org/t/p/w342/A7HRsigPHJTd0PLRy1P8NtPNbMz.jpg",
+      "summary": "Un marinero se emplea como ordenanza en un manicomio para liberar a su esposa, que se encuentra recluida luego de que intentara suicidarse y matar a su bebé. Esta es una restauración de la copia hecha por el mismo Kinugasa en la década del 70. Kinugasa redescubrió su copia personal, supuestamente en un cobertizo de su jardín y escondida en una maceta. Para prepararla para un nuevo lanzamiento, quitó algunas de las escenas más convencionales, así como eliminó todos los intertítulos, sin duda para hacer la película aún más \"avant-garde\" de lo que había sido. No hay constancia de que exista una versión original.",
+      "genres": [
+        "Terror",
+        "Drama"
+      ]
+    },
+    {
+      "title": "Cartas A Mis Padres Muertos",
+      "time": "19:45",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/dnAy0WJFd95x0Frv5KCVBelkQQN.jpg",
+      "summary": "Ignacio Agüero escribe cartas a sus padres, fallecidos años atrás, en las que entabla diálogos imaginarios con ambos. A través de ellas, el autor intenta reconectar con su pasado: un tiempo en el que la felicidad de las memorias personales convive con el horror de la dictadura militar, que no termina de extinguirse en su recuerdo. \n\nEN Ignacio Agüero writes letters to his parents, who died years ago, in which he engages in imaginary dialogues with them. Through these letters, the author attempts to reconnect with his past: a time when the happiness of personal memories coexists with the lingering horror of the military dictatorship, which never quite faded from his memory.",
+      "genres": [
+        "Documental"
+      ]
+    },
+    {
+      "title": "How To Divorce During The War",
+      "time": "11:30",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/44PFxXLVgTWHNLQ2L9CQ6Pk8P6F.jpg",
+      "summary": "Marija decide comunicar a su marido, Vytas, su intención de divorciarse justo en vísperas de la invasión rusa de Ucrania. Mientras el conflicto altera la vida cotidiana de la ciudad, ambos afrontan la separación en un contexto marcado por la llegada de refugiados y las tensiones del momento. En ese escenario cambiante, cada uno intenta reorientar su vida personal y profesional mientras lidia con las consecuencias de su decisión y se replantea si dicha decisión tiene base.",
+      "genres": [
+        "Drama"
+      ]
+    },
+    {
+      "title": "How To Divorce During The War",
+      "time": "20:15",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/44PFxXLVgTWHNLQ2L9CQ6Pk8P6F.jpg",
+      "summary": "Marija decide comunicar a su marido, Vytas, su intención de divorciarse justo en vísperas de la invasión rusa de Ucrania. Mientras el conflicto altera la vida cotidiana de la ciudad, ambos afrontan la separación en un contexto marcado por la llegada de refugiados y las tensiones del momento. En ese escenario cambiante, cada uno intenta reorientar su vida personal y profesional mientras lidia con las consecuencias de su decisión y se replantea si dicha decisión tiene base.",
+      "genres": [
+        "Drama"
+      ]
+    },
+    {
+      "title": "Bosque Arriba En La Montaña",
+      "time": "17:30",
+      "rating": 9.0,
+      "poster": "https://image.tmdb.org/t/p/w342/r5brsK8rdog4ewLZPihvb0tntZh.jpg",
+      "summary": "El caso de Rafael Nahuel, un joven mapuche asesinado en 2017 por la policía de la Prefectura Naval Argentina, se inscribe en una historia de violencia estatal sistemática contra este pueblo indígena. A través de los archivos del atroz crimen, esta película expone un desequilibrio arraigado durante siglos.",
+      "genres": [
+        "Documental"
+      ]
+    },
+    {
+      "title": "Largo Viaje Hacia La Noche",
+      "time": "16:45",
+      "rating": 7.0,
+      "poster": "https://image.tmdb.org/t/p/w342/kQQWhJqvrwqgvjdMPBRWqJkleIl.jpg",
+      "summary": "Luo Hongwu comienza la búsqueda de su antiguo amor en la ciudad de Kaili, a la que regresa tras huir hace años. Como dato recuerda el nombre que le dió, Wan Quiwen.",
+      "genres": [
+        "Drama",
+        "Misterio"
+      ]
+    },
+    {
+      "title": "Resurrection (Kuang Ye Shi Dai)",
+      "time": "20:30",
+      "rating": 7.1,
+      "poster": "https://image.tmdb.org/t/p/w342/76uPr6mqXiEY935oH2IxTCJjLxo.jpg",
+      "summary": "En un mundo donde la humanidad ha perdido la capacidad de soñar, una criatura sigue fascinada por las ilusiones que se desvanecen del mundo onírico. Este monstruo, a la deriva en la ensoñación, se aferra a visiones que nadie más puede ver… hasta que aparece una mujer. Dotada del raro poder de percibir estas ilusiones tal como son, decide adentrarse en los sueños del monstruo, decidida a descubrir la verdad que se oculta en su interior.",
+      "genres": [
+        "Ciencia ficción",
+        "Drama"
+      ]
+    },
+    {
+      "title": "Krakatoa",
+      "time": "12:00",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/gZq6W48cKX5vP367N7VwJbWDrVw.jpg",
+      "summary": "Un pescador javanés vive la mayor erupción volcánica de todos los tiempos. Varado en una isla desierta, en busca de comida y agua, se adentra cada vez más en las profundidades de la tierra. Una odisea visceral y psicodélica.",
+      "genres": [
+        "Acción",
+        "Drama",
+        "Documental"
+      ]
+    },
+    {
+      "title": "Blue Heron",
+      "time": "18:00",
+      "rating": 10.0,
+      "poster": "https://image.tmdb.org/t/p/w342/4hfMbVbYc2gsMnSE1K8Oc9LQH4j.jpg",
+      "summary": "La proyección de este pase se exhibirá con subtítulos en español e inglés.\n\nThis show will be exhibited with Spanish and English subtitles. \n\nAmbientada a finales de los años noventa, el debut de Sophy Romvari en el largometraje sigue a una familia de seis miembros que se instala en un nuevo hogar en la isla de Vancouver. A través de la mirada de la hija menor, un alter ego de la directora, el relato observa la adaptación a la convivencia y las dinámicas que se establecen entre los hermanos y el padre. La aparente calma del entorno doméstico se ve desafiada por tensiones internas, especialmente vinculadas al hijo mayor. \n\nEN Set in the late 1990s, Sophy Romvari’s feature debut follows a family of six as they move into a new home on Vancouver Island. Through the eyes of the youngest daughter, an alter ego of the director, the story observes their adjustment to living together and the dynamics that develop among the siblings and the father. The apparent calm of the domestic environment is challenged by underlying tensions, particularly those involving the eldest son.",
+      "genres": [
+        "Drama"
+      ]
+    },
+    {
+      "title": "Nuestra Tierra",
+      "time": "20:00",
+      "rating": 7.4,
+      "poster": "https://image.tmdb.org/t/p/w342/9k3dwIITeBE1Myo9KQmLeQtfIVX.jpg",
+      "summary": "Documental sobre el asesinato del activista indígena Javier Chocobar a manos de un terrateniente blanco.",
+      "genres": [
+        "Documental"
       ]
     },
     {
@@ -234,65 +518,117 @@ export const MOVIE_DATA = {
         "Animación",
         "Comedia"
       ]
-    },
-    {
-      "title": "Super Mario Galaxy: La Película",
-      "time": "20:15",
-      "rating": 6.9,
-      "poster": "https://image.tmdb.org/t/p/w342/eEfzkiW28Y3BaHjjgFNkFERNKiK.jpg",
-      "summary": "La película tiene lugar después de los acontecimientos de la primera, en la que dos hermanos, Mario y Luigi, y la princesa Peach emprenden una aventura hasta los confines del espacio y a través de la galaxia. Secuela de \"Super Mario Bros: La película\", basada en la saga \"Mario Galaxy\".",
-      "genres": [
-        "Aventura",
-        "Animación",
-        "Comedia"
-      ]
-    },
-    {
-      "title": "Super Mario Galaxy: La Película",
-      "time": "22:30",
-      "rating": 6.9,
-      "poster": "https://image.tmdb.org/t/p/w342/eEfzkiW28Y3BaHjjgFNkFERNKiK.jpg",
-      "summary": "La película tiene lugar después de los acontecimientos de la primera, en la que dos hermanos, Mario y Luigi, y la princesa Peach emprenden una aventura hasta los confines del espacio y a través de la galaxia. Secuela de \"Super Mario Bros: La película\", basada en la saga \"Mario Galaxy\".",
-      "genres": [
-        "Aventura",
-        "Animación",
-        "Comedia"
-      ]
-    },
-    {
-      "title": "Proyecto Salvación",
-      "time": "17:30",
-      "rating": 8.2,
-      "poster": "https://image.tmdb.org/t/p/w342/7lwOTxajURKEWO6gI370NTrVdBO.jpg",
-      "summary": "El profesor de ciencias Ryland Grace se despierta en una nave espacial a años luz de casa sin recordar quién es ni cómo ha llegado hasta allí. A medida que recupera la memoria, empieza a descubrir su misión: resolver el enigma de la misteriosa sustancia que provoca la extinción del sol. Deberá recurrir a sus conocimientos científicos y a sus ideas poco ortodoxas para salvar todo lo que hay en la Tierra de la extinción... pero una amistad inesperada significa que quizá no tenga que hacerlo solo.",
-      "genres": [
-        "Ciencia ficción",
-        "Aventura"
-      ]
-    },
-    {
-      "title": "Proyecto Salvación",
-      "time": "20:40",
-      "rating": 8.2,
-      "poster": "https://image.tmdb.org/t/p/w342/7lwOTxajURKEWO6gI370NTrVdBO.jpg",
-      "summary": "El profesor de ciencias Ryland Grace se despierta en una nave espacial a años luz de casa sin recordar quién es ni cómo ha llegado hasta allí. A medida que recupera la memoria, empieza a descubrir su misión: resolver el enigma de la misteriosa sustancia que provoca la extinción del sol. Deberá recurrir a sus conocimientos científicos y a sus ideas poco ortodoxas para salvar todo lo que hay en la Tierra de la extinción... pero una amistad inesperada significa que quizá no tenga que hacerlo solo.",
-      "genres": [
-        "Ciencia ficción",
-        "Aventura"
-      ]
-    },
-    {
-      "title": "Torrente Presidente",
-      "time": "20:25",
-      "rating": 6.4,
-      "poster": "https://image.tmdb.org/t/p/w342/a0Fn0PiGGiU74jIUelpce6z70i9.jpg",
-      "summary": "José Luis Torrente vuelve metido de lleno en la política española, arrastrando su habitual mezcla de vulgaridad, oportunismo e ineptitud. La película plantea una sátira de la realidad social y política del país mediante parodias, situaciones absurdas y numerosos cameos.",
-      "genres": [
-        "Comedia"
-      ]
     }
   ],
-  "Cine Yelmo Las Arenas": [
+  "Cine Yelmo Premium Alisios": [
+    {
+      "title": "El Diablo Viste De Prada 2",
+      "time": "17:00",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/ld68XXTztvYt5DaD1IHoRvCpgOA.jpg",
+      "summary": "Sigue la lucha de Miranda Priestly contra Emily Charlton, su ex asistente convertida en ejecutiva rival, mientras compiten por los ingresos por publicidad en medio de la decadencia de los medios impresos y Miranda se acerca a la jubilación.",
+      "genres": [
+        "Drama",
+        "Comedia"
+      ]
+    },
+    {
+      "title": "El Diablo Viste De Prada 2",
+      "time": "18:00",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/ld68XXTztvYt5DaD1IHoRvCpgOA.jpg",
+      "summary": "Sigue la lucha de Miranda Priestly contra Emily Charlton, su ex asistente convertida en ejecutiva rival, mientras compiten por los ingresos por publicidad en medio de la decadencia de los medios impresos y Miranda se acerca a la jubilación.",
+      "genres": [
+        "Drama",
+        "Comedia"
+      ]
+    },
+    {
+      "title": "El Diablo Viste De Prada 2",
+      "time": "18:30",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/ld68XXTztvYt5DaD1IHoRvCpgOA.jpg",
+      "summary": "Sigue la lucha de Miranda Priestly contra Emily Charlton, su ex asistente convertida en ejecutiva rival, mientras compiten por los ingresos por publicidad en medio de la decadencia de los medios impresos y Miranda se acerca a la jubilación.",
+      "genres": [
+        "Drama",
+        "Comedia"
+      ]
+    },
+    {
+      "title": "El Diablo Viste De Prada 2",
+      "time": "19:30",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/ld68XXTztvYt5DaD1IHoRvCpgOA.jpg",
+      "summary": "Sigue la lucha de Miranda Priestly contra Emily Charlton, su ex asistente convertida en ejecutiva rival, mientras compiten por los ingresos por publicidad en medio de la decadencia de los medios impresos y Miranda se acerca a la jubilación.",
+      "genres": [
+        "Drama",
+        "Comedia"
+      ]
+    },
+    {
+      "title": "El Diablo Viste De Prada 2",
+      "time": "20:30",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/ld68XXTztvYt5DaD1IHoRvCpgOA.jpg",
+      "summary": "Sigue la lucha de Miranda Priestly contra Emily Charlton, su ex asistente convertida en ejecutiva rival, mientras compiten por los ingresos por publicidad en medio de la decadencia de los medios impresos y Miranda se acerca a la jubilación.",
+      "genres": [
+        "Drama",
+        "Comedia"
+      ]
+    },
+    {
+      "title": "El Diablo Viste De Prada 2",
+      "time": "21:00",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/ld68XXTztvYt5DaD1IHoRvCpgOA.jpg",
+      "summary": "Sigue la lucha de Miranda Priestly contra Emily Charlton, su ex asistente convertida en ejecutiva rival, mientras compiten por los ingresos por publicidad en medio de la decadencia de los medios impresos y Miranda se acerca a la jubilación.",
+      "genres": [
+        "Drama",
+        "Comedia"
+      ]
+    },
+    {
+      "title": "El Diablo Viste De Prada 2",
+      "time": "22:00",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/ld68XXTztvYt5DaD1IHoRvCpgOA.jpg",
+      "summary": "Sigue la lucha de Miranda Priestly contra Emily Charlton, su ex asistente convertida en ejecutiva rival, mientras compiten por los ingresos por publicidad en medio de la decadencia de los medios impresos y Miranda se acerca a la jubilación.",
+      "genres": [
+        "Drama",
+        "Comedia"
+      ]
+    },
+    {
+      "title": "That Time I Got Reincarnated As A Slime",
+      "time": "18:00",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/q2CqzdaaxHrpH1SKlqjKOBKCUEm.jpg",
+      "summary": "Después de la ceremonia de apertura de la Federación de Jura Tempest, Rimuru y sus compañeros son invitados por Elmesia, la emperatriz celestial de la gran nación elfa de \"Dinastía Hechicera de Sarion\", a visitar una isla turística de su propiedad. Mientras el grupo disfruta de sus cortas vacaciones, una mujer misteriosa que se hace llamar Yura aparece... Un nuevo incidente tiene lugar en el interminable mar azul.",
+      "genres": [
+        "Animación",
+        "Fantasía",
+        "Aventura"
+      ]
+    },
+    {
+      "title": "David: Una Aventura Gigante",
+      "time": "17:15",
+      "rating": 0,
+      "poster": null,
+      "summary": "David, un joven pastor, se embarca en una aventura épica cuando una amenaza gigantesca pone en peligro a su pueblo. Descubrirá, así, que el valor y el corazón pueden convertir a un pequeño héroe en leyenda.",
+      "genres": []
+    },
+    {
+      "title": "Michael",
+      "time": "17:10",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/2uK36ujoDXOfNiJ5Yp3raVprB51.jpg",
+      "summary": "El viaje de Michael Jackson más allá de la música, desde el descubrimiento de su extraordinario talento como líder de los Jackson Five hasta convertirse en una visionaria estrella cuya ambición creativa despertó un incansable afán por consagrarse como el mayor icono de la industria del entretenimiento.",
+      "genres": [
+        "Música",
+        "Drama"
+      ]
+    },
     {
       "title": "Michael",
       "time": "18:20",
@@ -306,275 +642,6 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Michael",
-      "time": "19:00",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/2uK36ujoDXOfNiJ5Yp3raVprB51.jpg",
-      "summary": "El viaje de Michael Jackson más allá de la música, desde el descubrimiento de su extraordinario talento como líder de los Jackson Five hasta convertirse en una visionaria estrella cuya ambición creativa despertó un incansable afán por consagrarse como el mayor icono de la industria del entretenimiento.",
-      "genres": [
-        "Música",
-        "Drama"
-      ]
-    },
-    {
-      "title": "Michael",
-      "time": "20:20",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/2uK36ujoDXOfNiJ5Yp3raVprB51.jpg",
-      "summary": "El viaje de Michael Jackson más allá de la música, desde el descubrimiento de su extraordinario talento como líder de los Jackson Five hasta convertirse en una visionaria estrella cuya ambición creativa despertó un incansable afán por consagrarse como el mayor icono de la industria del entretenimiento.",
-      "genres": [
-        "Música",
-        "Drama"
-      ]
-    },
-    {
-      "title": "Michael",
-      "time": "21:10",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/2uK36ujoDXOfNiJ5Yp3raVprB51.jpg",
-      "summary": "El viaje de Michael Jackson más allá de la música, desde el descubrimiento de su extraordinario talento como líder de los Jackson Five hasta convertirse en una visionaria estrella cuya ambición creativa despertó un incansable afán por consagrarse como el mayor icono de la industria del entretenimiento.",
-      "genres": [
-        "Música",
-        "Drama"
-      ]
-    },
-    {
-      "title": "Michael",
-      "time": "21:50",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/2uK36ujoDXOfNiJ5Yp3raVprB51.jpg",
-      "summary": "El viaje de Michael Jackson más allá de la música, desde el descubrimiento de su extraordinario talento como líder de los Jackson Five hasta convertirse en una visionaria estrella cuya ambición creativa despertó un incansable afán por consagrarse como el mayor icono de la industria del entretenimiento.",
-      "genres": [
-        "Música",
-        "Drama"
-      ]
-    },
-    {
-      "title": "La Momia De Lee Cronin",
-      "time": "19:05",
-      "rating": 8.2,
-      "poster": "https://image.tmdb.org/t/p/w342/qlLsNgRUiPPEIVbcqZR2KmOBL7e.jpg",
-      "summary": "La joven hija de un periodista desaparece en el desierto sin dejar rastro—ocho años más tarde, la familia rota se conmociona cuando ella es devuelta a ellos, y lo que debiera haber sido una reunión jubilosa se convierte en una auténtica pesadilla.",
-      "genres": [
-        "Terror",
-        "Misterio"
-      ]
-    },
-    {
-      "title": "Sección Oficial Cortos Sesión 1",
-      "time": "17:30",
-      "rating": 0,
-      "poster": null,
-      "summary": "La proyección de este pase se exhibirá con subtítulos en español e inglés.\n\nThis show will be exhibited with Spanish and English subtitles. \n\nSamba infinito. Gone People. Citizen-Inmate (Dar Brand). Ofélia. Earworm (Öronmask).",
-      "genres": []
-    },
-    {
-      "title": "La Carpa De Circo (Thampu. The Circus Tent)",
-      "time": "17:00",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/jdTJX8h4UQKcuSQe2wGLUflGAIy.jpg",
-      "summary": "Esta es una historia de amor, la historia de una familia de circo: Los Magote. Pablo, el director y maestro de ceremonias; su esposa, payasa y acróbata; y los hijos que desde bebés se van incorporando al espectáculo. Es también la historia de amor y de identificación que siente la gente por el circo de su pueblo, un clásico también de quienes van todos los años a veranear a una pequeña playa de Argentina: Aguas Verdes.  This is a love story, the story of a circus family: Los Magote. Pablo, the director and master of ceremonies; his wife, a clown and acrobat; and the children who from babies are incorporated into the show. It is also the story of love and identification that people feel for the circus of their town, also a classic for those who go every year to spend the summer on a small beach in Argentina: Aguas Verdes.",
-      "genres": [
-        "Documental"
-      ]
-    },
-    {
-      "title": "Por Qué No Escribo Nada",
-      "time": "12:00",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/vuY2A58jHTA0VMU2y5rYr6Vttp3.jpg",
-      "summary": "Con solo 23 años, Carmen Laforet revolucionó la literatura española con su novela “Nada”. Su talento natural prometía una larga trayectoria llena de éxitos, pero no fue así: escribió poco y fue cayendo en el silencio… O esa es la historia que nos han contado. Sin embargo, los textos de la autora revelan otra verdad muy distinta: la de una mujer libre, original, rebelde, que no cedió a los dictados de nadie. Esta vez Carmen Laforet (Mónica López) toma la palabra y nos sumerge en el mundo de una escritora única, luchando por su libertad. Su historia es la de todas las mujeres que intentan salirse del guión.",
-      "genres": [
-        "Documental",
-        "Historia"
-      ]
-    },
-    {
-      "title": "El Otro Día (The Other Day)",
-      "time": "18:15",
-      "rating": 6.3,
-      "poster": "https://image.tmdb.org/t/p/w342/uEsdruCnUKc0GZ5YYLcddKnzvG5.jpg",
-      "summary": "La casa del realizador tiene una puerta que da a la vereda. Esta puerta separa el interior del exterior. El interior contiene la historia personal del realizador y su mundo de objetos, pensamientos e imaginaciones. El espacio exterior contiene la ciudad de Santiago de Chile. Las historias del mundo interior de la casa son interrumpidas cuando desconocidos tocan el timbre y de ese modo entran en la película.",
-      "genres": [
-        "Documental"
-      ]
-    },
-    {
-      "title": "Lucky Lu",
-      "time": "11:45",
-      "rating": 5.8,
-      "poster": "https://image.tmdb.org/t/p/w342/rNE3tyOvNP3q2MH4bgdPFHkHCcI.jpg",
-      "summary": "La película sigue durante 48 horas a un repartidor de una plataforma de entregas cuya bicicleta es robada en Nueva York. Ante la inminente llegada de su familia desde Asia, inicia una búsqueda contrarreloj para recuperarla. En su recorrido por distintos rincones de la ciudad, el relato se adentra en las dinámicas laborales, las redes de apoyo y las tensiones que atraviesan la vida de los trabajadores migrantes.",
-      "genres": [
-        "Drama"
-      ]
-    },
-    {
-      "title": "Lucky Lu",
-      "time": "17:10",
-      "rating": 5.8,
-      "poster": "https://image.tmdb.org/t/p/w342/rNE3tyOvNP3q2MH4bgdPFHkHCcI.jpg",
-      "summary": "La película sigue durante 48 horas a un repartidor de una plataforma de entregas cuya bicicleta es robada en Nueva York. Ante la inminente llegada de su familia desde Asia, inicia una búsqueda contrarreloj para recuperarla. En su recorrido por distintos rincones de la ciudad, el relato se adentra en las dinámicas laborales, las redes de apoyo y las tensiones que atraviesan la vida de los trabajadores migrantes.",
-      "genres": [
-        "Drama"
-      ]
-    },
-    {
-      "title": "Songs Of The Forgotten Trees",
-      "time": "20:20",
-      "rating": 0,
-      "poster": null,
-      "summary": "La proyección de este pase se exhibirá con subtítulos en español e inglés.\n\nThis show will be exhibited with Spanish and English subtitles. \n\nThooya es una joven migrante en Mumbai que aspira ser actriz. Subarrienda una habitación de su vivienda a otra mujer recién llegada a la ciudad, empleada en un call center. La convivencia entre estas mujeres tan distintas, atravesada por la precariedad laboral y la búsqueda de estabilidad, las acerca de modo inesperado. \n\nEN Thooya is a young migrant in Mumbai who aspires to be an actress. She sublets a room in her apartment to another woman who has recently arrived in the city and works in a call center. Their shared life, marked by job insecurity and the search for stability, brings these very different women closer in unexpected ways.",
-      "genres": []
-    },
-    {
-      "title": "Resurrection (Kuang Ye Shi Dai)",
-      "time": "19:00",
-      "rating": 7.1,
-      "poster": "https://image.tmdb.org/t/p/w342/76uPr6mqXiEY935oH2IxTCJjLxo.jpg",
-      "summary": "En un mundo donde la humanidad ha perdido la capacidad de soñar, una criatura sigue fascinada por las ilusiones que se desvanecen del mundo onírico. Este monstruo, a la deriva en la ensoñación, se aferra a visiones que nadie más puede ver… hasta que aparece una mujer. Dotada del raro poder de percibir estas ilusiones tal como son, decide adentrarse en los sueños del monstruo, decidida a descubrir la verdad que se oculta en su interior.",
-      "genres": [
-        "Ciencia ficción",
-        "Drama"
-      ]
-    },
-    {
-      "title": "Trial Of Hein (Der Heimatlose)",
-      "time": "18:00",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/cBxkNpLZtNVNv7Ot5FAA2WsWlQ5.jpg",
-      "summary": "Tras 14 años en el continente, lejos de su hogar, Hein decide regresar a su isla en el Mar del Norte. Sin embargo, la comunidad no lo reconoce y lo considera un impostor. Para probar su identidad, es sometido a un juicio en el que participa todo el pueblo.",
-      "genres": [
-        "Drama"
-      ]
-    },
-    {
-      "title": "Remake",
-      "time": "20:30",
-      "rating": 3.7,
-      "poster": "https://image.tmdb.org/t/p/w342/yubngQSAhehExcLQqTHA75pPPKF.jpg",
-      "summary": "Tras más de cuatro décadas explorando a través de la cámara cómo su vida personal se relaciona con el mundo, la muerte de su hijo Adrian lleva al veterano director Ross McElwee a repensar por completo sus propias imágenes. Partiendo del profundo dolor de la ausencia, la película explora el vínculo que el cine formó entre ellos dos. \n\nEN After more than four decades of exploring through his lens how his personal life relates to the world, the death of his son, Adrian, leads veteran director Ross McElwee to completely rethink his own imagery. Starting from the profound pain of loss, the film explores the bond that cinema formed between them.",
-      "genres": [
-        "Comedia",
-        "Familia"
-      ]
-    },
-    {
-      "title": "Super Mario Galaxy: La Película",
-      "time": "18:00",
-      "rating": 6.9,
-      "poster": "https://image.tmdb.org/t/p/w342/eEfzkiW28Y3BaHjjgFNkFERNKiK.jpg",
-      "summary": "La película tiene lugar después de los acontecimientos de la primera, en la que dos hermanos, Mario y Luigi, y la princesa Peach emprenden una aventura hasta los confines del espacio y a través de la galaxia. Secuela de \"Super Mario Bros: La película\", basada en la saga \"Mario Galaxy\".",
-      "genres": [
-        "Aventura",
-        "Animación",
-        "Comedia"
-      ]
-    },
-    {
-      "title": "Proyecto Salvación",
-      "time": "21:55",
-      "rating": 8.2,
-      "poster": "https://image.tmdb.org/t/p/w342/7lwOTxajURKEWO6gI370NTrVdBO.jpg",
-      "summary": "El profesor de ciencias Ryland Grace se despierta en una nave espacial a años luz de casa sin recordar quién es ni cómo ha llegado hasta allí. A medida que recupera la memoria, empieza a descubrir su misión: resolver el enigma de la misteriosa sustancia que provoca la extinción del sol. Deberá recurrir a sus conocimientos científicos y a sus ideas poco ortodoxas para salvar todo lo que hay en la Tierra de la extinción... pero una amistad inesperada significa que quizá no tenga que hacerlo solo.",
-      "genres": [
-        "Ciencia ficción",
-        "Aventura"
-      ]
-    },
-    {
-      "title": "Torrente Presidente",
-      "time": "16:45",
-      "rating": 6.4,
-      "poster": "https://image.tmdb.org/t/p/w342/a0Fn0PiGGiU74jIUelpce6z70i9.jpg",
-      "summary": "José Luis Torrente vuelve metido de lleno en la política española, arrastrando su habitual mezcla de vulgaridad, oportunismo e ineptitud. La película plantea una sátira de la realidad social y política del país mediante parodias, situaciones absurdas y numerosos cameos.",
-      "genres": [
-        "Comedia"
-      ]
-    }
-  ],
-  "Cine Yelmo Premium Alisios": [
-    {
-      "title": "Kraken: El Libro Negro De Las Horas",
-      "time": "17:05",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/3ZIhW9gyIARln6Tnn92lOS2o419.jpg",
-      "summary": "Unai López de Ayala debe introducirse en el mundo del coleccionismo y las falsificaciones para encontrar el mítico Libro Negro de Horas y poder salvar a su madre que creía ya muerta",
-      "genres": [
-        "Crimen",
-        "Misterio",
-        "Suspense"
-      ]
-    },
-    {
-      "title": "Kraken: El Libro Negro De Las Horas",
-      "time": "19:30",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/3ZIhW9gyIARln6Tnn92lOS2o419.jpg",
-      "summary": "Unai López de Ayala debe introducirse en el mundo del coleccionismo y las falsificaciones para encontrar el mítico Libro Negro de Horas y poder salvar a su madre que creía ya muerta",
-      "genres": [
-        "Crimen",
-        "Misterio",
-        "Suspense"
-      ]
-    },
-    {
-      "title": "Kraken: El Libro Negro De Las Horas",
-      "time": "22:00",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/3ZIhW9gyIARln6Tnn92lOS2o419.jpg",
-      "summary": "Unai López de Ayala debe introducirse en el mundo del coleccionismo y las falsificaciones para encontrar el mítico Libro Negro de Horas y poder salvar a su madre que creía ya muerta",
-      "genres": [
-        "Crimen",
-        "Misterio",
-        "Suspense"
-      ]
-    },
-    {
-      "title": "Michael",
-      "time": "17:00",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/2uK36ujoDXOfNiJ5Yp3raVprB51.jpg",
-      "summary": "El viaje de Michael Jackson más allá de la música, desde el descubrimiento de su extraordinario talento como líder de los Jackson Five hasta convertirse en una visionaria estrella cuya ambición creativa despertó un incansable afán por consagrarse como el mayor icono de la industria del entretenimiento.",
-      "genres": [
-        "Música",
-        "Drama"
-      ]
-    },
-    {
-      "title": "Michael",
-      "time": "17:40",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/2uK36ujoDXOfNiJ5Yp3raVprB51.jpg",
-      "summary": "El viaje de Michael Jackson más allá de la música, desde el descubrimiento de su extraordinario talento como líder de los Jackson Five hasta convertirse en una visionaria estrella cuya ambición creativa despertó un incansable afán por consagrarse como el mayor icono de la industria del entretenimiento.",
-      "genres": [
-        "Música",
-        "Drama"
-      ]
-    },
-    {
-      "title": "Michael",
-      "time": "18:25",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/2uK36ujoDXOfNiJ5Yp3raVprB51.jpg",
-      "summary": "El viaje de Michael Jackson más allá de la música, desde el descubrimiento de su extraordinario talento como líder de los Jackson Five hasta convertirse en una visionaria estrella cuya ambición creativa despertó un incansable afán por consagrarse como el mayor icono de la industria del entretenimiento.",
-      "genres": [
-        "Música",
-        "Drama"
-      ]
-    },
-    {
-      "title": "Michael",
-      "time": "19:05",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/2uK36ujoDXOfNiJ5Yp3raVprB51.jpg",
-      "summary": "El viaje de Michael Jackson más allá de la música, desde el descubrimiento de su extraordinario talento como líder de los Jackson Five hasta convertirse en una visionaria estrella cuya ambición creativa despertó un incansable afán por consagrarse como el mayor icono de la industria del entretenimiento.",
-      "genres": [
-        "Música",
-        "Drama"
-      ]
-    },
-    {
-      "title": "Michael",
       "time": "19:40",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/2uK36ujoDXOfNiJ5Yp3raVprB51.jpg",
@@ -586,7 +653,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Michael",
-      "time": "20:20",
+      "time": "19:50",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/2uK36ujoDXOfNiJ5Yp3raVprB51.jpg",
       "summary": "El viaje de Michael Jackson más allá de la música, desde el descubrimiento de su extraordinario talento como líder de los Jackson Five hasta convertirse en una visionaria estrella cuya ambición creativa despertó un incansable afán por consagrarse como el mayor icono de la industria del entretenimiento.",
@@ -597,7 +664,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Michael",
-      "time": "21:05",
+      "time": "21:15",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/2uK36ujoDXOfNiJ5Yp3raVprB51.jpg",
       "summary": "El viaje de Michael Jackson más allá de la música, desde el descubrimiento de su extraordinario talento como líder de los Jackson Five hasta convertirse en una visionaria estrella cuya ambición creativa despertó un incansable afán por consagrarse como el mayor icono de la industria del entretenimiento.",
@@ -608,62 +675,18 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Michael",
-      "time": "21:50",
+      "time": "22:30",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/2uK36ujoDXOfNiJ5Yp3raVprB51.jpg",
       "summary": "El viaje de Michael Jackson más allá de la música, desde el descubrimiento de su extraordinario talento como líder de los Jackson Five hasta convertirse en una visionaria estrella cuya ambición creativa despertó un incansable afán por consagrarse como el mayor icono de la industria del entretenimiento.",
       "genres": [
         "Música",
         "Drama"
-      ]
-    },
-    {
-      "title": "Michael",
-      "time": "22:20",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/2uK36ujoDXOfNiJ5Yp3raVprB51.jpg",
-      "summary": "El viaje de Michael Jackson más allá de la música, desde el descubrimiento de su extraordinario talento como líder de los Jackson Five hasta convertirse en una visionaria estrella cuya ambición creativa despertó un incansable afán por consagrarse como el mayor icono de la industria del entretenimiento.",
-      "genres": [
-        "Música",
-        "Drama"
-      ]
-    },
-    {
-      "title": "La Momia De Lee Cronin",
-      "time": "17:00",
-      "rating": 8.2,
-      "poster": "https://image.tmdb.org/t/p/w342/qlLsNgRUiPPEIVbcqZR2KmOBL7e.jpg",
-      "summary": "La joven hija de un periodista desaparece en el desierto sin dejar rastro—ocho años más tarde, la familia rota se conmociona cuando ella es devuelta a ellos, y lo que debiera haber sido una reunión jubilosa se convierte en una auténtica pesadilla.",
-      "genres": [
-        "Terror",
-        "Misterio"
-      ]
-    },
-    {
-      "title": "La Momia De Lee Cronin",
-      "time": "19:45",
-      "rating": 8.2,
-      "poster": "https://image.tmdb.org/t/p/w342/qlLsNgRUiPPEIVbcqZR2KmOBL7e.jpg",
-      "summary": "La joven hija de un periodista desaparece en el desierto sin dejar rastro—ocho años más tarde, la familia rota se conmociona cuando ella es devuelta a ellos, y lo que debiera haber sido una reunión jubilosa se convierte en una auténtica pesadilla.",
-      "genres": [
-        "Terror",
-        "Misterio"
-      ]
-    },
-    {
-      "title": "La Momia De Lee Cronin",
-      "time": "22:25",
-      "rating": 8.2,
-      "poster": "https://image.tmdb.org/t/p/w342/qlLsNgRUiPPEIVbcqZR2KmOBL7e.jpg",
-      "summary": "La joven hija de un periodista desaparece en el desierto sin dejar rastro—ocho años más tarde, la familia rota se conmociona cuando ella es devuelta a ellos, y lo que debiera haber sido una reunión jubilosa se convierte en una auténtica pesadilla.",
-      "genres": [
-        "Terror",
-        "Misterio"
       ]
     },
     {
       "title": "La Familia Benetón +2",
-      "time": "18:00",
+      "time": "17:20",
       "rating": 7.0,
       "poster": "https://image.tmdb.org/t/p/w342/qJhTQ2TFMG2q9Tv6xsyntTMibcU.jpg",
       "summary": "Cuando Toni cree que tiene todo bajo control en su entrañable y divertida familia multicultural, la llegada de dos nuevos bebés pondrá patas arriba la casa y a toda la familia.",
@@ -672,77 +695,66 @@ export const MOVIE_DATA = {
       ]
     },
     {
-      "title": "No Te Olvidaré",
-      "time": "22:10",
-      "rating": 7.1,
-      "poster": "https://image.tmdb.org/t/p/w342/mIx9KAE3DgmrGJKwIL0xjIUfkBT.jpg",
-      "summary": "Cuando los abuelos y tutores de Diem se niegan categóricamente a permitir que la vea, Kenna descubre una compasión inesperada seguida de un sentimiento más profundo y real con Ledger, exjugador de la NFL y propietario de un bar local. A medida que su romance secreto va cobrando forma, surgen problemas para los dos, lo que llevará a Kenna a una situación sentimental desoladora y, en último término, a reavivar la esperanza de una segunda oportunidad.",
-      "genres": [
-        "Romance",
-        "Drama"
-      ]
-    },
-    {
-      "title": "Boulevard",
-      "time": "22:15",
-      "rating": 3.0,
-      "poster": "https://image.tmdb.org/t/p/w342/o5M5mjnfRO50t3Wha1QPD04oHfT.jpg",
-      "summary": "Cuando Hasley (Eve Ryan) se muda a una nueva ciudad con su madre, lo último que espera es cruzarse con Luke (Mikel Niso), un joven envuelto en un aura peligrosa y un pasado trágico. Atrapado en sus propios demonios, Luke es todo lo que Hasley debería temer... pero a lo que se siente irremediablemente atraída. A pesar de las sombras que lo rodean, Hasley descubre en Luke una vulnerabilidad y un mundo interior apasionante. Juntos, crearán su propio boulevard: un refugio escondido donde poder ser ellos mismos, cumplir sueños imposibles, atreverse a amar a pesar de los prejuicios, el dolor y las cicatrices que arrastran, y demostrar que el amor es capaz de florecer incluso en los corazones más insospechados.",
-      "genres": [
-        "Drama",
-        "Romance"
-      ]
-    },
-    {
-      "title": "Super Mario Galaxy: La Película",
-      "time": "18:10",
-      "rating": 6.9,
-      "poster": "https://image.tmdb.org/t/p/w342/eEfzkiW28Y3BaHjjgFNkFERNKiK.jpg",
-      "summary": "La película tiene lugar después de los acontecimientos de la primera, en la que dos hermanos, Mario y Luigi, y la princesa Peach emprenden una aventura hasta los confines del espacio y a través de la galaxia. Secuela de \"Super Mario Bros: La película\", basada en la saga \"Mario Galaxy\".",
-      "genres": [
-        "Aventura",
-        "Animación",
-        "Comedia"
-      ]
-    },
-    {
-      "title": "Super Mario Galaxy: La Película",
-      "time": "18:30",
-      "rating": 6.9,
-      "poster": "https://image.tmdb.org/t/p/w342/eEfzkiW28Y3BaHjjgFNkFERNKiK.jpg",
-      "summary": "La película tiene lugar después de los acontecimientos de la primera, en la que dos hermanos, Mario y Luigi, y la princesa Peach emprenden una aventura hasta los confines del espacio y a través de la galaxia. Secuela de \"Super Mario Bros: La película\", basada en la saga \"Mario Galaxy\".",
-      "genres": [
-        "Aventura",
-        "Animación",
-        "Comedia"
-      ]
-    },
-    {
-      "title": "Super Mario Galaxy: La Película",
-      "time": "20:25",
-      "rating": 6.9,
-      "poster": "https://image.tmdb.org/t/p/w342/eEfzkiW28Y3BaHjjgFNkFERNKiK.jpg",
-      "summary": "La película tiene lugar después de los acontecimientos de la primera, en la que dos hermanos, Mario y Luigi, y la princesa Peach emprenden una aventura hasta los confines del espacio y a través de la galaxia. Secuela de \"Super Mario Bros: La película\", basada en la saga \"Mario Galaxy\".",
-      "genres": [
-        "Aventura",
-        "Animación",
-        "Comedia"
-      ]
-    },
-    {
-      "title": "Proyecto Salvación",
-      "time": "19:00",
+      "title": "La Momia De Lee Cronin",
+      "time": "19:20",
       "rating": 8.2,
-      "poster": "https://image.tmdb.org/t/p/w342/7lwOTxajURKEWO6gI370NTrVdBO.jpg",
-      "summary": "El profesor de ciencias Ryland Grace se despierta en una nave espacial a años luz de casa sin recordar quién es ni cómo ha llegado hasta allí. A medida que recupera la memoria, empieza a descubrir su misión: resolver el enigma de la misteriosa sustancia que provoca la extinción del sol. Deberá recurrir a sus conocimientos científicos y a sus ideas poco ortodoxas para salvar todo lo que hay en la Tierra de la extinción... pero una amistad inesperada significa que quizá no tenga que hacerlo solo.",
+      "poster": "https://image.tmdb.org/t/p/w342/qlLsNgRUiPPEIVbcqZR2KmOBL7e.jpg",
+      "summary": "La joven hija de un periodista desaparece en el desierto sin dejar rastro—ocho años más tarde, la familia rota se conmociona cuando ella es devuelta a ellos, y lo que debiera haber sido una reunión jubilosa se convierte en una auténtica pesadilla.",
       "genres": [
-        "Ciencia ficción",
-        "Aventura"
+        "Terror",
+        "Misterio"
+      ]
+    },
+    {
+      "title": "La Momia De Lee Cronin",
+      "time": "22:10",
+      "rating": 8.2,
+      "poster": "https://image.tmdb.org/t/p/w342/qlLsNgRUiPPEIVbcqZR2KmOBL7e.jpg",
+      "summary": "La joven hija de un periodista desaparece en el desierto sin dejar rastro—ocho años más tarde, la familia rota se conmociona cuando ella es devuelta a ellos, y lo que debiera haber sido una reunión jubilosa se convierte en una auténtica pesadilla.",
+      "genres": [
+        "Terror",
+        "Misterio"
+      ]
+    },
+    {
+      "title": "Super Mario Galaxy: La Película",
+      "time": "18:15",
+      "rating": 6.9,
+      "poster": "https://image.tmdb.org/t/p/w342/eEfzkiW28Y3BaHjjgFNkFERNKiK.jpg",
+      "summary": "La película tiene lugar después de los acontecimientos de la primera, en la que dos hermanos, Mario y Luigi, y la princesa Peach emprenden una aventura hasta los confines del espacio y a través de la galaxia. Secuela de \"Super Mario Bros: La película\", basada en la saga \"Mario Galaxy\".",
+      "genres": [
+        "Aventura",
+        "Animación",
+        "Comedia"
+      ]
+    },
+    {
+      "title": "Super Mario Galaxy: La Película",
+      "time": "18:45",
+      "rating": 6.9,
+      "poster": "https://image.tmdb.org/t/p/w342/eEfzkiW28Y3BaHjjgFNkFERNKiK.jpg",
+      "summary": "La película tiene lugar después de los acontecimientos de la primera, en la que dos hermanos, Mario y Luigi, y la princesa Peach emprenden una aventura hasta los confines del espacio y a través de la galaxia. Secuela de \"Super Mario Bros: La película\", basada en la saga \"Mario Galaxy\".",
+      "genres": [
+        "Aventura",
+        "Animación",
+        "Comedia"
+      ]
+    },
+    {
+      "title": "Super Mario Galaxy: La Película",
+      "time": "20:35",
+      "rating": 6.9,
+      "poster": "https://image.tmdb.org/t/p/w342/eEfzkiW28Y3BaHjjgFNkFERNKiK.jpg",
+      "summary": "La película tiene lugar después de los acontecimientos de la primera, en la que dos hermanos, Mario y Luigi, y la princesa Peach emprenden una aventura hasta los confines del espacio y a través de la galaxia. Secuela de \"Super Mario Bros: La película\", basada en la saga \"Mario Galaxy\".",
+      "genres": [
+        "Aventura",
+        "Animación",
+        "Comedia"
       ]
     },
     {
       "title": "Shelter: El Protector",
-      "time": "22:40",
+      "time": "22:45",
       "rating": 6.8,
       "poster": "https://image.tmdb.org/t/p/w342/kOsqd5jFZ0p3O8Z0k0VQvBW2neW.jpg",
       "summary": "Un recluso en una remota isla escocesa rescata a una niña del mar, desencadenando una peligrosa secuencia de acontecimientos.",
@@ -753,8 +765,19 @@ export const MOVIE_DATA = {
       ]
     },
     {
+      "title": "Proyecto Salvación",
+      "time": "20:20",
+      "rating": 8.2,
+      "poster": "https://image.tmdb.org/t/p/w342/7lwOTxajURKEWO6gI370NTrVdBO.jpg",
+      "summary": "El profesor de ciencias Ryland Grace se despierta en una nave espacial a años luz de casa sin recordar quién es ni cómo ha llegado hasta allí. A medida que recupera la memoria, empieza a descubrir su misión: resolver el enigma de la misteriosa sustancia que provoca la extinción del sol. Deberá recurrir a sus conocimientos científicos y a sus ideas poco ortodoxas para salvar todo lo que hay en la Tierra de la extinción... pero una amistad inesperada significa que quizá no tenga que hacerlo solo.",
+      "genres": [
+        "Ciencia ficción",
+        "Aventura"
+      ]
+    },
+    {
       "title": "Torrente Presidente",
-      "time": "20:00",
+      "time": "22:25",
       "rating": 6.4,
       "poster": "https://image.tmdb.org/t/p/w342/a0Fn0PiGGiU74jIUelpce6z70i9.jpg",
       "summary": "José Luis Torrente vuelve metido de lleno en la política española, arrastrando su habitual mezcla de vulgaridad, oportunismo e ineptitud. La película plantea una sátira de la realidad social y política del país mediante parodias, situaciones absurdas y numerosos cameos.",
@@ -766,7 +789,7 @@ export const MOVIE_DATA = {
   "Artesiete Las Terrazas": [
     {
       "title": "Torrente Presidente",
-      "time": "21:00",
+      "time": "21:40",
       "rating": 6.4,
       "poster": "https://image.tmdb.org/t/p/w342/a0Fn0PiGGiU74jIUelpce6z70i9.jpg",
       "summary": "José Luis Torrente vuelve metido de lleno en la política española, arrastrando su habitual mezcla de vulgaridad, oportunismo e ineptitud. La película plantea una sátira de la realidad social y política del país mediante parodias, situaciones absurdas y numerosos cameos.",
@@ -776,7 +799,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Proyecto Salvacion",
-      "time": "18:50",
+      "time": "15:45",
       "rating": 8.2,
       "poster": "https://image.tmdb.org/t/p/w342/7lwOTxajURKEWO6gI370NTrVdBO.jpg",
       "summary": "El profesor de ciencias Ryland Grace se despierta en una nave espacial a años luz de casa sin recordar quién es ni cómo ha llegado hasta allí. A medida que recupera la memoria, empieza a descubrir su misión: resolver el enigma de la misteriosa sustancia que provoca la extinción del sol. Deberá recurrir a sus conocimientos científicos y a sus ideas poco ortodoxas para salvar todo lo que hay en la Tierra de la extinción... pero una amistad inesperada significa que quizá no tenga que hacerlo solo.",
@@ -823,7 +846,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "La Familia Beneton 2",
-      "time": "16:00",
+      "time": "16:40",
       "rating": 7.0,
       "poster": "https://image.tmdb.org/t/p/w342/qJhTQ2TFMG2q9Tv6xsyntTMibcU.jpg",
       "summary": "Cuando Toni cree que tiene todo bajo control en su entrañable y divertida familia multicultural, la llegada de dos nuevos bebés pondrá patas arriba la casa y a toda la familia.",
@@ -833,17 +856,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "La Familia Beneton 2",
-      "time": "17:40",
-      "rating": 7.0,
-      "poster": "https://image.tmdb.org/t/p/w342/qJhTQ2TFMG2q9Tv6xsyntTMibcU.jpg",
-      "summary": "Cuando Toni cree que tiene todo bajo control en su entrañable y divertida familia multicultural, la llegada de dos nuevos bebés pondrá patas arriba la casa y a toda la familia.",
-      "genres": [
-        "Comedia"
-      ]
-    },
-    {
-      "title": "La Familia Beneton 2",
-      "time": "19:20",
+      "time": "20:30",
       "rating": 7.0,
       "poster": "https://image.tmdb.org/t/p/w342/qJhTQ2TFMG2q9Tv6xsyntTMibcU.jpg",
       "summary": "Cuando Toni cree que tiene todo bajo control en su entrañable y divertida familia multicultural, la llegada de dos nuevos bebés pondrá patas arriba la casa y a toda la familia.",
@@ -853,7 +866,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "La Momia De Lee Cronin",
-      "time": "16:50",
+      "time": "17:30",
       "rating": 8.2,
       "poster": "https://image.tmdb.org/t/p/w342/qlLsNgRUiPPEIVbcqZR2KmOBL7e.jpg",
       "summary": "La joven hija de un periodista desaparece en el desierto sin dejar rastro—ocho años más tarde, la familia rota se conmociona cuando ella es devuelta a ellos, y lo que debiera haber sido una reunión jubilosa se convierte en una auténtica pesadilla.",
@@ -864,29 +877,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "La Momia De Lee Cronin",
-      "time": "18:00",
-      "rating": 8.2,
-      "poster": "https://image.tmdb.org/t/p/w342/qlLsNgRUiPPEIVbcqZR2KmOBL7e.jpg",
-      "summary": "La joven hija de un periodista desaparece en el desierto sin dejar rastro—ocho años más tarde, la familia rota se conmociona cuando ella es devuelta a ellos, y lo que debiera haber sido una reunión jubilosa se convierte en una auténtica pesadilla.",
-      "genres": [
-        "Terror",
-        "Misterio"
-      ]
-    },
-    {
-      "title": "La Momia De Lee Cronin",
-      "time": "19:20",
-      "rating": 8.2,
-      "poster": "https://image.tmdb.org/t/p/w342/qlLsNgRUiPPEIVbcqZR2KmOBL7e.jpg",
-      "summary": "La joven hija de un periodista desaparece en el desierto sin dejar rastro—ocho años más tarde, la familia rota se conmociona cuando ella es devuelta a ellos, y lo que debiera haber sido una reunión jubilosa se convierte en una auténtica pesadilla.",
-      "genres": [
-        "Terror",
-        "Misterio"
-      ]
-    },
-    {
-      "title": "La Momia De Lee Cronin",
-      "time": "21:50",
+      "time": "20:00",
       "rating": 8.2,
       "poster": "https://image.tmdb.org/t/p/w342/qlLsNgRUiPPEIVbcqZR2KmOBL7e.jpg",
       "summary": "La joven hija de un periodista desaparece en el desierto sin dejar rastro—ocho años más tarde, la familia rota se conmociona cuando ella es devuelta a ellos, y lo que debiera haber sido una reunión jubilosa se convierte en una auténtica pesadilla.",
@@ -907,37 +898,6 @@ export const MOVIE_DATA = {
       ]
     },
     {
-      "title": "La Ahorcada",
-      "time": "19:20",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/277U1iDp01XMQ6KBkPTMsmaLrBA.jpg",
-      "summary": "",
-      "genres": [
-        "Terror"
-      ]
-    },
-    {
-      "title": "La Ahorcada",
-      "time": "21:00",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/277U1iDp01XMQ6KBkPTMsmaLrBA.jpg",
-      "summary": "",
-      "genres": [
-        "Terror"
-      ]
-    },
-    {
-      "title": "Michael",
-      "time": "16:00",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/2uK36ujoDXOfNiJ5Yp3raVprB51.jpg",
-      "summary": "El viaje de Michael Jackson más allá de la música, desde el descubrimiento de su extraordinario talento como líder de los Jackson Five hasta convertirse en una visionaria estrella cuya ambición creativa despertó un incansable afán por consagrarse como el mayor icono de la industria del entretenimiento.",
-      "genres": [
-        "Música",
-        "Drama"
-      ]
-    },
-    {
       "title": "Michael",
       "time": "16:50",
       "rating": 0.0,
@@ -950,7 +910,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Michael",
-      "time": "18:10",
+      "time": "18:30",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/2uK36ujoDXOfNiJ5Yp3raVprB51.jpg",
       "summary": "El viaje de Michael Jackson más allá de la música, desde el descubrimiento de su extraordinario talento como líder de los Jackson Five hasta convertirse en una visionaria estrella cuya ambición creativa despertó un incansable afán por consagrarse como el mayor icono de la industria del entretenimiento.",
@@ -972,18 +932,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Michael",
-      "time": "20:30",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/2uK36ujoDXOfNiJ5Yp3raVprB51.jpg",
-      "summary": "El viaje de Michael Jackson más allá de la música, desde el descubrimiento de su extraordinario talento como líder de los Jackson Five hasta convertirse en una visionaria estrella cuya ambición creativa despertó un incansable afán por consagrarse como el mayor icono de la industria del entretenimiento.",
-      "genres": [
-        "Música",
-        "Drama"
-      ]
-    },
-    {
-      "title": "Michael",
-      "time": "21:00",
+      "time": "20:45",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/2uK36ujoDXOfNiJ5Yp3raVprB51.jpg",
       "summary": "El viaje de Michael Jackson más allá de la música, desde el descubrimiento de su extraordinario talento como líder de los Jackson Five hasta convertirse en una visionaria estrella cuya ambición creativa despertó un incansable afán por consagrarse como el mayor icono de la industria del entretenimiento.",
@@ -1004,88 +953,158 @@ export const MOVIE_DATA = {
       ]
     },
     {
-      "title": "Turno De Noche",
-      "time": "17:00",
-      "rating": 6.8,
-      "poster": "https://image.tmdb.org/t/p/w342/bp0tX5Q02YtkFAQI8TMwwsvQs1d.jpg",
-      "summary": "Cuando un hongo mutante altamente contagioso escapa de una instalación sellada, dos jóvenes empleados, acompañados por un veterano agente de bioterrorismo, deben sobrevivir al turno de noche más alocado de la historia para salvar a la humanidad de la extinción, mientras el microorganismo se propaga y destruye todo a su paso.",
-      "genres": [
-        "Terror",
-        "Ciencia ficción",
-        "Comedia"
-      ]
-    },
-    {
-      "title": "Turno De Noche",
-      "time": "21:00",
-      "rating": 6.8,
-      "poster": "https://image.tmdb.org/t/p/w342/bp0tX5Q02YtkFAQI8TMwwsvQs1d.jpg",
-      "summary": "Cuando un hongo mutante altamente contagioso escapa de una instalación sellada, dos jóvenes empleados, acompañados por un veterano agente de bioterrorismo, deben sobrevivir al turno de noche más alocado de la historia para salvar a la humanidad de la extinción, mientras el microorganismo se propaga y destruye todo a su paso.",
-      "genres": [
-        "Terror",
-        "Ciencia ficción",
-        "Comedia"
-      ]
-    },
-    {
-      "title": "Kraken: El Libro Negro De Las Horas",
-      "time": "17:00",
+      "title": "Michael",
+      "time": "22:30",
       "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/3ZIhW9gyIARln6Tnn92lOS2o419.jpg",
-      "summary": "Unai López de Ayala debe introducirse en el mundo del coleccionismo y las falsificaciones para encontrar el mítico Libro Negro de Horas y poder salvar a su madre que creía ya muerta",
+      "poster": "https://image.tmdb.org/t/p/w342/2uK36ujoDXOfNiJ5Yp3raVprB51.jpg",
+      "summary": "El viaje de Michael Jackson más allá de la música, desde el descubrimiento de su extraordinario talento como líder de los Jackson Five hasta convertirse en una visionaria estrella cuya ambición creativa despertó un incansable afán por consagrarse como el mayor icono de la industria del entretenimiento.",
       "genres": [
-        "Crimen",
-        "Misterio",
-        "Suspense"
+        "Música",
+        "Drama"
       ]
     },
     {
-      "title": "Kraken: El Libro Negro De Las Horas",
-      "time": "19:00",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/3ZIhW9gyIARln6Tnn92lOS2o419.jpg",
-      "summary": "Unai López de Ayala debe introducirse en el mundo del coleccionismo y las falsificaciones para encontrar el mítico Libro Negro de Horas y poder salvar a su madre que creía ya muerta",
+      "title": "That Time I Got Reincarnated As A Slime La Pelicula: Lagrimas Del Mar Celeste",
+      "time": "18:20",
+      "rating": 6.0,
+      "poster": "https://image.tmdb.org/t/p/w342/q2CqzdaaxHrpH1SKlqjKOBKCUEm.jpg",
+      "summary": "",
       "genres": [
-        "Crimen",
-        "Misterio",
-        "Suspense"
+        "Animación",
+        "Fantasía",
+        "Aventura"
       ]
     },
     {
-      "title": "Kraken: El Libro Negro De Las Horas",
-      "time": "21:40",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/3ZIhW9gyIARln6Tnn92lOS2o419.jpg",
-      "summary": "Unai López de Ayala debe introducirse en el mundo del coleccionismo y las falsificaciones para encontrar el mítico Libro Negro de Horas y poder salvar a su madre que creía ya muerta",
-      "genres": [
-        "Crimen",
-        "Misterio",
-        "Suspense"
-      ]
-    },
-    {
-      "title": "Maracuda",
+      "title": "David: Una Aventura Gigante",
       "time": "16:00",
-      "rating": 7.9,
-      "poster": "https://image.tmdb.org/t/p/w342/921uxRXPTQZHaTCMR2uCOmVdfC2.jpg",
-      "summary": "Maracuda, hijo de un respetado líder tribal, lucha por estar a la altura de las expectativas de su padre. Se aventura en un bosque misterioso para probarse a sí mismo y se encuentra con Tink, un pájaro extraterrestre mágico, y juntos se embarcan en increíbles aventuras en el bosque de la Edad de Piedra habitado por ardillas dientes de sable, adorables suricatos e incluso dinosaurios. En medio de sus aventuras, Tink transforma involuntariamente al padre de Maracuda en una pequeña criatura, lo que lleva al niño a enseñarle a Tink cómo controlar sus poderes.",
+      "rating": 0,
+      "poster": null,
+      "summary": "David, un joven pastor, se embarca en una aventura épica cuando una amenaza gigantesca pone en peligro a su pueblo. Descubrirá, así, que el valor y el corazón pueden convertir a un pequeño héroe en leyenda.",
+      "genres": []
+    },
+    {
+      "title": "David: Una Aventura Gigante",
+      "time": "18:10",
+      "rating": 0,
+      "poster": null,
+      "summary": "David, un joven pastor, se embarca en una aventura épica cuando una amenaza gigantesca pone en peligro a su pueblo. Descubrirá, así, que el valor y el corazón pueden convertir a un pequeño héroe en leyenda.",
+      "genres": []
+    },
+    {
+      "title": "El Diablo Viste De Prada 2",
+      "time": "17:00",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/ld68XXTztvYt5DaD1IHoRvCpgOA.jpg",
+      "summary": "Sigue la lucha de Miranda Priestly contra Emily Charlton, su ex asistente convertida en ejecutiva rival, mientras compiten por los ingresos por publicidad en medio de la decadencia de los medios impresos y Miranda se acerca a la jubilación.",
       "genres": [
-        "Familia",
-        "Animación",
-        "Aventura"
+        "Drama",
+        "Comedia"
       ]
     },
     {
-      "title": "Maracuda",
-      "time": "17:40",
-      "rating": 7.9,
-      "poster": "https://image.tmdb.org/t/p/w342/921uxRXPTQZHaTCMR2uCOmVdfC2.jpg",
-      "summary": "Maracuda, hijo de un respetado líder tribal, lucha por estar a la altura de las expectativas de su padre. Se aventura en un bosque misterioso para probarse a sí mismo y se encuentra con Tink, un pájaro extraterrestre mágico, y juntos se embarcan en increíbles aventuras en el bosque de la Edad de Piedra habitado por ardillas dientes de sable, adorables suricatos e incluso dinosaurios. En medio de sus aventuras, Tink transforma involuntariamente al padre de Maracuda en una pequeña criatura, lo que lleva al niño a enseñarle a Tink cómo controlar sus poderes.",
+      "title": "El Diablo Viste De Prada 2",
+      "time": "17:50",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/ld68XXTztvYt5DaD1IHoRvCpgOA.jpg",
+      "summary": "Sigue la lucha de Miranda Priestly contra Emily Charlton, su ex asistente convertida en ejecutiva rival, mientras compiten por los ingresos por publicidad en medio de la decadencia de los medios impresos y Miranda se acerca a la jubilación.",
       "genres": [
-        "Familia",
-        "Animación",
-        "Aventura"
+        "Drama",
+        "Comedia"
       ]
+    },
+    {
+      "title": "El Diablo Viste De Prada 2",
+      "time": "19:15",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/ld68XXTztvYt5DaD1IHoRvCpgOA.jpg",
+      "summary": "Sigue la lucha de Miranda Priestly contra Emily Charlton, su ex asistente convertida en ejecutiva rival, mientras compiten por los ingresos por publicidad en medio de la decadencia de los medios impresos y Miranda se acerca a la jubilación.",
+      "genres": [
+        "Drama",
+        "Comedia"
+      ]
+    },
+    {
+      "title": "El Diablo Viste De Prada 2",
+      "time": "20:10",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/ld68XXTztvYt5DaD1IHoRvCpgOA.jpg",
+      "summary": "Sigue la lucha de Miranda Priestly contra Emily Charlton, su ex asistente convertida en ejecutiva rival, mientras compiten por los ingresos por publicidad en medio de la decadencia de los medios impresos y Miranda se acerca a la jubilación.",
+      "genres": [
+        "Drama",
+        "Comedia"
+      ]
+    },
+    {
+      "title": "El Diablo Viste De Prada 2",
+      "time": "21:30",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/ld68XXTztvYt5DaD1IHoRvCpgOA.jpg",
+      "summary": "Sigue la lucha de Miranda Priestly contra Emily Charlton, su ex asistente convertida en ejecutiva rival, mientras compiten por los ingresos por publicidad en medio de la decadencia de los medios impresos y Miranda se acerca a la jubilación.",
+      "genres": [
+        "Drama",
+        "Comedia"
+      ]
+    },
+    {
+      "title": "El Diablo Viste De Prada 2",
+      "time": "22:30",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/ld68XXTztvYt5DaD1IHoRvCpgOA.jpg",
+      "summary": "Sigue la lucha de Miranda Priestly contra Emily Charlton, su ex asistente convertida en ejecutiva rival, mientras compiten por los ingresos por publicidad en medio de la decadencia de los medios impresos y Miranda se acerca a la jubilación.",
+      "genres": [
+        "Drama",
+        "Comedia"
+      ]
+    },
+    {
+      "title": "Resurrection",
+      "time": "18:50",
+      "rating": 7.1,
+      "poster": "https://image.tmdb.org/t/p/w342/76uPr6mqXiEY935oH2IxTCJjLxo.jpg",
+      "summary": "En un mundo donde la humanidad ha perdido la capacidad de soñar, una criatura sigue fascinada por las ilusiones que se desvanecen del mundo onírico. Este monstruo, a la deriva en la ensoñación, se aferra a visiones que nadie más puede ver… hasta que aparece una mujer. Dotada del raro poder de percibir estas ilusiones tal como son, decide adentrarse en los sueños del monstruo, decidida a descubrir la verdad que se oculta en su interior.",
+      "genres": [
+        "Ciencia ficción",
+        "Drama"
+      ]
+    },
+    {
+      "title": "Strangers: Capitulo Final",
+      "time": "20:10",
+      "rating": 5.6,
+      "poster": "https://image.tmdb.org/t/p/w342/mIiwoDukWkEoo90WXqOHxHmwhYD.jpg",
+      "summary": "Los supervivientes se enfrentan a nuevas amenazas de extraños enmascarados. Secretos salen a la luz, poniendo en peligro sus vidas mientras la línea entre realidad y peligro se difumina en su lucha por sobrevivir. Tercera y última de la trilogía de películas basadas en \"Los extraños\" (2008)",
+      "genres": [
+        "Terror",
+        "Suspense"
+      ]
+    },
+    {
+      "title": "Strangers: Capitulo Final",
+      "time": "22:30",
+      "rating": 5.6,
+      "poster": "https://image.tmdb.org/t/p/w342/mIiwoDukWkEoo90WXqOHxHmwhYD.jpg",
+      "summary": "Los supervivientes se enfrentan a nuevas amenazas de extraños enmascarados. Secretos salen a la luz, poniendo en peligro sus vidas mientras la línea entre realidad y peligro se difumina en su lucha por sobrevivir. Tercera y última de la trilogía de películas basadas en \"Los extraños\" (2008)",
+      "genres": [
+        "Terror",
+        "Suspense"
+      ]
+    },
+    {
+      "title": "¿Como Hemos Llegado A Esto?",
+      "time": "16:40",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/yyzCC85CnaPrVXnpqaA4qsbTz0D.jpg",
+      "summary": "Tres personas envueltas en un enredo romántico comparten sus diferentes perspectivas de la historia. Cada uno defiende su verdad y sus sentimientos heridos, aunque nadie es realmente culpable.",
+      "genres": []
+    },
+    {
+      "title": "¿Como Hemos Llegado A Esto?",
+      "time": "21:50",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/yyzCC85CnaPrVXnpqaA4qsbTz0D.jpg",
+      "summary": "Tres personas envueltas en un enredo romántico comparten sus diferentes perspectivas de la historia. Cada uno defiende su verdad y sus sentimientos heridos, aunque nadie es realmente culpable.",
+      "genres": []
     }
   ],
   "Ocine Premium Siete Palmas": [
