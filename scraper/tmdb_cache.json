@@ -1012,5 +1012,62 @@
     "poster": "https://image.tmdb.org/t/p/w342/yyzCC85CnaPrVXnpqaA4qsbTz0D.jpg",
     "summary": "Tres personas envueltas en un enredo romántico comparten sus diferentes perspectivas de la historia. Cada uno defiende su verdad y sus sentimientos heridos, aunque nadie es realmente culpable.",
     "genres": []
+  },
+  "Sección Oficial Cortos Sesión 3": {
+    "rating": 0,
+    "poster": null,
+    "summary": "La proyección de este pase se exhibirá con subtítulos en español e inglés.\n\nThis show will be exhibited with Spanish and English subtitles. \n\nHoney, My Love, So Sweet. We Were Here. Heartbeat. Prelude. Scraps (Skråbock).",
+    "genres": []
+  },
+  "Drifting Laurent": {
+    "rating": 7.1,
+    "poster": "https://image.tmdb.org/t/p/w342/gkg8DnHsMhRhO2IkQAmWnU2RHtD.jpg",
+    "summary": "Laurent, de 29 años, busca el sentido de su vida. Termina en una estación de esquí desierta fuera de temporada y rápidamente se integra en la sorprendente vida de sus escasos habitantes. Cuando llegan los turistas con el invierno, Laurent ya no puede irse...",
+    "genres": [
+      "Comedia",
+      "Drama",
+      "Romance"
+    ]
+  },
+  "Serpent": {
+    "rating": 6.9,
+    "poster": "https://image.tmdb.org/t/p/w342/uH1ohJFgdoHikwAmW9WWw4b679J.jpg",
+    "summary": "Esta es la historia de un samurái que cae en desgracia debido a malentendidos y sigue las intrigas de sus enemigos.",
+    "genres": [
+      "Drama",
+      "Acción"
+    ]
+  },
+  "Lo Demás Es Ruido": {
+    "rating": 0.0,
+    "poster": "https://image.tmdb.org/t/p/w342/vVK5ao81og9fcwQ5VP5frKFRe9a.jpg",
+    "summary": "A escondidas de su marido, en casa de su amiga Tere, que vive con su hija, la compositora musical Rosa concede su primera entrevista televisada. Según la conversación trata de avanzar, interrumpida por cortes de luz, ruidos externos e invitados insospechados, la relación entre estas tres mujeres revela la fuerza de la amistad y la fragilidad del prestigio.",
+    "genres": [
+      "Comedia",
+      "Música"
+    ]
+  },
+  "Nina Roza": {
+    "rating": 0.0,
+    "poster": "https://image.tmdb.org/t/p/w342/kxdTf63duqsc2bA8erZy4rn5Rr5.jpg",
+    "summary": "Tras marcharse de Bulgaria en los años 90, Mihail reconstruye su vida en Montreal, hasta que un encargo lo empuja a investigar a Nina, una niña prodigio cuyas pinturas han desatado un fenómeno inesperado. Su regreso al país reabre viejas heridas y cuestiona su identidad. Frente al misterio de Nina y al dilema ético que plantea su talento, Mihail se enfrenta a sus propios fantasmas y decisiones.",
+    "genres": [
+      "Drama"
+    ]
+  },
+  "Kaili Blues": {
+    "rating": 7.1,
+    "poster": "https://image.tmdb.org/t/p/w342/GNz0dyRCGjqpnuigKpwJJqlyoV.jpg",
+    "summary": "En la mística y subtropical provincia de Guizhou, hay una pequeña clínica donde trabajan dos doctores de vida tranquila. Uno de ellos, Chen Sheng, debe viajar para ir a buscar a su sobrino, que ha sido abandonado por su padre. Durante el viaje, Chen Sheng para en un lugar llamado Dang Mai, donde el tiempo parece haberse detenido y donde la vida de sus habitantes es un misterio. (FILMAFFINITY)",
+    "genres": [
+      "Drama",
+      "Misterio"
+    ]
+  },
+  "Las Noches+Freak Sesión 1": {
+    "rating": 0,
+    "poster": null,
+    "summary": "Amancio, vampiro de pueblo. En un pueblo prácticamente abandonado, Amancio Barrallo es el último habitante y regenta un bar sin clientes. Convertido en vampiro desde los sesenta, sobrevive entre la rutina nocturna y la escasez de presas, mientras intenta atraer visitantes a un entorno marcado por la despoblación. La llegada inesperada de unos familiares altera su aislamiento y lo enfrenta a una decisión que pone en tensión su soledad y su naturaleza. El ritual de Lily. Equinoccio de Otoño, fin del Siglo XX. Cuatro amigas viajan a una casa aislada en mitad del bosque para realizar un ritual de iniciación a la brujería y así completar el círculo de los cuatro elementos. Lily ,una joven veinteañera pálida e introvertida recién llegada al grupo, ha sido elegida para representar el elemento aire. Pero lo que comienza siendo un ritual de brujería blanca en armonía con la naturaleza, pronto acabará convertido en una diabólica pesadilla.",
+    "genres": []
   }
 }
