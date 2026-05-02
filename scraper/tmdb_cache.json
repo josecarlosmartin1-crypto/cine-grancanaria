@@ -1069,5 +1069,43 @@
     "poster": null,
     "summary": "Amancio, vampiro de pueblo. En un pueblo prácticamente abandonado, Amancio Barrallo es el último habitante y regenta un bar sin clientes. Convertido en vampiro desde los sesenta, sobrevive entre la rutina nocturna y la escasez de presas, mientras intenta atraer visitantes a un entorno marcado por la despoblación. La llegada inesperada de unos familiares altera su aislamiento y lo enfrenta a una decisión que pone en tensión su soledad y su naturaleza. El ritual de Lily. Equinoccio de Otoño, fin del Siglo XX. Cuatro amigas viajan a una casa aislada en mitad del bosque para realizar un ritual de iniciación a la brujería y así completar el círculo de los cuatro elementos. Lily ,una joven veinteañera pálida e introvertida recién llegada al grupo, ha sido elegida para representar el elemento aire. Pero lo que comienza siendo un ritual de brujería blanca en armonía con la naturaleza, pronto acabará convertido en una diabólica pesadilla.",
     "genres": []
+  },
+  "Eugene Onegin - Met Live 25-26": {
+    "rating": 0,
+    "poster": null,
+    "summary": "Tras su aclamado debut en la compañía en 2024 con Madama Butterfly de Puccini, la soprano Asmik Grigorian regresa al Met como Tatiana, la joven heroína enamorada en esta ardiente adaptación operística de Pushkin, que se transmitirá en vivo desde el escenario de la Metropolitan Opera a los cines de todo el mundo el 2 de mayo. El barítono Igor Golovatenko retoma su interpretación del sofisticado Onegin, quien se da cuenta de su afecto por ella demasiado tarde. La evocadora producción del Met, dirigida por la ganadora del premio Tony Deborah Warner, \"ofrece una lectura bellamente detallada de ... el romance lírico de Tchaikovsky\" (The Telegraph).",
+    "genres": []
+  },
+  "Primavera En Un Pequeño Pueblo": {
+    "rating": 7.2,
+    "poster": "https://image.tmdb.org/t/p/w342/eCtv3xw44b3eUE2LGTgmfmQopKf.jpg",
+    "summary": "Tras ocho años de matrimonio con Liyan -anteriormente rico, pero ahora una sombra de sí mismo tras una larga y ruinosa guerra-, Yuwen apenas hace otra cosa que comprar víveres y medicamentos. Una visita sorpresa de Zhang, amigo de Liyan, revitaliza el hogar, pero también despierta sentimientos y resentimientos reprimidos durante mucho tiempo.",
+    "genres": [
+      "Drama",
+      "Romance"
+    ]
+  },
+  "The World": {
+    "rating": 6.0,
+    "poster": "https://image.tmdb.org/t/p/w342/g3goES06cjxKlMEmOAmptX3hxo6.jpg",
+    "summary": "En los años 60, una familia hindú viaja a Israel siguiendo una promesa de la agencia hebrea de entregarles un apartamento en el centro de Israel. Tras horas de viaje en camión, el vehículo se estropea. La hija no tiene idea de dónde se encuentran. Y ahí, en medio del desierto, conoce a una chica que le hará cambiar su vida.",
+    "genres": [
+      "Drama",
+      "Romance"
+    ]
+  },
+  "Las Noches+Freak Sesión 2": {
+    "rating": 0,
+    "poster": null,
+    "summary": "La proyección de este pase se exhibirá con subtítulos en español e inglés.\n\nThis show will be exhibited with Spanish and English subtitles. \n\nPobre Marciano. Llamarte Marciano Martínez Muela no es fácil, pero tampoco lo es encontrar un amigo con quien cantar. Aún así, el destino que le espera es más prometedor de lo que se espera. The Forbidden City. En los suburbios de Roma, el hijo de un restaurador endeudado que ha abandonado a su familia se encuentra con una joven recién llegada a la ciudad en busca de su hermana desaparecida. Unidos por circunstancias ajenas a su voluntad, ambos se adentran en el mundo criminal de la capital italiana. Para avanzar en su búsqueda, deberán colaborar en un entorno marcado por la violencia y superar prejuicios profundamente arraigados.",
+    "genres": []
+  },
+  "Raja Shivaji": {
+    "rating": 0.0,
+    "poster": null,
+    "summary": "Raja Shivaji, basada en la vida de uno de los más grandes reyes guerreros de la India, Chhatrapati Shivaji Maharaj, quien se alzó contra poderosas fuerzas para sentar las bases del Swarajya. Vive este gran espectáculo histórico, creado para la pantalla grande.",
+    "genres": [
+      "Animación"
+    ]
   }
 }
