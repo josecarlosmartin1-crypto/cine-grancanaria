@@ -1107,5 +1107,30 @@
     "genres": [
       "Animación"
     ]
+  },
+  "Cortos Ganadores": {
+    "rating": 0,
+    "poster": null,
+    "summary": "Cortos ganadores en Sección Oficial y Canarias Cinema",
+    "genres": []
+  },
+  "El Desprecio": {
+    "rating": 7.0,
+    "poster": "https://image.tmdb.org/t/p/w342/1sEmVmmQhPfFFdoZWZaMDehCZZ5.jpg",
+    "summary": "Paul Javal (Michel Piccoli), un autor dramático francés, acepta reescribir algunas escenas para \"La Odisea\", una película que se va a rodar en Capri bajo la dirección del renombrado director alemán Fritz Lang (Fritz Lang). En un primer encuentro con el productor, el arrogante norteamericano Prokosch (Jack Palance), el escritor deja que su mujer, la bella Camille (Brigitte Bardot), se vaya en el coche con el productor a la finca de éste, lo cual da lugar a un grave mal entendido entre el escritor y su esposa, que cree que la ha ofrecido como moneda de cambio para obtener un mejor pago. Como consecuencia de esta situación, el escritor se verá inmerso en una dolorosa crisis matrimonial.",
+    "genres": [
+      "Drama",
+      "Romance"
+    ]
+  },
+  "Ran": {
+    "rating": 8.0,
+    "poster": "https://image.tmdb.org/t/p/w342/feChXPgGQhhRfvkzhzoKVp8RLpQ.jpg",
+    "summary": "En el Japón medieval, el poderoso señor Hidetora decide abdicar y repartir sus dominios entre sus tres hijos. El menor considera que la idea es absurda y sólo servirá para causar problemas. Su padre, enfurecido, lo deshereda. Muy pronto descubrirá su error: la ambición hará que sus hijos mayores se enfrenten por el poder en una cruenta guerra. Se inspira en el drama de Shakespeare \"El rey Lear\".",
+    "genres": [
+      "Acción",
+      "Drama",
+      "Historia"
+    ]
   }
 }
