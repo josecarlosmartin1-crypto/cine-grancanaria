@@ -321,7 +321,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "El Diablo Viste De Prada 2",
-      "time": "18:40",
+      "time": "18:30",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/ld68XXTztvYt5DaD1IHoRvCpgOA.jpg",
       "summary": "Sigue la lucha de Miranda Priestly contra Emily Charlton, su ex asistente convertida en ejecutiva rival, mientras compiten por los ingresos por publicidad en medio de la decadencia de los medios impresos y Miranda se acerca a la jubilación.",
@@ -373,14 +373,6 @@ export const MOVIE_DATA = {
         "Drama",
         "Comedia"
       ]
-    },
-    {
-      "title": "David: Una Aventura Gigante",
-      "time": "18:20",
-      "rating": 0,
-      "poster": null,
-      "summary": "David, un joven pastor, se embarca en una aventura épica cuando una amenaza gigantesca pone en peligro a su pueblo. Descubrirá, así, que el valor y el corazón pueden convertir a un pequeño héroe en leyenda.",
-      "genres": []
     },
     {
       "title": "Michael",
@@ -493,17 +485,6 @@ export const MOVIE_DATA = {
     },
     {
       "title": "La Momia De Lee Cronin",
-      "time": "19:25",
-      "rating": 8.2,
-      "poster": "https://image.tmdb.org/t/p/w342/qlLsNgRUiPPEIVbcqZR2KmOBL7e.jpg",
-      "summary": "La joven hija de un periodista desaparece en el desierto sin dejar rastro—ocho años más tarde, la familia rota se conmociona cuando ella es devuelta a ellos, y lo que debiera haber sido una reunión jubilosa se convierte en una auténtica pesadilla.",
-      "genres": [
-        "Terror",
-        "Misterio"
-      ]
-    },
-    {
-      "title": "La Momia De Lee Cronin",
       "time": "22:10",
       "rating": 8.2,
       "poster": "https://image.tmdb.org/t/p/w342/qlLsNgRUiPPEIVbcqZR2KmOBL7e.jpg",
@@ -539,6 +520,17 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Proyecto Salvación",
+      "time": "17:20",
+      "rating": 8.2,
+      "poster": "https://image.tmdb.org/t/p/w342/7lwOTxajURKEWO6gI370NTrVdBO.jpg",
+      "summary": "El profesor de ciencias Ryland Grace se despierta en una nave espacial a años luz de casa sin recordar quién es ni cómo ha llegado hasta allí. A medida que recupera la memoria, empieza a descubrir su misión: resolver el enigma de la misteriosa sustancia que provoca la extinción del sol. Deberá recurrir a sus conocimientos científicos y a sus ideas poco ortodoxas para salvar todo lo que hay en la Tierra de la extinción... pero una amistad inesperada significa que quizá no tenga que hacerlo solo.",
+      "genres": [
+        "Ciencia ficción",
+        "Aventura"
+      ]
+    },
+    {
+      "title": "Proyecto Salvación",
       "time": "20:50",
       "rating": 8.2,
       "poster": "https://image.tmdb.org/t/p/w342/7lwOTxajURKEWO6gI370NTrVdBO.jpg",
@@ -551,6 +543,16 @@ export const MOVIE_DATA = {
     {
       "title": "Incontrolable (I Swear)",
       "time": "16:50",
+      "rating": 4.0,
+      "poster": "https://image.tmdb.org/t/p/w342/phHq95qfPMD3Qy0e6FQDBSzhzf5.jpg",
+      "summary": "La historia real de John Davidson. Diagnosticado con Tourette a los 15 años, señalado como loco por sus compañeros, luchó con una condición que pocos habían presenciado. Ya adulto, hizo campaña en favor del síndrome de Tourette.",
+      "genres": [
+        "Comedia"
+      ]
+    },
+    {
+      "title": "Incontrolable (I Swear)",
+      "time": "19:30",
       "rating": 4.0,
       "poster": "https://image.tmdb.org/t/p/w342/phHq95qfPMD3Qy0e6FQDBSzhzf5.jpg",
       "summary": "La historia real de John Davidson. Diagnosticado con Tourette a los 15 años, señalado como loco por sus compañeros, luchó con una condición que pocos habían presenciado. Ya adulto, hizo campaña en favor del síndrome de Tourette.",
@@ -932,18 +934,6 @@ export const MOVIE_DATA = {
       ]
     },
     {
-      "title": "That Time I Got Reincarnated As A Slime La Pelicula: Lagrimas Del Mar Celeste",
-      "time": "18:30",
-      "rating": 6.0,
-      "poster": "https://image.tmdb.org/t/p/w342/q2CqzdaaxHrpH1SKlqjKOBKCUEm.jpg",
-      "summary": "",
-      "genres": [
-        "Animación",
-        "Fantasía",
-        "Aventura"
-      ]
-    },
-    {
       "title": "David: Una Aventura Gigante",
       "time": "17:00",
       "rating": 0,
@@ -1016,7 +1006,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Resurrection",
-      "time": "19:30",
+      "time": "19:50",
       "rating": 7.1,
       "poster": "https://image.tmdb.org/t/p/w342/76uPr6mqXiEY935oH2IxTCJjLxo.jpg",
       "summary": "En un mundo donde la humanidad ha perdido la capacidad de soñar, una criatura sigue fascinada por las ilusiones que se desvanecen del mundo onírico. Este monstruo, a la deriva en la ensoñación, se aferra a visiones que nadie más puede ver… hasta que aparece una mujer. Dotada del raro poder de percibir estas ilusiones tal como son, decide adentrarse en los sueños del monstruo, decidida a descubrir la verdad que se oculta en su interior.",
