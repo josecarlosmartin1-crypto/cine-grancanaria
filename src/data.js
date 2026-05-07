@@ -791,7 +791,7 @@ export const MOVIE_DATA = {
   "Artesiete Las Terrazas": [
     {
       "title": "Torrente Presidente",
-      "time": "21:30",
+      "time": "21:20",
       "rating": 6.4,
       "poster": "https://image.tmdb.org/t/p/w342/a0Fn0PiGGiU74jIUelpce6z70i9.jpg",
       "summary": "José Luis Torrente vuelve metido de lleno en la política española, arrastrando su habitual mezcla de vulgaridad, oportunismo e ineptitud. La película plantea una sátira de la realidad social y política del país mediante parodias, situaciones absurdas y numerosos cameos.",
@@ -825,7 +825,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "La Familia Beneton 2",
-      "time": "16:30",
+      "time": "16:45",
       "rating": 7.0,
       "poster": "https://image.tmdb.org/t/p/w342/qJhTQ2TFMG2q9Tv6xsyntTMibcU.jpg",
       "summary": "Cuando Toni cree que tiene todo bajo control en su entrañable y divertida familia multicultural, la llegada de dos nuevos bebés pondrá patas arriba la casa y a toda la familia.",
@@ -835,7 +835,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "La Familia Beneton 2",
-      "time": "20:20",
+      "time": "20:15",
       "rating": 7.0,
       "poster": "https://image.tmdb.org/t/p/w342/qJhTQ2TFMG2q9Tv6xsyntTMibcU.jpg",
       "summary": "Cuando Toni cree que tiene todo bajo control en su entrañable y divertida familia multicultural, la llegada de dos nuevos bebés pondrá patas arriba la casa y a toda la familia.",
@@ -932,17 +932,6 @@ export const MOVIE_DATA = {
       ]
     },
     {
-      "title": "Michael",
-      "time": "22:30",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/2uK36ujoDXOfNiJ5Yp3raVprB51.jpg",
-      "summary": "El viaje de Michael Jackson más allá de la música, desde el descubrimiento de su extraordinario talento como líder de los Jackson Five hasta convertirse en una visionaria estrella cuya ambición creativa despertó un incansable afán por consagrarse como el mayor icono de la industria del entretenimiento.",
-      "genres": [
-        "Música",
-        "Drama"
-      ]
-    },
-    {
       "title": "That Time I Got Reincarnated As A Slime La Pelicula: Lagrimas Del Mar Celeste",
       "time": "18:20",
       "rating": 6.0,
@@ -956,7 +945,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "David: Una Aventura Gigante",
-      "time": "16:00",
+      "time": "17:00",
       "rating": 0,
       "poster": null,
       "summary": "David, un joven pastor, se embarca en una aventura épica cuando una amenaza gigantesca pone en peligro a su pueblo. Descubrirá, así, que el valor y el corazón pueden convertir a un pequeño héroe en leyenda.",
@@ -964,7 +953,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "David: Una Aventura Gigante",
-      "time": "18:10",
+      "time": "19:00",
       "rating": 0,
       "poster": null,
       "summary": "David, un joven pastor, se embarca en una aventura épica cuando una amenaza gigantesca pone en peligro a su pueblo. Descubrirá, así, que el valor y el corazón pueden convertir a un pequeño héroe en leyenda.",
@@ -1026,47 +1015,14 @@ export const MOVIE_DATA = {
       ]
     },
     {
-      "title": "El Diablo Viste De Prada 2",
-      "time": "22:30",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/ld68XXTztvYt5DaD1IHoRvCpgOA.jpg",
-      "summary": "Sigue la lucha de Miranda Priestly contra Emily Charlton, su ex asistente convertida en ejecutiva rival, mientras compiten por los ingresos por publicidad en medio de la decadencia de los medios impresos y Miranda se acerca a la jubilación.",
-      "genres": [
-        "Drama",
-        "Comedia"
-      ]
-    },
-    {
       "title": "Resurrection",
-      "time": "18:30",
+      "time": "19:50",
       "rating": 7.1,
       "poster": "https://image.tmdb.org/t/p/w342/76uPr6mqXiEY935oH2IxTCJjLxo.jpg",
       "summary": "En un mundo donde la humanidad ha perdido la capacidad de soñar, una criatura sigue fascinada por las ilusiones que se desvanecen del mundo onírico. Este monstruo, a la deriva en la ensoñación, se aferra a visiones que nadie más puede ver… hasta que aparece una mujer. Dotada del raro poder de percibir estas ilusiones tal como son, decide adentrarse en los sueños del monstruo, decidida a descubrir la verdad que se oculta en su interior.",
       "genres": [
         "Ciencia ficción",
         "Drama"
-      ]
-    },
-    {
-      "title": "Strangers: Capitulo Final",
-      "time": "16:00",
-      "rating": 5.6,
-      "poster": "https://image.tmdb.org/t/p/w342/mIiwoDukWkEoo90WXqOHxHmwhYD.jpg",
-      "summary": "Los supervivientes se enfrentan a nuevas amenazas de extraños enmascarados. Secretos salen a la luz, poniendo en peligro sus vidas mientras la línea entre realidad y peligro se difumina en su lucha por sobrevivir. Tercera y última de la trilogía de películas basadas en \"Los extraños\" (2008)",
-      "genres": [
-        "Terror",
-        "Suspense"
-      ]
-    },
-    {
-      "title": "Strangers: Capitulo Final",
-      "time": "20:15",
-      "rating": 5.6,
-      "poster": "https://image.tmdb.org/t/p/w342/mIiwoDukWkEoo90WXqOHxHmwhYD.jpg",
-      "summary": "Los supervivientes se enfrentan a nuevas amenazas de extraños enmascarados. Secretos salen a la luz, poniendo en peligro sus vidas mientras la línea entre realidad y peligro se difumina en su lucha por sobrevivir. Tercera y última de la trilogía de películas basadas en \"Los extraños\" (2008)",
-      "genres": [
-        "Terror",
-        "Suspense"
       ]
     },
     {
