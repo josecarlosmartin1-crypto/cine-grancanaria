@@ -1132,5 +1132,77 @@
       "Drama",
       "Historia"
     ]
+  },
+  "Las Ovejas Detectives": {
+    "rating": 7.8,
+    "poster": "https://image.tmdb.org/t/p/w342/kMJ4h39xe1fEzbLSt5FJCtEqb2H.jpg",
+    "summary": "Cada noche, un pastor lee en voz alta un asesinato misterioso, fingiendo que sus ovejas pueden entenderlo. Cuando lo encuentran muerto, las ovejas se dan cuenta enseguida de que ha sido un asesinato y creen saber cómo resolverlo.",
+    "genres": [
+      "Comedia",
+      "Familia",
+      "Misterio"
+    ]
+  },
+  "Billie Eilish. Hit Me Hard And Soft - The Tour": {
+    "rating": 8.7,
+    "poster": "https://image.tmdb.org/t/p/w342/8aCrzKY3cwkpS4T72BvcGyuaaX4.jpg",
+    "summary": "Concierto de Billie Eilish dirigido por Billie Eilish y James Cameron. Capturado durante su gira mundial con todas las entradas agotadas, ofrece una innovadora experiencia de concierto en la gran pantalla de una de las artistas más celebradas y exitosas de su generación.",
+    "genres": [
+      "Música",
+      "Documental"
+    ]
+  },
+  "Couture": {
+    "rating": 6.1,
+    "poster": "https://image.tmdb.org/t/p/w342/zKWnA5y1d3kc8bjD3FKIaJ1WI4K.jpg",
+    "summary": "Esther está al final de su carrera como jefa de costureras en el taller de Dior Avenue Montaigne. Un día, una mujer de 20 años, Jade, le roba el bolso en el metro. En lugar de llamar a la policía, decide hacerse cargo de Jade.",
+    "genres": [
+      "Drama"
+    ]
+  },
+  "Deseo": {
+    "rating": 6.5,
+    "poster": "https://image.tmdb.org/t/p/w342/5nnco1q2lZ1uc06TcHrTU4JVElu.jpg",
+    "summary": "Todo empieza cuando un marinero y una prostituta adolescente se encuentran por casualidad. Ese es el comienzo de Deseo, y a partir de ahí la cinta nos muestra a una serie de personajes típicos, propios todos de la sociedad mexicana.  La película en realidad es una crítica mordaz a la sociedad de México, que está llena de prejuicios raciales y de clase, aunque esto creo que es algo común a la mayoría de las sociedades del planeta.  Lo que la cinta nos quiere explicar es cómo debido a esos prejuicios el amor es casi imposible en México y lo que hay es sólo sexo sin amor, que está bien para un rato, pero que no es lo mejor para siempre.  A pesar del halo de modernidad, en la cinta vemos como desde el siglo XIX hasta nuestros días poco ha cambiado en México, en donde la sociedad sigue siendo demasiado puritana.",
+    "genres": [
+      "Drama"
+    ]
+  },
+  "Los Mejores Años De Nuestra Vida": {
+    "rating": 0.0,
+    "poster": "https://image.tmdb.org/t/p/w342/dSyseZXNnObOCSRmC4BQo1w1RMU.jpg",
+    "summary": "Un retrato íntimo y emocional del grupo de rock Hombres G, uno de los más míticos de la historia de la música española, por su 40 aniversario.",
+    "genres": [
+      "Documental",
+      "Música"
+    ]
+  },
+  "Los Justos": {
+    "rating": 7.5,
+    "poster": "https://image.tmdb.org/t/p/w342/ffhjQteKw15YyacruxTaBgdR6nJ.jpg",
+    "summary": "Atilio que comienza una nueva etapa de su vida cuando su hija Mónica toma la difícil decisión de ingresarlo en un geriátrico. Indiferente y deprimido, Atilio se muda sin expectativas. Allí conoce a Beto, un señor ocurrente y buscador, que le facilita la posibilidad de salir clandestinamente. Se escapan juntos del geriátrico para visitar la tumba de su difunta esposa. Durante el silencio de la medianoche son testigos en el cementerio de un operativo encubierto de lavado de dinero. Se trata de un grupo de personas que maniobran en una bóveda dinero escondido en un ataúd. Motivado por la posibilidad de resignificar sus vidas y por el botín, Atilio junto a Beto y a Doña Rosa, una astuta e interesante mujer que también vive en la residencia, comenzarán a involucrarse en la investigación y de esta forma aprovechar la oportunidad de darle un nuevo sentido a sus vidas.",
+    "genres": [
+      "Comedia",
+      "Drama",
+      "Suspense"
+    ]
+  },
+  "Bajo Tus Pies": {
+    "rating": 0.0,
+    "poster": "https://image.tmdb.org/t/p/w342/zk3GVxrKLTDqQsLuL2k7uOmz4ej.jpg",
+    "summary": "Película de Cristian Bernard",
+    "genres": [
+      "Terror"
+    ]
+  },
+  "Mortal Kombat 2": {
+    "rating": 7.3,
+    "poster": "https://image.tmdb.org/t/p/w342/ivVKHht5jutNGnObn1y5sSDrAXn.jpg",
+    "summary": "Los campeones favoritos de los fans, ahora acompañados por el propio Johnny Cage, se enfrentan cara a cara en la definitiva y sangrienta batalla a muerte para vencer al oscuro régimen de Shao Kahn, que amenaza la existencia del Reino de la Tierra y a sus defensores.",
+    "genres": [
+      "Acción",
+      "Fantasía",
+      "Aventura"
+    ]
   }
 }
