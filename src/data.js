@@ -2,6 +2,18 @@ export const MOVIE_DATA = {
   "Cine Yelmo Vecindario": [
     {
       "title": "Las Ovejas Detectives",
+      "time": "15:45",
+      "rating": 7.8,
+      "poster": "https://image.tmdb.org/t/p/w342/kMJ4h39xe1fEzbLSt5FJCtEqb2H.jpg",
+      "summary": "Cada noche, un pastor lee en voz alta un asesinato misterioso, fingiendo que sus ovejas pueden entenderlo. Cuando lo encuentran muerto, las ovejas se dan cuenta enseguida de que ha sido un asesinato y creen saber cómo resolverlo.",
+      "genres": [
+        "Comedia",
+        "Familia",
+        "Misterio"
+      ]
+    },
+    {
+      "title": "Las Ovejas Detectives",
       "time": "18:05",
       "rating": 7.8,
       "poster": "https://image.tmdb.org/t/p/w342/kMJ4h39xe1fEzbLSt5FJCtEqb2H.jpg",
@@ -106,7 +118,29 @@ export const MOVIE_DATA = {
     },
     {
       "title": "El Diablo Viste De Prada 2",
+      "time": "16:15",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/ld68XXTztvYt5DaD1IHoRvCpgOA.jpg",
+      "summary": "Sigue la lucha de Miranda Priestly contra Emily Charlton, su ex asistente convertida en ejecutiva rival, mientras compiten por los ingresos por publicidad en medio de la decadencia de los medios impresos y Miranda se acerca a la jubilación.",
+      "genres": [
+        "Drama",
+        "Comedia"
+      ]
+    },
+    {
+      "title": "El Diablo Viste De Prada 2",
       "time": "17:30",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/ld68XXTztvYt5DaD1IHoRvCpgOA.jpg",
+      "summary": "Sigue la lucha de Miranda Priestly contra Emily Charlton, su ex asistente convertida en ejecutiva rival, mientras compiten por los ingresos por publicidad en medio de la decadencia de los medios impresos y Miranda se acerca a la jubilación.",
+      "genres": [
+        "Drama",
+        "Comedia"
+      ]
+    },
+    {
+      "title": "El Diablo Viste De Prada 2",
+      "time": "18:00",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/ld68XXTztvYt5DaD1IHoRvCpgOA.jpg",
       "summary": "Sigue la lucha de Miranda Priestly contra Emily Charlton, su ex asistente convertida en ejecutiva rival, mientras compiten por los ingresos por publicidad en medio de la decadencia de los medios impresos y Miranda se acerca a la jubilación.",
@@ -171,6 +205,25 @@ export const MOVIE_DATA = {
       ]
     },
     {
+      "title": "David: Una Aventura Gigante",
+      "time": "16:10",
+      "rating": 0,
+      "poster": null,
+      "summary": "David, un joven pastor, se embarca en una aventura épica cuando una amenaza gigantesca pone en peligro a su pueblo. Descubrirá, así, que el valor y el corazón pueden convertir a un pequeño héroe en leyenda.",
+      "genres": []
+    },
+    {
+      "title": "Michael",
+      "time": "15:50",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/2uK36ujoDXOfNiJ5Yp3raVprB51.jpg",
+      "summary": "El viaje de Michael Jackson más allá de la música, desde el descubrimiento de su extraordinario talento como líder de los Jackson Five hasta convertirse en una visionaria estrella cuya ambición creativa despertó un incansable afán por consagrarse como el mayor icono de la industria del entretenimiento.",
+      "genres": [
+        "Música",
+        "Drama"
+      ]
+    },
+    {
       "title": "Michael",
       "time": "17:10",
       "rating": 0.0,
@@ -205,6 +258,17 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Michael",
+      "time": "20:30",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/2uK36ujoDXOfNiJ5Yp3raVprB51.jpg",
+      "summary": "El viaje de Michael Jackson más allá de la música, desde el descubrimiento de su extraordinario talento como líder de los Jackson Five hasta convertirse en una visionaria estrella cuya ambición creativa despertó un incansable afán por consagrarse como el mayor icono de la industria del entretenimiento.",
+      "genres": [
+        "Música",
+        "Drama"
+      ]
+    },
+    {
+      "title": "Michael",
       "time": "21:05",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/2uK36ujoDXOfNiJ5Yp3raVprB51.jpg",
@@ -223,6 +287,16 @@ export const MOVIE_DATA = {
       "genres": [
         "Música",
         "Drama"
+      ]
+    },
+    {
+      "title": "La Familia Benetón +2",
+      "time": "15:45",
+      "rating": 7.0,
+      "poster": "https://image.tmdb.org/t/p/w342/qJhTQ2TFMG2q9Tv6xsyntTMibcU.jpg",
+      "summary": "Cuando Toni cree que tiene todo bajo control en su entrañable y divertida familia multicultural, la llegada de dos nuevos bebés pondrá patas arriba la casa y a toda la familia.",
+      "genres": [
+        "Comedia"
       ]
     },
     {
@@ -255,6 +329,18 @@ export const MOVIE_DATA = {
       "genres": [
         "Terror",
         "Misterio"
+      ]
+    },
+    {
+      "title": "Super Mario Galaxy: La Película",
+      "time": "15:45",
+      "rating": 6.9,
+      "poster": "https://image.tmdb.org/t/p/w342/eEfzkiW28Y3BaHjjgFNkFERNKiK.jpg",
+      "summary": "La película tiene lugar después de los acontecimientos de la primera, en la que dos hermanos, Mario y Luigi, y la princesa Peach emprenden una aventura hasta los confines del espacio y a través de la galaxia. Secuela de \"Super Mario Bros: La película\", basada en la saga \"Mario Galaxy\".",
+      "genres": [
+        "Aventura",
+        "Animación",
+        "Comedia"
       ]
     },
     {
@@ -301,6 +387,18 @@ export const MOVIE_DATA = {
       "genres": [
         "Comedia"
       ]
+    },
+    {
+      "title": "Hoppers",
+      "time": "15:50",
+      "rating": 7.6,
+      "poster": "https://image.tmdb.org/t/p/w342/4Z0E1W7YvQ0aVtgj7KKtktb9ukd.jpg",
+      "summary": "Una amante de los animales aprovecha la oportunidad de utilizar una tecnología que coloca su conciencia en un castor robótico, descubriendo misterios dentro del mundo animal que van más allá de lo que podría haber imaginado.",
+      "genres": [
+        "Animación",
+        "Familia",
+        "Ciencia ficción"
+      ]
     }
   ],
   "Cine Yelmo Las Arenas": [
@@ -316,7 +414,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Las Ovejas Detectives",
-      "time": "17:00",
+      "time": "13:00",
       "rating": 7.8,
       "poster": "https://image.tmdb.org/t/p/w342/kMJ4h39xe1fEzbLSt5FJCtEqb2H.jpg",
       "summary": "Cada noche, un pastor lee en voz alta un asesinato misterioso, fingiendo que sus ovejas pueden entenderlo. Cuando lo encuentran muerto, las ovejas se dan cuenta enseguida de que ha sido un asesinato y creen saber cómo resolverlo.",
@@ -328,7 +426,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Las Ovejas Detectives",
-      "time": "19:20",
+      "time": "14:20",
       "rating": 7.8,
       "poster": "https://image.tmdb.org/t/p/w342/kMJ4h39xe1fEzbLSt5FJCtEqb2H.jpg",
       "summary": "Cada noche, un pastor lee en voz alta un asesinato misterioso, fingiendo que sus ovejas pueden entenderlo. Cuando lo encuentran muerto, las ovejas se dan cuenta enseguida de que ha sido un asesinato y creen saber cómo resolverlo.",
@@ -340,7 +438,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Las Ovejas Detectives",
-      "time": "21:50",
+      "time": "16:40",
       "rating": 7.8,
       "poster": "https://image.tmdb.org/t/p/w342/kMJ4h39xe1fEzbLSt5FJCtEqb2H.jpg",
       "summary": "Cada noche, un pastor lee en voz alta un asesinato misterioso, fingiendo que sus ovejas pueden entenderlo. Cuando lo encuentran muerto, las ovejas se dan cuenta enseguida de que ha sido un asesinato y creen saber cómo resolverlo.",
@@ -348,6 +446,54 @@ export const MOVIE_DATA = {
         "Comedia",
         "Familia",
         "Misterio"
+      ]
+    },
+    {
+      "title": "Las Ovejas Detectives",
+      "time": "19:00",
+      "rating": 7.8,
+      "poster": "https://image.tmdb.org/t/p/w342/kMJ4h39xe1fEzbLSt5FJCtEqb2H.jpg",
+      "summary": "Cada noche, un pastor lee en voz alta un asesinato misterioso, fingiendo que sus ovejas pueden entenderlo. Cuando lo encuentran muerto, las ovejas se dan cuenta enseguida de que ha sido un asesinato y creen saber cómo resolverlo.",
+      "genres": [
+        "Comedia",
+        "Familia",
+        "Misterio"
+      ]
+    },
+    {
+      "title": "Las Ovejas Detectives",
+      "time": "21:30",
+      "rating": 7.8,
+      "poster": "https://image.tmdb.org/t/p/w342/kMJ4h39xe1fEzbLSt5FJCtEqb2H.jpg",
+      "summary": "Cada noche, un pastor lee en voz alta un asesinato misterioso, fingiendo que sus ovejas pueden entenderlo. Cuando lo encuentran muerto, las ovejas se dan cuenta enseguida de que ha sido un asesinato y creen saber cómo resolverlo.",
+      "genres": [
+        "Comedia",
+        "Familia",
+        "Misterio"
+      ]
+    },
+    {
+      "title": "Mortal Kombat Ii",
+      "time": "12:00",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/dxUg4OCHJJdQURZdLiMcTv7OZfn.jpg",
+      "summary": "Los campeones favoritos de los fans, ahora acompañados por el propio Johnny Cage, se enfrentan cara a cara en la definitiva y sangrienta batalla a muerte para vencer al oscuro régimen de Shao Kahn, que amenaza la existencia del Reino de la Tierra y a sus defensores.",
+      "genres": [
+        "Acción",
+        "Fantasía",
+        "Aventura"
+      ]
+    },
+    {
+      "title": "Mortal Kombat Ii",
+      "time": "14:30",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/dxUg4OCHJJdQURZdLiMcTv7OZfn.jpg",
+      "summary": "Los campeones favoritos de los fans, ahora acompañados por el propio Johnny Cage, se enfrentan cara a cara en la definitiva y sangrienta batalla a muerte para vencer al oscuro régimen de Shao Kahn, que amenaza la existencia del Reino de la Tierra y a sus defensores.",
+      "genres": [
+        "Acción",
+        "Fantasía",
+        "Aventura"
       ]
     },
     {
@@ -387,13 +533,14 @@ export const MOVIE_DATA = {
       ]
     },
     {
-      "title": "Deseo",
-      "time": "17:10",
-      "rating": 6.5,
-      "poster": "https://image.tmdb.org/t/p/w342/5nnco1q2lZ1uc06TcHrTU4JVElu.jpg",
-      "summary": "Todo empieza cuando un marinero y una prostituta adolescente se encuentran por casualidad. Ese es el comienzo de Deseo, y a partir de ahí la cinta nos muestra a una serie de personajes típicos, propios todos de la sociedad mexicana.  La película en realidad es una crítica mordaz a la sociedad de México, que está llena de prejuicios raciales y de clase, aunque esto creo que es algo común a la mayoría de las sociedades del planeta.  Lo que la cinta nos quiere explicar es cómo debido a esos prejuicios el amor es casi imposible en México y lo que hay es sólo sexo sin amor, que está bien para un rato, pero que no es lo mejor para siempre.  A pesar del halo de modernidad, en la cinta vemos como desde el siglo XIX hasta nuestros días poco ha cambiado en México, en donde la sociedad sigue siendo demasiado puritana.",
+      "title": "Billie Eilish. Hit Me Hard And Soft - The Tour",
+      "time": "12:30",
+      "rating": 8.7,
+      "poster": "https://image.tmdb.org/t/p/w342/8aCrzKY3cwkpS4T72BvcGyuaaX4.jpg",
+      "summary": "Concierto de Billie Eilish dirigido por Billie Eilish y James Cameron. Capturado durante su gira mundial con todas las entradas agotadas, ofrece una innovadora experiencia de concierto en la gran pantalla de una de las artistas más celebradas y exitosas de su generación.",
       "genres": [
-        "Drama"
+        "Música",
+        "Documental"
       ]
     },
     {
@@ -419,6 +566,16 @@ export const MOVIE_DATA = {
       ]
     },
     {
+      "title": "Deseo",
+      "time": "17:10",
+      "rating": 6.5,
+      "poster": "https://image.tmdb.org/t/p/w342/5nnco1q2lZ1uc06TcHrTU4JVElu.jpg",
+      "summary": "Todo empieza cuando un marinero y una prostituta adolescente se encuentran por casualidad. Ese es el comienzo de Deseo, y a partir de ahí la cinta nos muestra a una serie de personajes típicos, propios todos de la sociedad mexicana.  La película en realidad es una crítica mordaz a la sociedad de México, que está llena de prejuicios raciales y de clase, aunque esto creo que es algo común a la mayoría de las sociedades del planeta.  Lo que la cinta nos quiere explicar es cómo debido a esos prejuicios el amor es casi imposible en México y lo que hay es sólo sexo sin amor, que está bien para un rato, pero que no es lo mejor para siempre.  A pesar del halo de modernidad, en la cinta vemos como desde el siglo XIX hasta nuestros días poco ha cambiado en México, en donde la sociedad sigue siendo demasiado puritana.",
+      "genres": [
+        "Drama"
+      ]
+    },
+    {
       "title": "Los Mejores Años De Nuestra Vida",
       "time": "20:00",
       "rating": 0.0,
@@ -427,6 +584,50 @@ export const MOVIE_DATA = {
       "genres": [
         "Documental",
         "Música"
+      ]
+    },
+    {
+      "title": "El Diablo Viste De Prada 2",
+      "time": "12:20",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/ld68XXTztvYt5DaD1IHoRvCpgOA.jpg",
+      "summary": "Sigue la lucha de Miranda Priestly contra Emily Charlton, su ex asistente convertida en ejecutiva rival, mientras compiten por los ingresos por publicidad en medio de la decadencia de los medios impresos y Miranda se acerca a la jubilación.",
+      "genres": [
+        "Drama",
+        "Comedia"
+      ]
+    },
+    {
+      "title": "El Diablo Viste De Prada 2",
+      "time": "13:30",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/ld68XXTztvYt5DaD1IHoRvCpgOA.jpg",
+      "summary": "Sigue la lucha de Miranda Priestly contra Emily Charlton, su ex asistente convertida en ejecutiva rival, mientras compiten por los ingresos por publicidad en medio de la decadencia de los medios impresos y Miranda se acerca a la jubilación.",
+      "genres": [
+        "Drama",
+        "Comedia"
+      ]
+    },
+    {
+      "title": "El Diablo Viste De Prada 2",
+      "time": "14:50",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/ld68XXTztvYt5DaD1IHoRvCpgOA.jpg",
+      "summary": "Sigue la lucha de Miranda Priestly contra Emily Charlton, su ex asistente convertida en ejecutiva rival, mientras compiten por los ingresos por publicidad en medio de la decadencia de los medios impresos y Miranda se acerca a la jubilación.",
+      "genres": [
+        "Drama",
+        "Comedia"
+      ]
+    },
+    {
+      "title": "El Diablo Viste De Prada 2",
+      "time": "16:10",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/ld68XXTztvYt5DaD1IHoRvCpgOA.jpg",
+      "summary": "Sigue la lucha de Miranda Priestly contra Emily Charlton, su ex asistente convertida en ejecutiva rival, mientras compiten por los ingresos por publicidad en medio de la decadencia de los medios impresos y Miranda se acerca a la jubilación.",
+      "genres": [
+        "Drama",
+        "Comedia"
       ]
     },
     {
@@ -485,6 +686,17 @@ export const MOVIE_DATA = {
       ]
     },
     {
+      "title": "Strangers: Capítulo Final",
+      "time": "15:00",
+      "rating": 5.6,
+      "poster": "https://image.tmdb.org/t/p/w342/mIiwoDukWkEoo90WXqOHxHmwhYD.jpg",
+      "summary": "Los supervivientes se enfrentan a nuevas amenazas de extraños enmascarados. Secretos salen a la luz, poniendo en peligro sus vidas mientras la línea entre realidad y peligro se difumina en su lucha por sobrevivir. Tercera y última de la trilogía de películas basadas en \"Los extraños\" (2008)",
+      "genres": [
+        "Terror",
+        "Suspense"
+      ]
+    },
+    {
       "title": "Los Justos",
       "time": "17:50",
       "rating": 7.5,
@@ -494,6 +706,80 @@ export const MOVIE_DATA = {
         "Comedia",
         "Drama",
         "Suspense"
+      ]
+    },
+    {
+      "title": "Power To The People: John & Yoko Live In Nyc",
+      "time": "14:40",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/lpq2ezXOSgsB4RncYohs4p1s6gx.jpg",
+      "summary": "Power To The People: John & Yoko Live in NYC es la película-concierto multipantalla de 2026 de dos grandes conciertos en directo de John Lennon y Yoko Ono en Madison Square Garden, Nueva York el 30 de agosto de 1972, restaurado, reeditado y remasterizado recientemente por el equipo de los Lennon, ganador de siete premios GRAMMY®.\nJohn & Yoko/Plastic Ono Band junto con Elephant's Memory e invitados especiales se presentaron en estos conciertos One To One, ahora legendarios y con entradas agotadas, ante un público total de 40,000 personas, recaudando más de 1.5 millones de dólares (equivalentes a 11.5 millones de dólares en 2026) para niños con discapacidades intelectuales y del desarrollo. Fueron los únicos conciertos completos que John Lennon (junto a Yoko Ono) dió tras dejar a los Beatles.\nFilmada originalmente en 1972 por el director multicámara, Steve Gebhardt, esta versión del 2026 de la película-concierto está dirigida por Simon Hilton, editada por Ben Wainwright-Pearce y producida por Peter Worsley y Sean Ono Lennon. La producción musical es de Sean Ono Lennon; mezcla y ingeniería de Paul Hicks y Sam Gannon. \nEntre los éxitos interpretados se incluyen «New York City», «Instant Karma!», «Imagine» y «Mother» de John, además de «Don't Worry Kyoko» y «Open Your Box» de Yoko, así como emocionantes versiones de «Come Together» y «Hound Dog» y, como bis, «Give Peace a Chance» con invitados especiales como Stevie Wonder, Melanie y muchos otros.",
+      "genres": [
+        "Música",
+        "Documental"
+      ]
+    },
+    {
+      "title": "David: Una Aventura Gigante",
+      "time": "13:10",
+      "rating": 0,
+      "poster": null,
+      "summary": "David, un joven pastor, se embarca en una aventura épica cuando una amenaza gigantesca pone en peligro a su pueblo. Descubrirá, así, que el valor y el corazón pueden convertir a un pequeño héroe en leyenda.",
+      "genres": []
+    },
+    {
+      "title": "Michael",
+      "time": "11:50",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/2uK36ujoDXOfNiJ5Yp3raVprB51.jpg",
+      "summary": "El viaje de Michael Jackson más allá de la música, desde el descubrimiento de su extraordinario talento como líder de los Jackson Five hasta convertirse en una visionaria estrella cuya ambición creativa despertó un incansable afán por consagrarse como el mayor icono de la industria del entretenimiento.",
+      "genres": [
+        "Música",
+        "Drama"
+      ]
+    },
+    {
+      "title": "Michael",
+      "time": "12:40",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/2uK36ujoDXOfNiJ5Yp3raVprB51.jpg",
+      "summary": "El viaje de Michael Jackson más allá de la música, desde el descubrimiento de su extraordinario talento como líder de los Jackson Five hasta convertirse en una visionaria estrella cuya ambición creativa despertó un incansable afán por consagrarse como el mayor icono de la industria del entretenimiento.",
+      "genres": [
+        "Música",
+        "Drama"
+      ]
+    },
+    {
+      "title": "Michael",
+      "time": "13:00",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/2uK36ujoDXOfNiJ5Yp3raVprB51.jpg",
+      "summary": "El viaje de Michael Jackson más allá de la música, desde el descubrimiento de su extraordinario talento como líder de los Jackson Five hasta convertirse en una visionaria estrella cuya ambición creativa despertó un incansable afán por consagrarse como el mayor icono de la industria del entretenimiento.",
+      "genres": [
+        "Música",
+        "Drama"
+      ]
+    },
+    {
+      "title": "Michael",
+      "time": "15:30",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/2uK36ujoDXOfNiJ5Yp3raVprB51.jpg",
+      "summary": "El viaje de Michael Jackson más allá de la música, desde el descubrimiento de su extraordinario talento como líder de los Jackson Five hasta convertirse en una visionaria estrella cuya ambición creativa despertó un incansable afán por consagrarse como el mayor icono de la industria del entretenimiento.",
+      "genres": [
+        "Música",
+        "Drama"
+      ]
+    },
+    {
+      "title": "Michael",
+      "time": "16:20",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/2uK36ujoDXOfNiJ5Yp3raVprB51.jpg",
+      "summary": "El viaje de Michael Jackson más allá de la música, desde el descubrimiento de su extraordinario talento como líder de los Jackson Five hasta convertirse en una visionaria estrella cuya ambición creativa despertó un incansable afán por consagrarse como el mayor icono de la industria del entretenimiento.",
+      "genres": [
+        "Música",
+        "Drama"
       ]
     },
     {
@@ -585,8 +871,42 @@ export const MOVIE_DATA = {
       ]
     },
     {
+      "title": "La Familia Benetón +2",
+      "time": "15:40",
+      "rating": 7.0,
+      "poster": "https://image.tmdb.org/t/p/w342/qJhTQ2TFMG2q9Tv6xsyntTMibcU.jpg",
+      "summary": "Cuando Toni cree que tiene todo bajo control en su entrañable y divertida familia multicultural, la llegada de dos nuevos bebés pondrá patas arriba la casa y a toda la familia.",
+      "genres": [
+        "Comedia"
+      ]
+    },
+    {
       "title": "Super Mario Galaxy: La Película",
-      "time": "18:00",
+      "time": "12:10",
+      "rating": 6.9,
+      "poster": "https://image.tmdb.org/t/p/w342/eEfzkiW28Y3BaHjjgFNkFERNKiK.jpg",
+      "summary": "La película tiene lugar después de los acontecimientos de la primera, en la que dos hermanos, Mario y Luigi, y la princesa Peach emprenden una aventura hasta los confines del espacio y a través de la galaxia. Secuela de \"Super Mario Bros: La película\", basada en la saga \"Mario Galaxy\".",
+      "genres": [
+        "Aventura",
+        "Animación",
+        "Comedia"
+      ]
+    },
+    {
+      "title": "Super Mario Galaxy: La Película",
+      "time": "15:50",
+      "rating": 6.9,
+      "poster": "https://image.tmdb.org/t/p/w342/eEfzkiW28Y3BaHjjgFNkFERNKiK.jpg",
+      "summary": "La película tiene lugar después de los acontecimientos de la primera, en la que dos hermanos, Mario y Luigi, y la princesa Peach emprenden una aventura hasta los confines del espacio y a través de la galaxia. Secuela de \"Super Mario Bros: La película\", basada en la saga \"Mario Galaxy\".",
+      "genres": [
+        "Aventura",
+        "Animación",
+        "Comedia"
+      ]
+    },
+    {
+      "title": "Super Mario Galaxy: La Película",
+      "time": "18:10",
       "rating": 6.9,
       "poster": "https://image.tmdb.org/t/p/w342/eEfzkiW28Y3BaHjjgFNkFERNKiK.jpg",
       "summary": "La película tiene lugar después de los acontecimientos de la primera, en la que dos hermanos, Mario y Luigi, y la princesa Peach emprenden una aventura hasta los confines del espacio y a través de la galaxia. Secuela de \"Super Mario Bros: La película\", basada en la saga \"Mario Galaxy\".",
@@ -608,6 +928,16 @@ export const MOVIE_DATA = {
       ]
     },
     {
+      "title": "Incontrolable (I Swear)",
+      "time": "13:20",
+      "rating": 4.0,
+      "poster": "https://image.tmdb.org/t/p/w342/phHq95qfPMD3Qy0e6FQDBSzhzf5.jpg",
+      "summary": "La historia real de John Davidson. Diagnosticado con Tourette a los 15 años, señalado como loco por sus compañeros, luchó con una condición que pocos habían presenciado. Ya adulto, hizo campaña en favor del síndrome de Tourette.",
+      "genres": [
+        "Comedia"
+      ]
+    },
+    {
       "title": "Torrente Presidente",
       "time": "22:25",
       "rating": 6.4,
@@ -616,9 +946,33 @@ export const MOVIE_DATA = {
       "genres": [
         "Comedia"
       ]
+    },
+    {
+      "title": "Hoppers",
+      "time": "16:00",
+      "rating": 7.6,
+      "poster": "https://image.tmdb.org/t/p/w342/4Z0E1W7YvQ0aVtgj7KKtktb9ukd.jpg",
+      "summary": "Una amante de los animales aprovecha la oportunidad de utilizar una tecnología que coloca su conciencia en un castor robótico, descubriendo misterios dentro del mundo animal que van más allá de lo que podría haber imaginado.",
+      "genres": [
+        "Animación",
+        "Familia",
+        "Ciencia ficción"
+      ]
     }
   ],
   "Cine Yelmo Premium Alisios": [
+    {
+      "title": "Las Ovejas Detectives",
+      "time": "15:45",
+      "rating": 7.8,
+      "poster": "https://image.tmdb.org/t/p/w342/kMJ4h39xe1fEzbLSt5FJCtEqb2H.jpg",
+      "summary": "Cada noche, un pastor lee en voz alta un asesinato misterioso, fingiendo que sus ovejas pueden entenderlo. Cuando lo encuentran muerto, las ovejas se dan cuenta enseguida de que ha sido un asesinato y creen saber cómo resolverlo.",
+      "genres": [
+        "Comedia",
+        "Familia",
+        "Misterio"
+      ]
+    },
     {
       "title": "Las Ovejas Detectives",
       "time": "18:05",
@@ -704,13 +1058,24 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Billie Eilish. Hit Me Hard And Soft - The Tour",
-      "time": "22:15",
+      "time": "22:10",
       "rating": 8.7,
       "poster": "https://image.tmdb.org/t/p/w342/8aCrzKY3cwkpS4T72BvcGyuaaX4.jpg",
       "summary": "Concierto de Billie Eilish dirigido por Billie Eilish y James Cameron. Capturado durante su gira mundial con todas las entradas agotadas, ofrece una innovadora experiencia de concierto en la gran pantalla de una de las artistas más celebradas y exitosas de su generación.",
       "genres": [
         "Música",
         "Documental"
+      ]
+    },
+    {
+      "title": "El Diablo Viste De Prada 2",
+      "time": "16:15",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/ld68XXTztvYt5DaD1IHoRvCpgOA.jpg",
+      "summary": "Sigue la lucha de Miranda Priestly contra Emily Charlton, su ex asistente convertida en ejecutiva rival, mientras compiten por los ingresos por publicidad en medio de la decadencia de los medios impresos y Miranda se acerca a la jubilación.",
+      "genres": [
+        "Drama",
+        "Comedia"
       ]
     },
     {
@@ -770,7 +1135,18 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Michael",
-      "time": "17:05",
+      "time": "15:50",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/2uK36ujoDXOfNiJ5Yp3raVprB51.jpg",
+      "summary": "El viaje de Michael Jackson más allá de la música, desde el descubrimiento de su extraordinario talento como líder de los Jackson Five hasta convertirse en una visionaria estrella cuya ambición creativa despertó un incansable afán por consagrarse como el mayor icono de la industria del entretenimiento.",
+      "genres": [
+        "Música",
+        "Drama"
+      ]
+    },
+    {
+      "title": "Michael",
+      "time": "16:50",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/2uK36ujoDXOfNiJ5Yp3raVprB51.jpg",
       "summary": "El viaje de Michael Jackson más allá de la música, desde el descubrimiento de su extraordinario talento como líder de los Jackson Five hasta convertirse en una visionaria estrella cuya ambición creativa despertó un incansable afán por consagrarse como el mayor icono de la industria del entretenimiento.",
@@ -825,7 +1201,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "La Familia Benetón +2",
-      "time": "17:05",
+      "time": "16:55",
       "rating": 7.0,
       "poster": "https://image.tmdb.org/t/p/w342/qJhTQ2TFMG2q9Tv6xsyntTMibcU.jpg",
       "summary": "Cuando Toni cree que tiene todo bajo control en su entrañable y divertida familia multicultural, la llegada de dos nuevos bebés pondrá patas arriba la casa y a toda la familia.",
@@ -835,7 +1211,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "La Momia De Lee Cronin",
-      "time": "19:05",
+      "time": "19:00",
       "rating": 8.2,
       "poster": "https://image.tmdb.org/t/p/w342/qlLsNgRUiPPEIVbcqZR2KmOBL7e.jpg",
       "summary": "La joven hija de un periodista desaparece en el desierto sin dejar rastro—ocho años más tarde, la familia rota se conmociona cuando ella es devuelta a ellos, y lo que debiera haber sido una reunión jubilosa se convierte en una auténtica pesadilla.",
@@ -857,7 +1233,19 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Super Mario Galaxy: La Película",
-      "time": "17:25",
+      "time": "15:50",
+      "rating": 6.9,
+      "poster": "https://image.tmdb.org/t/p/w342/eEfzkiW28Y3BaHjjgFNkFERNKiK.jpg",
+      "summary": "La película tiene lugar después de los acontecimientos de la primera, en la que dos hermanos, Mario y Luigi, y la princesa Peach emprenden una aventura hasta los confines del espacio y a través de la galaxia. Secuela de \"Super Mario Bros: La película\", basada en la saga \"Mario Galaxy\".",
+      "genres": [
+        "Aventura",
+        "Animación",
+        "Comedia"
+      ]
+    },
+    {
+      "title": "Super Mario Galaxy: La Película",
+      "time": "17:15",
       "rating": 6.9,
       "poster": "https://image.tmdb.org/t/p/w342/eEfzkiW28Y3BaHjjgFNkFERNKiK.jpg",
       "summary": "La película tiene lugar después de los acontecimientos de la primera, en la que dos hermanos, Mario y Luigi, y la princesa Peach emprenden una aventura hasta los confines del espacio y a través de la galaxia. Secuela de \"Super Mario Bros: La película\", basada en la saga \"Mario Galaxy\".",
@@ -904,7 +1292,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Torrente Presidente",
-      "time": "17:20",
+      "time": "17:25",
       "rating": 6.4,
       "poster": "https://image.tmdb.org/t/p/w342/a0Fn0PiGGiU74jIUelpce6z70i9.jpg",
       "summary": "José Luis Torrente vuelve metido de lleno en la política española, arrastrando su habitual mezcla de vulgaridad, oportunismo e ineptitud. La película plantea una sátira de la realidad social y política del país mediante parodias, situaciones absurdas y numerosos cameos.",
@@ -916,7 +1304,7 @@ export const MOVIE_DATA = {
   "Artesiete Las Terrazas": [
     {
       "title": "Super Mario Galaxy: La Pelicula",
-      "time": "18:45",
+      "time": "16:30",
       "rating": 6.9,
       "poster": "https://image.tmdb.org/t/p/w342/eEfzkiW28Y3BaHjjgFNkFERNKiK.jpg",
       "summary": "La película tiene lugar después de los acontecimientos de la primera, en la que dos hermanos, Mario y Luigi, y la princesa Peach emprenden una aventura hasta los confines del espacio y a través de la galaxia. Secuela de \"Super Mario Bros: La película\", basada en la saga \"Mario Galaxy\".",
@@ -928,7 +1316,19 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Super Mario Galaxy: La Pelicula",
-      "time": "20:40",
+      "time": "18:30",
+      "rating": 6.9,
+      "poster": "https://image.tmdb.org/t/p/w342/eEfzkiW28Y3BaHjjgFNkFERNKiK.jpg",
+      "summary": "La película tiene lugar después de los acontecimientos de la primera, en la que dos hermanos, Mario y Luigi, y la princesa Peach emprenden una aventura hasta los confines del espacio y a través de la galaxia. Secuela de \"Super Mario Bros: La película\", basada en la saga \"Mario Galaxy\".",
+      "genres": [
+        "Aventura",
+        "Animación",
+        "Comedia"
+      ]
+    },
+    {
+      "title": "Super Mario Galaxy: La Pelicula",
+      "time": "20:30",
       "rating": 6.9,
       "poster": "https://image.tmdb.org/t/p/w342/eEfzkiW28Y3BaHjjgFNkFERNKiK.jpg",
       "summary": "La película tiene lugar después de los acontecimientos de la primera, en la que dos hermanos, Mario y Luigi, y la princesa Peach emprenden una aventura hasta los confines del espacio y a través de la galaxia. Secuela de \"Super Mario Bros: La película\", basada en la saga \"Mario Galaxy\".",
@@ -1036,7 +1436,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Michael",
-      "time": "20:20",
+      "time": "20:10",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/2uK36ujoDXOfNiJ5Yp3raVprB51.jpg",
       "summary": "El viaje de Michael Jackson más allá de la música, desde el descubrimiento de su extraordinario talento como líder de los Jackson Five hasta convertirse en una visionaria estrella cuya ambición creativa despertó un incansable afán por consagrarse como el mayor icono de la industria del entretenimiento.",
@@ -1069,11 +1469,22 @@ export const MOVIE_DATA = {
     },
     {
       "title": "David: Una Aventura Gigante",
-      "time": "16:50",
+      "time": "15:50",
       "rating": 0,
       "poster": null,
       "summary": "David, un joven pastor, se embarca en una aventura épica cuando una amenaza gigantesca pone en peligro a su pueblo. Descubrirá, así, que el valor y el corazón pueden convertir a un pequeño héroe en leyenda.",
       "genres": []
+    },
+    {
+      "title": "El Diablo Viste De Prada 2",
+      "time": "15:50",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/ld68XXTztvYt5DaD1IHoRvCpgOA.jpg",
+      "summary": "Sigue la lucha de Miranda Priestly contra Emily Charlton, su ex asistente convertida en ejecutiva rival, mientras compiten por los ingresos por publicidad en medio de la decadencia de los medios impresos y Miranda se acerca a la jubilación.",
+      "genres": [
+        "Drama",
+        "Comedia"
+      ]
     },
     {
       "title": "El Diablo Viste De Prada 2",
@@ -1152,7 +1563,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Las Ovejas Detectives",
-      "time": "16:50",
+      "time": "15:50",
       "rating": 7.8,
       "poster": "https://image.tmdb.org/t/p/w342/kMJ4h39xe1fEzbLSt5FJCtEqb2H.jpg",
       "summary": "Cada noche, un pastor lee en voz alta un asesinato misterioso, fingiendo que sus ovejas pueden entenderlo. Cuando lo encuentran muerto, las ovejas se dan cuenta enseguida de que ha sido un asesinato y creen saber cómo resolverlo.",
@@ -1164,7 +1575,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Las Ovejas Detectives",
-      "time": "18:45",
+      "time": "17:50",
       "rating": 7.8,
       "poster": "https://image.tmdb.org/t/p/w342/kMJ4h39xe1fEzbLSt5FJCtEqb2H.jpg",
       "summary": "Cada noche, un pastor lee en voz alta un asesinato misterioso, fingiendo que sus ovejas pueden entenderlo. Cuando lo encuentran muerto, las ovejas se dan cuenta enseguida de que ha sido un asesinato y creen saber cómo resolverlo.",
@@ -1176,7 +1587,19 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Las Ovejas Detectives",
-      "time": "20:45",
+      "time": "19:50",
+      "rating": 7.8,
+      "poster": "https://image.tmdb.org/t/p/w342/kMJ4h39xe1fEzbLSt5FJCtEqb2H.jpg",
+      "summary": "Cada noche, un pastor lee en voz alta un asesinato misterioso, fingiendo que sus ovejas pueden entenderlo. Cuando lo encuentran muerto, las ovejas se dan cuenta enseguida de que ha sido un asesinato y creen saber cómo resolverlo.",
+      "genres": [
+        "Comedia",
+        "Familia",
+        "Misterio"
+      ]
+    },
+    {
+      "title": "Las Ovejas Detectives",
+      "time": "21:50",
       "rating": 7.8,
       "poster": "https://image.tmdb.org/t/p/w342/kMJ4h39xe1fEzbLSt5FJCtEqb2H.jpg",
       "summary": "Cada noche, un pastor lee en voz alta un asesinato misterioso, fingiendo que sus ovejas pueden entenderlo. Cuando lo encuentran muerto, las ovejas se dan cuenta enseguida de que ha sido un asesinato y creen saber cómo resolverlo.",
@@ -1188,7 +1611,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Mortal Kombat 2",
-      "time": "17:00",
+      "time": "16:00",
       "rating": 7.3,
       "poster": "https://image.tmdb.org/t/p/w342/ivVKHht5jutNGnObn1y5sSDrAXn.jpg",
       "summary": "Los campeones favoritos de los fans, ahora acompañados por el propio Johnny Cage, se enfrentan cara a cara en la definitiva y sangrienta batalla a muerte para vencer al oscuro régimen de Shao Kahn, que amenaza la existencia del Reino de la Tierra y a sus defensores.",
@@ -1200,7 +1623,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Mortal Kombat 2",
-      "time": "19:15",
+      "time": "18:10",
       "rating": 7.3,
       "poster": "https://image.tmdb.org/t/p/w342/ivVKHht5jutNGnObn1y5sSDrAXn.jpg",
       "summary": "Los campeones favoritos de los fans, ahora acompañados por el propio Johnny Cage, se enfrentan cara a cara en la definitiva y sangrienta batalla a muerte para vencer al oscuro régimen de Shao Kahn, que amenaza la existencia del Reino de la Tierra y a sus defensores.",
@@ -1212,7 +1635,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Mortal Kombat 2",
-      "time": "21:20",
+      "time": "20:20",
       "rating": 7.3,
       "poster": "https://image.tmdb.org/t/p/w342/ivVKHht5jutNGnObn1y5sSDrAXn.jpg",
       "summary": "Los campeones favoritos de los fans, ahora acompañados por el propio Johnny Cage, se enfrentan cara a cara en la definitiva y sangrienta batalla a muerte para vencer al oscuro régimen de Shao Kahn, que amenaza la existencia del Reino de la Tierra y a sus defensores.",
@@ -1224,7 +1647,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Mortal Kombat 2",
-      "time": "22:45",
+      "time": "22:30",
       "rating": 7.3,
       "poster": "https://image.tmdb.org/t/p/w342/ivVKHht5jutNGnObn1y5sSDrAXn.jpg",
       "summary": "Los campeones favoritos de los fans, ahora acompañados por el propio Johnny Cage, se enfrentan cara a cara en la definitiva y sangrienta batalla a muerte para vencer al oscuro régimen de Shao Kahn, que amenaza la existencia del Reino de la Tierra y a sus defensores.",
