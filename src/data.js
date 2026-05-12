@@ -37,16 +37,6 @@ export const MOVIE_DATA = {
       ]
     },
     {
-      "title": "Deseo",
-      "time": "17:15",
-      "rating": 6.5,
-      "poster": "https://image.tmdb.org/t/p/w342/5nnco1q2lZ1uc06TcHrTU4JVElu.jpg",
-      "summary": "Todo empieza cuando un marinero y una prostituta adolescente se encuentran por casualidad. Ese es el comienzo de Deseo, y a partir de ahí la cinta nos muestra a una serie de personajes típicos, propios todos de la sociedad mexicana.  La película en realidad es una crítica mordaz a la sociedad de México, que está llena de prejuicios raciales y de clase, aunque esto creo que es algo común a la mayoría de las sociedades del planeta.  Lo que la cinta nos quiere explicar es cómo debido a esos prejuicios el amor es casi imposible en México y lo que hay es sólo sexo sin amor, que está bien para un rato, pero que no es lo mejor para siempre.  A pesar del halo de modernidad, en la cinta vemos como desde el siglo XIX hasta nuestros días poco ha cambiado en México, en donde la sociedad sigue siendo demasiado puritana.",
-      "genres": [
-        "Drama"
-      ]
-    },
-    {
       "title": "Billie Eilish. Hit Me Hard And Soft - The Tour",
       "time": "19:40",
       "rating": 8.7,
@@ -156,6 +146,18 @@ export const MOVIE_DATA = {
       "summary": "Los supervivientes se enfrentan a nuevas amenazas de extraños enmascarados. Secretos salen a la luz, poniendo en peligro sus vidas mientras la línea entre realidad y peligro se difumina en su lucha por sobrevivir. Tercera y última de la trilogía de películas basadas en \"Los extraños\" (2008)",
       "genres": [
         "Terror",
+        "Suspense"
+      ]
+    },
+    {
+      "title": "Kraken: El Libro Negro De Las Horas",
+      "time": "17:15",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/3ZIhW9gyIARln6Tnn92lOS2o419.jpg",
+      "summary": "Unai López de Ayala debe introducirse en el mundo del coleccionismo y las falsificaciones para encontrar el mítico Libro Negro de Horas y poder salvar a su madre que creía ya muerta",
+      "genres": [
+        "Crimen",
+        "Misterio",
         "Suspense"
       ]
     },
@@ -904,19 +906,7 @@ export const MOVIE_DATA = {
   "Artesiete Las Terrazas": [
     {
       "title": "Super Mario Galaxy: La Pelicula",
-      "time": "17:00",
-      "rating": 6.9,
-      "poster": "https://image.tmdb.org/t/p/w342/eEfzkiW28Y3BaHjjgFNkFERNKiK.jpg",
-      "summary": "La película tiene lugar después de los acontecimientos de la primera, en la que dos hermanos, Mario y Luigi, y la princesa Peach emprenden una aventura hasta los confines del espacio y a través de la galaxia. Secuela de \"Super Mario Bros: La película\", basada en la saga \"Mario Galaxy\".",
-      "genres": [
-        "Aventura",
-        "Animación",
-        "Comedia"
-      ]
-    },
-    {
-      "title": "Super Mario Galaxy: La Pelicula",
-      "time": "19:00",
+      "time": "19:40",
       "rating": 6.9,
       "poster": "https://image.tmdb.org/t/p/w342/eEfzkiW28Y3BaHjjgFNkFERNKiK.jpg",
       "summary": "La película tiene lugar después de los acontecimientos de la primera, en la que dos hermanos, Mario y Luigi, y la princesa Peach emprenden una aventura hasta los confines del espacio y a través de la galaxia. Secuela de \"Super Mario Bros: La película\", basada en la saga \"Mario Galaxy\".",
@@ -938,7 +928,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "La Momia De Lee Cronin",
-      "time": "16:50",
+      "time": "17:00",
       "rating": 8.2,
       "poster": "https://image.tmdb.org/t/p/w342/qlLsNgRUiPPEIVbcqZR2KmOBL7e.jpg",
       "summary": "La joven hija de un periodista desaparece en el desierto sin dejar rastro—ocho años más tarde, la familia rota se conmociona cuando ella es devuelta a ellos, y lo que debiera haber sido una reunión jubilosa se convierte en una auténtica pesadilla.",
@@ -1025,6 +1015,16 @@ export const MOVIE_DATA = {
       ]
     },
     {
+      "title": "Esperanza Viva",
+      "time": "18:15",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/yqJxKaJvkwdmrLJTnVzabfi1o2f.jpg",
+      "summary": "¿Todavía hay lugar para la esperanza? Desde la ayuda a los más pobres de Madrid, pasando por jóvenes que encuentran sentido en la fe, una artista que anuncia el amor de Dios con su música, un sacerdote que halla luz tras la adversidad y un hombre que reconstruye su vida después de perderlo todo, 'Esperanza viva' se convierte en una invitación a creer que, incluso en los momentos más oscuros, la esperanza puede renacer y dar un nuevo sentido a la vida.",
+      "genres": [
+        "Documental"
+      ]
+    },
+    {
       "title": "David: Una Aventura Gigante",
       "time": "17:00",
       "rating": 0,
@@ -1078,7 +1078,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Bajo Tus Pies",
-      "time": "21:00",
+      "time": "21:30",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/zk3GVxrKLTDqQsLuL2k7uOmz4ej.jpg",
       "summary": "Película de Cristian Bernard",
@@ -1098,7 +1098,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Las Ovejas Detectives",
-      "time": "16:50",
+      "time": "17:00",
       "rating": 7.8,
       "poster": "https://image.tmdb.org/t/p/w342/kMJ4h39xe1fEzbLSt5FJCtEqb2H.jpg",
       "summary": "Cada noche, un pastor lee en voz alta un asesinato misterioso, fingiendo que sus ovejas pueden entenderlo. Cuando lo encuentran muerto, las ovejas se dan cuenta enseguida de que ha sido un asesinato y creen saber cómo resolverlo.",
@@ -1135,18 +1135,6 @@ export const MOVIE_DATA = {
     {
       "title": "Mortal Kombat 2",
       "time": "17:00",
-      "rating": 7.3,
-      "poster": "https://image.tmdb.org/t/p/w342/ivVKHht5jutNGnObn1y5sSDrAXn.jpg",
-      "summary": "Los campeones favoritos de los fans, ahora acompañados por el propio Johnny Cage, se enfrentan cara a cara en la definitiva y sangrienta batalla a muerte para vencer al oscuro régimen de Shao Kahn, que amenaza la existencia del Reino de la Tierra y a sus defensores.",
-      "genres": [
-        "Acción",
-        "Fantasía",
-        "Aventura"
-      ]
-    },
-    {
-      "title": "Mortal Kombat 2",
-      "time": "19:10",
       "rating": 7.3,
       "poster": "https://image.tmdb.org/t/p/w342/ivVKHht5jutNGnObn1y5sSDrAXn.jpg",
       "summary": "Los campeones favoritos de los fans, ahora acompañados por el propio Johnny Cage, se enfrentan cara a cara en la definitiva y sangrienta batalla a muerte para vencer al oscuro régimen de Shao Kahn, que amenaza la existencia del Reino de la Tierra y a sus defensores.",
