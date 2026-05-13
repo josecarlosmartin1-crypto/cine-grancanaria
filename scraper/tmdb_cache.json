@@ -1213,5 +1213,24 @@
       "Música",
       "Documental"
     ]
+  },
+  "Top Gun": {
+    "rating": 7.1,
+    "poster": "https://image.tmdb.org/t/p/w342/W8QUPhiBOCdj2urJDzc2D9xdQb.jpg",
+    "summary": "La Marina de los Estados Unidos ha creado una escuela de élite para pilotos con el fin de sacar una promoción de expertos en técnicas de combate. En la academia, más conocida como Top Gun, a los mejores se les entrena para ser intrépidos y fríos al mismo tiempo, capaces de no perder los nervios en situaciones extremas y de no inmutarse al romper la barrera del sonido a los mandos de un F-14. A la escuela llega el joven Maverick, famoso por su temeraria aunque brillante forma de pilotar.",
+    "genres": [
+      "Acción",
+      "Drama",
+      "Romance"
+    ]
+  },
+  "Top Gun: Maverick": {
+    "rating": 8.2,
+    "poster": "https://image.tmdb.org/t/p/w342/AlWpEpQq0RgZIXVHAHZtFhEvRgd.jpg",
+    "summary": "Después de más de 30 años de servicio como uno de los mejores aviadores de la Armada, Pete \"Maverick\" Mitchell se encuentra dónde siempre quiso estar, empujando los límites como un valiente piloto de prueba y esquivando el alcance en su rango, que no le dejaría volar emplazándolo en tierra. Cuando se encuentra entrenando a un destacamento de graduados de Top Gun para una misión especializada, Maverick se encuentra allí con el teniente Bradley Bradshaw, el hijo de su difunto amigo \"Goose\".",
+    "genres": [
+      "Acción",
+      "Drama"
+    ]
   }
 }
