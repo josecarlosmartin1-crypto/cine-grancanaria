@@ -1232,5 +1232,75 @@
       "Acción",
       "Drama"
     ]
+  },
+  "El Castillo En El Cielo": {
+    "rating": 8.0,
+    "poster": "https://image.tmdb.org/t/p/w342/6EkloGi5FUtPLZl5NtGvVGIfX0B.jpg",
+    "summary": "La huérfana Sheeta ha heredado un misterioso cristal que la une al mítico reino de las nubes de Laputa. Con la ayuda del  ingenioso Pazu y una graciosa banda de piratas del cielo, dirige su camino hacia las ruinas de la que fué, una gran civilización. Sheeta y Pazu deben ser más listos que el malvado Muska, quien planea usar la tecnología de Laputa para dominar el mundo.",
+    "genres": [
+      "Aventura",
+      "Fantasía",
+      "Animación"
+    ]
+  },
+  "Hokum": {
+    "rating": 6.8,
+    "poster": "https://image.tmdb.org/t/p/w342/hzOJEzqrOtwXbPw1U5nZMvTaljQ.jpg",
+    "summary": "Un escritor especializado en historias de terror decide viajar a una posada de Irlanda con la intención de esparcir en la zona las cenizas de sus difuntos padres. Lo que no sabe es que la posada es un lugar maldito habitado por una bruja. O eso cuentan los lugareños que viven cerca del lugar...",
+    "genres": [
+      "Terror"
+    ]
+  },
+  "El Beso De La Mujer Araña": {
+    "rating": 6.1,
+    "poster": "https://image.tmdb.org/t/p/w342/gkqgZ8DoOxkfAnCFIsANlD3oFXl.jpg",
+    "summary": "Valentín, un preso político, comparte celda con Molina, un escaparatista condenado por escándalo público. Surge un vínculo entre ellos mientras Molina relata la trama de un musical de Hollywood protagonizado por su diva favorita, Ingrid Luna.",
+    "genres": [
+      "Romance",
+      "Música",
+      "Drama"
+    ]
+  },
+  "Pati Patni Aur Woh Do": {
+    "rating": 7.0,
+    "poster": "https://image.tmdb.org/t/p/w342/x0RUPvba4JlCCkyyEZGlQFIFVuF.jpg",
+    "summary": "La historia sigue a un marido (Ayushmann Khurrana) en un matrimonio aparentemente perfecto que se ve envuelto en un caos absoluto cuando su vida se complica entre su esposa y no solo una, sino múltiples intereses románticos (interpretadas por Wamiqa Gabbi, Sara Ali Khan y Rakul Preet Singh). La trama explora cómo pequeñas mentiras y atracciones inocentes se convierten en una gran red de malentendidos, dudas y comedia en la era de las redes sociales",
+    "genres": [
+      "Comedia"
+    ]
+  },
+  "Jugada Maestra": {
+    "rating": 7.1,
+    "poster": "https://image.tmdb.org/t/p/w342/xMZkXK0j2HqUplyTXotXOr2SHGx.jpg",
+    "summary": "Becket, un potencial heredero de una fortuna millonaria, solo tiene un pequeño problema: que es el octavo en la línea de sucesión. Lo cual, por supuesto, tiene una fácil solución: matarlos a todos hasta que solo quede él.",
+    "genres": [
+      "Comedia",
+      "Suspense"
+    ]
+  },
+  "El Señor De Los Anillos. La Comunidad Del Anillo Ver.Ext.": {
+    "rating": 0,
+    "poster": null,
+    "summary": "",
+    "genres": []
+  },
+  "Los Legendarios": {
+    "rating": 6.2,
+    "poster": "https://image.tmdb.org/t/p/w342/plDx1dcPE8U2Ukj8zOOYKLTdp7T.jpg",
+    "summary": "",
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Animación"
+    ]
+  },
+  "Movida Celestial": {
+    "rating": 6.9,
+    "poster": "https://image.tmdb.org/t/p/w342/s8GQrz5POcA0CtDb4HJfqa0P3xH.jpg",
+    "summary": "Gabriel (Keanu Reeves), un ángel bienintencionado, pero bastante inepto, baja a la Tierra con el propósito de ayudar a Arj (Aziz Ansari), un organizador de conciertos en apuros y Jeff (Seth Rogen), un rico inversor de capital riesgo. Aunque las intenciones del angelical Gabriel son buenas, las consecuencias de sus actos no serán las esperadas…",
+    "genres": [
+      "Comedia",
+      "Fantasía"
+    ]
   }
 }
