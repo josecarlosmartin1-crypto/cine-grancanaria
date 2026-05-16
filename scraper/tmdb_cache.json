@@ -1302,5 +1302,23 @@
       "Comedia",
       "Fantasía"
     ]
+  },
+  "Gigante": {
+    "rating": 6.8,
+    "poster": "https://image.tmdb.org/t/p/w342/B1T4YXBS4B5TR2fVFOomCKXRuc.jpg",
+    "summary": "El padre de un guía turístico reaparece de la nada y reabre sus viejas heridas. ¿Podrá su hijo tomar una durísima decisión que marcará el futuro de ambos?",
+    "genres": [
+      "Drama"
+    ]
+  },
+  "Kiss Of The Spider Woman": {
+    "rating": 6.1,
+    "poster": "https://image.tmdb.org/t/p/w342/7qUFsdC96mJ6e55uYKsQOokXvAU.jpg",
+    "summary": "Valentín, un preso político, comparte celda con Molina, un escaparatista condenado por escándalo público. Surge un vínculo entre ellos mientras Molina relata la trama de un musical de Hollywood protagonizado por su diva favorita, Ingrid Luna.",
+    "genres": [
+      "Romance",
+      "Música",
+      "Drama"
+    ]
   }
 }
