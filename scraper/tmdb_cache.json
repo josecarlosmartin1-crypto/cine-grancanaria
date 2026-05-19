@@ -1320,5 +1320,15 @@
       "Música",
       "Drama"
     ]
+  },
+  "El Drama": {
+    "rating": 6.9,
+    "poster": "https://image.tmdb.org/t/p/w342/zgfBYGYCNcOZ51JDbr6tm45H8y0.jpg",
+    "summary": "Una pareja, en los días previos a su boda, se enfrenta a una crisis cuando unas inesperadas revelaciones desbaratan lo que uno de ellos creía saber sobre el otro.",
+    "genres": [
+      "Romance",
+      "Comedia",
+      "Drama"
+    ]
   }
 }
