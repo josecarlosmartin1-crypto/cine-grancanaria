@@ -1330,5 +1330,13 @@
       "Comedia",
       "Drama"
     ]
+  },
+  "Historias Del Buen Valle": {
+    "rating": 7.0,
+    "poster": "https://image.tmdb.org/t/p/w342/vB8WLfHFsKBoQsoEZKHNqZVIqcx.jpg",
+    "summary": "En el paisaje indefinido de un barrio periférico, entre el mundo rural y el urbano, coexisten las casas levantadas por los primeros migrantes, quienes llegaron de toda España tras la posguerra…, y los nuevos bloques y viviendas de la ciudad dormitorio, donde se concentra la nueva migración, convirtiendo este humilde rincón en una auténtica aldea global. Historias del buen valle es una suma de imaginarios, de conflictos sociales, generacionales e identitarios, urbanísticos y ecológicos; pero es también una mirada reposada y humanista sobre el mundo actual. ",
+    "genres": [
+      "Documental"
+    ]
   }
 }

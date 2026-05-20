@@ -102,7 +102,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Las Ovejas Detectives",
-      "time": "18:35",
+      "time": "17:55",
       "rating": 7.8,
       "poster": "https://image.tmdb.org/t/p/w342/kMJ4h39xe1fEzbLSt5FJCtEqb2H.jpg",
       "summary": "Cada noche, un pastor lee en voz alta un asesinato misterioso, fingiendo que sus ovejas pueden entenderlo. Cuando lo encuentran muerto, las ovejas se dan cuenta enseguida de que ha sido un asesinato y creen saber cómo resolverlo.",
@@ -110,6 +110,30 @@ export const MOVIE_DATA = {
         "Comedia",
         "Familia",
         "Misterio"
+      ]
+    },
+    {
+      "title": "Las Ovejas Detectives",
+      "time": "20:25",
+      "rating": 7.8,
+      "poster": "https://image.tmdb.org/t/p/w342/kMJ4h39xe1fEzbLSt5FJCtEqb2H.jpg",
+      "summary": "Cada noche, un pastor lee en voz alta un asesinato misterioso, fingiendo que sus ovejas pueden entenderlo. Cuando lo encuentran muerto, las ovejas se dan cuenta enseguida de que ha sido un asesinato y creen saber cómo resolverlo.",
+      "genres": [
+        "Comedia",
+        "Familia",
+        "Misterio"
+      ]
+    },
+    {
+      "title": "Mortal Kombat Ii",
+      "time": "17:00",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/dxUg4OCHJJdQURZdLiMcTv7OZfn.jpg",
+      "summary": "Los campeones favoritos de los fans, ahora acompañados por el propio Johnny Cage, se enfrentan cara a cara en la definitiva y sangrienta batalla a muerte para vencer al oscuro régimen de Shao Kahn, que amenaza la existencia del Reino de la Tierra y a sus defensores.",
+      "genres": [
+        "Acción",
+        "Fantasía",
+        "Aventura"
       ]
     },
     {
@@ -160,6 +184,17 @@ export const MOVIE_DATA = {
     },
     {
       "title": "El Diablo Viste De Prada 2",
+      "time": "20:30",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/ld68XXTztvYt5DaD1IHoRvCpgOA.jpg",
+      "summary": "Sigue la lucha de Miranda Priestly contra Emily Charlton, su ex asistente convertida en ejecutiva rival, mientras compiten por los ingresos por publicidad en medio de la decadencia de los medios impresos y Miranda se acerca a la jubilación.",
+      "genres": [
+        "Drama",
+        "Comedia"
+      ]
+    },
+    {
+      "title": "El Diablo Viste De Prada 2",
       "time": "22:00",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/ld68XXTztvYt5DaD1IHoRvCpgOA.jpg",
@@ -182,7 +217,29 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Michael",
+      "time": "18:30",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/2uK36ujoDXOfNiJ5Yp3raVprB51.jpg",
+      "summary": "El viaje de Michael Jackson más allá de la música, desde el descubrimiento de su extraordinario talento como líder de los Jackson Five hasta convertirse en una visionaria estrella cuya ambición creativa despertó un incansable afán por consagrarse como el mayor icono de la industria del entretenimiento.",
+      "genres": [
+        "Música",
+        "Drama"
+      ]
+    },
+    {
+      "title": "Michael",
       "time": "19:45",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/2uK36ujoDXOfNiJ5Yp3raVprB51.jpg",
+      "summary": "El viaje de Michael Jackson más allá de la música, desde el descubrimiento de su extraordinario talento como líder de los Jackson Five hasta convertirse en una visionaria estrella cuya ambición creativa despertó un incansable afán por consagrarse como el mayor icono de la industria del entretenimiento.",
+      "genres": [
+        "Música",
+        "Drama"
+      ]
+    },
+    {
+      "title": "Michael",
+      "time": "21:05",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/2uK36ujoDXOfNiJ5Yp3raVprB51.jpg",
       "summary": "El viaje de Michael Jackson más allá de la música, desde el descubrimiento de su extraordinario talento como líder de los Jackson Five hasta convertirse en una visionaria estrella cuya ambición creativa despertó un incansable afán por consagrarse como el mayor icono de la industria del entretenimiento.",
@@ -237,23 +294,13 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Proyecto Salvación",
-      "time": "21:00",
+      "time": "17:15",
       "rating": 8.2,
       "poster": "https://image.tmdb.org/t/p/w342/7lwOTxajURKEWO6gI370NTrVdBO.jpg",
       "summary": "El profesor de ciencias Ryland Grace se despierta en una nave espacial a años luz de casa sin recordar quién es ni cómo ha llegado hasta allí. A medida que recupera la memoria, empieza a descubrir su misión: resolver el enigma de la misteriosa sustancia que provoca la extinción del sol. Deberá recurrir a sus conocimientos científicos y a sus ideas poco ortodoxas para salvar todo lo que hay en la Tierra de la extinción... pero una amistad inesperada significa que quizá no tenga que hacerlo solo.",
       "genres": [
         "Ciencia ficción",
         "Aventura"
-      ]
-    },
-    {
-      "title": "Torrente Presidente",
-      "time": "17:15",
-      "rating": 6.4,
-      "poster": "https://image.tmdb.org/t/p/w342/a0Fn0PiGGiU74jIUelpce6z70i9.jpg",
-      "summary": "José Luis Torrente vuelve metido de lleno en la política española, arrastrando su habitual mezcla de vulgaridad, oportunismo e ineptitud. La película plantea una sátira de la realidad social y política del país mediante parodias, situaciones absurdas y numerosos cameos.",
-      "genres": [
-        "Comedia"
       ]
     },
     {
@@ -269,6 +316,16 @@ export const MOVIE_DATA = {
   ],
   "Cine Yelmo Las Arenas": [
     {
+      "title": "Historias Del Buen Valle (Efecto Cinema)",
+      "time": "19:00",
+      "rating": 7.0,
+      "poster": "https://image.tmdb.org/t/p/w342/vB8WLfHFsKBoQsoEZKHNqZVIqcx.jpg",
+      "summary": "En el paisaje indefinido de un barrio periférico, entre el mundo rural y el urbano, coexisten las casas levantadas por los primeros migrantes, quienes llegaron de toda España tras la posguerra…, y los nuevos bloques y viviendas de la ciudad dormitorio, donde se concentra la nueva migración, convirtiendo este humilde rincón en una auténtica aldea global. Historias del buen valle es una suma de imaginarios, de conflictos sociales, generacionales e identitarios, urbanísticos y ecológicos; pero es también una mirada reposada y humanista sobre el mundo actual. ",
+      "genres": [
+        "Documental"
+      ]
+    },
+    {
       "title": "Iron Maiden: Burning Ambition",
       "time": "20:15",
       "rating": 0.0,
@@ -281,7 +338,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Hokum",
-      "time": "17:20",
+      "time": "16:55",
       "rating": 6.8,
       "poster": "https://image.tmdb.org/t/p/w342/hzOJEzqrOtwXbPw1U5nZMvTaljQ.jpg",
       "summary": "Un escritor especializado en historias de terror decide viajar a una posada de Irlanda con la intención de esparcir en la zona las cenizas de sus difuntos padres. Lo que no sabe es que la posada es un lugar maldito habitado por una bruja. O eso cuentan los lugareños que viven cerca del lugar...",
@@ -297,18 +354,6 @@ export const MOVIE_DATA = {
       "summary": "Un escritor especializado en historias de terror decide viajar a una posada de Irlanda con la intención de esparcir en la zona las cenizas de sus difuntos padres. Lo que no sabe es que la posada es un lugar maldito habitado por una bruja. O eso cuentan los lugareños que viven cerca del lugar...",
       "genres": [
         "Terror"
-      ]
-    },
-    {
-      "title": "El Castillo En El Cielo (40º Aniversario)",
-      "time": "17:50",
-      "rating": 8.0,
-      "poster": "https://image.tmdb.org/t/p/w342/6EkloGi5FUtPLZl5NtGvVGIfX0B.jpg",
-      "summary": "La huérfana Sheeta ha heredado un misterioso cristal que la une al mítico reino de las nubes de Laputa. Con la ayuda del  ingenioso Pazu y una graciosa banda de piratas del cielo, dirige su camino hacia las ruinas de la que fué, una gran civilización. Sheeta y Pazu deben ser más listos que el malvado Muska, quien planea usar la tecnología de Laputa para dominar el mundo.",
-      "genres": [
-        "Aventura",
-        "Fantasía",
-        "Animación"
       ]
     },
     {
@@ -348,6 +393,18 @@ export const MOVIE_DATA = {
       ]
     },
     {
+      "title": "El Castillo En El Cielo (40º Aniversario)",
+      "time": "17:50",
+      "rating": 8.0,
+      "poster": "https://image.tmdb.org/t/p/w342/6EkloGi5FUtPLZl5NtGvVGIfX0B.jpg",
+      "summary": "La huérfana Sheeta ha heredado un misterioso cristal que la une al mítico reino de las nubes de Laputa. Con la ayuda del  ingenioso Pazu y una graciosa banda de piratas del cielo, dirige su camino hacia las ruinas de la que fué, una gran civilización. Sheeta y Pazu deben ser más listos que el malvado Muska, quien planea usar la tecnología de Laputa para dominar el mundo.",
+      "genres": [
+        "Aventura",
+        "Fantasía",
+        "Animación"
+      ]
+    },
+    {
       "title": "El Señor De Los Anillos: La Comunidad Del Anillo",
       "time": "19:30",
       "rating": 8.4,
@@ -384,7 +441,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Mortal Kombat Ii",
-      "time": "19:50",
+      "time": "18:50",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/dxUg4OCHJJdQURZdLiMcTv7OZfn.jpg",
       "summary": "Los campeones favoritos de los fans, ahora acompañados por el propio Johnny Cage, se enfrentan cara a cara en la definitiva y sangrienta batalla a muerte para vencer al oscuro régimen de Shao Kahn, que amenaza la existencia del Reino de la Tierra y a sus defensores.",
@@ -397,17 +454,6 @@ export const MOVIE_DATA = {
     {
       "title": "El Diablo Viste De Prada 2",
       "time": "17:30",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/ld68XXTztvYt5DaD1IHoRvCpgOA.jpg",
-      "summary": "Sigue la lucha de Miranda Priestly contra Emily Charlton, su ex asistente convertida en ejecutiva rival, mientras compiten por los ingresos por publicidad en medio de la decadencia de los medios impresos y Miranda se acerca a la jubilación.",
-      "genres": [
-        "Drama",
-        "Comedia"
-      ]
-    },
-    {
-      "title": "El Diablo Viste De Prada 2",
-      "time": "18:50",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/ld68XXTztvYt5DaD1IHoRvCpgOA.jpg",
       "summary": "Sigue la lucha de Miranda Priestly contra Emily Charlton, su ex asistente convertida en ejecutiva rival, mientras compiten por los ingresos por publicidad en medio de la decadencia de los medios impresos y Miranda se acerca a la jubilación.",
@@ -584,18 +630,6 @@ export const MOVIE_DATA = {
   ],
   "Cine Yelmo Premium Alisios": [
     {
-      "title": "El Drama",
-      "time": "19:45",
-      "rating": 6.9,
-      "poster": "https://image.tmdb.org/t/p/w342/zgfBYGYCNcOZ51JDbr6tm45H8y0.jpg",
-      "summary": "Una pareja, en los días previos a su boda, se enfrenta a una crisis cuando unas inesperadas revelaciones desbaratan lo que uno de ellos creía saber sobre el otro.",
-      "genres": [
-        "Romance",
-        "Comedia",
-        "Drama"
-      ]
-    },
-    {
       "title": "El Señor De Los Anillos: La Comunidad Del Anillo",
       "time": "19:30",
       "rating": 8.4,
@@ -664,7 +698,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Las Ovejas Detectives",
-      "time": "17:20",
+      "time": "18:35",
       "rating": 7.8,
       "poster": "https://image.tmdb.org/t/p/w342/kMJ4h39xe1fEzbLSt5FJCtEqb2H.jpg",
       "summary": "Cada noche, un pastor lee en voz alta un asesinato misterioso, fingiendo que sus ovejas pueden entenderlo. Cuando lo encuentran muerto, las ovejas se dan cuenta enseguida de que ha sido un asesinato y creen saber cómo resolverlo.",
@@ -677,18 +711,6 @@ export const MOVIE_DATA = {
     {
       "title": "Mortal Kombat Ii",
       "time": "19:25",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/dxUg4OCHJJdQURZdLiMcTv7OZfn.jpg",
-      "summary": "Los campeones favoritos de los fans, ahora acompañados por el propio Johnny Cage, se enfrentan cara a cara en la definitiva y sangrienta batalla a muerte para vencer al oscuro régimen de Shao Kahn, que amenaza la existencia del Reino de la Tierra y a sus defensores.",
-      "genres": [
-        "Acción",
-        "Fantasía",
-        "Aventura"
-      ]
-    },
-    {
-      "title": "Mortal Kombat Ii",
-      "time": "22:10",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/dxUg4OCHJJdQURZdLiMcTv7OZfn.jpg",
       "summary": "Los campeones favoritos de los fans, ahora acompañados por el propio Johnny Cage, se enfrentan cara a cara en la definitiva y sangrienta batalla a muerte para vencer al oscuro régimen de Shao Kahn, que amenaza la existencia del Reino de la Tierra y a sus defensores.",
@@ -712,6 +734,17 @@ export const MOVIE_DATA = {
     {
       "title": "El Diablo Viste De Prada 2",
       "time": "19:55",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/ld68XXTztvYt5DaD1IHoRvCpgOA.jpg",
+      "summary": "Sigue la lucha de Miranda Priestly contra Emily Charlton, su ex asistente convertida en ejecutiva rival, mientras compiten por los ingresos por publicidad en medio de la decadencia de los medios impresos y Miranda se acerca a la jubilación.",
+      "genres": [
+        "Drama",
+        "Comedia"
+      ]
+    },
+    {
+      "title": "El Diablo Viste De Prada 2",
+      "time": "21:00",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/ld68XXTztvYt5DaD1IHoRvCpgOA.jpg",
       "summary": "Sigue la lucha de Miranda Priestly contra Emily Charlton, su ex asistente convertida en ejecutiva rival, mientras compiten por los ingresos por publicidad en medio de la decadencia de los medios impresos y Miranda se acerca a la jubilación.",
@@ -940,8 +973,19 @@ export const MOVIE_DATA = {
       ]
     },
     {
+      "title": "Michael",
+      "time": "22:30",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/2uK36ujoDXOfNiJ5Yp3raVprB51.jpg",
+      "summary": "El viaje de Michael Jackson más allá de la música, desde el descubrimiento de su extraordinario talento como líder de los Jackson Five hasta convertirse en una visionaria estrella cuya ambición creativa despertó un incansable afán por consagrarse como el mayor icono de la industria del entretenimiento.",
+      "genres": [
+        "Música",
+        "Drama"
+      ]
+    },
+    {
       "title": "El Diablo Viste De Prada 2",
-      "time": "16:50",
+      "time": "15:50",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/ld68XXTztvYt5DaD1IHoRvCpgOA.jpg",
       "summary": "Sigue la lucha de Miranda Priestly contra Emily Charlton, su ex asistente convertida en ejecutiva rival, mientras compiten por los ingresos por publicidad en medio de la decadencia de los medios impresos y Miranda se acerca a la jubilación.",
@@ -952,7 +996,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "El Diablo Viste De Prada 2",
-      "time": "19:10",
+      "time": "18:10",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/ld68XXTztvYt5DaD1IHoRvCpgOA.jpg",
       "summary": "Sigue la lucha de Miranda Priestly contra Emily Charlton, su ex asistente convertida en ejecutiva rival, mientras compiten por los ingresos por publicidad en medio de la decadencia de los medios impresos y Miranda se acerca a la jubilación.",
@@ -963,7 +1007,18 @@ export const MOVIE_DATA = {
     },
     {
       "title": "El Diablo Viste De Prada 2",
-      "time": "21:15",
+      "time": "20:20",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/ld68XXTztvYt5DaD1IHoRvCpgOA.jpg",
+      "summary": "Sigue la lucha de Miranda Priestly contra Emily Charlton, su ex asistente convertida en ejecutiva rival, mientras compiten por los ingresos por publicidad en medio de la decadencia de los medios impresos y Miranda se acerca a la jubilación.",
+      "genres": [
+        "Drama",
+        "Comedia"
+      ]
+    },
+    {
+      "title": "El Diablo Viste De Prada 2",
+      "time": "22:30",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/ld68XXTztvYt5DaD1IHoRvCpgOA.jpg",
       "summary": "Sigue la lucha de Miranda Priestly contra Emily Charlton, su ex asistente convertida en ejecutiva rival, mientras compiten por los ingresos por publicidad en medio de la decadencia de los medios impresos y Miranda se acerca a la jubilación.",
@@ -986,7 +1041,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Mortal Kombat 2",
-      "time": "17:00",
+      "time": "16:00",
       "rating": 7.3,
       "poster": "https://image.tmdb.org/t/p/w342/ivVKHht5jutNGnObn1y5sSDrAXn.jpg",
       "summary": "Los campeones favoritos de los fans, ahora acompañados por el propio Johnny Cage, se enfrentan cara a cara en la definitiva y sangrienta batalla a muerte para vencer al oscuro régimen de Shao Kahn, que amenaza la existencia del Reino de la Tierra y a sus defensores.",
@@ -998,7 +1053,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Mortal Kombat 2",
-      "time": "19:00",
+      "time": "18:10",
       "rating": 7.3,
       "poster": "https://image.tmdb.org/t/p/w342/ivVKHht5jutNGnObn1y5sSDrAXn.jpg",
       "summary": "Los campeones favoritos de los fans, ahora acompañados por el propio Johnny Cage, se enfrentan cara a cara en la definitiva y sangrienta batalla a muerte para vencer al oscuro régimen de Shao Kahn, que amenaza la existencia del Reino de la Tierra y a sus defensores.",
@@ -1010,7 +1065,19 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Mortal Kombat 2",
-      "time": "21:15",
+      "time": "20:15",
+      "rating": 7.3,
+      "poster": "https://image.tmdb.org/t/p/w342/ivVKHht5jutNGnObn1y5sSDrAXn.jpg",
+      "summary": "Los campeones favoritos de los fans, ahora acompañados por el propio Johnny Cage, se enfrentan cara a cara en la definitiva y sangrienta batalla a muerte para vencer al oscuro régimen de Shao Kahn, que amenaza la existencia del Reino de la Tierra y a sus defensores.",
+      "genres": [
+        "Acción",
+        "Fantasía",
+        "Aventura"
+      ]
+    },
+    {
+      "title": "Mortal Kombat 2",
+      "time": "22:30",
       "rating": 7.3,
       "poster": "https://image.tmdb.org/t/p/w342/ivVKHht5jutNGnObn1y5sSDrAXn.jpg",
       "summary": "Los campeones favoritos de los fans, ahora acompañados por el propio Johnny Cage, se enfrentan cara a cara en la definitiva y sangrienta batalla a muerte para vencer al oscuro régimen de Shao Kahn, que amenaza la existencia del Reino de la Tierra y a sus defensores.",
@@ -1032,7 +1099,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Hokum",
-      "time": "19:00",
+      "time": "18:40",
       "rating": 6.8,
       "poster": "https://image.tmdb.org/t/p/w342/hzOJEzqrOtwXbPw1U5nZMvTaljQ.jpg",
       "summary": "Un escritor especializado en historias de terror decide viajar a una posada de Irlanda con la intención de esparcir en la zona las cenizas de sus difuntos padres. Lo que no sabe es que la posada es un lugar maldito habitado por una bruja. O eso cuentan los lugareños que viven cerca del lugar...",
@@ -1042,12 +1109,33 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Hokum",
-      "time": "21:00",
+      "time": "20:40",
       "rating": 6.8,
       "poster": "https://image.tmdb.org/t/p/w342/hzOJEzqrOtwXbPw1U5nZMvTaljQ.jpg",
       "summary": "Un escritor especializado en historias de terror decide viajar a una posada de Irlanda con la intención de esparcir en la zona las cenizas de sus difuntos padres. Lo que no sabe es que la posada es un lugar maldito habitado por una bruja. O eso cuentan los lugareños que viven cerca del lugar...",
       "genres": [
         "Terror"
+      ]
+    },
+    {
+      "title": "Hokum",
+      "time": "22:40",
+      "rating": 6.8,
+      "poster": "https://image.tmdb.org/t/p/w342/hzOJEzqrOtwXbPw1U5nZMvTaljQ.jpg",
+      "summary": "Un escritor especializado en historias de terror decide viajar a una posada de Irlanda con la intención de esparcir en la zona las cenizas de sus difuntos padres. Lo que no sabe es que la posada es un lugar maldito habitado por una bruja. O eso cuentan los lugareños que viven cerca del lugar...",
+      "genres": [
+        "Terror"
+      ]
+    },
+    {
+      "title": "Iron Maiden: Burning Ambition",
+      "time": "20:00",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/yZqhFJDenLfgF1VygOOCNmAdS1P.jpg",
+      "summary": "",
+      "genres": [
+        "Documental",
+        "Música"
       ]
     },
     {
@@ -1074,7 +1162,19 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Kiss Of The Spider Woman",
-      "time": "21:15",
+      "time": "17:50",
+      "rating": 6.1,
+      "poster": "https://image.tmdb.org/t/p/w342/7qUFsdC96mJ6e55uYKsQOokXvAU.jpg",
+      "summary": "Valentín, un preso político, comparte celda con Molina, un escaparatista condenado por escándalo público. Surge un vínculo entre ellos mientras Molina relata la trama de un musical de Hollywood protagonizado por su diva favorita, Ingrid Luna.",
+      "genres": [
+        "Romance",
+        "Música",
+        "Drama"
+      ]
+    },
+    {
+      "title": "Kiss Of The Spider Woman",
+      "time": "22:30",
       "rating": 6.1,
       "poster": "https://image.tmdb.org/t/p/w342/7qUFsdC96mJ6e55uYKsQOokXvAU.jpg",
       "summary": "Valentín, un preso político, comparte celda con Molina, un escaparatista condenado por escándalo público. Surge un vínculo entre ellos mientras Molina relata la trama de un musical de Hollywood protagonizado por su diva favorita, Ingrid Luna.",
