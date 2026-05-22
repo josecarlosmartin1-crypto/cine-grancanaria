@@ -1338,5 +1338,58 @@
     "genres": [
       "Documental"
     ]
+  },
+  "El Señor De Los Anillos: Las Dos Torres": {
+    "rating": 8.4,
+    "poster": "https://image.tmdb.org/t/p/w342/up6gIHZlfEQZkHIfQwcOOaGOzOt.jpg",
+    "summary": "La Compañía del Anillo se ha disuelto. El portador del anillo Frodo y su fiel amigo Sam se dirigen hacia Mordor para destruir el Anillo Único y acabar con el poder de Sauron. Mientras, y tras la dura batalla contra los orcos donde cayó Boromir, el hombre Aragorn, el elfo Legolas y el enano Gimli intentan rescatar a los medianos Merry y Pipin, secuestrados por los ogros de Mordor. Por su parte, Saurón y el traidor Sarumán continúan con sus planes en Mordor, en espera de la guerra contra las razas libres de la Tierra Media.",
+    "genres": [
+      "Aventura",
+      "Fantasía",
+      "Acción"
+    ]
+  },
+  "El Pasajero Nocturno": {
+    "rating": 5.6,
+    "poster": "https://image.tmdb.org/t/p/w342/iX8D97TG8gVvHZ8S4clcdpCX7Uv.jpg",
+    "summary": "Después de presenciar un brutal accidente nocturno en la carretera, una joven pareja comprende que algo los ha seguido. Una presencia demoníaca, conocida como El Pasajero Nocturno, se ha unido a ellos y no se detendrá hasta reclamarlos a ambos, convirtiendo su viaje en una auténtica pesadilla.",
+    "genres": [
+      "Terror",
+      "Suspense"
+    ]
+  },
+  "Beast": {
+    "rating": 6.1,
+    "poster": "https://image.tmdb.org/t/p/w342/3S32pzyZMoOJ3ADrnT2GbV4tiX4.jpg",
+    "summary": "Con la ayuda de su antiguo entrenador, un campeón de MMA retirado e invicto regresa a la jaula para vengar la muerte de su hermano y resolver sus problemas financieros.",
+    "genres": [
+      "Acción",
+      "Drama"
+    ]
+  },
+  "El Señor De Los Anillos. Las Dos Torres Ver.Ext.": {
+    "rating": 0,
+    "poster": null,
+    "summary": "",
+    "genres": []
+  },
+  "Beast. La Bestia": {
+    "rating": 6.1,
+    "poster": "https://image.tmdb.org/t/p/w342/3S32pzyZMoOJ3ADrnT2GbV4tiX4.jpg",
+    "summary": "Con la ayuda de su antiguo entrenador, un campeón de MMA retirado e invicto regresa a la jaula para vengar la muerte de su hermano y resolver sus problemas financieros.",
+    "genres": [
+      "Acción",
+      "Drama"
+    ]
+  },
+  "Love Me Tender": {
+    "rating": 6.2,
+    "poster": "https://image.tmdb.org/t/p/w342/iQnxci3nk1AukZVTieyswkOPD5e.jpg",
+    "summary": "El gran Elvis Presley debuta en el cine con este western, ambientado tras la guerra civil americana, en el que dos hermanos se enamoran de la misma mujer. \"El rey\" interpreta 4 canciones, entre ellas la del título.",
+    "genres": [
+      "Drama",
+      "Western",
+      "Música"
+    ]
   }
 }
