@@ -199,7 +199,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Las Ovejas Detectives",
-      "time": "18:00",
+      "time": "18:05",
       "rating": 7.8,
       "poster": "https://image.tmdb.org/t/p/w342/kMJ4h39xe1fEzbLSt5FJCtEqb2H.jpg",
       "summary": "Cada noche, un pastor lee en voz alta un asesinato misterioso, fingiendo que sus ovejas pueden entenderlo. Cuando lo encuentran muerto, las ovejas se dan cuenta enseguida de que ha sido un asesinato y creen saber cómo resolverlo.",
@@ -244,7 +244,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Michael",
-      "time": "17:10",
+      "time": "17:15",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/2uK36ujoDXOfNiJ5Yp3raVprB51.jpg",
       "summary": "El viaje de Michael Jackson más allá de la música, desde el descubrimiento de su extraordinario talento como líder de los Jackson Five hasta convertirse en una visionaria estrella cuya ambición creativa despertó un incansable afán por consagrarse como el mayor icono de la industria del entretenimiento.",
@@ -255,7 +255,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Michael",
-      "time": "19:45",
+      "time": "19:50",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/2uK36ujoDXOfNiJ5Yp3raVprB51.jpg",
       "summary": "El viaje de Michael Jackson más allá de la música, desde el descubrimiento de su extraordinario talento como líder de los Jackson Five hasta convertirse en una visionaria estrella cuya ambición creativa despertó un incansable afán por consagrarse como el mayor icono de la industria del entretenimiento.",
@@ -277,7 +277,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Michael",
-      "time": "22:25",
+      "time": "22:30",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/2uK36ujoDXOfNiJ5Yp3raVprB51.jpg",
       "summary": "El viaje de Michael Jackson más allá de la música, desde el descubrimiento de su extraordinario talento como líder de los Jackson Five hasta convertirse en una visionaria estrella cuya ambición creativa despertó un incansable afán por consagrarse como el mayor icono de la industria del entretenimiento.",
@@ -288,7 +288,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "La Momia De Lee Cronin",
-      "time": "20:20",
+      "time": "20:25",
       "rating": 8.2,
       "poster": "https://image.tmdb.org/t/p/w342/qlLsNgRUiPPEIVbcqZR2KmOBL7e.jpg",
       "summary": "La joven hija de un periodista desaparece en el desierto sin dejar rastro—ocho años más tarde, la familia rota se conmociona cuando ella es devuelta a ellos, y lo que debiera haber sido una reunión jubilosa se convierte en una auténtica pesadilla.",
@@ -313,18 +313,7 @@ export const MOVIE_DATA = {
   "Cine Yelmo Las Arenas": [
     {
       "title": "El Pasajero Nocturno",
-      "time": "18:10",
-      "rating": 5.6,
-      "poster": "https://image.tmdb.org/t/p/w342/iX8D97TG8gVvHZ8S4clcdpCX7Uv.jpg",
-      "summary": "Después de presenciar un brutal accidente nocturno en la carretera, una joven pareja comprende que algo los ha seguido. Una presencia demoníaca, conocida como El Pasajero Nocturno, se ha unido a ellos y no se detendrá hasta reclamarlos a ambos, convirtiendo su viaje en una auténtica pesadilla.",
-      "genres": [
-        "Terror",
-        "Suspense"
-      ]
-    },
-    {
-      "title": "El Pasajero Nocturno",
-      "time": "20:20",
+      "time": "17:50",
       "rating": 5.6,
       "poster": "https://image.tmdb.org/t/p/w342/iX8D97TG8gVvHZ8S4clcdpCX7Uv.jpg",
       "summary": "Después de presenciar un brutal accidente nocturno en la carretera, una joven pareja comprende que algo los ha seguido. Una presencia demoníaca, conocida como El Pasajero Nocturno, se ha unido a ellos y no se detendrá hasta reclamarlos a ambos, convirtiendo su viaje en una auténtica pesadilla.",
@@ -370,7 +359,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "The Mandalorian And Grogu",
-      "time": "17:50",
+      "time": "18:00",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/aY7a38Ef0lNn0ohMpaG4ODUuPIG.jpg",
       "summary": "Continuación de la serie \"The Mandalorian\" en forma de película. Un solitario cazarrecompensas a la fuga protege a un codiciado bebé alienígena mientras evita ser capturado en una galaxia anárquica y peligrosa.",
@@ -454,7 +443,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "The Mandalorian And Grogu",
-      "time": "22:00",
+      "time": "21:50",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/aY7a38Ef0lNn0ohMpaG4ODUuPIG.jpg",
       "summary": "Continuación de la serie \"The Mandalorian\" en forma de película. Un solitario cazarrecompensas a la fuga protege a un codiciado bebé alienígena mientras evita ser capturado en una galaxia anárquica y peligrosa.",
@@ -478,7 +467,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Hokum",
-      "time": "17:30",
+      "time": "17:00",
       "rating": 6.8,
       "poster": "https://image.tmdb.org/t/p/w342/hzOJEzqrOtwXbPw1U5nZMvTaljQ.jpg",
       "summary": "Un escritor especializado en historias de terror decide viajar a una posada de Irlanda con la intención de esparcir en la zona las cenizas de sus difuntos padres. Lo que no sabe es que la posada es un lugar maldito habitado por una bruja. O eso cuentan los lugareños que viven cerca del lugar...",
@@ -488,7 +477,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Mortal Kombat Ii",
-      "time": "20:10",
+      "time": "19:20",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/dxUg4OCHJJdQURZdLiMcTv7OZfn.jpg",
       "summary": "Los campeones favoritos de los fans, ahora acompañados por el propio Johnny Cage, se enfrentan cara a cara en la definitiva y sangrienta batalla a muerte para vencer al oscuro régimen de Shao Kahn, que amenaza la existencia del Reino de la Tierra y a sus defensores.",
@@ -500,7 +489,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Las Ovejas Detectives",
-      "time": "17:00",
+      "time": "16:55",
       "rating": 7.8,
       "poster": "https://image.tmdb.org/t/p/w342/kMJ4h39xe1fEzbLSt5FJCtEqb2H.jpg",
       "summary": "Cada noche, un pastor lee en voz alta un asesinato misterioso, fingiendo que sus ovejas pueden entenderlo. Cuando lo encuentran muerto, las ovejas se dan cuenta enseguida de que ha sido un asesinato y creen saber cómo resolverlo.",
@@ -523,7 +512,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "El Diablo Viste De Prada 2",
-      "time": "20:00",
+      "time": "20:10",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/ld68XXTztvYt5DaD1IHoRvCpgOA.jpg",
       "summary": "Sigue la lucha de Miranda Priestly contra Emily Charlton, su ex asistente convertida en ejecutiva rival, mientras compiten por los ingresos por publicidad en medio de la decadencia de los medios impresos y Miranda se acerca a la jubilación.",
@@ -600,7 +589,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "La Momia De Lee Cronin",
-      "time": "22:25",
+      "time": "22:10",
       "rating": 8.2,
       "poster": "https://image.tmdb.org/t/p/w342/qlLsNgRUiPPEIVbcqZR2KmOBL7e.jpg",
       "summary": "La joven hija de un periodista desaparece en el desierto sin dejar rastro—ocho años más tarde, la familia rota se conmociona cuando ella es devuelta a ellos, y lo que debiera haber sido una reunión jubilosa se convierte en una auténtica pesadilla.",
@@ -631,6 +620,17 @@ export const MOVIE_DATA = {
         "Aventura",
         "Animación",
         "Comedia"
+      ]
+    },
+    {
+      "title": "La Lucha",
+      "time": "20:00",
+      "rating": 8.4,
+      "poster": "https://image.tmdb.org/t/p/w342/sgTAWJFaB2kBvdQxRGabYFiQqEK.jpg",
+      "summary": "Un hombre consumido por el insomnio y una vida sin sentido conoce a Tyler Durden, un carismático anarquista que lo arrastra a un club secreto donde el dolor despierta algo dormido. Lo que comienza como liberación pronto se convierte en una guerra contra el sistema…",
+      "genres": [
+        "Drama",
+        "Suspense"
       ]
     }
   ],
@@ -682,18 +682,6 @@ export const MOVIE_DATA = {
     },
     {
       "title": "The Mandalorian And Grogu",
-      "time": "17:00",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/aY7a38Ef0lNn0ohMpaG4ODUuPIG.jpg",
-      "summary": "Continuación de la serie \"The Mandalorian\" en forma de película. Un solitario cazarrecompensas a la fuga protege a un codiciado bebé alienígena mientras evita ser capturado en una galaxia anárquica y peligrosa.",
-      "genres": [
-        "Acción",
-        "Aventura",
-        "Ciencia ficción"
-      ]
-    },
-    {
-      "title": "The Mandalorian And Grogu",
       "time": "17:30",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/aY7a38Ef0lNn0ohMpaG4ODUuPIG.jpg",
@@ -730,18 +718,6 @@ export const MOVIE_DATA = {
     },
     {
       "title": "The Mandalorian And Grogu",
-      "time": "19:45",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/aY7a38Ef0lNn0ohMpaG4ODUuPIG.jpg",
-      "summary": "Continuación de la serie \"The Mandalorian\" en forma de película. Un solitario cazarrecompensas a la fuga protege a un codiciado bebé alienígena mientras evita ser capturado en una galaxia anárquica y peligrosa.",
-      "genres": [
-        "Acción",
-        "Aventura",
-        "Ciencia ficción"
-      ]
-    },
-    {
-      "title": "The Mandalorian And Grogu",
       "time": "20:15",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/aY7a38Ef0lNn0ohMpaG4ODUuPIG.jpg",
@@ -755,18 +731,6 @@ export const MOVIE_DATA = {
     {
       "title": "The Mandalorian And Grogu",
       "time": "21:30",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/aY7a38Ef0lNn0ohMpaG4ODUuPIG.jpg",
-      "summary": "Continuación de la serie \"The Mandalorian\" en forma de película. Un solitario cazarrecompensas a la fuga protege a un codiciado bebé alienígena mientras evita ser capturado en una galaxia anárquica y peligrosa.",
-      "genres": [
-        "Acción",
-        "Aventura",
-        "Ciencia ficción"
-      ]
-    },
-    {
-      "title": "The Mandalorian And Grogu",
-      "time": "22:25",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/aY7a38Ef0lNn0ohMpaG4ODUuPIG.jpg",
       "summary": "Continuación de la serie \"The Mandalorian\" en forma de película. Un solitario cazarrecompensas a la fuga protege a un codiciado bebé alienígena mientras evita ser capturado en una galaxia anárquica y peligrosa.",
@@ -1053,7 +1017,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "The Mandalorian And Grogu",
-      "time": "19:20",
+      "time": "19:30",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/aY7a38Ef0lNn0ohMpaG4ODUuPIG.jpg",
       "summary": "Continuación de la serie \"The Mandalorian\" en forma de película. Un solitario cazarrecompensas a la fuga protege a un codiciado bebé alienígena mientras evita ser capturado en una galaxia anárquica y peligrosa.",
