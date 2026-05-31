@@ -417,14 +417,6 @@ export const MOVIE_DATA = {
   ],
   "Cine Yelmo Las Arenas": [
     {
-      "title": "El Último Sueño De Frida Y Diego - Met Live 25-26",
-      "time": "18:00",
-      "rating": 0,
-      "poster": null,
-      "summary": "El 30 de mayo, la temporada 2025-26 de Live in HD de la Metropolitan Opera llega a su fin con una transmisión en vivo de la primera ópera de la compositora estadounidense Gabriela Lena Frank, un retrato mágico-realista de la pareja de pintores mexicanos Frida Kahlo y Diego Rivera, con libreto del dramaturgo ganador del Premio Pulitzer Nilo Cruz. Concebida como una inversión del mito de Orfeo y Eurídice, la historia muestra a Frida, interpretada por la destacada mezzosoprano Isabel Leonard, saliendo del inframundo en el Día de los Muertos y reuniéndose con Diego, interpretado por el barítono Carlos Álvarez. La famosa pareja en disputa revive brevemente su tumultuoso amor, abrazando tanto la pasión como el dolor antes de despedirse definitivamente del mundo de los vivos. El director musical Yannick Nézet-Séguin dirige la puesta en escena del estreno en el Met de la ópera de Frank, una \"partitura segura y ricamente imaginada\" (The New Yorker) que \"estalla con color e individualidad fresca\" (Los Angeles Times). La vibrante nueva producción, que toma una entusiasta inspiración de las pinturas de Frida y Diego, está dirigida y coreografiada por Deborah Colker.",
-      "genres": []
-    },
-    {
       "title": "Shrek (25 Aniversario)",
       "time": "13:10",
       "rating": 7.8,
@@ -450,7 +442,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Shrek (25 Aniversario)",
-      "time": "18:30",
+      "time": "18:00",
       "rating": 7.8,
       "poster": "https://image.tmdb.org/t/p/w342/jTQONM7jt1yv2lL972TtmWO0UIZ.jpg",
       "summary": "Hace mucho, mucho tiempo, en una lejanísima ciénaga vivía un intratable ogro llamado Shrek. Pero de repente, un día, su absoluta soledad se ve interrumpida por una invasión de sorprendentes personajes de cuento. Hay ratoncitos ciegos en su comida, un enorme y malísimo lobo en su cama, tres cerditos sin hogar y otros muchos seres increíbles que han sido deportados de su reino por el malvado Lord Farquaad. Para conseguir salvar su terreno, y de paso a sí mismo, Shrek hace un pacto con Farquaad y emprende viaje para conseguir que la preciosa princesa Fiona sea la novia del Lord. En tan importante misión le acompañan un burro chistoso, dispuesto a hacer cualquier cosa por Shrek. Todo, menos estarse calladito. Rescatar a la princesa de una dragona enamoradiza que suelta fuego al respirar va a resultar una tontería comparado con lo que ocurre cuando el oscuro secreto que la joven guardaba es revelado.",
@@ -462,7 +454,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Shrek (25 Aniversario)",
-      "time": "20:40",
+      "time": "20:10",
       "rating": 7.8,
       "poster": "https://image.tmdb.org/t/p/w342/jTQONM7jt1yv2lL972TtmWO0UIZ.jpg",
       "summary": "Hace mucho, mucho tiempo, en una lejanísima ciénaga vivía un intratable ogro llamado Shrek. Pero de repente, un día, su absoluta soledad se ve interrumpida por una invasión de sorprendentes personajes de cuento. Hay ratoncitos ciegos en su comida, un enorme y malísimo lobo en su cama, tres cerditos sin hogar y otros muchos seres increíbles que han sido deportados de su reino por el malvado Lord Farquaad. Para conseguir salvar su terreno, y de paso a sí mismo, Shrek hace un pacto con Farquaad y emprende viaje para conseguir que la preciosa princesa Fiona sea la novia del Lord. En tan importante misión le acompañan un burro chistoso, dispuesto a hacer cualquier cosa por Shrek. Todo, menos estarse calladito. Rescatar a la princesa de una dragona enamoradiza que suelta fuego al respirar va a resultar una tontería comparado con lo que ocurre cuando el oscuro secreto que la joven guardaba es revelado.",
@@ -474,7 +466,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "El Drama",
-      "time": "12:30",
+      "time": "12:10",
       "rating": 6.9,
       "poster": "https://image.tmdb.org/t/p/w342/zgfBYGYCNcOZ51JDbr6tm45H8y0.jpg",
       "summary": "Una pareja, en los días previos a su boda, se enfrenta a una crisis cuando unas inesperadas revelaciones desbaratan lo que uno de ellos creía saber sobre el otro.",
@@ -626,6 +618,30 @@ export const MOVIE_DATA = {
     },
     {
       "title": "The Mandalorian And Grogu",
+      "time": "12:45",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/aY7a38Ef0lNn0ohMpaG4ODUuPIG.jpg",
+      "summary": "Continuación de la serie \"The Mandalorian\" en forma de película. Un solitario cazarrecompensas a la fuga protege a un codiciado bebé alienígena mientras evita ser capturado en una galaxia anárquica y peligrosa.",
+      "genres": [
+        "Acción",
+        "Aventura",
+        "Ciencia ficción"
+      ]
+    },
+    {
+      "title": "The Mandalorian And Grogu",
+      "time": "13:30",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/aY7a38Ef0lNn0ohMpaG4ODUuPIG.jpg",
+      "summary": "Continuación de la serie \"The Mandalorian\" en forma de película. Un solitario cazarrecompensas a la fuga protege a un codiciado bebé alienígena mientras evita ser capturado en una galaxia anárquica y peligrosa.",
+      "genres": [
+        "Acción",
+        "Aventura",
+        "Ciencia ficción"
+      ]
+    },
+    {
+      "title": "The Mandalorian And Grogu",
       "time": "14:50",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/aY7a38Ef0lNn0ohMpaG4ODUuPIG.jpg",
@@ -639,6 +655,18 @@ export const MOVIE_DATA = {
     {
       "title": "The Mandalorian And Grogu",
       "time": "15:50",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/aY7a38Ef0lNn0ohMpaG4ODUuPIG.jpg",
+      "summary": "Continuación de la serie \"The Mandalorian\" en forma de película. Un solitario cazarrecompensas a la fuga protege a un codiciado bebé alienígena mientras evita ser capturado en una galaxia anárquica y peligrosa.",
+      "genres": [
+        "Acción",
+        "Aventura",
+        "Ciencia ficción"
+      ]
+    },
+    {
+      "title": "The Mandalorian And Grogu",
+      "time": "16:30",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/aY7a38Ef0lNn0ohMpaG4ODUuPIG.jpg",
       "summary": "Continuación de la serie \"The Mandalorian\" en forma de película. Un solitario cazarrecompensas a la fuga protege a un codiciado bebé alienígena mientras evita ser capturado en una galaxia anárquica y peligrosa.",
@@ -674,6 +702,18 @@ export const MOVIE_DATA = {
     },
     {
       "title": "The Mandalorian And Grogu",
+      "time": "19:20",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/aY7a38Ef0lNn0ohMpaG4ODUuPIG.jpg",
+      "summary": "Continuación de la serie \"The Mandalorian\" en forma de película. Un solitario cazarrecompensas a la fuga protege a un codiciado bebé alienígena mientras evita ser capturado en una galaxia anárquica y peligrosa.",
+      "genres": [
+        "Acción",
+        "Aventura",
+        "Ciencia ficción"
+      ]
+    },
+    {
+      "title": "The Mandalorian And Grogu",
       "time": "21:30",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/aY7a38Ef0lNn0ohMpaG4ODUuPIG.jpg",
@@ -685,8 +725,20 @@ export const MOVIE_DATA = {
       ]
     },
     {
+      "title": "The Mandalorian And Grogu",
+      "time": "22:10",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/aY7a38Ef0lNn0ohMpaG4ODUuPIG.jpg",
+      "summary": "Continuación de la serie \"The Mandalorian\" en forma de película. Un solitario cazarrecompensas a la fuga protege a un codiciado bebé alienígena mientras evita ser capturado en una galaxia anárquica y peligrosa.",
+      "genres": [
+        "Acción",
+        "Aventura",
+        "Ciencia ficción"
+      ]
+    },
+    {
       "title": "Hokum",
-      "time": "22:45",
+      "time": "22:20",
       "rating": 6.8,
       "poster": "https://image.tmdb.org/t/p/w342/hzOJEzqrOtwXbPw1U5nZMvTaljQ.jpg",
       "summary": "Un escritor especializado en historias de terror decide viajar a una posada de Irlanda con la intención de esparcir en la zona las cenizas de sus difuntos padres. Lo que no sabe es que la posada es un lugar maldito habitado por una bruja. O eso cuentan los lugareños que viven cerca del lugar...",
@@ -704,18 +756,6 @@ export const MOVIE_DATA = {
         "Acción",
         "Fantasía",
         "Aventura"
-      ]
-    },
-    {
-      "title": "Las Ovejas Detectives",
-      "time": "12:10",
-      "rating": 7.8,
-      "poster": "https://image.tmdb.org/t/p/w342/kMJ4h39xe1fEzbLSt5FJCtEqb2H.jpg",
-      "summary": "Cada noche, un pastor lee en voz alta un asesinato misterioso, fingiendo que sus ovejas pueden entenderlo. Cuando lo encuentran muerto, las ovejas se dan cuenta enseguida de que ha sido un asesinato y creen saber cómo resolverlo.",
-      "genres": [
-        "Comedia",
-        "Familia",
-        "Misterio"
       ]
     },
     {
@@ -799,7 +839,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Michael",
-      "time": "14:00",
+      "time": "15:40",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/2uK36ujoDXOfNiJ5Yp3raVprB51.jpg",
       "summary": "El viaje de Michael Jackson más allá de la música, desde el descubrimiento de su extraordinario talento como líder de los Jackson Five hasta convertirse en una visionaria estrella cuya ambición creativa despertó un incansable afán por consagrarse como el mayor icono de la industria del entretenimiento.",
@@ -821,6 +861,17 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Michael",
+      "time": "18:30",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/2uK36ujoDXOfNiJ5Yp3raVprB51.jpg",
+      "summary": "El viaje de Michael Jackson más allá de la música, desde el descubrimiento de su extraordinario talento como líder de los Jackson Five hasta convertirse en una visionaria estrella cuya ambición creativa despertó un incansable afán por consagrarse como el mayor icono de la industria del entretenimiento.",
+      "genres": [
+        "Música",
+        "Drama"
+      ]
+    },
+    {
+      "title": "Michael",
       "time": "19:50",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/2uK36ujoDXOfNiJ5Yp3raVprB51.jpg",
@@ -832,7 +883,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Michael",
-      "time": "21:20",
+      "time": "21:10",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/2uK36ujoDXOfNiJ5Yp3raVprB51.jpg",
       "summary": "El viaje de Michael Jackson más allá de la música, desde el descubrimiento de su extraordinario talento como líder de los Jackson Five hasta convertirse en una visionaria estrella cuya ambición creativa despertó un incansable afán por consagrarse como el mayor icono de la industria del entretenimiento.",
@@ -959,6 +1010,18 @@ export const MOVIE_DATA = {
         "Romance",
         "Comedia",
         "Drama"
+      ]
+    },
+    {
+      "title": "El Señor De Los Anillos: El Retorno Del Rey",
+      "time": "12:00",
+      "rating": 8.5,
+      "poster": "https://image.tmdb.org/t/p/w342/mWuFbQrXyLk2kMBKF9TUPtDwuPx.jpg",
+      "summary": "Las fuerzas de Saruman han sido destruidas, y su fortaleza sitiada. Ha llegado el momento de que se decida el destino de la Tierra Media, y por primera vez en mucho tiempo, parece que hay una pequeña esperanza. La atención del señor oscuro Sauron se centra ahora en Gondor, el último reducto de los hombres, y del cual Aragorn tendrá que reclamar el trono para ocupar su puesto de rey. Pero las fuerzas de Sauron ya se preparan para lanzar el último y definitivo ataque contra el reino de Gondor, la batalla que decidirá el destino de todos. Mientras tanto, Frodo y Sam continuan su camino hacia Mordor, a la espera de que Sauron no repare en que dos pequeños Hobbits se acercan cada día más al final de su camino, el Monte del Destino.",
+      "genres": [
+        "Aventura",
+        "Fantasía",
+        "Acción"
       ]
     },
     {
@@ -1093,18 +1156,6 @@ export const MOVIE_DATA = {
     },
     {
       "title": "The Mandalorian And Grogu",
-      "time": "12:10",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/aY7a38Ef0lNn0ohMpaG4ODUuPIG.jpg",
-      "summary": "Continuación de la serie \"The Mandalorian\" en forma de película. Un solitario cazarrecompensas a la fuga protege a un codiciado bebé alienígena mientras evita ser capturado en una galaxia anárquica y peligrosa.",
-      "genres": [
-        "Acción",
-        "Aventura",
-        "Ciencia ficción"
-      ]
-    },
-    {
-      "title": "The Mandalorian And Grogu",
       "time": "12:40",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/aY7a38Ef0lNn0ohMpaG4ODUuPIG.jpg",
@@ -1129,31 +1180,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "The Mandalorian And Grogu",
-      "time": "16:40",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/aY7a38Ef0lNn0ohMpaG4ODUuPIG.jpg",
-      "summary": "Continuación de la serie \"The Mandalorian\" en forma de película. Un solitario cazarrecompensas a la fuga protege a un codiciado bebé alienígena mientras evita ser capturado en una galaxia anárquica y peligrosa.",
-      "genres": [
-        "Acción",
-        "Aventura",
-        "Ciencia ficción"
-      ]
-    },
-    {
-      "title": "The Mandalorian And Grogu",
       "time": "18:40",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/aY7a38Ef0lNn0ohMpaG4ODUuPIG.jpg",
-      "summary": "Continuación de la serie \"The Mandalorian\" en forma de película. Un solitario cazarrecompensas a la fuga protege a un codiciado bebé alienígena mientras evita ser capturado en una galaxia anárquica y peligrosa.",
-      "genres": [
-        "Acción",
-        "Aventura",
-        "Ciencia ficción"
-      ]
-    },
-    {
-      "title": "The Mandalorian And Grogu",
-      "time": "19:25",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/aY7a38Ef0lNn0ohMpaG4ODUuPIG.jpg",
       "summary": "Continuación de la serie \"The Mandalorian\" en forma de película. Un solitario cazarrecompensas a la fuga protege a un codiciado bebé alienígena mientras evita ser capturado en una galaxia anárquica y peligrosa.",
@@ -1173,30 +1200,6 @@ export const MOVIE_DATA = {
         "Acción",
         "Aventura",
         "Ciencia ficción"
-      ]
-    },
-    {
-      "title": "The Mandalorian And Grogu",
-      "time": "22:10",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/aY7a38Ef0lNn0ohMpaG4ODUuPIG.jpg",
-      "summary": "Continuación de la serie \"The Mandalorian\" en forma de película. Un solitario cazarrecompensas a la fuga protege a un codiciado bebé alienígena mientras evita ser capturado en una galaxia anárquica y peligrosa.",
-      "genres": [
-        "Acción",
-        "Aventura",
-        "Ciencia ficción"
-      ]
-    },
-    {
-      "title": "Las Ovejas Detectives",
-      "time": "14:00",
-      "rating": 7.8,
-      "poster": "https://image.tmdb.org/t/p/w342/kMJ4h39xe1fEzbLSt5FJCtEqb2H.jpg",
-      "summary": "Cada noche, un pastor lee en voz alta un asesinato misterioso, fingiendo que sus ovejas pueden entenderlo. Cuando lo encuentran muerto, las ovejas se dan cuenta enseguida de que ha sido un asesinato y creen saber cómo resolverlo.",
-      "genres": [
-        "Comedia",
-        "Familia",
-        "Misterio"
       ]
     },
     {
@@ -1394,6 +1397,14 @@ export const MOVIE_DATA = {
   "Artesiete Las Terrazas": [
     {
       "title": "Shrek 25 Aniversario",
+      "time": "12:00",
+      "rating": 0,
+      "poster": null,
+      "summary": "",
+      "genres": []
+    },
+    {
+      "title": "Shrek 25 Aniversario",
       "time": "16:00",
       "rating": 0,
       "poster": null,
@@ -1410,7 +1421,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "El Señor De Los Anillos. El Retorno Del Rey Ver.Ext.",
-      "time": "20:00",
+      "time": "19:00",
       "rating": 8.5,
       "poster": "https://image.tmdb.org/t/p/w342/mWuFbQrXyLk2kMBKF9TUPtDwuPx.jpg",
       "summary": "Las fuerzas de Saruman han sido destruidas, y su fortaleza sitiada. Ha llegado el momento de que se decida el destino de la Tierra Media, y por primera vez en mucho tiempo, parece que hay una pequeña esperanza. La atención del señor oscuro Sauron se centra ahora en Gondor, el último reducto de los hombres, y del cual Aragorn tendrá que reclamar el trono para ocupar su puesto de rey. Pero las fuerzas de Sauron ya se preparan para lanzar el último y definitivo ataque contra el reino de Gondor, la batalla que decidirá el destino de todos. Mientras tanto, Frodo y Sam continuan su camino hacia Mordor, a la espera de que Sauron no repare en que dos pequeños Hobbits se acercan cada día más al final de su camino, el Monte del Destino.",
@@ -1422,7 +1433,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Super Mario Galaxy: La Pelicula",
-      "time": "16:00",
+      "time": "12:15",
       "rating": 6.9,
       "poster": "https://image.tmdb.org/t/p/w342/eEfzkiW28Y3BaHjjgFNkFERNKiK.jpg",
       "summary": "La película tiene lugar después de los acontecimientos de la primera, en la que dos hermanos, Mario y Luigi, y la princesa Peach emprenden una aventura hasta los confines del espacio y a través de la galaxia. Secuela de \"Super Mario Bros: La película\", basada en la saga \"Mario Galaxy\".",
@@ -1434,7 +1445,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Super Mario Galaxy: La Pelicula",
-      "time": "18:00",
+      "time": "17:00",
       "rating": 6.9,
       "poster": "https://image.tmdb.org/t/p/w342/eEfzkiW28Y3BaHjjgFNkFERNKiK.jpg",
       "summary": "La película tiene lugar después de los acontecimientos de la primera, en la que dos hermanos, Mario y Luigi, y la princesa Peach emprenden una aventura hasta los confines del espacio y a través de la galaxia. Secuela de \"Super Mario Bros: La película\", basada en la saga \"Mario Galaxy\".",
@@ -1446,7 +1457,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Michael",
-      "time": "16:50",
+      "time": "12:15",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/2uK36ujoDXOfNiJ5Yp3raVprB51.jpg",
       "summary": "El viaje de Michael Jackson más allá de la música, desde el descubrimiento de su extraordinario talento como líder de los Jackson Five hasta convertirse en una visionaria estrella cuya ambición creativa despertó un incansable afán por consagrarse como el mayor icono de la industria del entretenimiento.",
@@ -1457,7 +1468,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Michael",
-      "time": "18:10",
+      "time": "16:00",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/2uK36ujoDXOfNiJ5Yp3raVprB51.jpg",
       "summary": "El viaje de Michael Jackson más allá de la música, desde el descubrimiento de su extraordinario talento como líder de los Jackson Five hasta convertirse en una visionaria estrella cuya ambición creativa despertó un incansable afán por consagrarse como el mayor icono de la industria del entretenimiento.",
@@ -1468,7 +1479,29 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Michael",
-      "time": "19:10",
+      "time": "18:20",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/2uK36ujoDXOfNiJ5Yp3raVprB51.jpg",
+      "summary": "El viaje de Michael Jackson más allá de la música, desde el descubrimiento de su extraordinario talento como líder de los Jackson Five hasta convertirse en una visionaria estrella cuya ambición creativa despertó un incansable afán por consagrarse como el mayor icono de la industria del entretenimiento.",
+      "genres": [
+        "Música",
+        "Drama"
+      ]
+    },
+    {
+      "title": "Michael",
+      "time": "19:00",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/2uK36ujoDXOfNiJ5Yp3raVprB51.jpg",
+      "summary": "El viaje de Michael Jackson más allá de la música, desde el descubrimiento de su extraordinario talento como líder de los Jackson Five hasta convertirse en una visionaria estrella cuya ambición creativa despertó un incansable afán por consagrarse como el mayor icono de la industria del entretenimiento.",
+      "genres": [
+        "Música",
+        "Drama"
+      ]
+    },
+    {
+      "title": "Michael",
+      "time": "20:40",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/2uK36ujoDXOfNiJ5Yp3raVprB51.jpg",
       "summary": "El viaje de Michael Jackson más allá de la música, desde el descubrimiento de su extraordinario talento como líder de los Jackson Five hasta convertirse en una visionaria estrella cuya ambición creativa despertó un incansable afán por consagrarse como el mayor icono de la industria del entretenimiento.",
@@ -1489,30 +1522,8 @@ export const MOVIE_DATA = {
       ]
     },
     {
-      "title": "Michael",
-      "time": "22:10",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/2uK36ujoDXOfNiJ5Yp3raVprB51.jpg",
-      "summary": "El viaje de Michael Jackson más allá de la música, desde el descubrimiento de su extraordinario talento como líder de los Jackson Five hasta convertirse en una visionaria estrella cuya ambición creativa despertó un incansable afán por consagrarse como el mayor icono de la industria del entretenimiento.",
-      "genres": [
-        "Música",
-        "Drama"
-      ]
-    },
-    {
       "title": "El Diablo Viste De Prada 2",
-      "time": "20:30",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/ld68XXTztvYt5DaD1IHoRvCpgOA.jpg",
-      "summary": "Sigue la lucha de Miranda Priestly contra Emily Charlton, su ex asistente convertida en ejecutiva rival, mientras compiten por los ingresos por publicidad en medio de la decadencia de los medios impresos y Miranda se acerca a la jubilación.",
-      "genres": [
-        "Drama",
-        "Comedia"
-      ]
-    },
-    {
-      "title": "El Diablo Viste De Prada 2",
-      "time": "22:45",
+      "time": "20:00",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/ld68XXTztvYt5DaD1IHoRvCpgOA.jpg",
       "summary": "Sigue la lucha de Miranda Priestly contra Emily Charlton, su ex asistente convertida en ejecutiva rival, mientras compiten por los ingresos por publicidad en medio de la decadencia de los medios impresos y Miranda se acerca a la jubilación.",
@@ -1523,7 +1534,19 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Las Ovejas Detectives",
-      "time": "16:00",
+      "time": "12:00",
+      "rating": 7.8,
+      "poster": "https://image.tmdb.org/t/p/w342/kMJ4h39xe1fEzbLSt5FJCtEqb2H.jpg",
+      "summary": "Cada noche, un pastor lee en voz alta un asesinato misterioso, fingiendo que sus ovejas pueden entenderlo. Cuando lo encuentran muerto, las ovejas se dan cuenta enseguida de que ha sido un asesinato y creen saber cómo resolverlo.",
+      "genres": [
+        "Comedia",
+        "Familia",
+        "Misterio"
+      ]
+    },
+    {
+      "title": "Las Ovejas Detectives",
+      "time": "17:00",
       "rating": 7.8,
       "poster": "https://image.tmdb.org/t/p/w342/kMJ4h39xe1fEzbLSt5FJCtEqb2H.jpg",
       "summary": "Cada noche, un pastor lee en voz alta un asesinato misterioso, fingiendo que sus ovejas pueden entenderlo. Cuando lo encuentran muerto, las ovejas se dan cuenta enseguida de que ha sido un asesinato y creen saber cómo resolverlo.",
@@ -1535,7 +1558,19 @@ export const MOVIE_DATA = {
     },
     {
       "title": "The Mandalorian And Grogu",
-      "time": "16:00",
+      "time": "12:00",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/aY7a38Ef0lNn0ohMpaG4ODUuPIG.jpg",
+      "summary": "Continuación de la serie \"The Mandalorian\" en forma de película. Un solitario cazarrecompensas a la fuga protege a un codiciado bebé alienígena mientras evita ser capturado en una galaxia anárquica y peligrosa.",
+      "genres": [
+        "Acción",
+        "Aventura",
+        "Ciencia ficción"
+      ]
+    },
+    {
+      "title": "The Mandalorian And Grogu",
+      "time": "16:30",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/aY7a38Ef0lNn0ohMpaG4ODUuPIG.jpg",
       "summary": "Continuación de la serie \"The Mandalorian\" en forma de película. Un solitario cazarrecompensas a la fuga protege a un codiciado bebé alienígena mientras evita ser capturado en una galaxia anárquica y peligrosa.",
@@ -1559,7 +1594,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "The Mandalorian And Grogu",
-      "time": "18:30",
+      "time": "18:50",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/aY7a38Ef0lNn0ohMpaG4ODUuPIG.jpg",
       "summary": "Continuación de la serie \"The Mandalorian\" en forma de película. Un solitario cazarrecompensas a la fuga protege a un codiciado bebé alienígena mientras evita ser capturado en una galaxia anárquica y peligrosa.",
@@ -1582,18 +1617,6 @@ export const MOVIE_DATA = {
       ]
     },
     {
-      "title": "The Mandalorian And Grogu",
-      "time": "22:30",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/aY7a38Ef0lNn0ohMpaG4ODUuPIG.jpg",
-      "summary": "Continuación de la serie \"The Mandalorian\" en forma de película. Un solitario cazarrecompensas a la fuga protege a un codiciado bebé alienígena mientras evita ser capturado en una galaxia anárquica y peligrosa.",
-      "genres": [
-        "Acción",
-        "Aventura",
-        "Ciencia ficción"
-      ]
-    },
-    {
       "title": "El Pasajero Nocturno",
       "time": "19:30",
       "rating": 5.6,
@@ -1606,65 +1629,54 @@ export const MOVIE_DATA = {
     },
     {
       "title": "El Pasajero Nocturno",
+      "time": "21:30",
+      "rating": 5.6,
+      "poster": "https://image.tmdb.org/t/p/w342/iX8D97TG8gVvHZ8S4clcdpCX7Uv.jpg",
+      "summary": "Después de presenciar un brutal accidente nocturno en la carretera, una joven pareja comprende que algo los ha seguido. Una presencia demoníaca, conocida como El Pasajero Nocturno, se ha unido a ellos y no se detendrá hasta reclamarlos a ambos, convirtiendo su viaje en una auténtica pesadilla.",
+      "genres": [
+        "Terror",
+        "Suspense"
+      ]
+    },
+    {
+      "title": "El Drama",
+      "time": "12:00",
+      "rating": 6.9,
+      "poster": "https://image.tmdb.org/t/p/w342/zgfBYGYCNcOZ51JDbr6tm45H8y0.jpg",
+      "summary": "Una pareja, en los días previos a su boda, se enfrenta a una crisis cuando unas inesperadas revelaciones desbaratan lo que uno de ellos creía saber sobre el otro.",
+      "genres": [
+        "Romance",
+        "Comedia",
+        "Drama"
+      ]
+    },
+    {
+      "title": "El Drama",
+      "time": "17:00",
+      "rating": 6.9,
+      "poster": "https://image.tmdb.org/t/p/w342/zgfBYGYCNcOZ51JDbr6tm45H8y0.jpg",
+      "summary": "Una pareja, en los días previos a su boda, se enfrenta a una crisis cuando unas inesperadas revelaciones desbaratan lo que uno de ellos creía saber sobre el otro.",
+      "genres": [
+        "Romance",
+        "Comedia",
+        "Drama"
+      ]
+    },
+    {
+      "title": "El Drama",
+      "time": "19:00",
+      "rating": 6.9,
+      "poster": "https://image.tmdb.org/t/p/w342/zgfBYGYCNcOZ51JDbr6tm45H8y0.jpg",
+      "summary": "Una pareja, en los días previos a su boda, se enfrenta a una crisis cuando unas inesperadas revelaciones desbaratan lo que uno de ellos creía saber sobre el otro.",
+      "genres": [
+        "Romance",
+        "Comedia",
+        "Drama"
+      ]
+    },
+    {
+      "title": "El Drama",
       "time": "21:00",
-      "rating": 5.6,
-      "poster": "https://image.tmdb.org/t/p/w342/iX8D97TG8gVvHZ8S4clcdpCX7Uv.jpg",
-      "summary": "Después de presenciar un brutal accidente nocturno en la carretera, una joven pareja comprende que algo los ha seguido. Una presencia demoníaca, conocida como El Pasajero Nocturno, se ha unido a ellos y no se detendrá hasta reclamarlos a ambos, convirtiendo su viaje en una auténtica pesadilla.",
-      "genres": [
-        "Terror",
-        "Suspense"
-      ]
-    },
-    {
-      "title": "El Pasajero Nocturno",
-      "time": "22:40",
-      "rating": 5.6,
-      "poster": "https://image.tmdb.org/t/p/w342/iX8D97TG8gVvHZ8S4clcdpCX7Uv.jpg",
-      "summary": "Después de presenciar un brutal accidente nocturno en la carretera, una joven pareja comprende que algo los ha seguido. Una presencia demoníaca, conocida como El Pasajero Nocturno, se ha unido a ellos y no se detendrá hasta reclamarlos a ambos, convirtiendo su viaje en una auténtica pesadilla.",
-      "genres": [
-        "Terror",
-        "Suspense"
-      ]
-    },
-    {
-      "title": "El Drama",
-      "time": "16:30",
-      "rating": 6.9,
-      "poster": "https://image.tmdb.org/t/p/w342/zgfBYGYCNcOZ51JDbr6tm45H8y0.jpg",
-      "summary": "Una pareja, en los días previos a su boda, se enfrenta a una crisis cuando unas inesperadas revelaciones desbaratan lo que uno de ellos creía saber sobre el otro.",
-      "genres": [
-        "Romance",
-        "Comedia",
-        "Drama"
-      ]
-    },
-    {
-      "title": "El Drama",
-      "time": "18:30",
-      "rating": 6.9,
-      "poster": "https://image.tmdb.org/t/p/w342/zgfBYGYCNcOZ51JDbr6tm45H8y0.jpg",
-      "summary": "Una pareja, en los días previos a su boda, se enfrenta a una crisis cuando unas inesperadas revelaciones desbaratan lo que uno de ellos creía saber sobre el otro.",
-      "genres": [
-        "Romance",
-        "Comedia",
-        "Drama"
-      ]
-    },
-    {
-      "title": "El Drama",
-      "time": "20:30",
-      "rating": 6.9,
-      "poster": "https://image.tmdb.org/t/p/w342/zgfBYGYCNcOZ51JDbr6tm45H8y0.jpg",
-      "summary": "Una pareja, en los días previos a su boda, se enfrenta a una crisis cuando unas inesperadas revelaciones desbaratan lo que uno de ellos creía saber sobre el otro.",
-      "genres": [
-        "Romance",
-        "Comedia",
-        "Drama"
-      ]
-    },
-    {
-      "title": "El Drama",
-      "time": "22:30",
       "rating": 6.9,
       "poster": "https://image.tmdb.org/t/p/w342/zgfBYGYCNcOZ51JDbr6tm45H8y0.jpg",
       "summary": "Una pareja, en los días previos a su boda, se enfrenta a una crisis cuando unas inesperadas revelaciones desbaratan lo que uno de ellos creía saber sobre el otro.",
@@ -1676,7 +1688,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Fleak",
-      "time": "16:30",
+      "time": "12:30",
       "rating": 7.2,
       "poster": "https://image.tmdb.org/t/p/w342/trwCUWcdDm9dyhMAX71XoxQSLVv.jpg",
       "summary": "",
@@ -1688,7 +1700,19 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Fleak",
-      "time": "18:00",
+      "time": "16:00",
+      "rating": 7.2,
+      "poster": "https://image.tmdb.org/t/p/w342/trwCUWcdDm9dyhMAX71XoxQSLVv.jpg",
+      "summary": "",
+      "genres": [
+        "Aventura",
+        "Animación",
+        "Comedia"
+      ]
+    },
+    {
+      "title": "Fleak",
+      "time": "17:45",
       "rating": 7.2,
       "poster": "https://image.tmdb.org/t/p/w342/trwCUWcdDm9dyhMAX71XoxQSLVv.jpg",
       "summary": "",
@@ -1722,7 +1746,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Mallorca Confidencial",
-      "time": "20:50",
+      "time": "12:30",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/sXdXKjfNFcovvE9D6VRN04kBTDc.jpg",
       "summary": "",
@@ -1734,7 +1758,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Mallorca Confidencial",
-      "time": "22:30",
+      "time": "21:10",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/sXdXKjfNFcovvE9D6VRN04kBTDc.jpg",
       "summary": "",
@@ -1742,6 +1766,18 @@ export const MOVIE_DATA = {
         "Crimen",
         "Drama",
         "Suspense"
+      ]
+    },
+    {
+      "title": "Saliendo Del Nido",
+      "time": "12:15",
+      "rating": 7.0,
+      "poster": "https://image.tmdb.org/t/p/w342/kRCKb2w9H7OGa7V1g6z5P4yzWEJ.jpg",
+      "summary": "",
+      "genres": [
+        "Animación",
+        "Familia",
+        "Fantasía"
       ]
     },
     {
@@ -1758,7 +1794,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Saliendo Del Nido",
-      "time": "18:25",
+      "time": "18:20",
       "rating": 7.0,
       "poster": "https://image.tmdb.org/t/p/w342/kRCKb2w9H7OGa7V1g6z5P4yzWEJ.jpg",
       "summary": "",
