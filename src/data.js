@@ -108,17 +108,6 @@ export const MOVIE_DATA = {
     },
     {
       "title": "El Pasajero Nocturno",
-      "time": "17:25",
-      "rating": 5.6,
-      "poster": "https://image.tmdb.org/t/p/w342/iX8D97TG8gVvHZ8S4clcdpCX7Uv.jpg",
-      "summary": "Después de presenciar un brutal accidente nocturno en la carretera, una joven pareja comprende que algo los ha seguido. Una presencia demoníaca, conocida como El Pasajero Nocturno, se ha unido a ellos y no se detendrá hasta reclamarlos a ambos, convirtiendo su viaje en una auténtica pesadilla.",
-      "genres": [
-        "Terror",
-        "Suspense"
-      ]
-    },
-    {
-      "title": "El Pasajero Nocturno",
       "time": "20:15",
       "rating": 5.6,
       "poster": "https://image.tmdb.org/t/p/w342/iX8D97TG8gVvHZ8S4clcdpCX7Uv.jpg",
@@ -207,6 +196,17 @@ export const MOVIE_DATA = {
       "summary": "Un escritor especializado en historias de terror decide viajar a una posada de Irlanda con la intención de esparcir en la zona las cenizas de sus difuntos padres. Lo que no sabe es que la posada es un lugar maldito habitado por una bruja. O eso cuentan los lugareños que viven cerca del lugar...",
       "genres": [
         "Terror"
+      ]
+    },
+    {
+      "title": "Jugada Maestra",
+      "time": "17:15",
+      "rating": 7.1,
+      "poster": "https://image.tmdb.org/t/p/w342/xMZkXK0j2HqUplyTXotXOr2SHGx.jpg",
+      "summary": "Becket, un potencial heredero de una fortuna millonaria, solo tiene un pequeño problema: que es el octavo en la línea de sucesión. Lo cual, por supuesto, tiene una fácil solución: matarlos a todos hasta que solo quede él.",
+      "genres": [
+        "Comedia",
+        "Suspense"
       ]
     },
     {
@@ -811,18 +811,6 @@ export const MOVIE_DATA = {
       ]
     },
     {
-      "title": "Las Ovejas Detectives",
-      "time": "17:20",
-      "rating": 7.8,
-      "poster": "https://image.tmdb.org/t/p/w342/kMJ4h39xe1fEzbLSt5FJCtEqb2H.jpg",
-      "summary": "Cada noche, un pastor lee en voz alta un asesinato misterioso, fingiendo que sus ovejas pueden entenderlo. Cuando lo encuentran muerto, las ovejas se dan cuenta enseguida de que ha sido un asesinato y creen saber cómo resolverlo.",
-      "genres": [
-        "Comedia",
-        "Familia",
-        "Misterio"
-      ]
-    },
-    {
       "title": "Mortal Kombat Ii",
       "time": "22:40",
       "rating": 0.0,
@@ -898,6 +886,16 @@ export const MOVIE_DATA = {
       "genres": [
         "Música",
         "Drama"
+      ]
+    },
+    {
+      "title": "La Familia Benetón +2",
+      "time": "17:40",
+      "rating": 7.0,
+      "poster": "https://image.tmdb.org/t/p/w342/qJhTQ2TFMG2q9Tv6xsyntTMibcU.jpg",
+      "summary": "Cuando Toni cree que tiene todo bajo control en su entrañable y divertida familia multicultural, la llegada de dos nuevos bebés pondrá patas arriba la casa y a toda la familia.",
+      "genres": [
+        "Comedia"
       ]
     },
     {
@@ -1104,7 +1102,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "El Pasajero Nocturno",
-      "time": "21:00",
+      "time": "20:50",
       "rating": 5.6,
       "poster": "https://image.tmdb.org/t/p/w342/iX8D97TG8gVvHZ8S4clcdpCX7Uv.jpg",
       "summary": "Después de presenciar un brutal accidente nocturno en la carretera, una joven pareja comprende que algo los ha seguido. Una presencia demoníaca, conocida como El Pasajero Nocturno, se ha unido a ellos y no se detendrá hasta reclamarlos a ambos, convirtiendo su viaje en una auténtica pesadilla.",
@@ -1116,18 +1114,6 @@ export const MOVIE_DATA = {
     {
       "title": "El Drama",
       "time": "17:00",
-      "rating": 6.9,
-      "poster": "https://image.tmdb.org/t/p/w342/zgfBYGYCNcOZ51JDbr6tm45H8y0.jpg",
-      "summary": "Una pareja, en los días previos a su boda, se enfrenta a una crisis cuando unas inesperadas revelaciones desbaratan lo que uno de ellos creía saber sobre el otro.",
-      "genres": [
-        "Romance",
-        "Comedia",
-        "Drama"
-      ]
-    },
-    {
-      "title": "El Drama",
-      "time": "19:00",
       "rating": 6.9,
       "poster": "https://image.tmdb.org/t/p/w342/zgfBYGYCNcOZ51JDbr6tm45H8y0.jpg",
       "summary": "Una pareja, en los días previos a su boda, se enfrenta a una crisis cuando unas inesperadas revelaciones desbaratan lo que uno de ellos creía saber sobre el otro.",
@@ -1197,7 +1183,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Saliendo Del Nido",
-      "time": "18:25",
+      "time": "18:30",
       "rating": 7.0,
       "poster": "https://image.tmdb.org/t/p/w342/kRCKb2w9H7OGa7V1g6z5P4yzWEJ.jpg",
       "summary": "",
