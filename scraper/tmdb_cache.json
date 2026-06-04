@@ -1488,5 +1488,15 @@
     "genres": [
       "Drama"
     ]
+  },
+  "The Amazing Digital Circus: The Last Act": {
+    "rating": 0.0,
+    "poster": "https://image.tmdb.org/t/p/w342/sKm720uPqkh0WEZEuMmgc5dLo5S.jpg",
+    "summary": "Con la partida de Caine y el circo en penumbras, al elenco solo le queda la compañía de los errores y traumas de su pasado. Mientras el horizonte de la eternidad se desvanece ante sus ojos, descubren la verdad del circo digital y su historia. ¿Aceptarán lo que descubren? ¿O tomarán... el camino alternativo? Además, posiblemente, en algún momento alguien diga algo gracioso, porque este final no puede ser TAN lúgubre, ¿no?",
+    "genres": [
+      "Animación",
+      "Drama",
+      "Ciencia ficción"
+    ]
   }
 }
