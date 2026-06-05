@@ -1498,5 +1498,51 @@
       "Drama",
       "Ciencia ficción"
     ]
+  },
+  "Backrooms": {
+    "rating": 6.8,
+    "poster": "https://image.tmdb.org/t/p/w342/u3CfgxtnZRxbIm8JuVTzt3DXQhg.jpg",
+    "summary": "Una puerta extraña aparece en el sótano de una sala de exposición de muebles.",
+    "genres": [
+      "Terror",
+      "Misterio",
+      "Ciencia ficción"
+    ]
+  },
+  "Cada Dia Nace Un Listo": {
+    "rating": 8.0,
+    "poster": "https://image.tmdb.org/t/p/w342/rnCBRRsrh6XrpZAZ3lOG1qtWG1f.jpg",
+    "summary": "Toni Lomas alcanzó la fama cuando participó en un exitoso talent show. Ahora no tiene donde caerse muerto. Su situación cambia cuando Malena, un amor del pasado, le pone en contacto con Junior, el hijo de un rico empresario, para que robe un valioso cuadro de la casa familiar. Para llevar a cabo el golpe, Toni buscará dos aliados: la Mari y el Gallego, formando un equipo en el que cada uno persigue sus propios intereses.",
+    "genres": [
+      "Comedia"
+    ]
+  },
+  "Masters Del Universo": {
+    "rating": 7.6,
+    "poster": "https://image.tmdb.org/t/p/w342/hNLKuennkGtlWvqU6Ko4Z6X8JHg.jpg",
+    "summary": "En las regiones más lejanas del espacio, el reino de Eternia está amenazado por el villano Skeletor y sus traviesos ejércitos de oscuridad. Para salvar el reino de su padre y proteger las vidas de sus seres queridos, el joven príncipe Adam tiene que recuperar una espada mítica y convertirse en el legendario guerrero conocido como \"He-Man\".",
+    "genres": [
+      "Acción",
+      "Fantasía",
+      "Ciencia ficción"
+    ]
+  },
+  "Scary Movie 6": {
+    "rating": 5.6,
+    "poster": "https://image.tmdb.org/t/p/w342/vUPE82BWRZwq6M5Xc9UNuf8AffK.jpg",
+    "summary": "Veintiséis años después de conseguir escapar de un asesino enmascarado sospechosamente familiar, el Core Four están de vuelta en el punto de mira del asesino y ninguna película de terror está a salvo.",
+    "genres": [
+      "Comedia",
+      "Terror"
+    ]
+  },
+  "Todo Lo Que Nunca Fuimos": {
+    "rating": 8.0,
+    "poster": "https://image.tmdb.org/t/p/w342/lANJOAONExFL7HWOJJskBX4i7Y6.jpg",
+    "summary": "Cuando a su hermano mayor le ofrecen un trabajo lejos de casa, una joven aspirante a pintora, destrozada por un trágico accidente que se llevó a sus padres, le pide a su mejor amigo que cuide de ella. A medida que su atracción mutua crece hasta proporciones insoportables, los dos deben decidir si reprimir su amor o dejar que suceda.",
+    "genres": [
+      "Drama",
+      "Romance"
+    ]
   }
 }
