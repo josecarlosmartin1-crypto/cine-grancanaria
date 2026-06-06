@@ -1544,5 +1544,49 @@
       "Drama",
       "Romance"
     ]
+  },
+  "He-Man Y Los Masters Del Universo": {
+    "rating": 7.6,
+    "poster": "https://image.tmdb.org/t/p/w342/hNLKuennkGtlWvqU6Ko4Z6X8JHg.jpg",
+    "summary": "En las regiones más lejanas del espacio, el reino de Eternia está amenazado por el villano Skeletor y sus traviesos ejércitos de oscuridad. Para salvar el reino de su padre y proteger las vidas de sus seres queridos, el joven príncipe Adam tiene que recuperar una espada mítica y convertirse en el legendario guerrero conocido como \"He-Man\".",
+    "genres": [
+      "Acción",
+      "Fantasía",
+      "Ciencia ficción"
+    ]
+  },
+  "Scary Movie": {
+    "rating": 5.8,
+    "poster": "https://image.tmdb.org/t/p/w342/vUPE82BWRZwq6M5Xc9UNuf8AffK.jpg",
+    "summary": "Veintiséis años después de conseguir escapar de un asesino enmascarado sospechosamente familiar, el Core Four están de vuelta en el punto de mira del asesino y ninguna película de terror está a salvo.",
+    "genres": [
+      "Comedia",
+      "Terror"
+    ]
+  },
+  "La Luz": {
+    "rating": 6.3,
+    "poster": "https://image.tmdb.org/t/p/w342/vkvKvuLGrRbO1owtPAWRnHDFJNW.jpg",
+    "summary": "Una mujer joven que tiene problemas al criar a sus hijas gemelas después de que su marido y su hermano mueren, acepta el cortejo de un pretendiente encantador pero misterioso, mayor que ella.",
+    "genres": [
+      "Drama"
+    ]
+  },
+  "Cada Día Nace Un Listo": {
+    "rating": 8.0,
+    "poster": "https://image.tmdb.org/t/p/w342/rnCBRRsrh6XrpZAZ3lOG1qtWG1f.jpg",
+    "summary": "Toni Lomas alcanzó la fama cuando participó en un exitoso talent show. Ahora no tiene donde caerse muerto. Su situación cambia cuando Malena, un amor del pasado, le pone en contacto con Junior, el hijo de un rico empresario, para que robe un valioso cuadro de la casa familiar. Para llevar a cabo el golpe, Toni buscará dos aliados: la Mari y el Gallego, formando un equipo en el que cada uno persigue sus propios intereses.",
+    "genres": [
+      "Comedia"
+    ]
+  },
+  "Hai Jawani Toh Ishq Hona Hai": {
+    "rating": 4.5,
+    "poster": "https://image.tmdb.org/t/p/w342/vmlJvz6qVzYgei2V74GvnmcuQfW.jpg",
+    "summary": "Cuando las diferencias sobre la planificación familiar terminan con el matrimonio de Jass y Bani, Jass comienza un nuevo romance en el extranjero, solo para enredarse en secretos inesperados y relaciones complicadas.",
+    "genres": [
+      "Romance",
+      "Comedia"
+    ]
   }
 }
