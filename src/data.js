@@ -21,47 +21,39 @@ export const MOVIE_DATA = {
       ]
     },
     {
-      "title": "Scary Movie",
-      "time": "16:10",
-      "rating": 5.8,
-      "poster": "https://image.tmdb.org/t/p/w342/vUPE82BWRZwq6M5Xc9UNuf8AffK.jpg",
-      "summary": "Veintiséis años después de conseguir escapar de un asesino enmascarado sospechosamente familiar, el Core Four están de vuelta en el punto de mira del asesino y ninguna película de terror está a salvo.",
+      "title": "He-Man Y Los Masters Del Universo",
+      "time": "16:35",
+      "rating": 7.6,
+      "poster": "https://image.tmdb.org/t/p/w342/hNLKuennkGtlWvqU6Ko4Z6X8JHg.jpg",
+      "summary": "En las regiones más lejanas del espacio, el reino de Eternia está amenazado por el villano Skeletor y sus traviesos ejércitos de oscuridad. Para salvar el reino de su padre y proteger las vidas de sus seres queridos, el joven príncipe Adam tiene que recuperar una espada mítica y convertirse en el legendario guerrero conocido como \"He-Man\".",
       "genres": [
-        "Comedia",
-        "Terror"
+        "Acción",
+        "Fantasía",
+        "Ciencia ficción"
       ]
     },
     {
-      "title": "Scary Movie",
-      "time": "18:15",
-      "rating": 5.8,
-      "poster": "https://image.tmdb.org/t/p/w342/vUPE82BWRZwq6M5Xc9UNuf8AffK.jpg",
-      "summary": "Veintiséis años después de conseguir escapar de un asesino enmascarado sospechosamente familiar, el Core Four están de vuelta en el punto de mira del asesino y ninguna película de terror está a salvo.",
+      "title": "He-Man Y Los Masters Del Universo",
+      "time": "19:20",
+      "rating": 7.6,
+      "poster": "https://image.tmdb.org/t/p/w342/hNLKuennkGtlWvqU6Ko4Z6X8JHg.jpg",
+      "summary": "En las regiones más lejanas del espacio, el reino de Eternia está amenazado por el villano Skeletor y sus traviesos ejércitos de oscuridad. Para salvar el reino de su padre y proteger las vidas de sus seres queridos, el joven príncipe Adam tiene que recuperar una espada mítica y convertirse en el legendario guerrero conocido como \"He-Man\".",
       "genres": [
-        "Comedia",
-        "Terror"
+        "Acción",
+        "Fantasía",
+        "Ciencia ficción"
       ]
     },
     {
-      "title": "Scary Movie",
-      "time": "20:20",
-      "rating": 5.8,
-      "poster": "https://image.tmdb.org/t/p/w342/vUPE82BWRZwq6M5Xc9UNuf8AffK.jpg",
-      "summary": "Veintiséis años después de conseguir escapar de un asesino enmascarado sospechosamente familiar, el Core Four están de vuelta en el punto de mira del asesino y ninguna película de terror está a salvo.",
+      "title": "He-Man Y Los Masters Del Universo",
+      "time": "22:05",
+      "rating": 7.6,
+      "poster": "https://image.tmdb.org/t/p/w342/hNLKuennkGtlWvqU6Ko4Z6X8JHg.jpg",
+      "summary": "En las regiones más lejanas del espacio, el reino de Eternia está amenazado por el villano Skeletor y sus traviesos ejércitos de oscuridad. Para salvar el reino de su padre y proteger las vidas de sus seres queridos, el joven príncipe Adam tiene que recuperar una espada mítica y convertirse en el legendario guerrero conocido como \"He-Man\".",
       "genres": [
-        "Comedia",
-        "Terror"
-      ]
-    },
-    {
-      "title": "Scary Movie",
-      "time": "22:25",
-      "rating": 5.8,
-      "poster": "https://image.tmdb.org/t/p/w342/vUPE82BWRZwq6M5Xc9UNuf8AffK.jpg",
-      "summary": "Veintiséis años después de conseguir escapar de un asesino enmascarado sospechosamente familiar, el Core Four están de vuelta en el punto de mira del asesino y ninguna película de terror está a salvo.",
-      "genres": [
-        "Comedia",
-        "Terror"
+        "Acción",
+        "Fantasía",
+        "Ciencia ficción"
       ]
     },
     {
@@ -109,39 +101,47 @@ export const MOVIE_DATA = {
       ]
     },
     {
-      "title": "He-Man Y Los Masters Del Universo",
-      "time": "16:35",
-      "rating": 7.6,
-      "poster": "https://image.tmdb.org/t/p/w342/hNLKuennkGtlWvqU6Ko4Z6X8JHg.jpg",
-      "summary": "En las regiones más lejanas del espacio, el reino de Eternia está amenazado por el villano Skeletor y sus traviesos ejércitos de oscuridad. Para salvar el reino de su padre y proteger las vidas de sus seres queridos, el joven príncipe Adam tiene que recuperar una espada mítica y convertirse en el legendario guerrero conocido como \"He-Man\".",
+      "title": "Scary Movie",
+      "time": "16:10",
+      "rating": 5.8,
+      "poster": "https://image.tmdb.org/t/p/w342/vUPE82BWRZwq6M5Xc9UNuf8AffK.jpg",
+      "summary": "Veintiséis años después de conseguir escapar de un asesino enmascarado sospechosamente familiar, el Core Four están de vuelta en el punto de mira del asesino y ninguna película de terror está a salvo.",
       "genres": [
-        "Acción",
-        "Fantasía",
-        "Ciencia ficción"
+        "Comedia",
+        "Terror"
       ]
     },
     {
-      "title": "He-Man Y Los Masters Del Universo",
-      "time": "19:20",
-      "rating": 7.6,
-      "poster": "https://image.tmdb.org/t/p/w342/hNLKuennkGtlWvqU6Ko4Z6X8JHg.jpg",
-      "summary": "En las regiones más lejanas del espacio, el reino de Eternia está amenazado por el villano Skeletor y sus traviesos ejércitos de oscuridad. Para salvar el reino de su padre y proteger las vidas de sus seres queridos, el joven príncipe Adam tiene que recuperar una espada mítica y convertirse en el legendario guerrero conocido como \"He-Man\".",
+      "title": "Scary Movie",
+      "time": "18:15",
+      "rating": 5.8,
+      "poster": "https://image.tmdb.org/t/p/w342/vUPE82BWRZwq6M5Xc9UNuf8AffK.jpg",
+      "summary": "Veintiséis años después de conseguir escapar de un asesino enmascarado sospechosamente familiar, el Core Four están de vuelta en el punto de mira del asesino y ninguna película de terror está a salvo.",
       "genres": [
-        "Acción",
-        "Fantasía",
-        "Ciencia ficción"
+        "Comedia",
+        "Terror"
       ]
     },
     {
-      "title": "He-Man Y Los Masters Del Universo",
-      "time": "22:05",
-      "rating": 7.6,
-      "poster": "https://image.tmdb.org/t/p/w342/hNLKuennkGtlWvqU6Ko4Z6X8JHg.jpg",
-      "summary": "En las regiones más lejanas del espacio, el reino de Eternia está amenazado por el villano Skeletor y sus traviesos ejércitos de oscuridad. Para salvar el reino de su padre y proteger las vidas de sus seres queridos, el joven príncipe Adam tiene que recuperar una espada mítica y convertirse en el legendario guerrero conocido como \"He-Man\".",
+      "title": "Scary Movie",
+      "time": "20:20",
+      "rating": 5.8,
+      "poster": "https://image.tmdb.org/t/p/w342/vUPE82BWRZwq6M5Xc9UNuf8AffK.jpg",
+      "summary": "Veintiséis años después de conseguir escapar de un asesino enmascarado sospechosamente familiar, el Core Four están de vuelta en el punto de mira del asesino y ninguna película de terror está a salvo.",
       "genres": [
-        "Acción",
-        "Fantasía",
-        "Ciencia ficción"
+        "Comedia",
+        "Terror"
+      ]
+    },
+    {
+      "title": "Scary Movie",
+      "time": "22:25",
+      "rating": 5.8,
+      "poster": "https://image.tmdb.org/t/p/w342/vUPE82BWRZwq6M5Xc9UNuf8AffK.jpg",
+      "summary": "Veintiséis años después de conseguir escapar de un asesino enmascarado sospechosamente familiar, el Core Four están de vuelta en el punto de mira del asesino y ninguna película de terror está a salvo.",
+      "genres": [
+        "Comedia",
+        "Terror"
       ]
     },
     {
@@ -214,18 +214,6 @@ export const MOVIE_DATA = {
         "Animación",
         "Drama",
         "Ciencia ficción"
-      ]
-    },
-    {
-      "title": "Shrek (25 Aniversario)",
-      "time": "15:50",
-      "rating": 7.8,
-      "poster": "https://image.tmdb.org/t/p/w342/jTQONM7jt1yv2lL972TtmWO0UIZ.jpg",
-      "summary": "Hace mucho, mucho tiempo, en una lejanísima ciénaga vivía un intratable ogro llamado Shrek. Pero de repente, un día, su absoluta soledad se ve interrumpida por una invasión de sorprendentes personajes de cuento. Hay ratoncitos ciegos en su comida, un enorme y malísimo lobo en su cama, tres cerditos sin hogar y otros muchos seres increíbles que han sido deportados de su reino por el malvado Lord Farquaad. Para conseguir salvar su terreno, y de paso a sí mismo, Shrek hace un pacto con Farquaad y emprende viaje para conseguir que la preciosa princesa Fiona sea la novia del Lord. En tan importante misión le acompañan un burro chistoso, dispuesto a hacer cualquier cosa por Shrek. Todo, menos estarse calladito. Rescatar a la princesa de una dragona enamoradiza que suelta fuego al respirar va a resultar una tontería comparado con lo que ocurre cuando el oscuro secreto que la joven guardaba es revelado.",
-      "genres": [
-        "Animación",
-        "Comedia",
-        "Fantasía"
       ]
     },
     {
@@ -397,6 +385,16 @@ export const MOVIE_DATA = {
       "genres": [
         "Música",
         "Drama"
+      ]
+    },
+    {
+      "title": "La Familia Benetón +2",
+      "time": "15:55",
+      "rating": 7.0,
+      "poster": "https://image.tmdb.org/t/p/w342/qJhTQ2TFMG2q9Tv6xsyntTMibcU.jpg",
+      "summary": "Cuando Toni cree que tiene todo bajo control en su entrañable y divertida familia multicultural, la llegada de dos nuevos bebés pondrá patas arriba la casa y a toda la familia.",
+      "genres": [
+        "Comedia"
       ]
     },
     {
@@ -1030,18 +1028,6 @@ export const MOVIE_DATA = {
       ]
     },
     {
-      "title": "Shrek (25 Aniversario)",
-      "time": "15:50",
-      "rating": 7.8,
-      "poster": "https://image.tmdb.org/t/p/w342/jTQONM7jt1yv2lL972TtmWO0UIZ.jpg",
-      "summary": "Hace mucho, mucho tiempo, en una lejanísima ciénaga vivía un intratable ogro llamado Shrek. Pero de repente, un día, su absoluta soledad se ve interrumpida por una invasión de sorprendentes personajes de cuento. Hay ratoncitos ciegos en su comida, un enorme y malísimo lobo en su cama, tres cerditos sin hogar y otros muchos seres increíbles que han sido deportados de su reino por el malvado Lord Farquaad. Para conseguir salvar su terreno, y de paso a sí mismo, Shrek hace un pacto con Farquaad y emprende viaje para conseguir que la preciosa princesa Fiona sea la novia del Lord. En tan importante misión le acompañan un burro chistoso, dispuesto a hacer cualquier cosa por Shrek. Todo, menos estarse calladito. Rescatar a la princesa de una dragona enamoradiza que suelta fuego al respirar va a resultar una tontería comparado con lo que ocurre cuando el oscuro secreto que la joven guardaba es revelado.",
-      "genres": [
-        "Animación",
-        "Comedia",
-        "Fantasía"
-      ]
-    },
-    {
       "title": "El Drama",
       "time": "17:50",
       "rating": 6.9,
@@ -1169,6 +1155,16 @@ export const MOVIE_DATA = {
       ]
     },
     {
+      "title": "La Familia Benetón +2",
+      "time": "15:50",
+      "rating": 7.0,
+      "poster": "https://image.tmdb.org/t/p/w342/qJhTQ2TFMG2q9Tv6xsyntTMibcU.jpg",
+      "summary": "Cuando Toni cree que tiene todo bajo control en su entrañable y divertida familia multicultural, la llegada de dos nuevos bebés pondrá patas arriba la casa y a toda la familia.",
+      "genres": [
+        "Comedia"
+      ]
+    },
+    {
       "title": "Super Mario Galaxy: La Película",
       "time": "17:20",
       "rating": 6.9,
@@ -1227,7 +1223,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Michael",
-      "time": "19:10",
+      "time": "19:15",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/2uK36ujoDXOfNiJ5Yp3raVprB51.jpg",
       "summary": "El viaje de Michael Jackson más allá de la música, desde el descubrimiento de su extraordinario talento como líder de los Jackson Five hasta convertirse en una visionaria estrella cuya ambición creativa despertó un incansable afán por consagrarse como el mayor icono de la industria del entretenimiento.",
@@ -1375,7 +1371,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Masters Del Universo",
-      "time": "17:15",
+      "time": "16:00",
       "rating": 7.6,
       "poster": "https://image.tmdb.org/t/p/w342/hNLKuennkGtlWvqU6Ko4Z6X8JHg.jpg",
       "summary": "En las regiones más lejanas del espacio, el reino de Eternia está amenazado por el villano Skeletor y sus traviesos ejércitos de oscuridad. Para salvar el reino de su padre y proteger las vidas de sus seres queridos, el joven príncipe Adam tiene que recuperar una espada mítica y convertirse en el legendario guerrero conocido como \"He-Man\".",
