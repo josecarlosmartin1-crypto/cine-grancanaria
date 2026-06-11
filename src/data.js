@@ -194,18 +194,6 @@ export const MOVIE_DATA = {
     },
     {
       "title": "The Amazing Digital Circus: The Last Act",
-      "time": "16:00",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/sKm720uPqkh0WEZEuMmgc5dLo5S.jpg",
-      "summary": "Con la partida de Caine y el circo en penumbras, al elenco solo le queda la compañía de los errores y traumas de su pasado. Mientras el horizonte de la eternidad se desvanece ante sus ojos, descubren la verdad del circo digital y su historia. ¿Aceptarán lo que descubren? ¿O tomarán... el camino alternativo? Además, posiblemente, en algún momento alguien diga algo gracioso, porque este final no puede ser TAN lúgubre, ¿no?",
-      "genres": [
-        "Animación",
-        "Drama",
-        "Ciencia ficción"
-      ]
-    },
-    {
-      "title": "The Amazing Digital Circus: The Last Act",
       "time": "18:00",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/sKm720uPqkh0WEZEuMmgc5dLo5S.jpg",
@@ -214,18 +202,6 @@ export const MOVIE_DATA = {
         "Animación",
         "Drama",
         "Ciencia ficción"
-      ]
-    },
-    {
-      "title": "Shrek (25 Aniversario)",
-      "time": "15:50",
-      "rating": 7.8,
-      "poster": "https://image.tmdb.org/t/p/w342/jTQONM7jt1yv2lL972TtmWO0UIZ.jpg",
-      "summary": "Hace mucho, mucho tiempo, en una lejanísima ciénaga vivía un intratable ogro llamado Shrek. Pero de repente, un día, su absoluta soledad se ve interrumpida por una invasión de sorprendentes personajes de cuento. Hay ratoncitos ciegos en su comida, un enorme y malísimo lobo en su cama, tres cerditos sin hogar y otros muchos seres increíbles que han sido deportados de su reino por el malvado Lord Farquaad. Para conseguir salvar su terreno, y de paso a sí mismo, Shrek hace un pacto con Farquaad y emprende viaje para conseguir que la preciosa princesa Fiona sea la novia del Lord. En tan importante misión le acompañan un burro chistoso, dispuesto a hacer cualquier cosa por Shrek. Todo, menos estarse calladito. Rescatar a la princesa de una dragona enamoradiza que suelta fuego al respirar va a resultar una tontería comparado con lo que ocurre cuando el oscuro secreto que la joven guardaba es revelado.",
-      "genres": [
-        "Animación",
-        "Comedia",
-        "Fantasía"
       ]
     },
     {
@@ -400,6 +376,16 @@ export const MOVIE_DATA = {
       ]
     },
     {
+      "title": "La Familia Benetón +2",
+      "time": "15:55",
+      "rating": 7.0,
+      "poster": "https://image.tmdb.org/t/p/w342/qJhTQ2TFMG2q9Tv6xsyntTMibcU.jpg",
+      "summary": "Cuando Toni cree que tiene todo bajo control en su entrañable y divertida familia multicultural, la llegada de dos nuevos bebés pondrá patas arriba la casa y a toda la familia.",
+      "genres": [
+        "Comedia"
+      ]
+    },
+    {
       "title": "La Momia De Lee Cronin",
       "time": "22:15",
       "rating": 8.2,
@@ -431,6 +417,16 @@ export const MOVIE_DATA = {
       "genres": [
         "Ciencia ficción",
         "Aventura"
+      ]
+    },
+    {
+      "title": "Torrente Presidente",
+      "time": "15:45",
+      "rating": 6.4,
+      "poster": "https://image.tmdb.org/t/p/w342/a0Fn0PiGGiU74jIUelpce6z70i9.jpg",
+      "summary": "José Luis Torrente vuelve metido de lleno en la política española, arrastrando su habitual mezcla de vulgaridad, oportunismo e ineptitud. La película plantea una sátira de la realidad social y política del país mediante parodias, situaciones absurdas y numerosos cameos.",
+      "genres": [
+        "Comedia"
       ]
     }
   ],
@@ -660,18 +656,6 @@ export const MOVIE_DATA = {
     },
     {
       "title": "The Amazing Digital Circus: The Last Act",
-      "time": "16:00",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/sKm720uPqkh0WEZEuMmgc5dLo5S.jpg",
-      "summary": "Con la partida de Caine y el circo en penumbras, al elenco solo le queda la compañía de los errores y traumas de su pasado. Mientras el horizonte de la eternidad se desvanece ante sus ojos, descubren la verdad del circo digital y su historia. ¿Aceptarán lo que descubren? ¿O tomarán... el camino alternativo? Además, posiblemente, en algún momento alguien diga algo gracioso, porque este final no puede ser TAN lúgubre, ¿no?",
-      "genres": [
-        "Animación",
-        "Drama",
-        "Ciencia ficción"
-      ]
-    },
-    {
-      "title": "The Amazing Digital Circus: The Last Act",
       "time": "18:10",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/sKm720uPqkh0WEZEuMmgc5dLo5S.jpg",
@@ -828,6 +812,16 @@ export const MOVIE_DATA = {
       "genres": [
         "Aventura",
         "Animación",
+        "Comedia"
+      ]
+    },
+    {
+      "title": "Torrente Presidente",
+      "time": "15:55",
+      "rating": 6.4,
+      "poster": "https://image.tmdb.org/t/p/w342/a0Fn0PiGGiU74jIUelpce6z70i9.jpg",
+      "summary": "José Luis Torrente vuelve metido de lleno en la política española, arrastrando su habitual mezcla de vulgaridad, oportunismo e ineptitud. La película plantea una sátira de la realidad social y política del país mediante parodias, situaciones absurdas y numerosos cameos.",
+      "genres": [
         "Comedia"
       ]
     }
@@ -1007,7 +1001,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "The Amazing Digital Circus: The Last Act",
-      "time": "16:00",
+      "time": "18:10",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/sKm720uPqkh0WEZEuMmgc5dLo5S.jpg",
       "summary": "Con la partida de Caine y el circo en penumbras, al elenco solo le queda la compañía de los errores y traumas de su pasado. Mientras el horizonte de la eternidad se desvanece ante sus ojos, descubren la verdad del circo digital y su historia. ¿Aceptarán lo que descubren? ¿O tomarán... el camino alternativo? Además, posiblemente, en algún momento alguien diga algo gracioso, porque este final no puede ser TAN lúgubre, ¿no?",
@@ -1015,30 +1009,6 @@ export const MOVIE_DATA = {
         "Animación",
         "Drama",
         "Ciencia ficción"
-      ]
-    },
-    {
-      "title": "The Amazing Digital Circus: The Last Act",
-      "time": "18:05",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/sKm720uPqkh0WEZEuMmgc5dLo5S.jpg",
-      "summary": "Con la partida de Caine y el circo en penumbras, al elenco solo le queda la compañía de los errores y traumas de su pasado. Mientras el horizonte de la eternidad se desvanece ante sus ojos, descubren la verdad del circo digital y su historia. ¿Aceptarán lo que descubren? ¿O tomarán... el camino alternativo? Además, posiblemente, en algún momento alguien diga algo gracioso, porque este final no puede ser TAN lúgubre, ¿no?",
-      "genres": [
-        "Animación",
-        "Drama",
-        "Ciencia ficción"
-      ]
-    },
-    {
-      "title": "Shrek (25 Aniversario)",
-      "time": "15:50",
-      "rating": 7.8,
-      "poster": "https://image.tmdb.org/t/p/w342/jTQONM7jt1yv2lL972TtmWO0UIZ.jpg",
-      "summary": "Hace mucho, mucho tiempo, en una lejanísima ciénaga vivía un intratable ogro llamado Shrek. Pero de repente, un día, su absoluta soledad se ve interrumpida por una invasión de sorprendentes personajes de cuento. Hay ratoncitos ciegos en su comida, un enorme y malísimo lobo en su cama, tres cerditos sin hogar y otros muchos seres increíbles que han sido deportados de su reino por el malvado Lord Farquaad. Para conseguir salvar su terreno, y de paso a sí mismo, Shrek hace un pacto con Farquaad y emprende viaje para conseguir que la preciosa princesa Fiona sea la novia del Lord. En tan importante misión le acompañan un burro chistoso, dispuesto a hacer cualquier cosa por Shrek. Todo, menos estarse calladito. Rescatar a la princesa de una dragona enamoradiza que suelta fuego al respirar va a resultar una tontería comparado con lo que ocurre cuando el oscuro secreto que la joven guardaba es revelado.",
-      "genres": [
-        "Animación",
-        "Comedia",
-        "Fantasía"
       ]
     },
     {
@@ -1126,7 +1096,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "El Diablo Viste De Prada 2",
-      "time": "20:10",
+      "time": "20:15",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/ld68XXTztvYt5DaD1IHoRvCpgOA.jpg",
       "summary": "Sigue la lucha de Miranda Priestly contra Emily Charlton, su ex asistente convertida en ejecutiva rival, mientras compiten por los ingresos por publicidad en medio de la decadencia de los medios impresos y Miranda se acerca a la jubilación.",
@@ -1169,6 +1139,16 @@ export const MOVIE_DATA = {
       ]
     },
     {
+      "title": "La Familia Benetón +2",
+      "time": "15:50",
+      "rating": 7.0,
+      "poster": "https://image.tmdb.org/t/p/w342/qJhTQ2TFMG2q9Tv6xsyntTMibcU.jpg",
+      "summary": "Cuando Toni cree que tiene todo bajo control en su entrañable y divertida familia multicultural, la llegada de dos nuevos bebés pondrá patas arriba la casa y a toda la familia.",
+      "genres": [
+        "Comedia"
+      ]
+    },
+    {
       "title": "Super Mario Galaxy: La Película",
       "time": "17:20",
       "rating": 6.9,
@@ -1189,6 +1169,16 @@ export const MOVIE_DATA = {
       "genres": [
         "Aventura",
         "Animación",
+        "Comedia"
+      ]
+    },
+    {
+      "title": "Torrente Presidente",
+      "time": "15:55",
+      "rating": 6.4,
+      "poster": "https://image.tmdb.org/t/p/w342/a0Fn0PiGGiU74jIUelpce6z70i9.jpg",
+      "summary": "José Luis Torrente vuelve metido de lleno en la política española, arrastrando su habitual mezcla de vulgaridad, oportunismo e ineptitud. La película plantea una sátira de la realidad social y política del país mediante parodias, situaciones absurdas y numerosos cameos.",
+      "genres": [
         "Comedia"
       ]
     }
@@ -1237,17 +1227,6 @@ export const MOVIE_DATA = {
       ]
     },
     {
-      "title": "Michael",
-      "time": "21:20",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/2uK36ujoDXOfNiJ5Yp3raVprB51.jpg",
-      "summary": "El viaje de Michael Jackson más allá de la música, desde el descubrimiento de su extraordinario talento como líder de los Jackson Five hasta convertirse en una visionaria estrella cuya ambición creativa despertó un incansable afán por consagrarse como el mayor icono de la industria del entretenimiento.",
-      "genres": [
-        "Música",
-        "Drama"
-      ]
-    },
-    {
       "title": "El Diablo Viste De Prada 2",
       "time": "21:00",
       "rating": 0.0,
@@ -1256,30 +1235,6 @@ export const MOVIE_DATA = {
       "genres": [
         "Drama",
         "Comedia"
-      ]
-    },
-    {
-      "title": "The Mandalorian And Grogu",
-      "time": "16:00",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/aY7a38Ef0lNn0ohMpaG4ODUuPIG.jpg",
-      "summary": "Continuación de la serie \"The Mandalorian\" en forma de película. Un solitario cazarrecompensas a la fuga protege a un codiciado bebé alienígena mientras evita ser capturado en una galaxia anárquica y peligrosa.",
-      "genres": [
-        "Acción",
-        "Aventura",
-        "Ciencia ficción"
-      ]
-    },
-    {
-      "title": "The Mandalorian And Grogu",
-      "time": "18:40",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/aY7a38Ef0lNn0ohMpaG4ODUuPIG.jpg",
-      "summary": "Continuación de la serie \"The Mandalorian\" en forma de película. Un solitario cazarrecompensas a la fuga protege a un codiciado bebé alienígena mientras evita ser capturado en una galaxia anárquica y peligrosa.",
-      "genres": [
-        "Acción",
-        "Aventura",
-        "Ciencia ficción"
       ]
     },
     {
@@ -1424,39 +1379,6 @@ export const MOVIE_DATA = {
     {
       "title": "Scary Movie 6",
       "time": "16:00",
-      "rating": 5.6,
-      "poster": "https://image.tmdb.org/t/p/w342/vUPE82BWRZwq6M5Xc9UNuf8AffK.jpg",
-      "summary": "Veintiséis años después de conseguir escapar de un asesino enmascarado sospechosamente familiar, el Core Four están de vuelta en el punto de mira del asesino y ninguna película de terror está a salvo.",
-      "genres": [
-        "Comedia",
-        "Terror"
-      ]
-    },
-    {
-      "title": "Scary Movie 6",
-      "time": "17:45",
-      "rating": 5.6,
-      "poster": "https://image.tmdb.org/t/p/w342/vUPE82BWRZwq6M5Xc9UNuf8AffK.jpg",
-      "summary": "Veintiséis años después de conseguir escapar de un asesino enmascarado sospechosamente familiar, el Core Four están de vuelta en el punto de mira del asesino y ninguna película de terror está a salvo.",
-      "genres": [
-        "Comedia",
-        "Terror"
-      ]
-    },
-    {
-      "title": "Scary Movie 6",
-      "time": "19:30",
-      "rating": 5.6,
-      "poster": "https://image.tmdb.org/t/p/w342/vUPE82BWRZwq6M5Xc9UNuf8AffK.jpg",
-      "summary": "Veintiséis años después de conseguir escapar de un asesino enmascarado sospechosamente familiar, el Core Four están de vuelta en el punto de mira del asesino y ninguna película de terror está a salvo.",
-      "genres": [
-        "Comedia",
-        "Terror"
-      ]
-    },
-    {
-      "title": "Scary Movie 6",
-      "time": "21:15",
       "rating": 5.6,
       "poster": "https://image.tmdb.org/t/p/w342/vUPE82BWRZwq6M5Xc9UNuf8AffK.jpg",
       "summary": "Veintiséis años después de conseguir escapar de un asesino enmascarado sospechosamente familiar, el Core Four están de vuelta en el punto de mira del asesino y ninguna película de terror está a salvo.",
