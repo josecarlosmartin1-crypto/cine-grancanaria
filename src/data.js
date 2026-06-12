@@ -1342,7 +1342,7 @@ export const MOVIE_DATA = {
   "Ocine Premium Siete Palmas": [
     {
       "title": "Backrooms (Atmos)",
-      "time": "19:15",
+      "time": "15:50",
       "rating": 6.8,
       "poster": "https://image.tmdb.org/t/p/w342/u3CfgxtnZRxbIm8JuVTzt3DXQhg.jpg",
       "summary": "Una puerta extraña aparece en el sótano de una sala de exposición de muebles.",
@@ -1354,7 +1354,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Backrooms (Atmos)",
-      "time": "21:30",
+      "time": "18:05",
       "rating": 6.8,
       "poster": "https://image.tmdb.org/t/p/w342/u3CfgxtnZRxbIm8JuVTzt3DXQhg.jpg",
       "summary": "Una puerta extraña aparece en el sótano de una sala de exposición de muebles.",
@@ -1366,7 +1366,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Backrooms (Atmos)",
-      "time": "16:00",
+      "time": "20:25",
       "rating": 6.8,
       "poster": "https://image.tmdb.org/t/p/w342/u3CfgxtnZRxbIm8JuVTzt3DXQhg.jpg",
       "summary": "Una puerta extraña aparece en el sótano de una sala de exposición de muebles.",
@@ -1378,7 +1378,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Backrooms (Atmos)",
-      "time": "18:20",
+      "time": "22:40",
       "rating": 6.8,
       "poster": "https://image.tmdb.org/t/p/w342/u3CfgxtnZRxbIm8JuVTzt3DXQhg.jpg",
       "summary": "Una puerta extraña aparece en el sótano de una sala de exposición de muebles.",
@@ -1386,56 +1386,11 @@ export const MOVIE_DATA = {
         "Terror",
         "Misterio",
         "Ciencia ficción"
-      ]
-    },
-    {
-      "title": "Backrooms (Atmos)",
-      "time": "20:40",
-      "rating": 6.8,
-      "poster": "https://image.tmdb.org/t/p/w342/u3CfgxtnZRxbIm8JuVTzt3DXQhg.jpg",
-      "summary": "Una puerta extraña aparece en el sótano de una sala de exposición de muebles.",
-      "genres": [
-        "Terror",
-        "Misterio",
-        "Ciencia ficción"
-      ]
-    },
-    {
-      "title": "Backrooms (Atmos)",
-      "time": "22:50",
-      "rating": 6.8,
-      "poster": "https://image.tmdb.org/t/p/w342/u3CfgxtnZRxbIm8JuVTzt3DXQhg.jpg",
-      "summary": "Una puerta extraña aparece en el sótano de una sala de exposición de muebles.",
-      "genres": [
-        "Terror",
-        "Misterio",
-        "Ciencia ficción"
-      ]
-    },
-    {
-      "title": "Beast. La Bestia",
-      "time": "22:35",
-      "rating": 6.1,
-      "poster": "https://image.tmdb.org/t/p/w342/3S32pzyZMoOJ3ADrnT2GbV4tiX4.jpg",
-      "summary": "Con la ayuda de su antiguo entrenador, un campeón de MMA retirado e invicto regresa a la jaula para vengar la muerte de su hermano y resolver sus problemas financieros.",
-      "genres": [
-        "Acción",
-        "Drama"
-      ]
-    },
-    {
-      "title": "Cada Día Nace Un Listo (Kids)",
-      "time": "22:55",
-      "rating": 8.0,
-      "poster": "https://image.tmdb.org/t/p/w342/rnCBRRsrh6XrpZAZ3lOG1qtWG1f.jpg",
-      "summary": "Toni Lomas alcanzó la fama cuando participó en un exitoso talent show. Ahora no tiene donde caerse muerto. Su situación cambia cuando Malena, un amor del pasado, le pone en contacto con Junior, el hijo de un rico empresario, para que robe un valioso cuadro de la casa familiar. Para llevar a cabo el golpe, Toni buscará dos aliados: la Mari y el Gallego, formando un equipo en el que cada uno persigue sus propios intereses.",
-      "genres": [
-        "Comedia"
       ]
     },
     {
       "title": "El Drama",
-      "time": "18:10",
+      "time": "21:30",
       "rating": 6.9,
       "poster": "https://image.tmdb.org/t/p/w342/zgfBYGYCNcOZ51JDbr6tm45H8y0.jpg",
       "summary": "Una pareja, en los días previos a su boda, se enfrenta a una crisis cuando unas inesperadas revelaciones desbaratan lo que uno de ellos creía saber sobre el otro.",
@@ -1446,88 +1401,132 @@ export const MOVIE_DATA = {
       ]
     },
     {
-      "title": "Las Ovejas Detectives",
-      "time": "15:50",
-      "rating": 7.8,
-      "poster": "https://image.tmdb.org/t/p/w342/kMJ4h39xe1fEzbLSt5FJCtEqb2H.jpg",
-      "summary": "Cada noche, un pastor lee en voz alta un asesinato misterioso, fingiendo que sus ovejas pueden entenderlo. Cuando lo encuentran muerto, las ovejas se dan cuenta enseguida de que ha sido un asesinato y creen saber cómo resolverlo.",
+      "title": "He-Man Y Los Masters Del Universo (Screen X)",
+      "time": "17:00",
+      "rating": 7.6,
+      "poster": "https://image.tmdb.org/t/p/w342/hNLKuennkGtlWvqU6Ko4Z6X8JHg.jpg",
+      "summary": "En las regiones más lejanas del espacio, el reino de Eternia está amenazado por el villano Skeletor y sus traviesos ejércitos de oscuridad. Para salvar el reino de su padre y proteger las vidas de sus seres queridos, el joven príncipe Adam tiene que recuperar una espada mítica y convertirse en el legendario guerrero conocido como \"He-Man\".",
+      "genres": [
+        "Acción",
+        "Fantasía",
+        "Ciencia ficción"
+      ]
+    },
+    {
+      "title": "He-Man Y Los Masters Del Universo (Screen X)",
+      "time": "19:45",
+      "rating": 7.6,
+      "poster": "https://image.tmdb.org/t/p/w342/hNLKuennkGtlWvqU6Ko4Z6X8JHg.jpg",
+      "summary": "En las regiones más lejanas del espacio, el reino de Eternia está amenazado por el villano Skeletor y sus traviesos ejércitos de oscuridad. Para salvar el reino de su padre y proteger las vidas de sus seres queridos, el joven príncipe Adam tiene que recuperar una espada mítica y convertirse en el legendario guerrero conocido como \"He-Man\".",
+      "genres": [
+        "Acción",
+        "Fantasía",
+        "Ciencia ficción"
+      ]
+    },
+    {
+      "title": "He-Man Y Los Masters Del Universo (Screen X)",
+      "time": "22:30",
+      "rating": 7.6,
+      "poster": "https://image.tmdb.org/t/p/w342/hNLKuennkGtlWvqU6Ko4Z6X8JHg.jpg",
+      "summary": "En las regiones más lejanas del espacio, el reino de Eternia está amenazado por el villano Skeletor y sus traviesos ejércitos de oscuridad. Para salvar el reino de su padre y proteger las vidas de sus seres queridos, el joven príncipe Adam tiene que recuperar una espada mítica y convertirse en el legendario guerrero conocido como \"He-Man\".",
+      "genres": [
+        "Acción",
+        "Fantasía",
+        "Ciencia ficción"
+      ]
+    },
+    {
+      "title": "Michael (Atmos)",
+      "time": "17:45",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/2uK36ujoDXOfNiJ5Yp3raVprB51.jpg",
+      "summary": "El viaje de Michael Jackson más allá de la música, desde el descubrimiento de su extraordinario talento como líder de los Jackson Five hasta convertirse en una visionaria estrella cuya ambición creativa despertó un incansable afán por consagrarse como el mayor icono de la industria del entretenimiento.",
+      "genres": [
+        "Música",
+        "Drama"
+      ]
+    },
+    {
+      "title": "Michael (Atmos)",
+      "time": "20:15",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/2uK36ujoDXOfNiJ5Yp3raVprB51.jpg",
+      "summary": "El viaje de Michael Jackson más allá de la música, desde el descubrimiento de su extraordinario talento como líder de los Jackson Five hasta convertirse en una visionaria estrella cuya ambición creativa despertó un incansable afán por consagrarse como el mayor icono de la industria del entretenimiento.",
+      "genres": [
+        "Música",
+        "Drama"
+      ]
+    },
+    {
+      "title": "Scary Movie 6",
+      "time": "18:30",
+      "rating": 5.6,
+      "poster": "https://image.tmdb.org/t/p/w342/vUPE82BWRZwq6M5Xc9UNuf8AffK.jpg",
+      "summary": "Veintiséis años después de conseguir escapar de un asesino enmascarado sospechosamente familiar, el Core Four están de vuelta en el punto de mira del asesino y ninguna película de terror está a salvo.",
       "genres": [
         "Comedia",
-        "Familia",
-        "Misterio"
+        "Terror"
       ]
     },
     {
-      "title": "Michael (Atmos)",
-      "time": "17:30",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/2uK36ujoDXOfNiJ5Yp3raVprB51.jpg",
-      "summary": "El viaje de Michael Jackson más allá de la música, desde el descubrimiento de su extraordinario talento como líder de los Jackson Five hasta convertirse en una visionaria estrella cuya ambición creativa despertó un incansable afán por consagrarse como el mayor icono de la industria del entretenimiento.",
+      "title": "Scary Movie 6",
+      "time": "20:30",
+      "rating": 5.6,
+      "poster": "https://image.tmdb.org/t/p/w342/vUPE82BWRZwq6M5Xc9UNuf8AffK.jpg",
+      "summary": "Veintiséis años después de conseguir escapar de un asesino enmascarado sospechosamente familiar, el Core Four están de vuelta en el punto de mira del asesino y ninguna película de terror está a salvo.",
       "genres": [
-        "Música",
-        "Drama"
-      ]
-    },
-    {
-      "title": "Michael (Atmos)",
-      "time": "20:10",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/2uK36ujoDXOfNiJ5Yp3raVprB51.jpg",
-      "summary": "El viaje de Michael Jackson más allá de la música, desde el descubrimiento de su extraordinario talento como líder de los Jackson Five hasta convertirse en una visionaria estrella cuya ambición creativa despertó un incansable afán por consagrarse como el mayor icono de la industria del entretenimiento.",
-      "genres": [
-        "Música",
-        "Drama"
-      ]
-    },
-    {
-      "title": "Michael (Atmos)",
-      "time": "22:45",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/2uK36ujoDXOfNiJ5Yp3raVprB51.jpg",
-      "summary": "El viaje de Michael Jackson más allá de la música, desde el descubrimiento de su extraordinario talento como líder de los Jackson Five hasta convertirse en una visionaria estrella cuya ambición creativa despertó un incansable afán por consagrarse como el mayor icono de la industria del entretenimiento.",
-      "genres": [
-        "Música",
-        "Drama"
-      ]
-    },
-    {
-      "title": "Michael (Atmos)",
-      "time": "16:15",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/2uK36ujoDXOfNiJ5Yp3raVprB51.jpg",
-      "summary": "El viaje de Michael Jackson más allá de la música, desde el descubrimiento de su extraordinario talento como líder de los Jackson Five hasta convertirse en una visionaria estrella cuya ambición creativa despertó un incansable afán por consagrarse como el mayor icono de la industria del entretenimiento.",
-      "genres": [
-        "Música",
-        "Drama"
-      ]
-    },
-    {
-      "title": "Shrek  (25º Aniversario) (Kids)",
-      "time": "18:15",
-      "rating": 7.8,
-      "poster": "https://image.tmdb.org/t/p/w342/jTQONM7jt1yv2lL972TtmWO0UIZ.jpg",
-      "summary": "Hace mucho, mucho tiempo, en una lejanísima ciénaga vivía un intratable ogro llamado Shrek. Pero de repente, un día, su absoluta soledad se ve interrumpida por una invasión de sorprendentes personajes de cuento. Hay ratoncitos ciegos en su comida, un enorme y malísimo lobo en su cama, tres cerditos sin hogar y otros muchos seres increíbles que han sido deportados de su reino por el malvado Lord Farquaad. Para conseguir salvar su terreno, y de paso a sí mismo, Shrek hace un pacto con Farquaad y emprende viaje para conseguir que la preciosa princesa Fiona sea la novia del Lord. En tan importante misión le acompañan un burro chistoso, dispuesto a hacer cualquier cosa por Shrek. Todo, menos estarse calladito. Rescatar a la princesa de una dragona enamoradiza que suelta fuego al respirar va a resultar una tontería comparado con lo que ocurre cuando el oscuro secreto que la joven guardaba es revelado.",
-      "genres": [
-        "Animación",
         "Comedia",
-        "Fantasía"
+        "Terror"
       ]
     },
     {
-      "title": "Saliendo Del Nido",
+      "title": "Scary Movie 6",
+      "time": "22:30",
+      "rating": 5.6,
+      "poster": "https://image.tmdb.org/t/p/w342/vUPE82BWRZwq6M5Xc9UNuf8AffK.jpg",
+      "summary": "Veintiséis años después de conseguir escapar de un asesino enmascarado sospechosamente familiar, el Core Four están de vuelta en el punto de mira del asesino y ninguna película de terror está a salvo.",
+      "genres": [
+        "Comedia",
+        "Terror"
+      ]
+    },
+    {
+      "title": "Scary Movie 6",
+      "time": "16:45",
+      "rating": 5.6,
+      "poster": "https://image.tmdb.org/t/p/w342/vUPE82BWRZwq6M5Xc9UNuf8AffK.jpg",
+      "summary": "Veintiséis años después de conseguir escapar de un asesino enmascarado sospechosamente familiar, el Core Four están de vuelta en el punto de mira del asesino y ninguna película de terror está a salvo.",
+      "genres": [
+        "Comedia",
+        "Terror"
+      ]
+    },
+    {
+      "title": "Scary Movie 6",
+      "time": "23:40",
+      "rating": 5.6,
+      "poster": "https://image.tmdb.org/t/p/w342/vUPE82BWRZwq6M5Xc9UNuf8AffK.jpg",
+      "summary": "Veintiséis años después de conseguir escapar de un asesino enmascarado sospechosamente familiar, el Core Four están de vuelta en el punto de mira del asesino y ninguna película de terror está a salvo.",
+      "genres": [
+        "Comedia",
+        "Terror"
+      ]
+    },
+    {
+      "title": "Scary Movie 6",
       "time": "15:45",
-      "rating": 7.0,
-      "poster": "https://image.tmdb.org/t/p/w342/kRCKb2w9H7OGa7V1g6z5P4yzWEJ.jpg",
-      "summary": "",
+      "rating": 5.6,
+      "poster": "https://image.tmdb.org/t/p/w342/vUPE82BWRZwq6M5Xc9UNuf8AffK.jpg",
+      "summary": "Veintiséis años después de conseguir escapar de un asesino enmascarado sospechosamente familiar, el Core Four están de vuelta en el punto de mira del asesino y ninguna película de terror está a salvo.",
       "genres": [
-        "Animación",
-        "Familia",
-        "Fantasía"
+        "Comedia",
+        "Terror"
       ]
     },
     {
       "title": "Super Mario Galaxy La Película (Kids)",
-      "time": "15:55",
+      "time": "15:45",
       "rating": 6.9,
       "poster": "https://image.tmdb.org/t/p/w342/eEfzkiW28Y3BaHjjgFNkFERNKiK.jpg",
       "summary": "La película tiene lugar después de los acontecimientos de la primera, en la que dos hermanos, Mario y Luigi, y la princesa Peach emprenden una aventura hasta los confines del espacio y a través de la galaxia. Secuela de \"Super Mario Bros: La película\", basada en la saga \"Mario Galaxy\".",
@@ -1538,8 +1537,44 @@ export const MOVIE_DATA = {
       ]
     },
     {
+      "title": "Super Mario Galaxy La Película (Kids)",
+      "time": "18:00",
+      "rating": 6.9,
+      "poster": "https://image.tmdb.org/t/p/w342/eEfzkiW28Y3BaHjjgFNkFERNKiK.jpg",
+      "summary": "La película tiene lugar después de los acontecimientos de la primera, en la que dos hermanos, Mario y Luigi, y la princesa Peach emprenden una aventura hasta los confines del espacio y a través de la galaxia. Secuela de \"Super Mario Bros: La película\", basada en la saga \"Mario Galaxy\".",
+      "genres": [
+        "Aventura",
+        "Animación",
+        "Comedia"
+      ]
+    },
+    {
+      "title": "The Mandalorian And Grogu",
+      "time": "15:55",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/aY7a38Ef0lNn0ohMpaG4ODUuPIG.jpg",
+      "summary": "Continuación de la serie \"The Mandalorian\" en forma de película. Un solitario cazarrecompensas a la fuga protege a un codiciado bebé alienígena mientras evita ser capturado en una galaxia anárquica y peligrosa.",
+      "genres": [
+        "Acción",
+        "Aventura",
+        "Ciencia ficción"
+      ]
+    },
+    {
+      "title": "The Mandalorian And Grogu",
+      "time": "18:45",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/aY7a38Ef0lNn0ohMpaG4ODUuPIG.jpg",
+      "summary": "Continuación de la serie \"The Mandalorian\" en forma de película. Un solitario cazarrecompensas a la fuga protege a un codiciado bebé alienígena mientras evita ser capturado en una galaxia anárquica y peligrosa.",
+      "genres": [
+        "Acción",
+        "Aventura",
+        "Ciencia ficción"
+      ]
+    },
+    {
       "title": "Todo Lo Que Nunca Fuimos",
-      "time": "15:50",
+      "time": "15:40",
       "rating": 8.0,
       "poster": "https://image.tmdb.org/t/p/w342/lANJOAONExFL7HWOJJskBX4i7Y6.jpg",
       "summary": "Cuando a su hermano mayor le ofrecen un trabajo lejos de casa, una joven aspirante a pintora, destrozada por un trágico accidente que se llevó a sus padres, le pide a su mejor amigo que cuide de ella. A medida que su atracción mutua crece hasta proporciones insoportables, los dos deben decidir si reprimir su amor o dejar que suceda.",
@@ -1550,18 +1585,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Todo Lo Que Nunca Fuimos",
-      "time": "18:05",
-      "rating": 8.0,
-      "poster": "https://image.tmdb.org/t/p/w342/lANJOAONExFL7HWOJJskBX4i7Y6.jpg",
-      "summary": "Cuando a su hermano mayor le ofrecen un trabajo lejos de casa, una joven aspirante a pintora, destrozada por un trágico accidente que se llevó a sus padres, le pide a su mejor amigo que cuide de ella. A medida que su atracción mutua crece hasta proporciones insoportables, los dos deben decidir si reprimir su amor o dejar que suceda.",
-      "genres": [
-        "Drama",
-        "Romance"
-      ]
-    },
-    {
-      "title": "Todo Lo Que Nunca Fuimos",
-      "time": "20:15",
+      "time": "22:45",
       "rating": 8.0,
       "poster": "https://image.tmdb.org/t/p/w342/lANJOAONExFL7HWOJJskBX4i7Y6.jpg",
       "summary": "Cuando a su hermano mayor le ofrecen un trabajo lejos de casa, una joven aspirante a pintora, destrozada por un trágico accidente que se llevó a sus padres, le pide a su mejor amigo que cuide de ella. A medida que su atracción mutua crece hasta proporciones insoportables, los dos deben decidir si reprimir su amor o dejar que suceda.",
