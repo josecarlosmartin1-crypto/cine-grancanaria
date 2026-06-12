@@ -1661,5 +1661,67 @@
       "Animación",
       "Comedia"
     ]
+  },
+  "Pioneras: Solo Querían Jugar": {
+    "rating": 0.0,
+    "poster": "https://image.tmdb.org/t/p/w342/iNEBHb7633ax0Sz1KXu4gRpUHHD.jpg",
+    "summary": "España, años setenta. A pesar de que la ideología franquista siguen profundamente arraigada en la sociedad, un grupo de jóvenes pioneras y un promotor ambicioso están a punto de cambiar la historia del fútbol femenino.",
+    "genres": [
+      "Drama"
+    ]
+  },
+  "El Guardian Del Árbol De Alcanfor": {
+    "rating": 8.0,
+    "poster": "https://image.tmdb.org/t/p/w342/nFQj1w1YY8r3MSHBxSlD5iTCdfM.jpg",
+    "summary": "Reito Naoi, despedido injustamente y arrestado tras un acto desesperado, recibe una misteriosa oferta: será liberado si acepta una misión. Así conoce a Chifune Yanagisawa, influyente empresaria y media hermana de su madre fallecida, quien le encarga convertirse en el guardián de un árbol sagrado en el santuario Tsukigo. Allí, Reito se cruza con personas marcadas por sus propias luchas, y mientras conecta con ellas, su vida comienza a recuperar sentido.",
+    "genres": [
+      "Animación",
+      "Drama",
+      "Misterio"
+    ]
+  },
+  "Main Vaapas Aaunga": {
+    "rating": 0.0,
+    "poster": "https://image.tmdb.org/t/p/w342/qVoRgy52uGlvEESuLuSLdlojk74.jpg",
+    "summary": "Una historia de amor, anhelo y pertenencia enraizada en las migraciones de la época de la Partición. La memoria, la nostalgia y los vínculos emocionales con el hogar y los seres queridos muestran cómo el pasado moldea la identidad y sostiene el espíritu humano a lo largo de las generaciones.",
+    "genres": [
+      "Romance",
+      "Drama"
+    ]
+  },
+  "El Dia De La Revelacion": {
+    "rating": 7.5,
+    "poster": "https://image.tmdb.org/t/p/w342/uGww4UrU3316Mld4p30dgdM09Du.jpg",
+    "summary": "Si descubrieras que no estamos solos, si alguien te abriera los ojos y te lo demostrase, ¿te asustarías? Este verano, la verdad será revelada a siete mil millones de personas. Llega... el día de la revelación.",
+    "genres": [
+      "Ciencia ficción",
+      "Suspense",
+      "Acción"
+    ]
+  },
+  "Ivan Y Hadoum": {
+    "rating": 0,
+    "poster": null,
+    "summary": "",
+    "genres": []
+  },
+  "Un Talento Unico": {
+    "rating": 6.8,
+    "poster": "https://image.tmdb.org/t/p/w342/xIRryl8bWHFaMDssKFcPAXhfrRB.jpg",
+    "summary": "Las meticulosas habilidades de un talentoso afinador de pianos le llevan a descubrir una inesperada aptitud para abrir cajas fuertes, lo que pone su vida patas arriba.",
+    "genres": [
+      "Crimen",
+      "Suspense"
+    ]
+  },
+  "Una Pistola, Una Bala Y Un Oso Panda": {
+    "rating": 0.0,
+    "poster": "https://image.tmdb.org/t/p/w342/oIxevx45h24FIOy88X6rdBfEsIl.jpg",
+    "summary": "Saúl, un director de cine abandonado por su pareja, en paro y con la cuenta bancaria al límite, atraviesa una depresión profunda que le tiene recluido en casa desde hace más de un mes. Pero la aparición de un paquete misterioso en su rellano  desencadena una cadena de acontecimientos que cambiará su vida por completo.",
+    "genres": [
+      "Comedia",
+      "Drama",
+      "Aventura"
+    ]
   }
 }
