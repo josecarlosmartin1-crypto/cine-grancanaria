@@ -1709,6 +1709,26 @@ export const MOVIE_DATA = {
   ],
   "Ocine Premium Siete Palmas": [
     {
+      "title": "Bts World Tour 'Arirang' In Busan: Live Viewing",
+      "time": "14:30",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/2yrBWJHNrWbmKVeLFdEpJBokcIw.jpg",
+      "summary": "El viaje histórico continúa. Tras el estreno sin precedentes de la gira mundial ARIRANG, los reyes del pop, BTS, protagonizan un monumental regreso a casa en el emblemático Estadio Asiad de Busan, que se transmitirá en directo en cines de todo el mundo. Un reencuentro conmovedor con el escenario donde, hace tres años y ocho meses, los siete integrantes se despidieron antes de cumplir con el servicio militar.\r\n\r\nCon 85 shows en 34 ciudades, esta gira marca un nuevo hito al ser la más extensa realizada por un artista coreano. Y la fecha no es casualidad: el 13 de junio coincide con el aniversario del debut de BTS, lo que añade un profundo simbolismo mientras el grupo celebra su legado y su futuro.\r\n\r\nEsta gira, titulada ARIRANG, acompaña el quinto álbum de estudio de BTS, entretejiendo la identidad de la banda a través de una sincera introspección y de temas universales como el anhelo y el amor profundo. Con su característico y espectacular diseño de escenario circular de 360 grados, el show crea una experiencia inmersiva que sitúa al público en el centro de la celebración.\r\n\r\nNo te pierdas este acontecimiento cultural único. Siente la energía electrizante del escenario de BTS en la gran pantalla el 13 de junio desde Busan.\r\n\r\nLas transmisiones en algunos territorios están programadas en horario diferido para adaptarse a los husos horarios locales.",
+      "genres": [
+        "Música"
+      ]
+    },
+    {
+      "title": "Bts World Tour 'Arirang' In Busan: Live Viewing",
+      "time": "10:45",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/2yrBWJHNrWbmKVeLFdEpJBokcIw.jpg",
+      "summary": "El viaje histórico continúa. Tras el estreno sin precedentes de la gira mundial ARIRANG, los reyes del pop, BTS, protagonizan un monumental regreso a casa en el emblemático Estadio Asiad de Busan, que se transmitirá en directo en cines de todo el mundo. Un reencuentro conmovedor con el escenario donde, hace tres años y ocho meses, los siete integrantes se despidieron antes de cumplir con el servicio militar.\r\n\r\nCon 85 shows en 34 ciudades, esta gira marca un nuevo hito al ser la más extensa realizada por un artista coreano. Y la fecha no es casualidad: el 13 de junio coincide con el aniversario del debut de BTS, lo que añade un profundo simbolismo mientras el grupo celebra su legado y su futuro.\r\n\r\nEsta gira, titulada ARIRANG, acompaña el quinto álbum de estudio de BTS, entretejiendo la identidad de la banda a través de una sincera introspección y de temas universales como el anhelo y el amor profundo. Con su característico y espectacular diseño de escenario circular de 360 grados, el show crea una experiencia inmersiva que sitúa al público en el centro de la celebración.\r\n\r\nNo te pierdas este acontecimiento cultural único. Siente la energía electrizante del escenario de BTS en la gran pantalla el 13 de junio desde Busan.\r\n\r\nLas transmisiones en algunos territorios están programadas en horario diferido para adaptarse a los husos horarios locales.",
+      "genres": [
+        "Música"
+      ]
+    },
+    {
       "title": "Backrooms (Atmos)",
       "time": "15:50",
       "rating": 6.8,
@@ -1747,6 +1767,18 @@ export const MOVIE_DATA = {
     {
       "title": "Backrooms (Atmos)",
       "time": "22:40",
+      "rating": 6.8,
+      "poster": "https://image.tmdb.org/t/p/w342/u3CfgxtnZRxbIm8JuVTzt3DXQhg.jpg",
+      "summary": "Una puerta extraña aparece en el sótano de una sala de exposición de muebles.",
+      "genres": [
+        "Terror",
+        "Misterio",
+        "Ciencia ficción"
+      ]
+    },
+    {
+      "title": "Backrooms (Atmos)",
+      "time": "12:20",
       "rating": 6.8,
       "poster": "https://image.tmdb.org/t/p/w342/u3CfgxtnZRxbIm8JuVTzt3DXQhg.jpg",
       "summary": "Una puerta extraña aparece en el sótano de una sala de exposición de muebles.",
@@ -1805,6 +1837,30 @@ export const MOVIE_DATA = {
       ]
     },
     {
+      "title": "He-Man Y Los Masters Del Universo (Screen X)",
+      "time": "12:15",
+      "rating": 7.6,
+      "poster": "https://image.tmdb.org/t/p/w342/hNLKuennkGtlWvqU6Ko4Z6X8JHg.jpg",
+      "summary": "En las regiones más lejanas del espacio, el reino de Eternia está amenazado por el villano Skeletor y sus traviesos ejércitos de oscuridad. Para salvar el reino de su padre y proteger las vidas de sus seres queridos, el joven príncipe Adam tiene que recuperar una espada mítica y convertirse en el legendario guerrero conocido como \"He-Man\".",
+      "genres": [
+        "Acción",
+        "Fantasía",
+        "Ciencia ficción"
+      ]
+    },
+    {
+      "title": "Las Ovejas Detectives",
+      "time": "11:50",
+      "rating": 7.8,
+      "poster": "https://image.tmdb.org/t/p/w342/kMJ4h39xe1fEzbLSt5FJCtEqb2H.jpg",
+      "summary": "Cada noche, un pastor lee en voz alta un asesinato misterioso, fingiendo que sus ovejas pueden entenderlo. Cuando lo encuentran muerto, las ovejas se dan cuenta enseguida de que ha sido un asesinato y creen saber cómo resolverlo.",
+      "genres": [
+        "Comedia",
+        "Familia",
+        "Misterio"
+      ]
+    },
+    {
       "title": "Michael (Atmos)",
       "time": "17:45",
       "rating": 0.0,
@@ -1827,8 +1883,19 @@ export const MOVIE_DATA = {
       ]
     },
     {
+      "title": "Michael (Atmos)",
+      "time": "11:55",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/2uK36ujoDXOfNiJ5Yp3raVprB51.jpg",
+      "summary": "El viaje de Michael Jackson más allá de la música, desde el descubrimiento de su extraordinario talento como líder de los Jackson Five hasta convertirse en una visionaria estrella cuya ambición creativa despertó un incansable afán por consagrarse como el mayor icono de la industria del entretenimiento.",
+      "genres": [
+        "Música",
+        "Drama"
+      ]
+    },
+    {
       "title": "Scary Movie 6",
-      "time": "18:30",
+      "time": "18:50",
       "rating": 5.6,
       "poster": "https://image.tmdb.org/t/p/w342/vUPE82BWRZwq6M5Xc9UNuf8AffK.jpg",
       "summary": "Veintiséis años después de conseguir escapar de un asesino enmascarado sospechosamente familiar, el Core Four están de vuelta en el punto de mira del asesino y ninguna película de terror está a salvo.",
@@ -1839,7 +1906,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Scary Movie 6",
-      "time": "20:30",
+      "time": "20:50",
       "rating": 5.6,
       "poster": "https://image.tmdb.org/t/p/w342/vUPE82BWRZwq6M5Xc9UNuf8AffK.jpg",
       "summary": "Veintiséis años después de conseguir escapar de un asesino enmascarado sospechosamente familiar, el Core Four están de vuelta en el punto de mira del asesino y ninguna película de terror está a salvo.",
@@ -1850,7 +1917,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Scary Movie 6",
-      "time": "22:30",
+      "time": "22:50",
       "rating": 5.6,
       "poster": "https://image.tmdb.org/t/p/w342/vUPE82BWRZwq6M5Xc9UNuf8AffK.jpg",
       "summary": "Veintiséis años después de conseguir escapar de un asesino enmascarado sospechosamente familiar, el Core Four están de vuelta en el punto de mira del asesino y ninguna película de terror está a salvo.",
@@ -1873,6 +1940,17 @@ export const MOVIE_DATA = {
     {
       "title": "Scary Movie 6",
       "time": "23:40",
+      "rating": 5.6,
+      "poster": "https://image.tmdb.org/t/p/w342/vUPE82BWRZwq6M5Xc9UNuf8AffK.jpg",
+      "summary": "Veintiséis años después de conseguir escapar de un asesino enmascarado sospechosamente familiar, el Core Four están de vuelta en el punto de mira del asesino y ninguna película de terror está a salvo.",
+      "genres": [
+        "Comedia",
+        "Terror"
+      ]
+    },
+    {
+      "title": "Scary Movie 6",
+      "time": "14:00",
       "rating": 5.6,
       "poster": "https://image.tmdb.org/t/p/w342/vUPE82BWRZwq6M5Xc9UNuf8AffK.jpg",
       "summary": "Veintiséis años después de conseguir escapar de un asesino enmascarado sospechosamente familiar, el Core Four están de vuelta en el punto de mira del asesino y ninguna película de terror está a salvo.",
@@ -1917,15 +1995,15 @@ export const MOVIE_DATA = {
       ]
     },
     {
-      "title": "The Mandalorian And Grogu",
-      "time": "15:55",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/aY7a38Ef0lNn0ohMpaG4ODUuPIG.jpg",
-      "summary": "Continuación de la serie \"The Mandalorian\" en forma de película. Un solitario cazarrecompensas a la fuga protege a un codiciado bebé alienígena mientras evita ser capturado en una galaxia anárquica y peligrosa.",
+      "title": "Super Mario Galaxy La Película (Kids)",
+      "time": "12:05",
+      "rating": 6.9,
+      "poster": "https://image.tmdb.org/t/p/w342/eEfzkiW28Y3BaHjjgFNkFERNKiK.jpg",
+      "summary": "La película tiene lugar después de los acontecimientos de la primera, en la que dos hermanos, Mario y Luigi, y la princesa Peach emprenden una aventura hasta los confines del espacio y a través de la galaxia. Secuela de \"Super Mario Bros: La película\", basada en la saga \"Mario Galaxy\".",
       "genres": [
-        "Acción",
         "Aventura",
-        "Ciencia ficción"
+        "Animación",
+        "Comedia"
       ]
     },
     {
