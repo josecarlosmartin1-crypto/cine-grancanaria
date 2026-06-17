@@ -1745,5 +1745,14 @@
     "poster": null,
     "summary": "El Mundial se vive en directo y en pantalla grande.\n\nEl próximo 15 de junio de 2026, a las 18:00 h, la emoción del fútbol mundial aterriza en Atlanta, pero puedes vivirla como si estuvieras allí en Cine Yelmo. En el espectacular Mercedes Benz Stadium, España se enfrenta a Cabo Verde en un duelo clave del Grupo H de la Copa Mundial de la FIFA 2026™. Acompaña a la Selección Española, siente cada jugada y comparte la pasión del Mundial rodeado de afición.",
     "genres": []
+  },
+  "Un Poeta": {
+    "rating": 8.7,
+    "poster": "https://image.tmdb.org/t/p/w342/lg2p2GCrkwF5Ueh6Dj8ECQNhBUz.jpg",
+    "summary": "La obsesión de Óscar Restrepo por la poesía no le ha reportado ninguna gloria. Envejecido y errático, ha sucumbido al tópico del poeta en la sombra. Conocer a Yurlady, una adolescente de origen humilde, y ayudarla a cultivar su talento trae algo de luz a sus días, pero arrastrarla al mundo de la poesía quizá no sea el camino.",
+    "genres": [
+      "Comedia",
+      "Drama"
+    ]
   }
 }
