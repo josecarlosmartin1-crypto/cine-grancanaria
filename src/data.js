@@ -441,18 +441,6 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Toy Story 5",
-      "time": "15:50",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/1yF3AztF3rQ8MZ8En8974AWo5zZ.jpg",
-      "summary": "Buzz, Woody, Jessie y el resto de la pandilla tienen un trabajo exponencialmente más difícil cuando se enfrentan a esta nueva amenaza para la hora de jugar: la tecnología.",
-      "genres": [
-        "Animación",
-        "Familia",
-        "Comedia"
-      ]
-    },
-    {
-      "title": "Toy Story 5",
       "time": "16:30",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/1yF3AztF3rQ8MZ8En8974AWo5zZ.jpg",
@@ -489,7 +477,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Toy Story 5",
-      "time": "18:10",
+      "time": "18:00",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/1yF3AztF3rQ8MZ8En8974AWo5zZ.jpg",
       "summary": "Buzz, Woody, Jessie y el resto de la pandilla tienen un trabajo exponencialmente más difícil cuando se enfrentan a esta nueva amenaza para la hora de jugar: la tecnología.",
@@ -549,7 +537,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Toy Story 5",
-      "time": "20:30",
+      "time": "20:20",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/1yF3AztF3rQ8MZ8En8974AWo5zZ.jpg",
       "summary": "Buzz, Woody, Jessie y el resto de la pandilla tienen un trabajo exponencialmente más difícil cuando se enfrentan a esta nueva amenaza para la hora de jugar: la tecnología.",
@@ -609,7 +597,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Toy Story 5",
-      "time": "22:50",
+      "time": "22:40",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/1yF3AztF3rQ8MZ8En8974AWo5zZ.jpg",
       "summary": "Buzz, Woody, Jessie y el resto de la pandilla tienen un trabajo exponencialmente más difícil cuando se enfrentan a esta nueva amenaza para la hora de jugar: la tecnología.",
@@ -620,14 +608,15 @@ export const MOVIE_DATA = {
       ]
     },
     {
-      "title": "Un Poeta (Efecto Cinema)",
-      "time": "19:00",
-      "rating": 8.7,
-      "poster": "https://image.tmdb.org/t/p/w342/lg2p2GCrkwF5Ueh6Dj8ECQNhBUz.jpg",
-      "summary": "La obsesión de Óscar Restrepo por la poesía no le ha reportado ninguna gloria. Envejecido y errático, ha sucumbido al tópico del poeta en la sombra. Conocer a Yurlady, una adolescente de origen humilde, y ayudarla a cultivar su talento trae algo de luz a sus días, pero arrastrarla al mundo de la poesía quizá no sea el camino.",
+      "title": "Toy Story 5",
+      "time": "22:50",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/1yF3AztF3rQ8MZ8En8974AWo5zZ.jpg",
+      "summary": "Buzz, Woody, Jessie y el resto de la pandilla tienen un trabajo exponencialmente más difícil cuando se enfrentan a esta nueva amenaza para la hora de jugar: la tecnología.",
       "genres": [
-        "Comedia",
-        "Drama"
+        "Animación",
+        "Familia",
+        "Comedia"
       ]
     },
     {
@@ -715,6 +704,28 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Scary Movie",
+      "time": "18:00",
+      "rating": 5.8,
+      "poster": "https://image.tmdb.org/t/p/w342/vUPE82BWRZwq6M5Xc9UNuf8AffK.jpg",
+      "summary": "Veintiséis años después de conseguir escapar de un asesino enmascarado sospechosamente familiar, el Core Four están de vuelta en el punto de mira del asesino y ninguna película de terror está a salvo.",
+      "genres": [
+        "Comedia",
+        "Terror"
+      ]
+    },
+    {
+      "title": "Scary Movie",
+      "time": "20:10",
+      "rating": 5.8,
+      "poster": "https://image.tmdb.org/t/p/w342/vUPE82BWRZwq6M5Xc9UNuf8AffK.jpg",
+      "summary": "Veintiséis años después de conseguir escapar de un asesino enmascarado sospechosamente familiar, el Core Four están de vuelta en el punto de mira del asesino y ninguna película de terror está a salvo.",
+      "genres": [
+        "Comedia",
+        "Terror"
+      ]
+    },
+    {
+      "title": "Scary Movie",
       "time": "22:30",
       "rating": 5.8,
       "poster": "https://image.tmdb.org/t/p/w342/vUPE82BWRZwq6M5Xc9UNuf8AffK.jpg",
@@ -773,6 +784,18 @@ export const MOVIE_DATA = {
       ]
     },
     {
+      "title": "El Drama",
+      "time": "22:30",
+      "rating": 6.9,
+      "poster": "https://image.tmdb.org/t/p/w342/zgfBYGYCNcOZ51JDbr6tm45H8y0.jpg",
+      "summary": "Una pareja, en los días previos a su boda, se enfrenta a una crisis cuando unas inesperadas revelaciones desbaratan lo que uno de ellos creía saber sobre el otro.",
+      "genres": [
+        "Romance",
+        "Comedia",
+        "Drama"
+      ]
+    },
+    {
       "title": "The Mandalorian And Grogu",
       "time": "16:45",
       "rating": 0.0,
@@ -787,17 +810,6 @@ export const MOVIE_DATA = {
     {
       "title": "El Diablo Viste De Prada 2",
       "time": "22:00",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/ld68XXTztvYt5DaD1IHoRvCpgOA.jpg",
-      "summary": "Sigue la lucha de Miranda Priestly contra Emily Charlton, su ex asistente convertida en ejecutiva rival, mientras compiten por los ingresos por publicidad en medio de la decadencia de los medios impresos y Miranda se acerca a la jubilación.",
-      "genres": [
-        "Drama",
-        "Comedia"
-      ]
-    },
-    {
-      "title": "El Diablo Viste De Prada 2",
-      "time": "22:30",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/ld68XXTztvYt5DaD1IHoRvCpgOA.jpg",
       "summary": "Sigue la lucha de Miranda Priestly contra Emily Charlton, su ex asistente convertida en ejecutiva rival, mientras compiten por los ingresos por publicidad en medio de la decadencia de los medios impresos y Miranda se acerca a la jubilación.",
@@ -1154,7 +1166,7 @@ export const MOVIE_DATA = {
   "Artesiete Las Terrazas": [
     {
       "title": "Michael",
-      "time": "20:30",
+      "time": "11:00",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/2uK36ujoDXOfNiJ5Yp3raVprB51.jpg",
       "summary": "El viaje de Michael Jackson más allá de la música, desde el descubrimiento de su extraordinario talento como líder de los Jackson Five hasta convertirse en una visionaria estrella cuya ambición creativa despertó un incansable afán por consagrarse como el mayor icono de la industria del entretenimiento.",
@@ -1165,7 +1177,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Michael",
-      "time": "22:00",
+      "time": "20:30",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/2uK36ujoDXOfNiJ5Yp3raVprB51.jpg",
       "summary": "El viaje de Michael Jackson más allá de la música, desde el descubrimiento de su extraordinario talento como líder de los Jackson Five hasta convertirse en una visionaria estrella cuya ambición creativa despertó un incansable afán por consagrarse como el mayor icono de la industria del entretenimiento.",
@@ -1223,18 +1235,6 @@ export const MOVIE_DATA = {
       ]
     },
     {
-      "title": "Backrooms",
-      "time": "22:00",
-      "rating": 6.8,
-      "poster": "https://image.tmdb.org/t/p/w342/u3CfgxtnZRxbIm8JuVTzt3DXQhg.jpg",
-      "summary": "Una puerta extraña aparece en el sótano de una sala de exposición de muebles.",
-      "genres": [
-        "Terror",
-        "Misterio",
-        "Ciencia ficción"
-      ]
-    },
-    {
       "title": "Masters Del Universo",
       "time": "18:00",
       "rating": 7.6,
@@ -1260,7 +1260,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Scary Movie 6",
-      "time": "16:00",
+      "time": "17:00",
       "rating": 5.6,
       "poster": "https://image.tmdb.org/t/p/w342/vUPE82BWRZwq6M5Xc9UNuf8AffK.jpg",
       "summary": "Veintiséis años después de conseguir escapar de un asesino enmascarado sospechosamente familiar, el Core Four están de vuelta en el punto de mira del asesino y ninguna película de terror está a salvo.",
@@ -1271,7 +1271,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Scary Movie 6",
-      "time": "18:00",
+      "time": "19:00",
       "rating": 5.6,
       "poster": "https://image.tmdb.org/t/p/w342/vUPE82BWRZwq6M5Xc9UNuf8AffK.jpg",
       "summary": "Veintiséis años después de conseguir escapar de un asesino enmascarado sospechosamente familiar, el Core Four están de vuelta en el punto de mira del asesino y ninguna película de terror está a salvo.",
@@ -1282,18 +1282,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Scary Movie 6",
-      "time": "20:00",
-      "rating": 5.6,
-      "poster": "https://image.tmdb.org/t/p/w342/vUPE82BWRZwq6M5Xc9UNuf8AffK.jpg",
-      "summary": "Veintiséis años después de conseguir escapar de un asesino enmascarado sospechosamente familiar, el Core Four están de vuelta en el punto de mira del asesino y ninguna película de terror está a salvo.",
-      "genres": [
-        "Comedia",
-        "Terror"
-      ]
-    },
-    {
-      "title": "Scary Movie 6",
-      "time": "22:00",
+      "time": "21:00",
       "rating": 5.6,
       "poster": "https://image.tmdb.org/t/p/w342/vUPE82BWRZwq6M5Xc9UNuf8AffK.jpg",
       "summary": "Veintiséis años después de conseguir escapar de un asesino enmascarado sospechosamente familiar, el Core Four están de vuelta en el punto de mira del asesino y ninguna película de terror está a salvo.",
@@ -1363,35 +1352,12 @@ export const MOVIE_DATA = {
       ]
     },
     {
-      "title": "El Dia De La Revelacion",
-      "time": "22:15",
-      "rating": 7.5,
-      "poster": "https://image.tmdb.org/t/p/w342/uGww4UrU3316Mld4p30dgdM09Du.jpg",
-      "summary": "Si descubrieras que no estamos solos, si alguien te abriera los ojos y te lo demostrase, ¿te asustarías? Este verano, la verdad será revelada a siete mil millones de personas. Llega... el día de la revelación.",
-      "genres": [
-        "Ciencia ficción",
-        "Suspense",
-        "Acción"
-      ]
-    },
-    {
       "title": "Ivan Y Hadoum",
-      "time": "22:20",
+      "time": "20:30",
       "rating": 0,
       "poster": null,
       "summary": "",
       "genres": []
-    },
-    {
-      "title": "Un Talento Unico",
-      "time": "16:00",
-      "rating": 6.8,
-      "poster": "https://image.tmdb.org/t/p/w342/xIRryl8bWHFaMDssKFcPAXhfrRB.jpg",
-      "summary": "Las meticulosas habilidades de un talentoso afinador de pianos le llevan a descubrir una inesperada aptitud para abrir cajas fuertes, lo que pone su vida patas arriba.",
-      "genres": [
-        "Crimen",
-        "Suspense"
-      ]
     },
     {
       "title": "Una Pistola, Una Bala Y Un Oso Panda",
@@ -1480,18 +1446,6 @@ export const MOVIE_DATA = {
     {
       "title": "Toy Story 5",
       "time": "20:00",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/1yF3AztF3rQ8MZ8En8974AWo5zZ.jpg",
-      "summary": "Buzz, Woody, Jessie y el resto de la pandilla tienen un trabajo exponencialmente más difícil cuando se enfrentan a esta nueva amenaza para la hora de jugar: la tecnología.",
-      "genres": [
-        "Animación",
-        "Familia",
-        "Comedia"
-      ]
-    },
-    {
-      "title": "Toy Story 5",
-      "time": "20:30",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/1yF3AztF3rQ8MZ8En8974AWo5zZ.jpg",
       "summary": "Buzz, Woody, Jessie y el resto de la pandilla tienen un trabajo exponencialmente más difícil cuando se enfrentan a esta nueva amenaza para la hora de jugar: la tecnología.",
