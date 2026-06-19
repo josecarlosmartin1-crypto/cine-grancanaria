@@ -1,6 +1,17 @@
 export const MOVIE_DATA = {
   "Cine Yelmo Vecindario": [
     {
+      "title": "Cocktail 2",
+      "time": "21:55",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/pRmPnUAhHHiDJPfNGLP8ikoc5cx.jpg",
+      "summary": "",
+      "genres": [
+        "Romance",
+        "Comedia"
+      ]
+    },
+    {
       "title": "Toy Story 5",
       "time": "15:45",
       "rating": 0.0,
@@ -277,18 +288,6 @@ export const MOVIE_DATA = {
       ]
     },
     {
-      "title": "He-Man Y Los Masters Del Universo",
-      "time": "21:55",
-      "rating": 7.6,
-      "poster": "https://image.tmdb.org/t/p/w342/hNLKuennkGtlWvqU6Ko4Z6X8JHg.jpg",
-      "summary": "En las regiones más lejanas del espacio, el reino de Eternia está amenazado por el villano Skeletor y sus traviesos ejércitos de oscuridad. Para salvar el reino de su padre y proteger las vidas de sus seres queridos, el joven príncipe Adam tiene que recuperar una espada mítica y convertirse en el legendario guerrero conocido como \"He-Man\".",
-      "genres": [
-        "Acción",
-        "Fantasía",
-        "Ciencia ficción"
-      ]
-    },
-    {
       "title": "Todo Lo Que Nunca Fuimos",
       "time": "17:20",
       "rating": 8.0,
@@ -427,6 +426,17 @@ export const MOVIE_DATA = {
     }
   ],
   "Cine Yelmo Las Arenas": [
+    {
+      "title": "Cocktail 2",
+      "time": "22:00",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/pRmPnUAhHHiDJPfNGLP8ikoc5cx.jpg",
+      "summary": "",
+      "genres": [
+        "Romance",
+        "Comedia"
+      ]
+    },
     {
       "title": "Toy Story 5",
       "time": "15:45",
@@ -633,7 +643,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "El Día De La Revelación",
-      "time": "17:00",
+      "time": "17:20",
       "rating": 8.4,
       "poster": "https://image.tmdb.org/t/p/w342/uGww4UrU3316Mld4p30dgdM09Du.jpg",
       "summary": "Si descubrieras que no estamos solos, si alguien te abriera los ojos y te lo demostrase, ¿te asustarías? Este verano, la verdad será revelada a siete mil millones de personas. Llega... el día de la revelación.",
@@ -645,7 +655,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "El Día De La Revelación",
-      "time": "18:50",
+      "time": "19:00",
       "rating": 8.4,
       "poster": "https://image.tmdb.org/t/p/w342/uGww4UrU3316Mld4p30dgdM09Du.jpg",
       "summary": "Si descubrieras que no estamos solos, si alguien te abriera los ojos y te lo demostrase, ¿te asustarías? Este verano, la verdad será revelada a siete mil millones de personas. Llega... el día de la revelación.",
@@ -657,7 +667,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "El Día De La Revelación",
-      "time": "20:10",
+      "time": "20:50",
       "rating": 8.4,
       "poster": "https://image.tmdb.org/t/p/w342/uGww4UrU3316Mld4p30dgdM09Du.jpg",
       "summary": "Si descubrieras que no estamos solos, si alguien te abriera los ojos y te lo demostrase, ¿te asustarías? Este verano, la verdad será revelada a siete mil millones de personas. Llega... el día de la revelación.",
@@ -784,18 +794,6 @@ export const MOVIE_DATA = {
       ]
     },
     {
-      "title": "El Drama",
-      "time": "22:30",
-      "rating": 6.9,
-      "poster": "https://image.tmdb.org/t/p/w342/zgfBYGYCNcOZ51JDbr6tm45H8y0.jpg",
-      "summary": "Una pareja, en los días previos a su boda, se enfrenta a una crisis cuando unas inesperadas revelaciones desbaratan lo que uno de ellos creía saber sobre el otro.",
-      "genres": [
-        "Romance",
-        "Comedia",
-        "Drama"
-      ]
-    },
-    {
       "title": "The Mandalorian And Grogu",
       "time": "16:45",
       "rating": 0.0,
@@ -809,7 +807,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "El Diablo Viste De Prada 2",
-      "time": "22:00",
+      "time": "22:30",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/ld68XXTztvYt5DaD1IHoRvCpgOA.jpg",
       "summary": "Sigue la lucha de Miranda Priestly contra Emily Charlton, su ex asistente convertida en ejecutiva rival, mientras compiten por los ingresos por publicidad en medio de la decadencia de los medios impresos y Miranda se acerca a la jubilación.",
@@ -976,6 +974,18 @@ export const MOVIE_DATA = {
       ]
     },
     {
+      "title": "Toy Story 5",
+      "time": "23:30",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/1yF3AztF3rQ8MZ8En8974AWo5zZ.jpg",
+      "summary": "Buzz, Woody, Jessie y el resto de la pandilla tienen un trabajo exponencialmente más difícil cuando se enfrentan a esta nueva amenaza para la hora de jugar: la tecnología.",
+      "genres": [
+        "Animación",
+        "Familia",
+        "Comedia"
+      ]
+    },
+    {
       "title": "El Día De La Revelación",
       "time": "16:00",
       "rating": 8.4,
@@ -1013,7 +1023,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "El Día De La Revelación",
-      "time": "22:00",
+      "time": "22:10",
       "rating": 8.4,
       "poster": "https://image.tmdb.org/t/p/w342/uGww4UrU3316Mld4p30dgdM09Du.jpg",
       "summary": "Si descubrieras que no estamos solos, si alguien te abriera los ojos y te lo demostrase, ¿te asustarías? Este verano, la verdad será revelada a siete mil millones de personas. Llega... el día de la revelación.",
@@ -1117,7 +1127,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "El Drama",
-      "time": "22:40",
+      "time": "22:50",
       "rating": 6.9,
       "poster": "https://image.tmdb.org/t/p/w342/zgfBYGYCNcOZ51JDbr6tm45H8y0.jpg",
       "summary": "Una pareja, en los días previos a su boda, se enfrenta a una crisis cuando unas inesperadas revelaciones desbaratan lo que uno de ellos creía saber sobre el otro.",
@@ -1166,18 +1176,7 @@ export const MOVIE_DATA = {
   "Artesiete Las Terrazas": [
     {
       "title": "Michael",
-      "time": "11:00",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/2uK36ujoDXOfNiJ5Yp3raVprB51.jpg",
-      "summary": "El viaje de Michael Jackson más allá de la música, desde el descubrimiento de su extraordinario talento como líder de los Jackson Five hasta convertirse en una visionaria estrella cuya ambición creativa despertó un incansable afán por consagrarse como el mayor icono de la industria del entretenimiento.",
-      "genres": [
-        "Música",
-        "Drama"
-      ]
-    },
-    {
-      "title": "Michael",
-      "time": "20:30",
+      "time": "22:00",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/2uK36ujoDXOfNiJ5Yp3raVprB51.jpg",
       "summary": "El viaje de Michael Jackson más allá de la música, desde el descubrimiento de su extraordinario talento como líder de los Jackson Five hasta convertirse en una visionaria estrella cuya ambición creativa despertó un incansable afán por consagrarse como el mayor icono de la industria del entretenimiento.",
@@ -1188,7 +1187,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "The Mandalorian And Grogu",
-      "time": "18:00",
+      "time": "16:00",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/aY7a38Ef0lNn0ohMpaG4ODUuPIG.jpg",
       "summary": "Continuación de la serie \"The Mandalorian\" en forma de película. Un solitario cazarrecompensas a la fuga protege a un codiciado bebé alienígena mientras evita ser capturado en una galaxia anárquica y peligrosa.",
@@ -1212,18 +1211,6 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Backrooms",
-      "time": "18:00",
-      "rating": 6.8,
-      "poster": "https://image.tmdb.org/t/p/w342/u3CfgxtnZRxbIm8JuVTzt3DXQhg.jpg",
-      "summary": "Una puerta extraña aparece en el sótano de una sala de exposición de muebles.",
-      "genres": [
-        "Terror",
-        "Misterio",
-        "Ciencia ficción"
-      ]
-    },
-    {
-      "title": "Backrooms",
       "time": "20:00",
       "rating": 6.8,
       "poster": "https://image.tmdb.org/t/p/w342/u3CfgxtnZRxbIm8JuVTzt3DXQhg.jpg",
@@ -1235,32 +1222,32 @@ export const MOVIE_DATA = {
       ]
     },
     {
+      "title": "Backrooms",
+      "time": "22:00",
+      "rating": 6.8,
+      "poster": "https://image.tmdb.org/t/p/w342/u3CfgxtnZRxbIm8JuVTzt3DXQhg.jpg",
+      "summary": "Una puerta extraña aparece en el sótano de una sala de exposición de muebles.",
+      "genres": [
+        "Terror",
+        "Misterio",
+        "Ciencia ficción"
+      ]
+    },
+    {
       "title": "Masters Del Universo",
+      "time": "21:30",
+      "rating": 7.6,
+      "poster": "https://image.tmdb.org/t/p/w342/hNLKuennkGtlWvqU6Ko4Z6X8JHg.jpg",
+      "summary": "En las regiones más lejanas del espacio, el reino de Eternia está amenazado por el villano Skeletor y sus traviesos ejércitos de oscuridad. Para salvar el reino de su padre y proteger las vidas de sus seres queridos, el joven príncipe Adam tiene que recuperar una espada mítica y convertirse en el legendario guerrero conocido como \"He-Man\".",
+      "genres": [
+        "Acción",
+        "Fantasía",
+        "Ciencia ficción"
+      ]
+    },
+    {
+      "title": "Scary Movie 6",
       "time": "18:00",
-      "rating": 7.6,
-      "poster": "https://image.tmdb.org/t/p/w342/hNLKuennkGtlWvqU6Ko4Z6X8JHg.jpg",
-      "summary": "En las regiones más lejanas del espacio, el reino de Eternia está amenazado por el villano Skeletor y sus traviesos ejércitos de oscuridad. Para salvar el reino de su padre y proteger las vidas de sus seres queridos, el joven príncipe Adam tiene que recuperar una espada mítica y convertirse en el legendario guerrero conocido como \"He-Man\".",
-      "genres": [
-        "Acción",
-        "Fantasía",
-        "Ciencia ficción"
-      ]
-    },
-    {
-      "title": "Masters Del Universo",
-      "time": "20:40",
-      "rating": 7.6,
-      "poster": "https://image.tmdb.org/t/p/w342/hNLKuennkGtlWvqU6Ko4Z6X8JHg.jpg",
-      "summary": "En las regiones más lejanas del espacio, el reino de Eternia está amenazado por el villano Skeletor y sus traviesos ejércitos de oscuridad. Para salvar el reino de su padre y proteger las vidas de sus seres queridos, el joven príncipe Adam tiene que recuperar una espada mítica y convertirse en el legendario guerrero conocido como \"He-Man\".",
-      "genres": [
-        "Acción",
-        "Fantasía",
-        "Ciencia ficción"
-      ]
-    },
-    {
-      "title": "Scary Movie 6",
-      "time": "17:00",
       "rating": 5.6,
       "poster": "https://image.tmdb.org/t/p/w342/vUPE82BWRZwq6M5Xc9UNuf8AffK.jpg",
       "summary": "Veintiséis años después de conseguir escapar de un asesino enmascarado sospechosamente familiar, el Core Four están de vuelta en el punto de mira del asesino y ninguna película de terror está a salvo.",
@@ -1271,7 +1258,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Scary Movie 6",
-      "time": "19:00",
+      "time": "20:00",
       "rating": 5.6,
       "poster": "https://image.tmdb.org/t/p/w342/vUPE82BWRZwq6M5Xc9UNuf8AffK.jpg",
       "summary": "Veintiséis años después de conseguir escapar de un asesino enmascarado sospechosamente familiar, el Core Four están de vuelta en el punto de mira del asesino y ninguna película de terror está a salvo.",
@@ -1282,7 +1269,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Scary Movie 6",
-      "time": "21:00",
+      "time": "22:00",
       "rating": 5.6,
       "poster": "https://image.tmdb.org/t/p/w342/vUPE82BWRZwq6M5Xc9UNuf8AffK.jpg",
       "summary": "Veintiséis años después de conseguir escapar de un asesino enmascarado sospechosamente familiar, el Core Four están de vuelta en el punto de mira del asesino y ninguna película de terror está a salvo.",
@@ -1352,23 +1339,15 @@ export const MOVIE_DATA = {
       ]
     },
     {
-      "title": "Ivan Y Hadoum",
-      "time": "20:30",
-      "rating": 0,
-      "poster": null,
-      "summary": "",
-      "genres": []
-    },
-    {
-      "title": "Una Pistola, Una Bala Y Un Oso Panda",
-      "time": "16:30",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/oIxevx45h24FIOy88X6rdBfEsIl.jpg",
-      "summary": "Saúl, un director de cine abandonado por su pareja, en paro y con la cuenta bancaria al límite, atraviesa una depresión profunda que le tiene recluido en casa desde hace más de un mes. Pero la aparición de un paquete misterioso en su rellano  desencadena una cadena de acontecimientos que cambiará su vida por completo.",
+      "title": "El Dia De La Revelacion",
+      "time": "22:20",
+      "rating": 7.5,
+      "poster": "https://image.tmdb.org/t/p/w342/uGww4UrU3316Mld4p30dgdM09Du.jpg",
+      "summary": "Si descubrieras que no estamos solos, si alguien te abriera los ojos y te lo demostrase, ¿te asustarías? Este verano, la verdad será revelada a siete mil millones de personas. Llega... el día de la revelación.",
       "genres": [
-        "Comedia",
-        "Drama",
-        "Aventura"
+        "Ciencia ficción",
+        "Suspense",
+        "Acción"
       ]
     },
     {
@@ -1398,6 +1377,18 @@ export const MOVIE_DATA = {
     {
       "title": "Toy Story 5",
       "time": "17:00",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/1yF3AztF3rQ8MZ8En8974AWo5zZ.jpg",
+      "summary": "Buzz, Woody, Jessie y el resto de la pandilla tienen un trabajo exponencialmente más difícil cuando se enfrentan a esta nueva amenaza para la hora de jugar: la tecnología.",
+      "genres": [
+        "Animación",
+        "Familia",
+        "Comedia"
+      ]
+    },
+    {
+      "title": "Toy Story 5",
+      "time": "17:30",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/1yF3AztF3rQ8MZ8En8974AWo5zZ.jpg",
       "summary": "Buzz, Woody, Jessie y el resto de la pandilla tienen un trabajo exponencialmente más difícil cuando se enfrentan a esta nueva amenaza para la hora de jugar: la tecnología.",
@@ -1445,7 +1436,31 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Toy Story 5",
+      "time": "19:30",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/1yF3AztF3rQ8MZ8En8974AWo5zZ.jpg",
+      "summary": "Buzz, Woody, Jessie y el resto de la pandilla tienen un trabajo exponencialmente más difícil cuando se enfrentan a esta nueva amenaza para la hora de jugar: la tecnología.",
+      "genres": [
+        "Animación",
+        "Familia",
+        "Comedia"
+      ]
+    },
+    {
+      "title": "Toy Story 5",
       "time": "20:00",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/1yF3AztF3rQ8MZ8En8974AWo5zZ.jpg",
+      "summary": "Buzz, Woody, Jessie y el resto de la pandilla tienen un trabajo exponencialmente más difícil cuando se enfrentan a esta nueva amenaza para la hora de jugar: la tecnología.",
+      "genres": [
+        "Animación",
+        "Familia",
+        "Comedia"
+      ]
+    },
+    {
+      "title": "Toy Story 5",
+      "time": "20:30",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/1yF3AztF3rQ8MZ8En8974AWo5zZ.jpg",
       "summary": "Buzz, Woody, Jessie y el resto de la pandilla tienen un trabajo exponencialmente más difícil cuando se enfrentan a esta nueva amenaza para la hora de jugar: la tecnología.",
@@ -1466,6 +1481,58 @@ export const MOVIE_DATA = {
         "Familia",
         "Comedia"
       ]
+    },
+    {
+      "title": "Dreams",
+      "time": "16:00",
+      "rating": 7.0,
+      "poster": "https://image.tmdb.org/t/p/w342/z2v3lNAA2ymrZuKof4J2vqFIBdw.jpg",
+      "summary": "Stevie y su hermano pequeño Elliot viajan al absurdo mundo de sus sueños para pedirle a Sandman que les conceda un deseo: la familia perfecta.",
+      "genres": [
+        "Aventura",
+        "Animación",
+        "Comedia"
+      ]
+    },
+    {
+      "title": "Dreams",
+      "time": "18:00",
+      "rating": 7.0,
+      "poster": "https://image.tmdb.org/t/p/w342/z2v3lNAA2ymrZuKof4J2vqFIBdw.jpg",
+      "summary": "Stevie y su hermano pequeño Elliot viajan al absurdo mundo de sus sueños para pedirle a Sandman que les conceda un deseo: la familia perfecta.",
+      "genres": [
+        "Aventura",
+        "Animación",
+        "Comedia"
+      ]
+    },
+    {
+      "title": "Dreams",
+      "time": "22:00",
+      "rating": 7.0,
+      "poster": "https://image.tmdb.org/t/p/w342/z2v3lNAA2ymrZuKof4J2vqFIBdw.jpg",
+      "summary": "Stevie y su hermano pequeño Elliot viajan al absurdo mundo de sus sueños para pedirle a Sandman que les conceda un deseo: la familia perfecta.",
+      "genres": [
+        "Aventura",
+        "Animación",
+        "Comedia"
+      ]
+    },
+    {
+      "title": "El Placer Es Mio",
+      "time": "18:20",
+      "rating": 6.1,
+      "poster": "https://image.tmdb.org/t/p/w342/eeAhcXUZf1kqu3pq5cUjJfwLlhV.jpg",
+      "summary": "",
+      "genres": []
+    },
+    {
+      "title": "El Placer Es Mio",
+      "time": "20:20",
+      "rating": 6.1,
+      "poster": "https://image.tmdb.org/t/p/w342/eeAhcXUZf1kqu3pq5cUjJfwLlhV.jpg",
+      "summary": "",
+      "genres": []
     }
   ],
   "Ocine Premium Siete Palmas": [

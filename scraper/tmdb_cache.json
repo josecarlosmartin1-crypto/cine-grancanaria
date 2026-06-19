@@ -1754,5 +1754,30 @@
       "Comedia",
       "Drama"
     ]
+  },
+  "Cocktail 2": {
+    "rating": 0.0,
+    "poster": "https://image.tmdb.org/t/p/w342/pRmPnUAhHHiDJPfNGLP8ikoc5cx.jpg",
+    "summary": "",
+    "genres": [
+      "Romance",
+      "Comedia"
+    ]
+  },
+  "Dreams": {
+    "rating": 7.0,
+    "poster": "https://image.tmdb.org/t/p/w342/z2v3lNAA2ymrZuKof4J2vqFIBdw.jpg",
+    "summary": "Stevie y su hermano pequeño Elliot viajan al absurdo mundo de sus sueños para pedirle a Sandman que les conceda un deseo: la familia perfecta.",
+    "genres": [
+      "Aventura",
+      "Animación",
+      "Comedia"
+    ]
+  },
+  "El Placer Es Mio": {
+    "rating": 6.1,
+    "poster": "https://image.tmdb.org/t/p/w342/eeAhcXUZf1kqu3pq5cUjJfwLlhV.jpg",
+    "summary": "",
+    "genres": []
   }
 }
