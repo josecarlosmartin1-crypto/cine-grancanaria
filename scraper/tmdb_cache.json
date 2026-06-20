@@ -1779,5 +1779,14 @@
     "poster": "https://image.tmdb.org/t/p/w342/eeAhcXUZf1kqu3pq5cUjJfwLlhV.jpg",
     "summary": "",
     "genres": []
+  },
+  "Obsession": {
+    "rating": 7.9,
+    "poster": "https://image.tmdb.org/t/p/w342/ohi9xvbBUymM4SuIOSlt1xbLRQQ.jpg",
+    "summary": "El anhelo romántico desesperado de un chico por su amor platónico de toda la vida desencadena un siniestro hechizo: Niki se vuelve irracionalmente obsesiva hasta convertirse en la sombra de Bear. Una fantasía aparentemente inofensiva que se convertirá en una perturbadora pesadilla.",
+    "genres": [
+      "Terror",
+      "Suspense"
+    ]
   }
 }
