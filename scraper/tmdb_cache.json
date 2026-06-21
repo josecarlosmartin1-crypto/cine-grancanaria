@@ -1788,5 +1788,40 @@
       "Terror",
       "Suspense"
     ]
+  },
+  "España Vs Arabia Saudí Copa Mundial Fifa 2026": {
+    "rating": 0,
+    "poster": null,
+    "summary": "El Mundial se vive en directo y en pantalla grande.\n\nEl próximo 21 de junio de 2026, a las 18:00 h, la emoción del fútbol mundial llega a Atlanta, pero puedes vivirla como si estuvieras allí en Cine Yelmo. En el espectacular Mercedes Benz Stadium, España se enfrenta a Arabia Saudita en un duelo decisivo del Grupo H de la Copa Mundial de la FIFA 2026™. Acompaña a la Selección Española, vibra con cada jugada y comparte la pasión del Mundial en una experiencia única.",
+    "genres": []
+  },
+  "La Odisea": {
+    "rating": 0.0,
+    "poster": "https://image.tmdb.org/t/p/w342/bheY17L6wtB0SdJn6EYyh1X5iry.jpg",
+    "summary": "Una epopeya mitológica que sigue la historia de Odiseo y su largo viaje a casa, de 10 años de duración, tras la guerra de Troya.",
+    "genres": [
+      "Aventura",
+      "Acción",
+      "Fantasía"
+    ]
+  },
+  "Sia: Nostalgic For The Present": {
+    "rating": 0.0,
+    "poster": "https://image.tmdb.org/t/p/w342/tJrqV5b12HbpNNDrA7Trc5mErGJ.jpg",
+    "summary": "Sia: Nostalgic for the Present es una experiencia audaz que desafía los géneros y cambia el espectáculo pop por el arte en estado puro. Voces impresionantes, coreografías espectaculares y actuaciones icónicas, captadas con calidad cinematográfica. Todo acompañado por un repertorio inigualable de éxitos.\r\n\r\nEn 2016, Sia recorrió el mundo representando esta película en directo sobre el escenario, fotograma a fotograma. Remasterizada con motivo de su décimo aniversario, se presenta por primera vez como una obra independiente - no como una película de concierto, sino como una obra maestra visual sin parangón en la historia de la música.\r\n",
+    "genres": [
+      "Documental",
+      "Música"
+    ]
+  },
+  "Spider-Man: Brand New Day": {
+    "rating": 0.0,
+    "poster": "https://image.tmdb.org/t/p/w342/2OKQrD5Txku6o5JQmxXrUAGKrSt.jpg",
+    "summary": "Han pasado cuatro años desde los acontecimientos de No Way Home, y Peter Parker ahora es un adulto que vive completamente solo, ha desaparecido voluntariamente de las vidas y recuerdos de quienes ama. Combatiendo el crimen en una Nueva York que ya no conoce su nombre, se ha dedicado por completo a proteger su ciudad, pero a medida que aumentan las exigencias sobre él, la presión desencadena una evolución física que amenaza su existencia, al mismo tiempo que un extraño nuevo patrón de crímenes da lugar a una de las amenazas más poderosas a las que se ha enfrentado.",
+    "genres": [
+      "Ciencia ficción",
+      "Acción",
+      "Aventura"
+    ]
   }
 }
