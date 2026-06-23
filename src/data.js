@@ -122,18 +122,6 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Toy Story 5",
-      "time": "20:35",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/1yF3AztF3rQ8MZ8En8974AWo5zZ.jpg",
-      "summary": "Buzz, Woody, Jessie y el resto de la pandilla tienen un trabajo exponencialmente más difícil cuando se enfrentan a esta nueva amenaza para la hora de jugar: la tecnología.",
-      "genres": [
-        "Animación",
-        "Familia",
-        "Comedia"
-      ]
-    },
-    {
-      "title": "Toy Story 5",
       "time": "21:30",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/1yF3AztF3rQ8MZ8En8974AWo5zZ.jpg",
@@ -255,6 +243,17 @@ export const MOVIE_DATA = {
     {
       "title": "Todo Lo Que Nunca Fuimos",
       "time": "17:20",
+      "rating": 8.0,
+      "poster": "https://image.tmdb.org/t/p/w342/lANJOAONExFL7HWOJJskBX4i7Y6.jpg",
+      "summary": "Cuando a su hermano mayor le ofrecen un trabajo lejos de casa, una joven aspirante a pintora, destrozada por un trágico accidente que se llevó a sus padres, le pide a su mejor amigo que cuide de ella. A medida que su atracción mutua crece hasta proporciones insoportables, los dos deben decidir si reprimir su amor o dejar que suceda.",
+      "genres": [
+        "Drama",
+        "Romance"
+      ]
+    },
+    {
+      "title": "Todo Lo Que Nunca Fuimos",
+      "time": "20:30",
       "rating": 8.0,
       "poster": "https://image.tmdb.org/t/p/w342/lANJOAONExFL7HWOJJskBX4i7Y6.jpg",
       "summary": "Cuando a su hermano mayor le ofrecen un trabajo lejos de casa, una joven aspirante a pintora, destrozada por un trágico accidente que se llevó a sus padres, le pide a su mejor amigo que cuide de ella. A medida que su atracción mutua crece hasta proporciones insoportables, los dos deben decidir si reprimir su amor o dejar que suceda.",
@@ -1165,8 +1164,19 @@ export const MOVIE_DATA = {
   ],
   "Artesiete Las Terrazas": [
     {
+      "title": "Michael",
+      "time": "22:00",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/2uK36ujoDXOfNiJ5Yp3raVprB51.jpg",
+      "summary": "El viaje de Michael Jackson más allá de la música, desde el descubrimiento de su extraordinario talento como líder de los Jackson Five hasta convertirse en una visionaria estrella cuya ambición creativa despertó un incansable afán por consagrarse como el mayor icono de la industria del entretenimiento.",
+      "genres": [
+        "Música",
+        "Drama"
+      ]
+    },
+    {
       "title": "The Mandalorian And Grogu",
-      "time": "17:00",
+      "time": "16:00",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/aY7a38Ef0lNn0ohMpaG4ODUuPIG.jpg",
       "summary": "Continuación de la serie \"The Mandalorian\" en forma de película. Un solitario cazarrecompensas a la fuga protege a un codiciado bebé alienígena mientras evita ser capturado en una galaxia anárquica y peligrosa.",
@@ -1190,7 +1200,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Backrooms",
-      "time": "19:45",
+      "time": "20:00",
       "rating": 6.8,
       "poster": "https://image.tmdb.org/t/p/w342/u3CfgxtnZRxbIm8JuVTzt3DXQhg.jpg",
       "summary": "Una puerta extraña aparece en el sótano de una sala de exposición de muebles.",
@@ -1202,7 +1212,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Backrooms",
-      "time": "21:45",
+      "time": "22:00",
       "rating": 6.8,
       "poster": "https://image.tmdb.org/t/p/w342/u3CfgxtnZRxbIm8JuVTzt3DXQhg.jpg",
       "summary": "Una puerta extraña aparece en el sótano de una sala de exposición de muebles.",
@@ -1237,7 +1247,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Scary Movie 6",
-      "time": "19:45",
+      "time": "20:00",
       "rating": 5.6,
       "poster": "https://image.tmdb.org/t/p/w342/vUPE82BWRZwq6M5Xc9UNuf8AffK.jpg",
       "summary": "Veintiséis años después de conseguir escapar de un asesino enmascarado sospechosamente familiar, el Core Four están de vuelta en el punto de mira del asesino y ninguna película de terror está a salvo.",
@@ -1248,7 +1258,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Scary Movie 6",
-      "time": "21:30",
+      "time": "22:00",
       "rating": 5.6,
       "poster": "https://image.tmdb.org/t/p/w342/vUPE82BWRZwq6M5Xc9UNuf8AffK.jpg",
       "summary": "Veintiséis años después de conseguir escapar de un asesino enmascarado sospechosamente familiar, el Core Four están de vuelta en el punto de mira del asesino y ninguna película de terror está a salvo.",
@@ -1308,6 +1318,18 @@ export const MOVIE_DATA = {
     {
       "title": "El Dia De La Revelacion",
       "time": "21:30",
+      "rating": 7.5,
+      "poster": "https://image.tmdb.org/t/p/w342/uGww4UrU3316Mld4p30dgdM09Du.jpg",
+      "summary": "Si descubrieras que no estamos solos, si alguien te abriera los ojos y te lo demostrase, ¿te asustarías? Este verano, la verdad será revelada a siete mil millones de personas. Llega... el día de la revelación.",
+      "genres": [
+        "Ciencia ficción",
+        "Suspense",
+        "Acción"
+      ]
+    },
+    {
+      "title": "El Dia De La Revelacion",
+      "time": "22:20",
       "rating": 7.5,
       "poster": "https://image.tmdb.org/t/p/w342/uGww4UrU3316Mld4p30dgdM09Du.jpg",
       "summary": "Si descubrieras que no estamos solos, si alguien te abriera los ojos y te lo demostrase, ¿te asustarías? Este verano, la verdad será revelada a siete mil millones de personas. Llega... el día de la revelación.",
@@ -1379,18 +1401,6 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Toy Story 5",
-      "time": "18:30",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/1yF3AztF3rQ8MZ8En8974AWo5zZ.jpg",
-      "summary": "Buzz, Woody, Jessie y el resto de la pandilla tienen un trabajo exponencialmente más difícil cuando se enfrentan a esta nueva amenaza para la hora de jugar: la tecnología.",
-      "genres": [
-        "Animación",
-        "Familia",
-        "Comedia"
-      ]
-    },
-    {
-      "title": "Toy Story 5",
       "time": "19:00",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/1yF3AztF3rQ8MZ8En8974AWo5zZ.jpg",
@@ -1450,6 +1460,18 @@ export const MOVIE_DATA = {
       ]
     },
     {
+      "title": "Toy Story 5",
+      "time": "22:00",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/1yF3AztF3rQ8MZ8En8974AWo5zZ.jpg",
+      "summary": "Buzz, Woody, Jessie y el resto de la pandilla tienen un trabajo exponencialmente más difícil cuando se enfrentan a esta nueva amenaza para la hora de jugar: la tecnología.",
+      "genres": [
+        "Animación",
+        "Familia",
+        "Comedia"
+      ]
+    },
+    {
       "title": "Dreams",
       "time": "16:00",
       "rating": 7.0,
@@ -1475,15 +1497,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "El Placer Es Mio",
-      "time": "19:30",
-      "rating": 6.1,
-      "poster": "https://image.tmdb.org/t/p/w342/eeAhcXUZf1kqu3pq5cUjJfwLlhV.jpg",
-      "summary": "",
-      "genres": []
-    },
-    {
-      "title": "El Placer Es Mio",
-      "time": "21:30",
+      "time": "18:20",
       "rating": 6.1,
       "poster": "https://image.tmdb.org/t/p/w342/eeAhcXUZf1kqu3pq5cUjJfwLlhV.jpg",
       "summary": "",
