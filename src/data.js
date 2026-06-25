@@ -428,101 +428,6 @@ export const MOVIE_DATA = {
   ],
   "Cine Yelmo Las Arenas": [
     {
-      "title": "Cocktail 2",
-      "time": "21:50",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/pRmPnUAhHHiDJPfNGLP8ikoc5cx.jpg",
-      "summary": "",
-      "genres": [
-        "Romance",
-        "Comedia"
-      ]
-    },
-    {
-      "title": "Toy Story 5",
-      "time": "11:50",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/1yF3AztF3rQ8MZ8En8974AWo5zZ.jpg",
-      "summary": "Buzz, Woody, Jessie y el resto de la pandilla tienen un trabajo exponencialmente más difícil cuando se enfrentan a esta nueva amenaza para la hora de jugar: la tecnología.",
-      "genres": [
-        "Animación",
-        "Familia",
-        "Comedia"
-      ]
-    },
-    {
-      "title": "Toy Story 5",
-      "time": "12:20",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/1yF3AztF3rQ8MZ8En8974AWo5zZ.jpg",
-      "summary": "Buzz, Woody, Jessie y el resto de la pandilla tienen un trabajo exponencialmente más difícil cuando se enfrentan a esta nueva amenaza para la hora de jugar: la tecnología.",
-      "genres": [
-        "Animación",
-        "Familia",
-        "Comedia"
-      ]
-    },
-    {
-      "title": "Toy Story 5",
-      "time": "13:00",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/1yF3AztF3rQ8MZ8En8974AWo5zZ.jpg",
-      "summary": "Buzz, Woody, Jessie y el resto de la pandilla tienen un trabajo exponencialmente más difícil cuando se enfrentan a esta nueva amenaza para la hora de jugar: la tecnología.",
-      "genres": [
-        "Animación",
-        "Familia",
-        "Comedia"
-      ]
-    },
-    {
-      "title": "Toy Story 5",
-      "time": "13:20",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/1yF3AztF3rQ8MZ8En8974AWo5zZ.jpg",
-      "summary": "Buzz, Woody, Jessie y el resto de la pandilla tienen un trabajo exponencialmente más difícil cuando se enfrentan a esta nueva amenaza para la hora de jugar: la tecnología.",
-      "genres": [
-        "Animación",
-        "Familia",
-        "Comedia"
-      ]
-    },
-    {
-      "title": "Toy Story 5",
-      "time": "14:10",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/1yF3AztF3rQ8MZ8En8974AWo5zZ.jpg",
-      "summary": "Buzz, Woody, Jessie y el resto de la pandilla tienen un trabajo exponencialmente más difícil cuando se enfrentan a esta nueva amenaza para la hora de jugar: la tecnología.",
-      "genres": [
-        "Animación",
-        "Familia",
-        "Comedia"
-      ]
-    },
-    {
-      "title": "Toy Story 5",
-      "time": "14:40",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/1yF3AztF3rQ8MZ8En8974AWo5zZ.jpg",
-      "summary": "Buzz, Woody, Jessie y el resto de la pandilla tienen un trabajo exponencialmente más difícil cuando se enfrentan a esta nueva amenaza para la hora de jugar: la tecnología.",
-      "genres": [
-        "Animación",
-        "Familia",
-        "Comedia"
-      ]
-    },
-    {
-      "title": "Toy Story 5",
-      "time": "15:30",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/1yF3AztF3rQ8MZ8En8974AWo5zZ.jpg",
-      "summary": "Buzz, Woody, Jessie y el resto de la pandilla tienen un trabajo exponencialmente más difícil cuando se enfrentan a esta nueva amenaza para la hora de jugar: la tecnología.",
-      "genres": [
-        "Animación",
-        "Familia",
-        "Comedia"
-      ]
-    },
-    {
       "title": "Toy Story 5",
       "time": "15:45",
       "rating": 0.0,
@@ -584,7 +489,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Toy Story 5",
-      "time": "18:10",
+      "time": "18:15",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/1yF3AztF3rQ8MZ8En8974AWo5zZ.jpg",
       "summary": "Buzz, Woody, Jessie y el resto de la pandilla tienen un trabajo exponencialmente más difícil cuando se enfrentan a esta nueva amenaza para la hora de jugar: la tecnología.",
@@ -644,7 +549,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Toy Story 5",
-      "time": "20:30",
+      "time": "20:35",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/1yF3AztF3rQ8MZ8En8974AWo5zZ.jpg",
       "summary": "Buzz, Woody, Jessie y el resto de la pandilla tienen un trabajo exponencialmente más difícil cuando se enfrentan a esta nueva amenaza para la hora de jugar: la tecnología.",
@@ -716,30 +621,6 @@ export const MOVIE_DATA = {
     },
     {
       "title": "El Día De La Revelación",
-      "time": "12:50",
-      "rating": 8.4,
-      "poster": "https://image.tmdb.org/t/p/w342/uGww4UrU3316Mld4p30dgdM09Du.jpg",
-      "summary": "Si descubrieras que no estamos solos, si alguien te abriera los ojos y te lo demostrase, ¿te asustarías? Este verano, la verdad será revelada a siete mil millones de personas. Llega... el día de la revelación.",
-      "genres": [
-        "Misterio",
-        "Ciencia ficción",
-        "Suspense"
-      ]
-    },
-    {
-      "title": "El Día De La Revelación",
-      "time": "13:30",
-      "rating": 8.4,
-      "poster": "https://image.tmdb.org/t/p/w342/uGww4UrU3316Mld4p30dgdM09Du.jpg",
-      "summary": "Si descubrieras que no estamos solos, si alguien te abriera los ojos y te lo demostrase, ¿te asustarías? Este verano, la verdad será revelada a siete mil millones de personas. Llega... el día de la revelación.",
-      "genres": [
-        "Misterio",
-        "Ciencia ficción",
-        "Suspense"
-      ]
-    },
-    {
-      "title": "El Día De La Revelación",
       "time": "15:50",
       "rating": 8.4,
       "poster": "https://image.tmdb.org/t/p/w342/uGww4UrU3316Mld4p30dgdM09Du.jpg",
@@ -799,8 +680,19 @@ export const MOVIE_DATA = {
       ]
     },
     {
+      "title": "Todo Lo Que Nunca Fuimos",
+      "time": "19:30",
+      "rating": 8.0,
+      "poster": "https://image.tmdb.org/t/p/w342/lANJOAONExFL7HWOJJskBX4i7Y6.jpg",
+      "summary": "Cuando a su hermano mayor le ofrecen un trabajo lejos de casa, una joven aspirante a pintora, destrozada por un trágico accidente que se llevó a sus padres, le pide a su mejor amigo que cuide de ella. A medida que su atracción mutua crece hasta proporciones insoportables, los dos deben decidir si reprimir su amor o dejar que suceda.",
+      "genres": [
+        "Drama",
+        "Romance"
+      ]
+    },
+    {
       "title": "He-Man Y Los Masters Del Universo",
-      "time": "16:10",
+      "time": "16:50",
       "rating": 7.6,
       "poster": "https://image.tmdb.org/t/p/w342/hNLKuennkGtlWvqU6Ko4Z6X8JHg.jpg",
       "summary": "En las regiones más lejanas del espacio, el reino de Eternia está amenazado por el villano Skeletor y sus traviesos ejércitos de oscuridad. Para salvar el reino de su padre y proteger las vidas de sus seres queridos, el joven príncipe Adam tiene que recuperar una espada mítica y convertirse en el legendario guerrero conocido como \"He-Man\".",
@@ -812,18 +704,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Scary Movie",
-      "time": "12:30",
-      "rating": 5.8,
-      "poster": "https://image.tmdb.org/t/p/w342/vUPE82BWRZwq6M5Xc9UNuf8AffK.jpg",
-      "summary": "Veintiséis años después de conseguir escapar de un asesino enmascarado sospechosamente familiar, el Core Four están de vuelta en el punto de mira del asesino y ninguna película de terror está a salvo.",
-      "genres": [
-        "Comedia",
-        "Terror"
-      ]
-    },
-    {
-      "title": "Scary Movie",
-      "time": "17:50",
+      "time": "18:00",
       "rating": 5.8,
       "poster": "https://image.tmdb.org/t/p/w342/vUPE82BWRZwq6M5Xc9UNuf8AffK.jpg",
       "summary": "Veintiséis años después de conseguir escapar de un asesino enmascarado sospechosamente familiar, el Core Four están de vuelta en el punto de mira del asesino y ninguna película de terror está a salvo.",
@@ -852,30 +733,6 @@ export const MOVIE_DATA = {
       "genres": [
         "Comedia",
         "Terror"
-      ]
-    },
-    {
-      "title": "Backrooms",
-      "time": "12:00",
-      "rating": 6.8,
-      "poster": "https://image.tmdb.org/t/p/w342/u3CfgxtnZRxbIm8JuVTzt3DXQhg.jpg",
-      "summary": "Una puerta extraña aparece en el sótano de una sala de exposición de muebles.",
-      "genres": [
-        "Terror",
-        "Misterio",
-        "Ciencia ficción"
-      ]
-    },
-    {
-      "title": "Backrooms",
-      "time": "14:30",
-      "rating": 6.8,
-      "poster": "https://image.tmdb.org/t/p/w342/u3CfgxtnZRxbIm8JuVTzt3DXQhg.jpg",
-      "summary": "Una puerta extraña aparece en el sótano de una sala de exposición de muebles.",
-      "genres": [
-        "Terror",
-        "Misterio",
-        "Ciencia ficción"
       ]
     },
     {
@@ -915,161 +772,65 @@ export const MOVIE_DATA = {
       ]
     },
     {
-      "title": "The Mandalorian And Grogu",
-      "time": "13:10",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/aY7a38Ef0lNn0ohMpaG4ODUuPIG.jpg",
-      "summary": "Continuación de la serie \"The Mandalorian\" en forma de película. Un solitario cazarrecompensas a la fuga protege a un codiciado bebé alienígena mientras evita ser capturado en una galaxia anárquica y peligrosa.",
+      "title": "El Drama",
+      "time": "15:40",
+      "rating": 6.9,
+      "poster": "https://image.tmdb.org/t/p/w342/zgfBYGYCNcOZ51JDbr6tm45H8y0.jpg",
+      "summary": "Una pareja, en los días previos a su boda, se enfrenta a una crisis cuando unas inesperadas revelaciones desbaratan lo que uno de ellos creía saber sobre el otro.",
       "genres": [
-        "Acción",
-        "Aventura",
-        "Ciencia ficción"
-      ]
-    },
-    {
-      "title": "The Mandalorian And Grogu",
-      "time": "16:40",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/aY7a38Ef0lNn0ohMpaG4ODUuPIG.jpg",
-      "summary": "Continuación de la serie \"The Mandalorian\" en forma de película. Un solitario cazarrecompensas a la fuga protege a un codiciado bebé alienígena mientras evita ser capturado en una galaxia anárquica y peligrosa.",
-      "genres": [
-        "Acción",
-        "Aventura",
-        "Ciencia ficción"
-      ]
-    },
-    {
-      "title": "Las Ovejas Detectives",
-      "time": "15:10",
-      "rating": 7.8,
-      "poster": "https://image.tmdb.org/t/p/w342/kMJ4h39xe1fEzbLSt5FJCtEqb2H.jpg",
-      "summary": "Cada noche, un pastor lee en voz alta un asesinato misterioso, fingiendo que sus ovejas pueden entenderlo. Cuando lo encuentran muerto, las ovejas se dan cuenta enseguida de que ha sido un asesinato y creen saber cómo resolverlo.",
-      "genres": [
+        "Romance",
         "Comedia",
-        "Familia",
-        "Misterio"
+        "Drama"
+      ]
+    },
+    {
+      "title": "El Drama",
+      "time": "22:30",
+      "rating": 6.9,
+      "poster": "https://image.tmdb.org/t/p/w342/zgfBYGYCNcOZ51JDbr6tm45H8y0.jpg",
+      "summary": "Una pareja, en los días previos a su boda, se enfrenta a una crisis cuando unas inesperadas revelaciones desbaratan lo que uno de ellos creía saber sobre el otro.",
+      "genres": [
+        "Romance",
+        "Comedia",
+        "Drama"
+      ]
+    },
+    {
+      "title": "The Mandalorian And Grogu",
+      "time": "16:45",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/aY7a38Ef0lNn0ohMpaG4ODUuPIG.jpg",
+      "summary": "Continuación de la serie \"The Mandalorian\" en forma de película. Un solitario cazarrecompensas a la fuga protege a un codiciado bebé alienígena mientras evita ser capturado en una galaxia anárquica y peligrosa.",
+      "genres": [
+        "Acción",
+        "Aventura",
+        "Ciencia ficción"
+      ]
+    },
+    {
+      "title": "El Diablo Viste De Prada 2",
+      "time": "22:00",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/ld68XXTztvYt5DaD1IHoRvCpgOA.jpg",
+      "summary": "Sigue la lucha de Miranda Priestly contra Emily Charlton, su ex asistente convertida en ejecutiva rival, mientras compiten por los ingresos por publicidad en medio de la decadencia de los medios impresos y Miranda se acerca a la jubilación.",
+      "genres": [
+        "Drama",
+        "Comedia"
       ]
     },
     {
       "title": "Michael",
-      "time": "12:10",
+      "time": "19:50",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/2uK36ujoDXOfNiJ5Yp3raVprB51.jpg",
       "summary": "El viaje de Michael Jackson más allá de la música, desde el descubrimiento de su extraordinario talento como líder de los Jackson Five hasta convertirse en una visionaria estrella cuya ambición creativa despertó un incansable afán por consagrarse como el mayor icono de la industria del entretenimiento.",
       "genres": [
         "Música",
         "Drama"
-      ]
-    },
-    {
-      "title": "Michael",
-      "time": "19:10",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/2uK36ujoDXOfNiJ5Yp3raVprB51.jpg",
-      "summary": "El viaje de Michael Jackson más allá de la música, desde el descubrimiento de su extraordinario talento como líder de los Jackson Five hasta convertirse en una visionaria estrella cuya ambición creativa despertó un incansable afán por consagrarse como el mayor icono de la industria del entretenimiento.",
-      "genres": [
-        "Música",
-        "Drama"
-      ]
-    },
-    {
-      "title": "Super Mario Galaxy: La Película",
-      "time": "12:40",
-      "rating": 6.9,
-      "poster": "https://image.tmdb.org/t/p/w342/eEfzkiW28Y3BaHjjgFNkFERNKiK.jpg",
-      "summary": "La película tiene lugar después de los acontecimientos de la primera, en la que dos hermanos, Mario y Luigi, y la princesa Peach emprenden una aventura hasta los confines del espacio y a través de la galaxia. Secuela de \"Super Mario Bros: La película\", basada en la saga \"Mario Galaxy\".",
-      "genres": [
-        "Aventura",
-        "Animación",
-        "Comedia"
-      ]
-    },
-    {
-      "title": "Super Mario Galaxy: La Película",
-      "time": "14:50",
-      "rating": 6.9,
-      "poster": "https://image.tmdb.org/t/p/w342/eEfzkiW28Y3BaHjjgFNkFERNKiK.jpg",
-      "summary": "La película tiene lugar después de los acontecimientos de la primera, en la que dos hermanos, Mario y Luigi, y la princesa Peach emprenden una aventura hasta los confines del espacio y a través de la galaxia. Secuela de \"Super Mario Bros: La película\", basada en la saga \"Mario Galaxy\".",
-      "genres": [
-        "Aventura",
-        "Animación",
-        "Comedia"
       ]
     }
   ],
   "Cine Yelmo Premium Alisios": [
-    {
-      "title": "Toy Story 5",
-      "time": "12:15",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/1yF3AztF3rQ8MZ8En8974AWo5zZ.jpg",
-      "summary": "Buzz, Woody, Jessie y el resto de la pandilla tienen un trabajo exponencialmente más difícil cuando se enfrentan a esta nueva amenaza para la hora de jugar: la tecnología.",
-      "genres": [
-        "Animación",
-        "Familia",
-        "Comedia"
-      ]
-    },
-    {
-      "title": "Toy Story 5",
-      "time": "12:30",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/1yF3AztF3rQ8MZ8En8974AWo5zZ.jpg",
-      "summary": "Buzz, Woody, Jessie y el resto de la pandilla tienen un trabajo exponencialmente más difícil cuando se enfrentan a esta nueva amenaza para la hora de jugar: la tecnología.",
-      "genres": [
-        "Animación",
-        "Familia",
-        "Comedia"
-      ]
-    },
-    {
-      "title": "Toy Story 5",
-      "time": "12:50",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/1yF3AztF3rQ8MZ8En8974AWo5zZ.jpg",
-      "summary": "Buzz, Woody, Jessie y el resto de la pandilla tienen un trabajo exponencialmente más difícil cuando se enfrentan a esta nueva amenaza para la hora de jugar: la tecnología.",
-      "genres": [
-        "Animación",
-        "Familia",
-        "Comedia"
-      ]
-    },
-    {
-      "title": "Toy Story 5",
-      "time": "13:30",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/1yF3AztF3rQ8MZ8En8974AWo5zZ.jpg",
-      "summary": "Buzz, Woody, Jessie y el resto de la pandilla tienen un trabajo exponencialmente más difícil cuando se enfrentan a esta nueva amenaza para la hora de jugar: la tecnología.",
-      "genres": [
-        "Animación",
-        "Familia",
-        "Comedia"
-      ]
-    },
-    {
-      "title": "Toy Story 5",
-      "time": "14:00",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/1yF3AztF3rQ8MZ8En8974AWo5zZ.jpg",
-      "summary": "Buzz, Woody, Jessie y el resto de la pandilla tienen un trabajo exponencialmente más difícil cuando se enfrentan a esta nueva amenaza para la hora de jugar: la tecnología.",
-      "genres": [
-        "Animación",
-        "Familia",
-        "Comedia"
-      ]
-    },
-    {
-      "title": "Toy Story 5",
-      "time": "14:45",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/1yF3AztF3rQ8MZ8En8974AWo5zZ.jpg",
-      "summary": "Buzz, Woody, Jessie y el resto de la pandilla tienen un trabajo exponencialmente más difícil cuando se enfrentan a esta nueva amenaza para la hora de jugar: la tecnología.",
-      "genres": [
-        "Animación",
-        "Familia",
-        "Comedia"
-      ]
-    },
     {
       "title": "Toy Story 5",
       "time": "15:45",
@@ -1216,30 +977,6 @@ export const MOVIE_DATA = {
     },
     {
       "title": "El Día De La Revelación",
-      "time": "12:05",
-      "rating": 8.4,
-      "poster": "https://image.tmdb.org/t/p/w342/uGww4UrU3316Mld4p30dgdM09Du.jpg",
-      "summary": "Si descubrieras que no estamos solos, si alguien te abriera los ojos y te lo demostrase, ¿te asustarías? Este verano, la verdad será revelada a siete mil millones de personas. Llega... el día de la revelación.",
-      "genres": [
-        "Misterio",
-        "Ciencia ficción",
-        "Suspense"
-      ]
-    },
-    {
-      "title": "El Día De La Revelación",
-      "time": "12:55",
-      "rating": 8.4,
-      "poster": "https://image.tmdb.org/t/p/w342/uGww4UrU3316Mld4p30dgdM09Du.jpg",
-      "summary": "Si descubrieras que no estamos solos, si alguien te abriera los ojos y te lo demostrase, ¿te asustarías? Este verano, la verdad será revelada a siete mil millones de personas. Llega... el día de la revelación.",
-      "genres": [
-        "Misterio",
-        "Ciencia ficción",
-        "Suspense"
-      ]
-    },
-    {
-      "title": "El Día De La Revelación",
       "time": "16:00",
       "rating": 8.4,
       "poster": "https://image.tmdb.org/t/p/w342/uGww4UrU3316Mld4p30dgdM09Du.jpg",
@@ -1284,18 +1021,6 @@ export const MOVIE_DATA = {
         "Misterio",
         "Ciencia ficción",
         "Suspense"
-      ]
-    },
-    {
-      "title": "Backrooms",
-      "time": "13:05",
-      "rating": 6.8,
-      "poster": "https://image.tmdb.org/t/p/w342/u3CfgxtnZRxbIm8JuVTzt3DXQhg.jpg",
-      "summary": "Una puerta extraña aparece en el sótano de una sala de exposición de muebles.",
-      "genres": [
-        "Terror",
-        "Misterio",
-        "Ciencia ficción"
       ]
     },
     {
@@ -1416,17 +1141,6 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Michael",
-      "time": "12:45",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/2uK36ujoDXOfNiJ5Yp3raVprB51.jpg",
-      "summary": "El viaje de Michael Jackson más allá de la música, desde el descubrimiento de su extraordinario talento como líder de los Jackson Five hasta convertirse en una visionaria estrella cuya ambición creativa despertó un incansable afán por consagrarse como el mayor icono de la industria del entretenimiento.",
-      "genres": [
-        "Música",
-        "Drama"
-      ]
-    },
-    {
-      "title": "Michael",
       "time": "17:55",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/2uK36ujoDXOfNiJ5Yp3raVprB51.jpg",
@@ -1487,31 +1201,20 @@ export const MOVIE_DATA = {
       ]
     },
     {
-      "title": "Masters Del Universo",
+      "title": "Backrooms",
       "time": "21:45",
-      "rating": 7.6,
-      "poster": "https://image.tmdb.org/t/p/w342/hNLKuennkGtlWvqU6Ko4Z6X8JHg.jpg",
-      "summary": "En las regiones más lejanas del espacio, el reino de Eternia está amenazado por el villano Skeletor y sus traviesos ejércitos de oscuridad. Para salvar el reino de su padre y proteger las vidas de sus seres queridos, el joven príncipe Adam tiene que recuperar una espada mítica y convertirse en el legendario guerrero conocido como \"He-Man\".",
+      "rating": 6.8,
+      "poster": "https://image.tmdb.org/t/p/w342/u3CfgxtnZRxbIm8JuVTzt3DXQhg.jpg",
+      "summary": "Una puerta extraña aparece en el sótano de una sala de exposición de muebles.",
       "genres": [
-        "Acción",
-        "Fantasía",
+        "Terror",
+        "Misterio",
         "Ciencia ficción"
       ]
     },
     {
       "title": "Scary Movie 6",
-      "time": "18:00",
-      "rating": 5.6,
-      "poster": "https://image.tmdb.org/t/p/w342/vUPE82BWRZwq6M5Xc9UNuf8AffK.jpg",
-      "summary": "Veintiséis años después de conseguir escapar de un asesino enmascarado sospechosamente familiar, el Core Four están de vuelta en el punto de mira del asesino y ninguna película de terror está a salvo.",
-      "genres": [
-        "Comedia",
-        "Terror"
-      ]
-    },
-    {
-      "title": "Scary Movie 6",
-      "time": "21:30",
+      "time": "21:45",
       "rating": 5.6,
       "poster": "https://image.tmdb.org/t/p/w342/vUPE82BWRZwq6M5Xc9UNuf8AffK.jpg",
       "summary": "Veintiséis años después de conseguir escapar de un asesino enmascarado sospechosamente familiar, el Core Four están de vuelta en el punto de mira del asesino y ninguna película de terror está a salvo.",
@@ -1578,18 +1281,6 @@ export const MOVIE_DATA = {
         "Ciencia ficción",
         "Suspense",
         "Acción"
-      ]
-    },
-    {
-      "title": "Toy Story 5",
-      "time": "12:30",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/1yF3AztF3rQ8MZ8En8974AWo5zZ.jpg",
-      "summary": "Buzz, Woody, Jessie y el resto de la pandilla tienen un trabajo exponencialmente más difícil cuando se enfrentan a esta nueva amenaza para la hora de jugar: la tecnología.",
-      "genres": [
-        "Animación",
-        "Familia",
-        "Comedia"
       ]
     },
     {
@@ -1666,19 +1357,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Toy Story 5",
-      "time": "19:30",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/1yF3AztF3rQ8MZ8En8974AWo5zZ.jpg",
-      "summary": "Buzz, Woody, Jessie y el resto de la pandilla tienen un trabajo exponencialmente más difícil cuando se enfrentan a esta nueva amenaza para la hora de jugar: la tecnología.",
-      "genres": [
-        "Animación",
-        "Familia",
-        "Comedia"
-      ]
-    },
-    {
-      "title": "Toy Story 5",
-      "time": "20:00",
+      "time": "19:50",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/1yF3AztF3rQ8MZ8En8974AWo5zZ.jpg",
       "summary": "Buzz, Woody, Jessie y el resto de la pandilla tienen un trabajo exponencialmente más difícil cuando se enfrentan a esta nueva amenaza para la hora de jugar: la tecnología.",
@@ -1714,7 +1393,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Dreams",
-      "time": "22:20",
+      "time": "18:00",
       "rating": 7.0,
       "poster": "https://image.tmdb.org/t/p/w342/z2v3lNAA2ymrZuKof4J2vqFIBdw.jpg",
       "summary": "Stevie y su hermano pequeño Elliot viajan al absurdo mundo de sus sueños para pedirle a Sandman que les conceda un deseo: la familia perfecta.",
@@ -1726,7 +1405,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "El Placer Es Mio",
-      "time": "12:30",
+      "time": "19:30",
       "rating": 6.1,
       "poster": "https://image.tmdb.org/t/p/w342/eeAhcXUZf1kqu3pq5cUjJfwLlhV.jpg",
       "summary": "",
@@ -1734,7 +1413,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "El Placer Es Mio",
-      "time": "22:00",
+      "time": "21:30",
       "rating": 6.1,
       "poster": "https://image.tmdb.org/t/p/w342/eeAhcXUZf1kqu3pq5cUjJfwLlhV.jpg",
       "summary": "",
