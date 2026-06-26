@@ -1823,5 +1823,43 @@
       "Acción",
       "Aventura"
     ]
+  },
+  "Welcome To The Jungle": {
+    "rating": 0.0,
+    "poster": "https://image.tmdb.org/t/p/w342/1JlfUuvvX5xLP2LIDah4JhWUtTx.jpg",
+    "summary": "Welcome to the Jungle",
+    "genres": [
+      "Acción",
+      "Comedia",
+      "Aventura"
+    ]
+  },
+  "Viaje Al País De Los Blancos": {
+    "rating": 0.0,
+    "poster": "https://image.tmdb.org/t/p/w342/f7RrxbquhqMhIINmnek3lkZdM76.jpg",
+    "summary": "Ousman Umar, un joven de Ghana fascinado por el misterioso “país de los blancos”, abandona su aldea y pone rumbo a Europa. Cuando llega a Barcelona, tras una dura travesía de varios años, el sueño que lo impulsó se desvanece entre el rechazo y la soledad. Hasta que conoce a Montse, que le acoge en su familia y le ofrece, además de amor y apoyo, la posibilidad de un futuro. Ousman no solo la aprovecha, sino que la transforma en algo mucho mayor, decidido a que todo su viaje haya tenido un sentido. ‘Viaje al País de los Blancos’ está basada en una extraordinaria historia real de superación y amor en la que la bondad de las personas prevalece en un mundo hostil.",
+    "genres": [
+      "Drama"
+    ]
+  },
+  "Letras Robadas": {
+    "rating": 7.3,
+    "poster": "https://image.tmdb.org/t/p/w342/oYqsgYCaPjCvd3NPE43yNbhgCtG.jpg",
+    "summary": "Rick, un cantante de bodas venido a menos, y Danny, una estrella de una 'boy band' en decadencia, forjan una amistad gracias a la música y a una improvisada sesión nocturna. Cuando Danny convierte la canción de Rick en un éxito, Rick se propone recuperar el reconocimiento que cree merecer.",
+    "genres": [
+      "Comedia",
+      "Música",
+      "Drama"
+    ]
+  },
+  "Jackass: Lo Mejor Para El Final": {
+    "rating": 0.0,
+    "poster": "https://image.tmdb.org/t/p/w342/8sVomxZ7OBnjaHA0C8lAvSq1fr.jpg",
+    "summary": "Johnny Knoxville y el resto del grupo regresan a la gran pantalla para una última y definitiva aventura. Con acrobacias completamente nuevas, junto a algunos de los momentos más inolvidables y las carcajadas más memorables del pasado, \"Jackass: Lo Mejor para el Final\" es una celebración salvaje y desenfrenada del espíritu gamberro y la camaradería que han definido a la saga durante más de 25 años. Un evento cinematográfico único que invita al público a reunirse y disfrutar de una despedida a la altura de uno de los fenómenos más icónicos de la comedia.",
+    "genres": [
+      "Acción",
+      "Comedia",
+      "Documental"
+    ]
   }
 }
