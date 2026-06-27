@@ -426,6 +426,66 @@ export const MOVIE_DATA = {
   "Cine Yelmo Las Arenas": [
     {
       "title": "Supergirl",
+      "time": "11:50",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/j1FSus4RoDJpY8zzfwjaqBktlUk.jpg",
+      "summary": "Tomando como referencia la reciente miniserie escrita por Tom King, esta película promete una visión diferente de lo que la mayoría piensa cuando le viene a la mente la prima de Superman. \"Veremos la diferencia entre Superman, que fue enviado a la Tierra y criado por unos padres cariñosos desde que era un bebé, y Supergirl, criada en una roca, una astilla de Krypton, y que vio morir y ser asesinados de formas terribles a todos los que la rodeaban durante los primeros 14 años de su vida para luego venir a la Tierra. Ella es mucho más dura y no es la Supergirl a la que estamos acostumbrados\".",
+      "genres": [
+        "Acción",
+        "Aventura",
+        "Ciencia ficción"
+      ]
+    },
+    {
+      "title": "Supergirl",
+      "time": "12:20",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/j1FSus4RoDJpY8zzfwjaqBktlUk.jpg",
+      "summary": "Tomando como referencia la reciente miniserie escrita por Tom King, esta película promete una visión diferente de lo que la mayoría piensa cuando le viene a la mente la prima de Superman. \"Veremos la diferencia entre Superman, que fue enviado a la Tierra y criado por unos padres cariñosos desde que era un bebé, y Supergirl, criada en una roca, una astilla de Krypton, y que vio morir y ser asesinados de formas terribles a todos los que la rodeaban durante los primeros 14 años de su vida para luego venir a la Tierra. Ella es mucho más dura y no es la Supergirl a la que estamos acostumbrados\".",
+      "genres": [
+        "Acción",
+        "Aventura",
+        "Ciencia ficción"
+      ]
+    },
+    {
+      "title": "Supergirl",
+      "time": "13:20",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/j1FSus4RoDJpY8zzfwjaqBktlUk.jpg",
+      "summary": "Tomando como referencia la reciente miniserie escrita por Tom King, esta película promete una visión diferente de lo que la mayoría piensa cuando le viene a la mente la prima de Superman. \"Veremos la diferencia entre Superman, que fue enviado a la Tierra y criado por unos padres cariñosos desde que era un bebé, y Supergirl, criada en una roca, una astilla de Krypton, y que vio morir y ser asesinados de formas terribles a todos los que la rodeaban durante los primeros 14 años de su vida para luego venir a la Tierra. Ella es mucho más dura y no es la Supergirl a la que estamos acostumbrados\".",
+      "genres": [
+        "Acción",
+        "Aventura",
+        "Ciencia ficción"
+      ]
+    },
+    {
+      "title": "Supergirl",
+      "time": "14:10",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/j1FSus4RoDJpY8zzfwjaqBktlUk.jpg",
+      "summary": "Tomando como referencia la reciente miniserie escrita por Tom King, esta película promete una visión diferente de lo que la mayoría piensa cuando le viene a la mente la prima de Superman. \"Veremos la diferencia entre Superman, que fue enviado a la Tierra y criado por unos padres cariñosos desde que era un bebé, y Supergirl, criada en una roca, una astilla de Krypton, y que vio morir y ser asesinados de formas terribles a todos los que la rodeaban durante los primeros 14 años de su vida para luego venir a la Tierra. Ella es mucho más dura y no es la Supergirl a la que estamos acostumbrados\".",
+      "genres": [
+        "Acción",
+        "Aventura",
+        "Ciencia ficción"
+      ]
+    },
+    {
+      "title": "Supergirl",
+      "time": "14:50",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/j1FSus4RoDJpY8zzfwjaqBktlUk.jpg",
+      "summary": "Tomando como referencia la reciente miniserie escrita por Tom King, esta película promete una visión diferente de lo que la mayoría piensa cuando le viene a la mente la prima de Superman. \"Veremos la diferencia entre Superman, que fue enviado a la Tierra y criado por unos padres cariñosos desde que era un bebé, y Supergirl, criada en una roca, una astilla de Krypton, y que vio morir y ser asesinados de formas terribles a todos los que la rodeaban durante los primeros 14 años de su vida para luego venir a la Tierra. Ella es mucho más dura y no es la Supergirl a la que estamos acostumbrados\".",
+      "genres": [
+        "Acción",
+        "Aventura",
+        "Ciencia ficción"
+      ]
+    },
+    {
+      "title": "Supergirl",
       "time": "15:40",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/j1FSus4RoDJpY8zzfwjaqBktlUk.jpg",
@@ -510,7 +570,51 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Obsession",
-      "time": "16:30",
+      "time": "11:55",
+      "rating": 7.9,
+      "poster": "https://image.tmdb.org/t/p/w342/ohi9xvbBUymM4SuIOSlt1xbLRQQ.jpg",
+      "summary": "El anhelo romántico desesperado de un chico por su amor platónico de toda la vida desencadena un siniestro hechizo: Niki se vuelve irracionalmente obsesiva hasta convertirse en la sombra de Bear. Una fantasía aparentemente inofensiva que se convertirá en una perturbadora pesadilla.",
+      "genres": [
+        "Terror",
+        "Suspense"
+      ]
+    },
+    {
+      "title": "Obsession",
+      "time": "12:55",
+      "rating": 7.9,
+      "poster": "https://image.tmdb.org/t/p/w342/ohi9xvbBUymM4SuIOSlt1xbLRQQ.jpg",
+      "summary": "El anhelo romántico desesperado de un chico por su amor platónico de toda la vida desencadena un siniestro hechizo: Niki se vuelve irracionalmente obsesiva hasta convertirse en la sombra de Bear. Una fantasía aparentemente inofensiva que se convertirá en una perturbadora pesadilla.",
+      "genres": [
+        "Terror",
+        "Suspense"
+      ]
+    },
+    {
+      "title": "Obsession",
+      "time": "14:15",
+      "rating": 7.9,
+      "poster": "https://image.tmdb.org/t/p/w342/ohi9xvbBUymM4SuIOSlt1xbLRQQ.jpg",
+      "summary": "El anhelo romántico desesperado de un chico por su amor platónico de toda la vida desencadena un siniestro hechizo: Niki se vuelve irracionalmente obsesiva hasta convertirse en la sombra de Bear. Una fantasía aparentemente inofensiva que se convertirá en una perturbadora pesadilla.",
+      "genres": [
+        "Terror",
+        "Suspense"
+      ]
+    },
+    {
+      "title": "Obsession",
+      "time": "15:15",
+      "rating": 7.9,
+      "poster": "https://image.tmdb.org/t/p/w342/ohi9xvbBUymM4SuIOSlt1xbLRQQ.jpg",
+      "summary": "El anhelo romántico desesperado de un chico por su amor platónico de toda la vida desencadena un siniestro hechizo: Niki se vuelve irracionalmente obsesiva hasta convertirse en la sombra de Bear. Una fantasía aparentemente inofensiva que se convertirá en una perturbadora pesadilla.",
+      "genres": [
+        "Terror",
+        "Suspense"
+      ]
+    },
+    {
+      "title": "Obsession",
+      "time": "16:40",
       "rating": 7.9,
       "poster": "https://image.tmdb.org/t/p/w342/ohi9xvbBUymM4SuIOSlt1xbLRQQ.jpg",
       "summary": "El anhelo romántico desesperado de un chico por su amor platónico de toda la vida desencadena un siniestro hechizo: Niki se vuelve irracionalmente obsesiva hasta convertirse en la sombra de Bear. Una fantasía aparentemente inofensiva que se convertirá en una perturbadora pesadilla.",
@@ -554,13 +658,72 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Obsession",
-      "time": "21:30",
+      "time": "21:20",
       "rating": 7.9,
       "poster": "https://image.tmdb.org/t/p/w342/ohi9xvbBUymM4SuIOSlt1xbLRQQ.jpg",
       "summary": "El anhelo romántico desesperado de un chico por su amor platónico de toda la vida desencadena un siniestro hechizo: Niki se vuelve irracionalmente obsesiva hasta convertirse en la sombra de Bear. Una fantasía aparentemente inofensiva que se convertirá en una perturbadora pesadilla.",
       "genres": [
         "Terror",
         "Suspense"
+      ]
+    },
+    {
+      "title": "Obsession",
+      "time": "22:30",
+      "rating": 7.9,
+      "poster": "https://image.tmdb.org/t/p/w342/ohi9xvbBUymM4SuIOSlt1xbLRQQ.jpg",
+      "summary": "El anhelo romántico desesperado de un chico por su amor platónico de toda la vida desencadena un siniestro hechizo: Niki se vuelve irracionalmente obsesiva hasta convertirse en la sombra de Bear. Una fantasía aparentemente inofensiva que se convertirá en una perturbadora pesadilla.",
+      "genres": [
+        "Terror",
+        "Suspense"
+      ]
+    },
+    {
+      "title": "Toy Story 5",
+      "time": "12:00",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/1yF3AztF3rQ8MZ8En8974AWo5zZ.jpg",
+      "summary": "Buzz, Woody, Jessie y el resto de la pandilla tienen un trabajo exponencialmente más difícil cuando se enfrentan a esta nueva amenaza para la hora de jugar: la tecnología.",
+      "genres": [
+        "Animación",
+        "Familia",
+        "Comedia"
+      ]
+    },
+    {
+      "title": "Toy Story 5",
+      "time": "12:30",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/1yF3AztF3rQ8MZ8En8974AWo5zZ.jpg",
+      "summary": "Buzz, Woody, Jessie y el resto de la pandilla tienen un trabajo exponencialmente más difícil cuando se enfrentan a esta nueva amenaza para la hora de jugar: la tecnología.",
+      "genres": [
+        "Animación",
+        "Familia",
+        "Comedia"
+      ]
+    },
+    {
+      "title": "Toy Story 5",
+      "time": "14:30",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/1yF3AztF3rQ8MZ8En8974AWo5zZ.jpg",
+      "summary": "Buzz, Woody, Jessie y el resto de la pandilla tienen un trabajo exponencialmente más difícil cuando se enfrentan a esta nueva amenaza para la hora de jugar: la tecnología.",
+      "genres": [
+        "Animación",
+        "Familia",
+        "Comedia"
+      ]
+    },
+    {
+      "title": "Toy Story 5",
+      "time": "15:00",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/1yF3AztF3rQ8MZ8En8974AWo5zZ.jpg",
+      "summary": "Buzz, Woody, Jessie y el resto de la pandilla tienen un trabajo exponencialmente más difícil cuando se enfrentan a esta nueva amenaza para la hora de jugar: la tecnología.",
+      "genres": [
+        "Animación",
+        "Familia",
+        "Comedia"
       ]
     },
     {
@@ -717,6 +880,30 @@ export const MOVIE_DATA = {
     },
     {
       "title": "El Día De La Revelación",
+      "time": "12:05",
+      "rating": 8.4,
+      "poster": "https://image.tmdb.org/t/p/w342/uGww4UrU3316Mld4p30dgdM09Du.jpg",
+      "summary": "Si descubrieras que no estamos solos, si alguien te abriera los ojos y te lo demostrase, ¿te asustarías? Este verano, la verdad será revelada a siete mil millones de personas. Llega... el día de la revelación.",
+      "genres": [
+        "Misterio",
+        "Ciencia ficción",
+        "Suspense"
+      ]
+    },
+    {
+      "title": "El Día De La Revelación",
+      "time": "12:45",
+      "rating": 8.4,
+      "poster": "https://image.tmdb.org/t/p/w342/uGww4UrU3316Mld4p30dgdM09Du.jpg",
+      "summary": "Si descubrieras que no estamos solos, si alguien te abriera los ojos y te lo demostrase, ¿te asustarías? Este verano, la verdad será revelada a siete mil millones de personas. Llega... el día de la revelación.",
+      "genres": [
+        "Misterio",
+        "Ciencia ficción",
+        "Suspense"
+      ]
+    },
+    {
+      "title": "El Día De La Revelación",
       "time": "15:45",
       "rating": 8.4,
       "poster": "https://image.tmdb.org/t/p/w342/uGww4UrU3316Mld4p30dgdM09Du.jpg",
@@ -787,14 +974,27 @@ export const MOVIE_DATA = {
       ]
     },
     {
-      "title": "Scary Movie",
-      "time": "17:10",
-      "rating": 5.8,
-      "poster": "https://image.tmdb.org/t/p/w342/vUPE82BWRZwq6M5Xc9UNuf8AffK.jpg",
-      "summary": "Veintiséis años después de conseguir escapar de un asesino enmascarado sospechosamente familiar, el Core Four están de vuelta en el punto de mira del asesino y ninguna película de terror está a salvo.",
+      "title": "Backrooms",
+      "time": "12:10",
+      "rating": 6.8,
+      "poster": "https://image.tmdb.org/t/p/w342/u3CfgxtnZRxbIm8JuVTzt3DXQhg.jpg",
+      "summary": "Una puerta extraña aparece en el sótano de una sala de exposición de muebles.",
       "genres": [
-        "Comedia",
-        "Terror"
+        "Terror",
+        "Misterio",
+        "Ciencia ficción"
+      ]
+    },
+    {
+      "title": "Backrooms",
+      "time": "14:40",
+      "rating": 6.8,
+      "poster": "https://image.tmdb.org/t/p/w342/u3CfgxtnZRxbIm8JuVTzt3DXQhg.jpg",
+      "summary": "Una puerta extraña aparece en el sótano de una sala de exposición de muebles.",
+      "genres": [
+        "Terror",
+        "Misterio",
+        "Ciencia ficción"
       ]
     },
     {
@@ -806,6 +1006,29 @@ export const MOVIE_DATA = {
       "genres": [
         "Terror",
         "Misterio",
+        "Ciencia ficción"
+      ]
+    },
+    {
+      "title": "Scary Movie",
+      "time": "17:10",
+      "rating": 5.8,
+      "poster": "https://image.tmdb.org/t/p/w342/vUPE82BWRZwq6M5Xc9UNuf8AffK.jpg",
+      "summary": "Veintiséis años después de conseguir escapar de un asesino enmascarado sospechosamente familiar, el Core Four están de vuelta en el punto de mira del asesino y ninguna película de terror está a salvo.",
+      "genres": [
+        "Comedia",
+        "Terror"
+      ]
+    },
+    {
+      "title": "The Mandalorian And Grogu",
+      "time": "13:10",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/aY7a38Ef0lNn0ohMpaG4ODUuPIG.jpg",
+      "summary": "Continuación de la serie \"The Mandalorian\" en forma de película. Un solitario cazarrecompensas a la fuga protege a un codiciado bebé alienígena mientras evita ser capturado en una galaxia anárquica y peligrosa.",
+      "genres": [
+        "Acción",
+        "Aventura",
         "Ciencia ficción"
       ]
     },
@@ -822,6 +1045,42 @@ export const MOVIE_DATA = {
     }
   ],
   "Cine Yelmo Premium Alisios": [
+    {
+      "title": "Supergirl",
+      "time": "12:30",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/j1FSus4RoDJpY8zzfwjaqBktlUk.jpg",
+      "summary": "Tomando como referencia la reciente miniserie escrita por Tom King, esta película promete una visión diferente de lo que la mayoría piensa cuando le viene a la mente la prima de Superman. \"Veremos la diferencia entre Superman, que fue enviado a la Tierra y criado por unos padres cariñosos desde que era un bebé, y Supergirl, criada en una roca, una astilla de Krypton, y que vio morir y ser asesinados de formas terribles a todos los que la rodeaban durante los primeros 14 años de su vida para luego venir a la Tierra. Ella es mucho más dura y no es la Supergirl a la que estamos acostumbrados\".",
+      "genres": [
+        "Acción",
+        "Aventura",
+        "Ciencia ficción"
+      ]
+    },
+    {
+      "title": "Supergirl",
+      "time": "13:30",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/j1FSus4RoDJpY8zzfwjaqBktlUk.jpg",
+      "summary": "Tomando como referencia la reciente miniserie escrita por Tom King, esta película promete una visión diferente de lo que la mayoría piensa cuando le viene a la mente la prima de Superman. \"Veremos la diferencia entre Superman, que fue enviado a la Tierra y criado por unos padres cariñosos desde que era un bebé, y Supergirl, criada en una roca, una astilla de Krypton, y que vio morir y ser asesinados de formas terribles a todos los que la rodeaban durante los primeros 14 años de su vida para luego venir a la Tierra. Ella es mucho más dura y no es la Supergirl a la que estamos acostumbrados\".",
+      "genres": [
+        "Acción",
+        "Aventura",
+        "Ciencia ficción"
+      ]
+    },
+    {
+      "title": "Supergirl",
+      "time": "13:45",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/j1FSus4RoDJpY8zzfwjaqBktlUk.jpg",
+      "summary": "Tomando como referencia la reciente miniserie escrita por Tom King, esta película promete una visión diferente de lo que la mayoría piensa cuando le viene a la mente la prima de Superman. \"Veremos la diferencia entre Superman, que fue enviado a la Tierra y criado por unos padres cariñosos desde que era un bebé, y Supergirl, criada en una roca, una astilla de Krypton, y que vio morir y ser asesinados de formas terribles a todos los que la rodeaban durante los primeros 14 años de su vida para luego venir a la Tierra. Ella es mucho más dura y no es la Supergirl a la que estamos acostumbrados\".",
+      "genres": [
+        "Acción",
+        "Aventura",
+        "Ciencia ficción"
+      ]
+    },
     {
       "title": "Supergirl",
       "time": "15:50",
@@ -880,6 +1139,39 @@ export const MOVIE_DATA = {
         "Acción",
         "Aventura",
         "Ciencia ficción"
+      ]
+    },
+    {
+      "title": "Obsession",
+      "time": "12:00",
+      "rating": 7.9,
+      "poster": "https://image.tmdb.org/t/p/w342/ohi9xvbBUymM4SuIOSlt1xbLRQQ.jpg",
+      "summary": "El anhelo romántico desesperado de un chico por su amor platónico de toda la vida desencadena un siniestro hechizo: Niki se vuelve irracionalmente obsesiva hasta convertirse en la sombra de Bear. Una fantasía aparentemente inofensiva que se convertirá en una perturbadora pesadilla.",
+      "genres": [
+        "Terror",
+        "Suspense"
+      ]
+    },
+    {
+      "title": "Obsession",
+      "time": "13:10",
+      "rating": 7.9,
+      "poster": "https://image.tmdb.org/t/p/w342/ohi9xvbBUymM4SuIOSlt1xbLRQQ.jpg",
+      "summary": "El anhelo romántico desesperado de un chico por su amor platónico de toda la vida desencadena un siniestro hechizo: Niki se vuelve irracionalmente obsesiva hasta convertirse en la sombra de Bear. Una fantasía aparentemente inofensiva que se convertirá en una perturbadora pesadilla.",
+      "genres": [
+        "Terror",
+        "Suspense"
+      ]
+    },
+    {
+      "title": "Obsession",
+      "time": "15:10",
+      "rating": 7.9,
+      "poster": "https://image.tmdb.org/t/p/w342/ohi9xvbBUymM4SuIOSlt1xbLRQQ.jpg",
+      "summary": "El anhelo romántico desesperado de un chico por su amor platónico de toda la vida desencadena un siniestro hechizo: Niki se vuelve irracionalmente obsesiva hasta convertirse en la sombra de Bear. Una fantasía aparentemente inofensiva que se convertirá en una perturbadora pesadilla.",
+      "genres": [
+        "Terror",
+        "Suspense"
       ]
     },
     {
@@ -957,6 +1249,54 @@ export const MOVIE_DATA = {
       "genres": [
         "Terror",
         "Suspense"
+      ]
+    },
+    {
+      "title": "Toy Story 5",
+      "time": "12:10",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/1yF3AztF3rQ8MZ8En8974AWo5zZ.jpg",
+      "summary": "Buzz, Woody, Jessie y el resto de la pandilla tienen un trabajo exponencialmente más difícil cuando se enfrentan a esta nueva amenaza para la hora de jugar: la tecnología.",
+      "genres": [
+        "Animación",
+        "Familia",
+        "Comedia"
+      ]
+    },
+    {
+      "title": "Toy Story 5",
+      "time": "12:45",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/1yF3AztF3rQ8MZ8En8974AWo5zZ.jpg",
+      "summary": "Buzz, Woody, Jessie y el resto de la pandilla tienen un trabajo exponencialmente más difícil cuando se enfrentan a esta nueva amenaza para la hora de jugar: la tecnología.",
+      "genres": [
+        "Animación",
+        "Familia",
+        "Comedia"
+      ]
+    },
+    {
+      "title": "Toy Story 5",
+      "time": "13:20",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/1yF3AztF3rQ8MZ8En8974AWo5zZ.jpg",
+      "summary": "Buzz, Woody, Jessie y el resto de la pandilla tienen un trabajo exponencialmente más difícil cuando se enfrentan a esta nueva amenaza para la hora de jugar: la tecnología.",
+      "genres": [
+        "Animación",
+        "Familia",
+        "Comedia"
+      ]
+    },
+    {
+      "title": "Toy Story 5",
+      "time": "14:40",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/1yF3AztF3rQ8MZ8En8974AWo5zZ.jpg",
+      "summary": "Buzz, Woody, Jessie y el resto de la pandilla tienen un trabajo exponencialmente más difícil cuando se enfrentan a esta nueva amenaza para la hora de jugar: la tecnología.",
+      "genres": [
+        "Animación",
+        "Familia",
+        "Comedia"
       ]
     },
     {
@@ -1101,6 +1441,18 @@ export const MOVIE_DATA = {
         "Animación",
         "Familia",
         "Comedia"
+      ]
+    },
+    {
+      "title": "El Día De La Revelación",
+      "time": "12:20",
+      "rating": 8.4,
+      "poster": "https://image.tmdb.org/t/p/w342/uGww4UrU3316Mld4p30dgdM09Du.jpg",
+      "summary": "Si descubrieras que no estamos solos, si alguien te abriera los ojos y te lo demostrase, ¿te asustarías? Este verano, la verdad será revelada a siete mil millones de personas. Llega... el día de la revelación.",
+      "genres": [
+        "Misterio",
+        "Ciencia ficción",
+        "Suspense"
       ]
     },
     {
@@ -1273,6 +1625,18 @@ export const MOVIE_DATA = {
     {
       "title": "Toy Story 5",
       "time": "18:00",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/1yF3AztF3rQ8MZ8En8974AWo5zZ.jpg",
+      "summary": "Buzz, Woody, Jessie y el resto de la pandilla tienen un trabajo exponencialmente más difícil cuando se enfrentan a esta nueva amenaza para la hora de jugar: la tecnología.",
+      "genres": [
+        "Animación",
+        "Familia",
+        "Comedia"
+      ]
+    },
+    {
+      "title": "Toy Story 5",
+      "time": "19:30",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/1yF3AztF3rQ8MZ8En8974AWo5zZ.jpg",
       "summary": "Buzz, Woody, Jessie y el resto de la pandilla tienen un trabajo exponencialmente más difícil cuando se enfrentan a esta nueva amenaza para la hora de jugar: la tecnología.",
