@@ -570,29 +570,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Obsession",
-      "time": "11:55",
-      "rating": 7.9,
-      "poster": "https://image.tmdb.org/t/p/w342/ohi9xvbBUymM4SuIOSlt1xbLRQQ.jpg",
-      "summary": "El anhelo romántico desesperado de un chico por su amor platónico de toda la vida desencadena un siniestro hechizo: Niki se vuelve irracionalmente obsesiva hasta convertirse en la sombra de Bear. Una fantasía aparentemente inofensiva que se convertirá en una perturbadora pesadilla.",
-      "genres": [
-        "Terror",
-        "Suspense"
-      ]
-    },
-    {
-      "title": "Obsession",
       "time": "12:55",
-      "rating": 7.9,
-      "poster": "https://image.tmdb.org/t/p/w342/ohi9xvbBUymM4SuIOSlt1xbLRQQ.jpg",
-      "summary": "El anhelo romántico desesperado de un chico por su amor platónico de toda la vida desencadena un siniestro hechizo: Niki se vuelve irracionalmente obsesiva hasta convertirse en la sombra de Bear. Una fantasía aparentemente inofensiva que se convertirá en una perturbadora pesadilla.",
-      "genres": [
-        "Terror",
-        "Suspense"
-      ]
-    },
-    {
-      "title": "Obsession",
-      "time": "14:15",
       "rating": 7.9,
       "poster": "https://image.tmdb.org/t/p/w342/ohi9xvbBUymM4SuIOSlt1xbLRQQ.jpg",
       "summary": "El anhelo romántico desesperado de un chico por su amor platónico de toda la vida desencadena un siniestro hechizo: Niki se vuelve irracionalmente obsesiva hasta convertirse en la sombra de Bear. Una fantasía aparentemente inofensiva que se convertirá en una perturbadora pesadilla.",
@@ -1021,18 +999,6 @@ export const MOVIE_DATA = {
       ]
     },
     {
-      "title": "The Mandalorian And Grogu",
-      "time": "13:10",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/aY7a38Ef0lNn0ohMpaG4ODUuPIG.jpg",
-      "summary": "Continuación de la serie \"The Mandalorian\" en forma de película. Un solitario cazarrecompensas a la fuga protege a un codiciado bebé alienígena mientras evita ser capturado en una galaxia anárquica y peligrosa.",
-      "genres": [
-        "Acción",
-        "Aventura",
-        "Ciencia ficción"
-      ]
-    },
-    {
       "title": "Michael",
       "time": "17:50",
       "rating": 0.0,
@@ -1221,28 +1187,6 @@ export const MOVIE_DATA = {
     {
       "title": "Obsession",
       "time": "20:40",
-      "rating": 7.9,
-      "poster": "https://image.tmdb.org/t/p/w342/ohi9xvbBUymM4SuIOSlt1xbLRQQ.jpg",
-      "summary": "El anhelo romántico desesperado de un chico por su amor platónico de toda la vida desencadena un siniestro hechizo: Niki se vuelve irracionalmente obsesiva hasta convertirse en la sombra de Bear. Una fantasía aparentemente inofensiva que se convertirá en una perturbadora pesadilla.",
-      "genres": [
-        "Terror",
-        "Suspense"
-      ]
-    },
-    {
-      "title": "Obsession",
-      "time": "23:00",
-      "rating": 7.9,
-      "poster": "https://image.tmdb.org/t/p/w342/ohi9xvbBUymM4SuIOSlt1xbLRQQ.jpg",
-      "summary": "El anhelo romántico desesperado de un chico por su amor platónico de toda la vida desencadena un siniestro hechizo: Niki se vuelve irracionalmente obsesiva hasta convertirse en la sombra de Bear. Una fantasía aparentemente inofensiva que se convertirá en una perturbadora pesadilla.",
-      "genres": [
-        "Terror",
-        "Suspense"
-      ]
-    },
-    {
-      "title": "Obsession",
-      "time": "23:30",
       "rating": 7.9,
       "poster": "https://image.tmdb.org/t/p/w342/ohi9xvbBUymM4SuIOSlt1xbLRQQ.jpg",
       "summary": "El anhelo romántico desesperado de un chico por su amor platónico de toda la vida desencadena un siniestro hechizo: Niki se vuelve irracionalmente obsesiva hasta convertirse en la sombra de Bear. Una fantasía aparentemente inofensiva que se convertirá en una perturbadora pesadilla.",
@@ -1529,13 +1473,25 @@ export const MOVIE_DATA = {
   "Artesiete Las Terrazas": [
     {
       "title": "Backrooms",
-      "time": "22:50",
+      "time": "21:45",
       "rating": 6.8,
       "poster": "https://image.tmdb.org/t/p/w342/u3CfgxtnZRxbIm8JuVTzt3DXQhg.jpg",
       "summary": "Una puerta extraña aparece en el sótano de una sala de exposición de muebles.",
       "genres": [
         "Terror",
         "Misterio",
+        "Ciencia ficción"
+      ]
+    },
+    {
+      "title": "Masters Del Universo",
+      "time": "12:45",
+      "rating": 7.6,
+      "poster": "https://image.tmdb.org/t/p/w342/hNLKuennkGtlWvqU6Ko4Z6X8JHg.jpg",
+      "summary": "En las regiones más lejanas del espacio, el reino de Eternia está amenazado por el villano Skeletor y sus traviesos ejércitos de oscuridad. Para salvar el reino de su padre y proteger las vidas de sus seres queridos, el joven príncipe Adam tiene que recuperar una espada mítica y convertirse en el legendario guerrero conocido como \"He-Man\".",
+      "genres": [
+        "Acción",
+        "Fantasía",
         "Ciencia ficción"
       ]
     },
@@ -1552,6 +1508,18 @@ export const MOVIE_DATA = {
     },
     {
       "title": "El Dia De La Revelacion",
+      "time": "12:15",
+      "rating": 7.5,
+      "poster": "https://image.tmdb.org/t/p/w342/uGww4UrU3316Mld4p30dgdM09Du.jpg",
+      "summary": "Si descubrieras que no estamos solos, si alguien te abriera los ojos y te lo demostrase, ¿te asustarías? Este verano, la verdad será revelada a siete mil millones de personas. Llega... el día de la revelación.",
+      "genres": [
+        "Ciencia ficción",
+        "Suspense",
+        "Acción"
+      ]
+    },
+    {
+      "title": "El Dia De La Revelacion",
       "time": "18:40",
       "rating": 7.5,
       "poster": "https://image.tmdb.org/t/p/w342/uGww4UrU3316Mld4p30dgdM09Du.jpg",
@@ -1564,7 +1532,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "El Dia De La Revelacion",
-      "time": "20:20",
+      "time": "20:10",
       "rating": 7.5,
       "poster": "https://image.tmdb.org/t/p/w342/uGww4UrU3316Mld4p30dgdM09Du.jpg",
       "summary": "Si descubrieras que no estamos solos, si alguien te abriera los ojos y te lo demostrase, ¿te asustarías? Este verano, la verdad será revelada a siete mil millones de personas. Llega... el día de la revelación.",
@@ -1575,15 +1543,15 @@ export const MOVIE_DATA = {
       ]
     },
     {
-      "title": "El Dia De La Revelacion",
-      "time": "22:15",
-      "rating": 7.5,
-      "poster": "https://image.tmdb.org/t/p/w342/uGww4UrU3316Mld4p30dgdM09Du.jpg",
-      "summary": "Si descubrieras que no estamos solos, si alguien te abriera los ojos y te lo demostrase, ¿te asustarías? Este verano, la verdad será revelada a siete mil millones de personas. Llega... el día de la revelación.",
+      "title": "Toy Story 5",
+      "time": "12:30",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/1yF3AztF3rQ8MZ8En8974AWo5zZ.jpg",
+      "summary": "Buzz, Woody, Jessie y el resto de la pandilla tienen un trabajo exponencialmente más difícil cuando se enfrentan a esta nueva amenaza para la hora de jugar: la tecnología.",
       "genres": [
-        "Ciencia ficción",
-        "Suspense",
-        "Acción"
+        "Animación",
+        "Familia",
+        "Comedia"
       ]
     },
     {
@@ -1672,6 +1640,18 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Jackass: Lo Mejor Para El Final",
+      "time": "12:30",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/8sVomxZ7OBnjaHA0C8lAvSq1fr.jpg",
+      "summary": "Johnny Knoxville y el resto del grupo regresan a la gran pantalla para una última y definitiva aventura. Con acrobacias completamente nuevas, junto a algunos de los momentos más inolvidables y las carcajadas más memorables del pasado, \"Jackass: Lo Mejor para el Final\" es una celebración salvaje y desenfrenada del espíritu gamberro y la camaradería que han definido a la saga durante más de 25 años. Un evento cinematográfico único que invita al público a reunirse y disfrutar de una despedida a la altura de uno de los fenómenos más icónicos de la comedia.",
+      "genres": [
+        "Acción",
+        "Comedia",
+        "Documental"
+      ]
+    },
+    {
+      "title": "Jackass: Lo Mejor Para El Final",
       "time": "18:00",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/8sVomxZ7OBnjaHA0C8lAvSq1fr.jpg",
@@ -1692,6 +1672,17 @@ export const MOVIE_DATA = {
         "Acción",
         "Comedia",
         "Documental"
+      ]
+    },
+    {
+      "title": "Obsession",
+      "time": "12:15",
+      "rating": 7.9,
+      "poster": "https://image.tmdb.org/t/p/w342/ohi9xvbBUymM4SuIOSlt1xbLRQQ.jpg",
+      "summary": "El anhelo romántico desesperado de un chico por su amor platónico de toda la vida desencadena un siniestro hechizo: Niki se vuelve irracionalmente obsesiva hasta convertirse en la sombra de Bear. Una fantasía aparentemente inofensiva que se convertirá en una perturbadora pesadilla.",
+      "genres": [
+        "Terror",
+        "Suspense"
       ]
     },
     {
@@ -1728,14 +1719,27 @@ export const MOVIE_DATA = {
       ]
     },
     {
-      "title": "Obsession",
-      "time": "22:00",
-      "rating": 7.9,
-      "poster": "https://image.tmdb.org/t/p/w342/ohi9xvbBUymM4SuIOSlt1xbLRQQ.jpg",
-      "summary": "El anhelo romántico desesperado de un chico por su amor platónico de toda la vida desencadena un siniestro hechizo: Niki se vuelve irracionalmente obsesiva hasta convertirse en la sombra de Bear. Una fantasía aparentemente inofensiva que se convertirá en una perturbadora pesadilla.",
+      "title": "Supergirl",
+      "time": "12:00",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/j1FSus4RoDJpY8zzfwjaqBktlUk.jpg",
+      "summary": "Tomando como referencia la reciente miniserie escrita por Tom King, esta película promete una visión diferente de lo que la mayoría piensa cuando le viene a la mente la prima de Superman. \"Veremos la diferencia entre Superman, que fue enviado a la Tierra y criado por unos padres cariñosos desde que era un bebé, y Supergirl, criada en una roca, una astilla de Krypton, y que vio morir y ser asesinados de formas terribles a todos los que la rodeaban durante los primeros 14 años de su vida para luego venir a la Tierra. Ella es mucho más dura y no es la Supergirl a la que estamos acostumbrados\".",
       "genres": [
-        "Terror",
-        "Suspense"
+        "Acción",
+        "Aventura",
+        "Ciencia ficción"
+      ]
+    },
+    {
+      "title": "Supergirl",
+      "time": "12:45",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/j1FSus4RoDJpY8zzfwjaqBktlUk.jpg",
+      "summary": "Tomando como referencia la reciente miniserie escrita por Tom King, esta película promete una visión diferente de lo que la mayoría piensa cuando le viene a la mente la prima de Superman. \"Veremos la diferencia entre Superman, que fue enviado a la Tierra y criado por unos padres cariñosos desde que era un bebé, y Supergirl, criada en una roca, una astilla de Krypton, y que vio morir y ser asesinados de formas terribles a todos los que la rodeaban durante los primeros 14 años de su vida para luego venir a la Tierra. Ella es mucho más dura y no es la Supergirl a la que estamos acostumbrados\".",
+      "genres": [
+        "Acción",
+        "Aventura",
+        "Ciencia ficción"
       ]
     },
     {
@@ -1801,18 +1805,6 @@ export const MOVIE_DATA = {
     {
       "title": "Supergirl",
       "time": "21:30",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/j1FSus4RoDJpY8zzfwjaqBktlUk.jpg",
-      "summary": "Tomando como referencia la reciente miniserie escrita por Tom King, esta película promete una visión diferente de lo que la mayoría piensa cuando le viene a la mente la prima de Superman. \"Veremos la diferencia entre Superman, que fue enviado a la Tierra y criado por unos padres cariñosos desde que era un bebé, y Supergirl, criada en una roca, una astilla de Krypton, y que vio morir y ser asesinados de formas terribles a todos los que la rodeaban durante los primeros 14 años de su vida para luego venir a la Tierra. Ella es mucho más dura y no es la Supergirl a la que estamos acostumbrados\".",
-      "genres": [
-        "Acción",
-        "Aventura",
-        "Ciencia ficción"
-      ]
-    },
-    {
-      "title": "Supergirl",
-      "time": "22:15",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/j1FSus4RoDJpY8zzfwjaqBktlUk.jpg",
       "summary": "Tomando como referencia la reciente miniserie escrita por Tom King, esta película promete una visión diferente de lo que la mayoría piensa cuando le viene a la mente la prima de Superman. \"Veremos la diferencia entre Superman, que fue enviado a la Tierra y criado por unos padres cariñosos desde que era un bebé, y Supergirl, criada en una roca, una astilla de Krypton, y que vio morir y ser asesinados de formas terribles a todos los que la rodeaban durante los primeros 14 años de su vida para luego venir a la Tierra. Ella es mucho más dura y no es la Supergirl a la que estamos acostumbrados\".",
