@@ -1,6 +1,14 @@
 export const MOVIE_DATA = {
   "Cine Yelmo Vecindario": [
     {
+      "title": "España Vs Austria. Copa Mundial De La Fifa 2026",
+      "time": "19:40",
+      "rating": 0,
+      "poster": null,
+      "summary": "El Mundial se vive en directo y en pantalla grande.\n\nEl próximo jueves 2 de julio de 2026, a las 21:00 h, la emoción del fútbol mundial aterriza en Los Ángeles, pero puedes vivirla como si estuvieras allí en Cine Yelmo. En el espectacular SoFi Stadium, España se enfrenta a Austria en un duelo clave, los dieciseisavos de la Copa Mundial de la FIFA 2026™. Acompaña a la Selección Española, siente cada jugada y comparte la pasión del Mundial rodeado de afición.",
+      "genres": []
+    },
+    {
       "title": "Minions & Monsters",
       "time": "16:00",
       "rating": 0.0,
@@ -62,18 +70,6 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Minions & Monsters",
-      "time": "18:30",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/7DUzo8Ys7BfmZpqnzIwG4qA0egl.jpg",
-      "summary": "La historia de cómo los Minions conquistaron Hollywood, se convirtieron en estrellas de cine, lo perdieron todo, desataron monstruos en el mundo y luego se unieron para intentar salvar al planeta del caos que acababan de crear.",
-      "genres": [
-        "Aventura",
-        "Animación",
-        "Comedia"
-      ]
-    },
-    {
-      "title": "Minions & Monsters",
       "time": "19:00",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/7DUzo8Ys7BfmZpqnzIwG4qA0egl.jpg",
@@ -110,18 +106,6 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Minions & Monsters",
-      "time": "20:30",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/7DUzo8Ys7BfmZpqnzIwG4qA0egl.jpg",
-      "summary": "La historia de cómo los Minions conquistaron Hollywood, se convirtieron en estrellas de cine, lo perdieron todo, desataron monstruos en el mundo y luego se unieron para intentar salvar al planeta del caos que acababan de crear.",
-      "genres": [
-        "Aventura",
-        "Animación",
-        "Comedia"
-      ]
-    },
-    {
-      "title": "Minions & Monsters",
       "time": "21:00",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/7DUzo8Ys7BfmZpqnzIwG4qA0egl.jpg",
@@ -145,15 +129,15 @@ export const MOVIE_DATA = {
       ]
     },
     {
-      "title": "Minions & Monsters",
-      "time": "22:30",
+      "title": "Jackass: Lo Mejor Para El Final",
+      "time": "22:40",
       "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/7DUzo8Ys7BfmZpqnzIwG4qA0egl.jpg",
-      "summary": "La historia de cómo los Minions conquistaron Hollywood, se convirtieron en estrellas de cine, lo perdieron todo, desataron monstruos en el mundo y luego se unieron para intentar salvar al planeta del caos que acababan de crear.",
+      "poster": "https://image.tmdb.org/t/p/w342/8sVomxZ7OBnjaHA0C8lAvSq1fr.jpg",
+      "summary": "Johnny Knoxville y el resto del grupo regresan a la gran pantalla para una última y definitiva aventura. Con acrobacias completamente nuevas, junto a algunos de los momentos más inolvidables y las carcajadas más memorables del pasado, \"Jackass: Lo Mejor para el Final\" es una celebración salvaje y desenfrenada del espíritu gamberro y la camaradería que han definido a la saga durante más de 25 años. Un evento cinematográfico único que invita al público a reunirse y disfrutar de una despedida a la altura de uno de los fenómenos más icónicos de la comedia.",
       "genres": [
-        "Aventura",
-        "Animación",
-        "Comedia"
+        "Acción",
+        "Comedia",
+        "Documental"
       ]
     },
     {
@@ -358,7 +342,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Toy Story 5",
-      "time": "22:05",
+      "time": "22:00",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/1yF3AztF3rQ8MZ8En8974AWo5zZ.jpg",
       "summary": "Buzz, Woody, Jessie y el resto de la pandilla tienen un trabajo exponencialmente más difícil cuando se enfrentan a esta nueva amenaza para la hora de jugar: la tecnología.",
@@ -475,6 +459,14 @@ export const MOVIE_DATA = {
     }
   ],
   "Cine Yelmo Las Arenas": [
+    {
+      "title": "España Vs Austria. Copa Mundial De La Fifa 2026",
+      "time": "19:40",
+      "rating": 0,
+      "poster": null,
+      "summary": "El Mundial se vive en directo y en pantalla grande.\n\nEl próximo jueves 2 de julio de 2026, a las 21:00 h, la emoción del fútbol mundial aterriza en Los Ángeles, pero puedes vivirla como si estuvieras allí en Cine Yelmo. En el espectacular SoFi Stadium, España se enfrenta a Austria en un duelo clave, los dieciseisavos de la Copa Mundial de la FIFA 2026™. Acompaña a la Selección Española, siente cada jugada y comparte la pasión del Mundial rodeado de afición.",
+      "genres": []
+    },
     {
       "title": "Minions & Monsters",
       "time": "15:50",
@@ -644,16 +636,6 @@ export const MOVIE_DATA = {
       ]
     },
     {
-      "title": "El Amigo Silencioso (Efecto Cinema)",
-      "time": "19:00",
-      "rating": 7.1,
-      "poster": "https://image.tmdb.org/t/p/w342/7LDGx6T3LpkTOfmXt3aAUITUKZm.jpg",
-      "summary": "En el corazón de un jardín botánico en una ciudad universitaria medieval de Alemania se alza un majestuoso ginkgo. Este testigo silencioso ha observado durante más de un siglo los tranquilos ritmos de la transformación a lo largo de tres vidas humanas. En 2020, un neurocientífico de Hong Kong, explorando la mente de los bebés, inicia un experimento inesperado con el viejo árbol. En 1972, un joven estudiante cambia profundamente por el simple acto de observar y conectar con un geranio. En 1908, la primera estudiante universitaria descubre, a través del lente de la fotografía, los patrones sagrados del universo ocultos en las plantas más humildes. Seguimos sus torpes e inexplicables intentos de conectar -cada uno profundamente arraigado en su propio presente- mientras son transformados por el poder silencioso, perdurable y misterioso de la naturaleza. El antiguo ginkgo nos acerca a lo que significa ser humano: a nuestro anhelo de pertenencia.",
-      "genres": [
-        "Drama"
-      ]
-    },
-    {
       "title": "Supergirl",
       "time": "15:45",
       "rating": 0.0,
@@ -699,17 +681,6 @@ export const MOVIE_DATA = {
         "Acción",
         "Aventura",
         "Ciencia ficción"
-      ]
-    },
-    {
-      "title": "Obsession",
-      "time": "16:30",
-      "rating": 7.9,
-      "poster": "https://image.tmdb.org/t/p/w342/ohi9xvbBUymM4SuIOSlt1xbLRQQ.jpg",
-      "summary": "El anhelo romántico desesperado de un chico por su amor platónico de toda la vida desencadena un siniestro hechizo: Niki se vuelve irracionalmente obsesiva hasta convertirse en la sombra de Bear. Una fantasía aparentemente inofensiva que se convertirá en una perturbadora pesadilla.",
-      "genres": [
-        "Terror",
-        "Suspense"
       ]
     },
     {
@@ -877,7 +848,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Scary Movie",
-      "time": "15:40",
+      "time": "16:30",
       "rating": 5.8,
       "poster": "https://image.tmdb.org/t/p/w342/vUPE82BWRZwq6M5Xc9UNuf8AffK.jpg",
       "summary": "Veintiséis años después de conseguir escapar de un asesino enmascarado sospechosamente familiar, el Core Four están de vuelta en el punto de mira del asesino y ninguna película de terror está a salvo.",
@@ -888,7 +859,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Scary Movie",
-      "time": "22:10",
+      "time": "22:35",
       "rating": 5.8,
       "poster": "https://image.tmdb.org/t/p/w342/vUPE82BWRZwq6M5Xc9UNuf8AffK.jpg",
       "summary": "Veintiséis años después de conseguir escapar de un asesino enmascarado sospechosamente familiar, el Core Four están de vuelta en el punto de mira del asesino y ninguna película de terror está a salvo.",
@@ -910,6 +881,14 @@ export const MOVIE_DATA = {
     }
   ],
   "Cine Yelmo Premium Alisios": [
+    {
+      "title": "España Vs Austria. Copa Mundial De La Fifa 2026",
+      "time": "19:40",
+      "rating": 0,
+      "poster": null,
+      "summary": "El Mundial se vive en directo y en pantalla grande.\n\nEl próximo jueves 2 de julio de 2026, a las 21:00 h, la emoción del fútbol mundial aterriza en Los Ángeles, pero puedes vivirla como si estuvieras allí en Cine Yelmo. En el espectacular SoFi Stadium, España se enfrenta a Austria en un duelo clave, los dieciseisavos de la Copa Mundial de la FIFA 2026™. Acompaña a la Selección Española, siente cada jugada y comparte la pasión del Mundial rodeado de afición.",
+      "genres": []
+    },
     {
       "title": "Minions & Monsters",
       "time": "16:00",
@@ -1020,7 +999,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Supergirl",
-      "time": "15:50",
+      "time": "15:45",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/j1FSus4RoDJpY8zzfwjaqBktlUk.jpg",
       "summary": "Tomando como referencia la reciente miniserie escrita por Tom King, esta película promete una visión diferente de lo que la mayoría piensa cuando le viene a la mente la prima de Superman. \"Veremos la diferencia entre Superman, que fue enviado a la Tierra y criado por unos padres cariñosos desde que era un bebé, y Supergirl, criada en una roca, una astilla de Krypton, y que vio morir y ser asesinados de formas terribles a todos los que la rodeaban durante los primeros 14 años de su vida para luego venir a la Tierra. Ella es mucho más dura y no es la Supergirl a la que estamos acostumbrados\".",
@@ -1032,7 +1011,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Supergirl",
-      "time": "18:10",
+      "time": "18:05",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/j1FSus4RoDJpY8zzfwjaqBktlUk.jpg",
       "summary": "Tomando como referencia la reciente miniserie escrita por Tom King, esta película promete una visión diferente de lo que la mayoría piensa cuando le viene a la mente la prima de Superman. \"Veremos la diferencia entre Superman, que fue enviado a la Tierra y criado por unos padres cariñosos desde que era un bebé, y Supergirl, criada en una roca, una astilla de Krypton, y que vio morir y ser asesinados de formas terribles a todos los que la rodeaban durante los primeros 14 años de su vida para luego venir a la Tierra. Ella es mucho más dura y no es la Supergirl a la que estamos acostumbrados\".",
@@ -1044,7 +1023,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Supergirl",
-      "time": "20:30",
+      "time": "20:20",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/j1FSus4RoDJpY8zzfwjaqBktlUk.jpg",
       "summary": "Tomando como referencia la reciente miniserie escrita por Tom King, esta película promete una visión diferente de lo que la mayoría piensa cuando le viene a la mente la prima de Superman. \"Veremos la diferencia entre Superman, que fue enviado a la Tierra y criado por unos padres cariñosos desde que era un bebé, y Supergirl, criada en una roca, una astilla de Krypton, y que vio morir y ser asesinados de formas terribles a todos los que la rodeaban durante los primeros 14 años de su vida para luego venir a la Tierra. Ella es mucho más dura y no es la Supergirl a la que estamos acostumbrados\".",
@@ -1056,7 +1035,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Supergirl",
-      "time": "22:45",
+      "time": "22:40",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/j1FSus4RoDJpY8zzfwjaqBktlUk.jpg",
       "summary": "Tomando como referencia la reciente miniserie escrita por Tom King, esta película promete una visión diferente de lo que la mayoría piensa cuando le viene a la mente la prima de Superman. \"Veremos la diferencia entre Superman, que fue enviado a la Tierra y criado por unos padres cariñosos desde que era un bebé, y Supergirl, criada en una roca, una astilla de Krypton, y que vio morir y ser asesinados de formas terribles a todos los que la rodeaban durante los primeros 14 años de su vida para luego venir a la Tierra. Ella es mucho más dura y no es la Supergirl a la que estamos acostumbrados\".",
@@ -1068,7 +1047,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Obsession",
-      "time": "16:10",
+      "time": "16:15",
       "rating": 7.9,
       "poster": "https://image.tmdb.org/t/p/w342/ohi9xvbBUymM4SuIOSlt1xbLRQQ.jpg",
       "summary": "El anhelo romántico desesperado de un chico por su amor platónico de toda la vida desencadena un siniestro hechizo: Niki se vuelve irracionalmente obsesiva hasta convertirse en la sombra de Bear. Una fantasía aparentemente inofensiva que se convertirá en una perturbadora pesadilla.",
@@ -1101,7 +1080,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Toy Story 5",
-      "time": "16:05",
+      "time": "16:10",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/1yF3AztF3rQ8MZ8En8974AWo5zZ.jpg",
       "summary": "Buzz, Woody, Jessie y el resto de la pandilla tienen un trabajo exponencialmente más difícil cuando se enfrentan a esta nueva amenaza para la hora de jugar: la tecnología.",
@@ -1126,18 +1105,6 @@ export const MOVIE_DATA = {
     {
       "title": "Toy Story 5",
       "time": "18:20",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/1yF3AztF3rQ8MZ8En8974AWo5zZ.jpg",
-      "summary": "Buzz, Woody, Jessie y el resto de la pandilla tienen un trabajo exponencialmente más difícil cuando se enfrentan a esta nueva amenaza para la hora de jugar: la tecnología.",
-      "genres": [
-        "Animación",
-        "Familia",
-        "Comedia"
-      ]
-    },
-    {
-      "title": "Toy Story 5",
-      "time": "19:10",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/1yF3AztF3rQ8MZ8En8974AWo5zZ.jpg",
       "summary": "Buzz, Woody, Jessie y el resto de la pandilla tienen un trabajo exponencialmente más difícil cuando se enfrentan a esta nueva amenaza para la hora de jugar: la tecnología.",
@@ -1209,7 +1176,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Michael",
-      "time": "21:25",
+      "time": "22:35",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/2uK36ujoDXOfNiJ5Yp3raVprB51.jpg",
       "summary": "El viaje de Michael Jackson más allá de la música, desde el descubrimiento de su extraordinario talento como líder de los Jackson Five hasta convertirse en una visionaria estrella cuya ambición creativa despertó un incansable afán por consagrarse como el mayor icono de la industria del entretenimiento.",
@@ -1246,18 +1213,6 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Toy Story 5",
-      "time": "16:00",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/1yF3AztF3rQ8MZ8En8974AWo5zZ.jpg",
-      "summary": "Buzz, Woody, Jessie y el resto de la pandilla tienen un trabajo exponencialmente más difícil cuando se enfrentan a esta nueva amenaza para la hora de jugar: la tecnología.",
-      "genres": [
-        "Animación",
-        "Familia",
-        "Comedia"
-      ]
-    },
-    {
-      "title": "Toy Story 5",
       "time": "17:00",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/1yF3AztF3rQ8MZ8En8974AWo5zZ.jpg",
@@ -1270,7 +1225,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Toy Story 5",
-      "time": "18:00",
+      "time": "19:00",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/1yF3AztF3rQ8MZ8En8974AWo5zZ.jpg",
       "summary": "Buzz, Woody, Jessie y el resto de la pandilla tienen un trabajo exponencialmente más difícil cuando se enfrentan a esta nueva amenaza para la hora de jugar: la tecnología.",
@@ -1282,19 +1237,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Toy Story 5",
-      "time": "20:00",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/1yF3AztF3rQ8MZ8En8974AWo5zZ.jpg",
-      "summary": "Buzz, Woody, Jessie y el resto de la pandilla tienen un trabajo exponencialmente más difícil cuando se enfrentan a esta nueva amenaza para la hora de jugar: la tecnología.",
-      "genres": [
-        "Animación",
-        "Familia",
-        "Comedia"
-      ]
-    },
-    {
-      "title": "Toy Story 5",
-      "time": "22:00",
+      "time": "21:00",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/1yF3AztF3rQ8MZ8En8974AWo5zZ.jpg",
       "summary": "Buzz, Woody, Jessie y el resto de la pandilla tienen un trabajo exponencialmente más difícil cuando se enfrentan a esta nueva amenaza para la hora de jugar: la tecnología.",
@@ -1318,7 +1261,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Obsession",
-      "time": "16:15",
+      "time": "17:00",
       "rating": 7.9,
       "poster": "https://image.tmdb.org/t/p/w342/ohi9xvbBUymM4SuIOSlt1xbLRQQ.jpg",
       "summary": "El anhelo romántico desesperado de un chico por su amor platónico de toda la vida desencadena un siniestro hechizo: Niki se vuelve irracionalmente obsesiva hasta convertirse en la sombra de Bear. Una fantasía aparentemente inofensiva que se convertirá en una perturbadora pesadilla.",
@@ -1329,7 +1272,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Obsession",
-      "time": "18:15",
+      "time": "19:15",
       "rating": 7.9,
       "poster": "https://image.tmdb.org/t/p/w342/ohi9xvbBUymM4SuIOSlt1xbLRQQ.jpg",
       "summary": "El anhelo romántico desesperado de un chico por su amor platónico de toda la vida desencadena un siniestro hechizo: Niki se vuelve irracionalmente obsesiva hasta convertirse en la sombra de Bear. Una fantasía aparentemente inofensiva que se convertirá en una perturbadora pesadilla.",
@@ -1340,18 +1283,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Obsession",
-      "time": "20:15",
-      "rating": 7.9,
-      "poster": "https://image.tmdb.org/t/p/w342/ohi9xvbBUymM4SuIOSlt1xbLRQQ.jpg",
-      "summary": "El anhelo romántico desesperado de un chico por su amor platónico de toda la vida desencadena un siniestro hechizo: Niki se vuelve irracionalmente obsesiva hasta convertirse en la sombra de Bear. Una fantasía aparentemente inofensiva que se convertirá en una perturbadora pesadilla.",
-      "genres": [
-        "Terror",
-        "Suspense"
-      ]
-    },
-    {
-      "title": "Obsession",
-      "time": "22:15",
+      "time": "21:30",
       "rating": 7.9,
       "poster": "https://image.tmdb.org/t/p/w342/ohi9xvbBUymM4SuIOSlt1xbLRQQ.jpg",
       "summary": "El anhelo romántico desesperado de un chico por su amor platónico de toda la vida desencadena un siniestro hechizo: Niki se vuelve irracionalmente obsesiva hasta convertirse en la sombra de Bear. Una fantasía aparentemente inofensiva que se convertirá en una perturbadora pesadilla.",
@@ -1362,7 +1294,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Supergirl",
-      "time": "16:00",
+      "time": "17:00",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/j1FSus4RoDJpY8zzfwjaqBktlUk.jpg",
       "summary": "Tomando como referencia la reciente miniserie escrita por Tom King, esta película promete una visión diferente de lo que la mayoría piensa cuando le viene a la mente la prima de Superman. \"Veremos la diferencia entre Superman, que fue enviado a la Tierra y criado por unos padres cariñosos desde que era un bebé, y Supergirl, criada en una roca, una astilla de Krypton, y que vio morir y ser asesinados de formas terribles a todos los que la rodeaban durante los primeros 14 años de su vida para luego venir a la Tierra. Ella es mucho más dura y no es la Supergirl a la que estamos acostumbrados\".",
@@ -1374,7 +1306,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Supergirl",
-      "time": "18:10",
+      "time": "19:15",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/j1FSus4RoDJpY8zzfwjaqBktlUk.jpg",
       "summary": "Tomando como referencia la reciente miniserie escrita por Tom King, esta película promete una visión diferente de lo que la mayoría piensa cuando le viene a la mente la prima de Superman. \"Veremos la diferencia entre Superman, que fue enviado a la Tierra y criado por unos padres cariñosos desde que era un bebé, y Supergirl, criada en una roca, una astilla de Krypton, y que vio morir y ser asesinados de formas terribles a todos los que la rodeaban durante los primeros 14 años de su vida para luego venir a la Tierra. Ella es mucho más dura y no es la Supergirl a la que estamos acostumbrados\".",
@@ -1385,27 +1317,15 @@ export const MOVIE_DATA = {
       ]
     },
     {
-      "title": "Minions & Monstruos",
-      "time": "16:00",
-      "rating": 6.8,
-      "poster": "https://image.tmdb.org/t/p/w342/7DUzo8Ys7BfmZpqnzIwG4qA0egl.jpg",
-      "summary": "La historia de cómo los Minions conquistaron Hollywood, se convirtieron en estrellas de cine, lo perdieron todo, desataron monstruos en el mundo y luego se unieron para intentar salvar al planeta del caos que acababan de crear.",
+      "title": "Supergirl",
+      "time": "21:30",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/j1FSus4RoDJpY8zzfwjaqBktlUk.jpg",
+      "summary": "Tomando como referencia la reciente miniserie escrita por Tom King, esta película promete una visión diferente de lo que la mayoría piensa cuando le viene a la mente la prima de Superman. \"Veremos la diferencia entre Superman, que fue enviado a la Tierra y criado por unos padres cariñosos desde que era un bebé, y Supergirl, criada en una roca, una astilla de Krypton, y que vio morir y ser asesinados de formas terribles a todos los que la rodeaban durante los primeros 14 años de su vida para luego venir a la Tierra. Ella es mucho más dura y no es la Supergirl a la que estamos acostumbrados\".",
       "genres": [
+        "Acción",
         "Aventura",
-        "Animación",
-        "Comedia"
-      ]
-    },
-    {
-      "title": "Minions & Monstruos",
-      "time": "16:30",
-      "rating": 6.8,
-      "poster": "https://image.tmdb.org/t/p/w342/7DUzo8Ys7BfmZpqnzIwG4qA0egl.jpg",
-      "summary": "La historia de cómo los Minions conquistaron Hollywood, se convirtieron en estrellas de cine, lo perdieron todo, desataron monstruos en el mundo y luego se unieron para intentar salvar al planeta del caos que acababan de crear.",
-      "genres": [
-        "Aventura",
-        "Animación",
-        "Comedia"
+        "Ciencia ficción"
       ]
     },
     {
@@ -1422,7 +1342,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Minions & Monstruos",
-      "time": "17:55",
+      "time": "17:45",
       "rating": 6.8,
       "poster": "https://image.tmdb.org/t/p/w342/7DUzo8Ys7BfmZpqnzIwG4qA0egl.jpg",
       "summary": "La historia de cómo los Minions conquistaron Hollywood, se convirtieron en estrellas de cine, lo perdieron todo, desataron monstruos en el mundo y luego se unieron para intentar salvar al planeta del caos que acababan de crear.",
@@ -1446,7 +1366,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Minions & Monstruos",
-      "time": "18:55",
+      "time": "19:00",
       "rating": 6.8,
       "poster": "https://image.tmdb.org/t/p/w342/7DUzo8Ys7BfmZpqnzIwG4qA0egl.jpg",
       "summary": "La historia de cómo los Minions conquistaron Hollywood, se convirtieron en estrellas de cine, lo perdieron todo, desataron monstruos en el mundo y luego se unieron para intentar salvar al planeta del caos que acababan de crear.",
@@ -1458,7 +1378,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Minions & Monstruos",
-      "time": "19:40",
+      "time": "19:45",
       "rating": 6.8,
       "poster": "https://image.tmdb.org/t/p/w342/7DUzo8Ys7BfmZpqnzIwG4qA0egl.jpg",
       "summary": "La historia de cómo los Minions conquistaron Hollywood, se convirtieron en estrellas de cine, lo perdieron todo, desataron monstruos en el mundo y luego se unieron para intentar salvar al planeta del caos que acababan de crear.",
@@ -1482,7 +1402,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Minions & Monstruos",
-      "time": "20:45",
+      "time": "21:00",
       "rating": 6.8,
       "poster": "https://image.tmdb.org/t/p/w342/7DUzo8Ys7BfmZpqnzIwG4qA0egl.jpg",
       "summary": "La historia de cómo los Minions conquistaron Hollywood, se convirtieron en estrellas de cine, lo perdieron todo, desataron monstruos en el mundo y luego se unieron para intentar salvar al planeta del caos que acababan de crear.",
@@ -1494,19 +1414,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Minions & Monstruos",
-      "time": "21:20",
-      "rating": 6.8,
-      "poster": "https://image.tmdb.org/t/p/w342/7DUzo8Ys7BfmZpqnzIwG4qA0egl.jpg",
-      "summary": "La historia de cómo los Minions conquistaron Hollywood, se convirtieron en estrellas de cine, lo perdieron todo, desataron monstruos en el mundo y luego se unieron para intentar salvar al planeta del caos que acababan de crear.",
-      "genres": [
-        "Aventura",
-        "Animación",
-        "Comedia"
-      ]
-    },
-    {
-      "title": "Minions & Monstruos",
-      "time": "22:30",
+      "time": "21:45",
       "rating": 6.8,
       "poster": "https://image.tmdb.org/t/p/w342/7DUzo8Ys7BfmZpqnzIwG4qA0egl.jpg",
       "summary": "La historia de cómo los Minions conquistaron Hollywood, se convirtieron en estrellas de cine, lo perdieron todo, desataron monstruos en el mundo y luego se unieron para intentar salvar al planeta del caos que acababan de crear.",
