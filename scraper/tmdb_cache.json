@@ -1885,5 +1885,25 @@
     "poster": null,
     "summary": "El Mundial se vive en directo y en pantalla grande.\n\nEl próximo jueves 2 de julio de 2026, a las 21:00 h, la emoción del fútbol mundial aterriza en Los Ángeles, pero puedes vivirla como si estuvieras allí en Cine Yelmo. En el espectacular SoFi Stadium, España se enfrenta a Austria en un duelo clave, los dieciseisavos de la Copa Mundial de la FIFA 2026™. Acompaña a la Selección Española, siente cada jugada y comparte la pasión del Mundial rodeado de afición.",
     "genres": []
+  },
+  "Akira": {
+    "rating": 7.9,
+    "poster": "https://image.tmdb.org/t/p/w342/vjPt8HYymLOkRv82x9JwVO7M2a5.jpg",
+    "summary": "Corre el año 2019. Un estado policial, políticos tramposos, sectas religiosas, revolucionarios y un proyecto científico secreto se combinan para causar una atmósfera explosiva en Neo-Tokyo. Todos los grupos rivales quieren controlar a Akira, un chico con extraños poderes psíquicos que ha sido mantenido bajo custodia criogénica por más de 30 años. En medio de esta tensa atmósfera, un joven psíquico llamado Tetsuo libera a Akira.",
+    "genres": [
+      "Animación",
+      "Ciencia ficción",
+      "Acción"
+    ]
+  },
+  "La Muerte De Robin Hood": {
+    "rating": 6.7,
+    "poster": "https://image.tmdb.org/t/p/w342/7qLBTkJ3SPSi0s2uCj0E6WfR309.jpg",
+    "summary": "Robin Hood intenta lidia con sus demonios tras una larga vida de crímenes y asesinatos. Cuando en una sangrienta batalla resulta herido de gravedad, es enviado a un misterioso castillo para que curen sus heridas. Allí conocerá a una mujer que le ofrecerá una última oportunidad de redención.",
+    "genres": [
+      "Aventura",
+      "Drama",
+      "Suspense"
+    ]
   }
 }
