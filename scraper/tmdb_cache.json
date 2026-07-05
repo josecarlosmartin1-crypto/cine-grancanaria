@@ -1905,5 +1905,14 @@
       "Drama",
       "Suspense"
     ]
+  },
+  "Alpha": {
+    "rating": 6.6,
+    "poster": "https://image.tmdb.org/t/p/w342/kkvXeUfENk9ZG4ImsGCzpLnxXy3.jpg",
+    "summary": "Alpha es una aventura épica ambientada en la última Edad de Hielo. Europa, 20.000 años atrás. En mitad de su primera cacería con el grupo de élite de su tribu, un joven es herido y dado por muerto. Al despertar se encontrará débil y solo, y deberá aprender a sobrevivir y abrirse camino ante la dura y cruel naturaleza. Acompañado a regañadientes de un lobo abandonado por su manada, los dos aprenderán a confiar el uno en el otro, convertirse en aliados y superar los innumerables peligros para, contra toda posibilidad, encontrar el camino a casa antes de que llegue el letal invierno.",
+    "genres": [
+      "Aventura",
+      "Drama"
+    ]
   }
 }
