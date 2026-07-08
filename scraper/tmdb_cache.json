@@ -1920,5 +1920,15 @@
     "poster": null,
     "summary": "El Mundial se vive en directo y en pantalla grande.\n\nEl próximo lunes 6 de julio de 2026, a las 21:00 h, la emoción del fútbol mundial aterriza en Dallas, pero puedes vivirla como si estuvieras allí en Cine Yelmo. En el espectacular Dallas Stadium, España se enfrenta a Portugal en un duelo clave, los octavos de final de la Copa Mundial de la FIFA 2026™. Acompaña a la Selección Española, siente cada jugada y comparte la pasión del Mundial rodeado de afición.",
     "genres": []
+  },
+  "Vaiana": {
+    "rating": 6.4,
+    "poster": "https://image.tmdb.org/t/p/w342/wC27PIEqSthbUhaVMdYEhaTzYmo.jpg",
+    "summary": "Versión de imagen real de la película de animación de 2016 'Vaiana'.",
+    "genres": [
+      "Familia",
+      "Fantasía",
+      "Comedia"
+    ]
   }
 }
