@@ -1930,5 +1930,25 @@
       "Fantasía",
       "Comedia"
     ]
+  },
+  "Haciendo Amigos": {
+    "rating": 0.0,
+    "poster": "https://image.tmdb.org/t/p/w342/wE8Fud4W5Eqyaqu05JxdCIXdKsN.jpg",
+    "summary": "Antonio y Félix son una pareja de atracadores de poca monta que, huyendo de la policía tras atracar una joyería, se cruzan con Eva, monitora de un grupo de teatro formado por personas con discapacidad, que confunde a Félix con Ángel, un nuevo miembro del grupo al cual no conoce y al que están esperando. Aprovechando la confusión, Félix y Antonio consiguen escabullirse. Sin saber que les espera un retiro creativo de una semana con el entrañable grupo.",
+    "genres": [
+      "Comedia"
+    ]
+  },
+  "España Vs Bélgica. Copa Mundial De La Fifa 2026": {
+    "rating": 0,
+    "poster": null,
+    "summary": "El Mundial se vive en directo y en pantalla grande.\n\nEl próximo viernes 10 de julio de 2026, a las 21:00 h, la emoción del fútbol mundial aterriza en Los Ángeles, pero puedes vivirla como si estuvieras allí en Cine Yelmo. En el espectacular Los Ángeles Stadium, España se enfrenta a Bélgica en un duelo clave, los cuartos de final de la Copa Mundial de la FIFA 2026™. Acompaña a la Selección Española, siente cada jugada y comparte la pasión del Mundial rodeado de afición.",
+    "genres": []
+  },
+  "Backrooms: Liquidación Total": {
+    "rating": 0,
+    "poster": null,
+    "summary": "Una extraña puerta aparece en el sótano de una exposición de muebles. Incluye 16 min de metraje en una nueva versión extendida del director.",
+    "genres": []
   }
 }
