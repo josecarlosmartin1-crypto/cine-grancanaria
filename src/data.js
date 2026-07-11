@@ -2,7 +2,7 @@ export const MOVIE_DATA = {
   "Cine Yelmo Vecindario": [
     {
       "title": "Backrooms: Liquidación Total (Versión Extendida)",
-      "time": "16:55",
+      "time": "20:00",
       "rating": 0,
       "poster": null,
       "summary": "Una extraña puerta aparece en el sótano de una exposición de muebles. Incluye 16 min de metraje en una nueva versión extendida del director.",
@@ -47,14 +47,6 @@ export const MOVIE_DATA = {
       "genres": [
         "Comedia"
       ]
-    },
-    {
-      "title": "España Vs Bélgica. Copa Mundial De La Fifa 2026",
-      "time": "19:40",
-      "rating": 0,
-      "poster": null,
-      "summary": "El Mundial se vive en directo y en pantalla grande.\n\nEl próximo viernes 10 de julio de 2026, a las 21:00 h, la emoción del fútbol mundial aterriza en Los Ángeles, pero puedes vivirla como si estuvieras allí en Cine Yelmo. En el espectacular Los Ángeles Stadium, España se enfrenta a Bélgica en un duelo clave, los cuartos de final de la Copa Mundial de la FIFA 2026™. Acompaña a la Selección Española, siente cada jugada y comparte la pasión del Mundial rodeado de afición.",
-      "genres": []
     },
     {
       "title": "Vaiana",
@@ -238,7 +230,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Supergirl",
-      "time": "16:40",
+      "time": "17:40",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/j1FSus4RoDJpY8zzfwjaqBktlUk.jpg",
       "summary": "Tomando como referencia la reciente miniserie escrita por Tom King, esta película promete una visión diferente de lo que la mayoría piensa cuando le viene a la mente la prima de Superman. \"Veremos la diferencia entre Superman, que fue enviado a la Tierra y criado por unos padres cariñosos desde que era un bebé, y Supergirl, criada en una roca, una astilla de Krypton, y que vio morir y ser asesinados de formas terribles a todos los que la rodeaban durante los primeros 14 años de su vida para luego venir a la Tierra. Ella es mucho más dura y no es la Supergirl a la que estamos acostumbrados\".",
@@ -378,7 +370,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "El Día De La Revelación",
-      "time": "19:00",
+      "time": "16:20",
       "rating": 8.4,
       "poster": "https://image.tmdb.org/t/p/w342/uGww4UrU3316Mld4p30dgdM09Du.jpg",
       "summary": "Si descubrieras que no estamos solos, si alguien te abriera los ojos y te lo demostrase, ¿te asustarías? Este verano, la verdad será revelada a siete mil millones de personas. Llega... el día de la revelación.",
@@ -390,7 +382,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "El Día De La Revelación",
-      "time": "21:55",
+      "time": "19:15",
       "rating": 8.4,
       "poster": "https://image.tmdb.org/t/p/w342/uGww4UrU3316Mld4p30dgdM09Du.jpg",
       "summary": "Si descubrieras que no estamos solos, si alguien te abriera los ojos y te lo demostrase, ¿te asustarías? Este verano, la verdad será revelada a siete mil millones de personas. Llega... el día de la revelación.",
@@ -398,6 +390,29 @@ export const MOVIE_DATA = {
         "Misterio",
         "Ciencia ficción",
         "Suspense"
+      ]
+    },
+    {
+      "title": "El Día De La Revelación",
+      "time": "22:10",
+      "rating": 8.4,
+      "poster": "https://image.tmdb.org/t/p/w342/uGww4UrU3316Mld4p30dgdM09Du.jpg",
+      "summary": "Si descubrieras que no estamos solos, si alguien te abriera los ojos y te lo demostrase, ¿te asustarías? Este verano, la verdad será revelada a siete mil millones de personas. Llega... el día de la revelación.",
+      "genres": [
+        "Misterio",
+        "Ciencia ficción",
+        "Suspense"
+      ]
+    },
+    {
+      "title": "Scary Movie",
+      "time": "22:40",
+      "rating": 5.8,
+      "poster": "https://image.tmdb.org/t/p/w342/vUPE82BWRZwq6M5Xc9UNuf8AffK.jpg",
+      "summary": "Veintiséis años después de conseguir escapar de un asesino enmascarado sospechosamente familiar, el Core Four están de vuelta en el punto de mira del asesino y ninguna película de terror está a salvo.",
+      "genres": [
+        "Comedia",
+        "Terror"
       ]
     },
     {
@@ -415,27 +430,31 @@ export const MOVIE_DATA = {
   "Cine Yelmo Las Arenas": [
     {
       "title": "Backrooms: Liquidación Total (Versión Extendida)",
-      "time": "16:40",
+      "time": "22:20",
       "rating": 0,
       "poster": null,
       "summary": "Una extraña puerta aparece en el sótano de una exposición de muebles. Incluye 16 min de metraje en una nueva versión extendida del director.",
       "genres": []
     },
     {
-      "title": "Backrooms: Liquidación Total (Versión Extendida)",
-      "time": "22:50",
-      "rating": 0,
-      "poster": null,
-      "summary": "Una extraña puerta aparece en el sótano de una exposición de muebles. Incluye 16 min de metraje en una nueva versión extendida del director.",
-      "genres": []
+      "title": "Haciendo Amigos",
+      "time": "12:40",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/wE8Fud4W5Eqyaqu05JxdCIXdKsN.jpg",
+      "summary": "Antonio y Félix son una pareja de atracadores de poca monta que, huyendo de la policía tras atracar una joyería, se cruzan con Eva, monitora de un grupo de teatro formado por personas con discapacidad, que confunde a Félix con Ángel, un nuevo miembro del grupo al cual no conoce y al que están esperando. Aprovechando la confusión, Félix y Antonio consiguen escabullirse. Sin saber que les espera un retiro creativo de una semana con el entrañable grupo.",
+      "genres": [
+        "Comedia"
+      ]
     },
     {
-      "title": "España Vs Bélgica. Copa Mundial De La Fifa 2026",
-      "time": "19:40",
-      "rating": 0,
-      "poster": null,
-      "summary": "El Mundial se vive en directo y en pantalla grande.\n\nEl próximo viernes 10 de julio de 2026, a las 21:00 h, la emoción del fútbol mundial aterriza en Los Ángeles, pero puedes vivirla como si estuvieras allí en Cine Yelmo. En el espectacular Los Ángeles Stadium, España se enfrenta a Bélgica en un duelo clave, los cuartos de final de la Copa Mundial de la FIFA 2026™. Acompaña a la Selección Española, siente cada jugada y comparte la pasión del Mundial rodeado de afición.",
-      "genres": []
+      "title": "Haciendo Amigos",
+      "time": "15:00",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/wE8Fud4W5Eqyaqu05JxdCIXdKsN.jpg",
+      "summary": "Antonio y Félix son una pareja de atracadores de poca monta que, huyendo de la policía tras atracar una joyería, se cruzan con Eva, monitora de un grupo de teatro formado por personas con discapacidad, que confunde a Félix con Ángel, un nuevo miembro del grupo al cual no conoce y al que están esperando. Aprovechando la confusión, Félix y Antonio consiguen escabullirse. Sin saber que les espera un retiro creativo de una semana con el entrañable grupo.",
+      "genres": [
+        "Comedia"
+      ]
     },
     {
       "title": "Haciendo Amigos",
@@ -469,6 +488,66 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Vaiana",
+      "time": "12:00",
+      "rating": 6.4,
+      "poster": "https://image.tmdb.org/t/p/w342/wC27PIEqSthbUhaVMdYEhaTzYmo.jpg",
+      "summary": "Versión de imagen real de la película de animación de 2016 'Vaiana'.",
+      "genres": [
+        "Familia",
+        "Fantasía",
+        "Comedia"
+      ]
+    },
+    {
+      "title": "Vaiana",
+      "time": "12:20",
+      "rating": 6.4,
+      "poster": "https://image.tmdb.org/t/p/w342/wC27PIEqSthbUhaVMdYEhaTzYmo.jpg",
+      "summary": "Versión de imagen real de la película de animación de 2016 'Vaiana'.",
+      "genres": [
+        "Familia",
+        "Fantasía",
+        "Comedia"
+      ]
+    },
+    {
+      "title": "Vaiana",
+      "time": "13:00",
+      "rating": 6.4,
+      "poster": "https://image.tmdb.org/t/p/w342/wC27PIEqSthbUhaVMdYEhaTzYmo.jpg",
+      "summary": "Versión de imagen real de la película de animación de 2016 'Vaiana'.",
+      "genres": [
+        "Familia",
+        "Fantasía",
+        "Comedia"
+      ]
+    },
+    {
+      "title": "Vaiana",
+      "time": "14:30",
+      "rating": 6.4,
+      "poster": "https://image.tmdb.org/t/p/w342/wC27PIEqSthbUhaVMdYEhaTzYmo.jpg",
+      "summary": "Versión de imagen real de la película de animación de 2016 'Vaiana'.",
+      "genres": [
+        "Familia",
+        "Fantasía",
+        "Comedia"
+      ]
+    },
+    {
+      "title": "Vaiana",
+      "time": "15:10",
+      "rating": 6.4,
+      "poster": "https://image.tmdb.org/t/p/w342/wC27PIEqSthbUhaVMdYEhaTzYmo.jpg",
+      "summary": "Versión de imagen real de la película de animación de 2016 'Vaiana'.",
+      "genres": [
+        "Familia",
+        "Fantasía",
+        "Comedia"
+      ]
+    },
+    {
+      "title": "Vaiana",
       "time": "15:40",
       "rating": 6.4,
       "poster": "https://image.tmdb.org/t/p/w342/wC27PIEqSthbUhaVMdYEhaTzYmo.jpg",
@@ -493,7 +572,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Vaiana",
-      "time": "17:30",
+      "time": "17:50",
       "rating": 6.4,
       "poster": "https://image.tmdb.org/t/p/w342/wC27PIEqSthbUhaVMdYEhaTzYmo.jpg",
       "summary": "Versión de imagen real de la película de animación de 2016 'Vaiana'.",
@@ -529,7 +608,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Vaiana",
-      "time": "20:00",
+      "time": "20:20",
       "rating": 6.4,
       "poster": "https://image.tmdb.org/t/p/w342/wC27PIEqSthbUhaVMdYEhaTzYmo.jpg",
       "summary": "Versión de imagen real de la película de animación de 2016 'Vaiana'.",
@@ -565,7 +644,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Vaiana",
-      "time": "22:30",
+      "time": "22:50",
       "rating": 6.4,
       "poster": "https://image.tmdb.org/t/p/w342/wC27PIEqSthbUhaVMdYEhaTzYmo.jpg",
       "summary": "Versión de imagen real de la película de animación de 2016 'Vaiana'.",
@@ -577,7 +656,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Akira (Reestreno)",
-      "time": "20:10",
+      "time": "11:50",
       "rating": 7.9,
       "poster": "https://image.tmdb.org/t/p/w342/vjPt8HYymLOkRv82x9JwVO7M2a5.jpg",
       "summary": "Corre el año 2019. Un estado policial, políticos tramposos, sectas religiosas, revolucionarios y un proyecto científico secreto se combinan para causar una atmósfera explosiva en Neo-Tokyo. Todos los grupos rivales quieren controlar a Akira, un chico con extraños poderes psíquicos que ha sido mantenido bajo custodia criogénica por más de 30 años. En medio de esta tensa atmósfera, un joven psíquico llamado Tetsuo libera a Akira.",
@@ -585,6 +664,78 @@ export const MOVIE_DATA = {
         "Animación",
         "Ciencia ficción",
         "Acción"
+      ]
+    },
+    {
+      "title": "Akira (Reestreno)",
+      "time": "14:50",
+      "rating": 7.9,
+      "poster": "https://image.tmdb.org/t/p/w342/vjPt8HYymLOkRv82x9JwVO7M2a5.jpg",
+      "summary": "Corre el año 2019. Un estado policial, políticos tramposos, sectas religiosas, revolucionarios y un proyecto científico secreto se combinan para causar una atmósfera explosiva en Neo-Tokyo. Todos los grupos rivales quieren controlar a Akira, un chico con extraños poderes psíquicos que ha sido mantenido bajo custodia criogénica por más de 30 años. En medio de esta tensa atmósfera, un joven psíquico llamado Tetsuo libera a Akira.",
+      "genres": [
+        "Animación",
+        "Ciencia ficción",
+        "Acción"
+      ]
+    },
+    {
+      "title": "Akira (Reestreno)",
+      "time": "19:45",
+      "rating": 7.9,
+      "poster": "https://image.tmdb.org/t/p/w342/vjPt8HYymLOkRv82x9JwVO7M2a5.jpg",
+      "summary": "Corre el año 2019. Un estado policial, políticos tramposos, sectas religiosas, revolucionarios y un proyecto científico secreto se combinan para causar una atmósfera explosiva en Neo-Tokyo. Todos los grupos rivales quieren controlar a Akira, un chico con extraños poderes psíquicos que ha sido mantenido bajo custodia criogénica por más de 30 años. En medio de esta tensa atmósfera, un joven psíquico llamado Tetsuo libera a Akira.",
+      "genres": [
+        "Animación",
+        "Ciencia ficción",
+        "Acción"
+      ]
+    },
+    {
+      "title": "La Muerte De Robin Hood",
+      "time": "21:30",
+      "rating": 6.7,
+      "poster": "https://image.tmdb.org/t/p/w342/7qLBTkJ3SPSi0s2uCj0E6WfR309.jpg",
+      "summary": "Robin Hood intenta lidia con sus demonios tras una larga vida de crímenes y asesinatos. Cuando en una sangrienta batalla resulta herido de gravedad, es enviado a un misterioso castillo para que curen sus heridas. Allí conocerá a una mujer que le ofrecerá una última oportunidad de redención.",
+      "genres": [
+        "Aventura",
+        "Drama",
+        "Suspense"
+      ]
+    },
+    {
+      "title": "Minions & Monsters",
+      "time": "12:30",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/7DUzo8Ys7BfmZpqnzIwG4qA0egl.jpg",
+      "summary": "La historia de cómo los Minions conquistaron Hollywood, se convirtieron en estrellas de cine, lo perdieron todo, desataron monstruos en el mundo y luego se unieron para intentar salvar al planeta del caos que acababan de crear.",
+      "genres": [
+        "Aventura",
+        "Animación",
+        "Comedia"
+      ]
+    },
+    {
+      "title": "Minions & Monsters",
+      "time": "13:30",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/7DUzo8Ys7BfmZpqnzIwG4qA0egl.jpg",
+      "summary": "La historia de cómo los Minions conquistaron Hollywood, se convirtieron en estrellas de cine, lo perdieron todo, desataron monstruos en el mundo y luego se unieron para intentar salvar al planeta del caos que acababan de crear.",
+      "genres": [
+        "Aventura",
+        "Animación",
+        "Comedia"
+      ]
+    },
+    {
+      "title": "Minions & Monsters",
+      "time": "14:40",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/7DUzo8Ys7BfmZpqnzIwG4qA0egl.jpg",
+      "summary": "La historia de cómo los Minions conquistaron Hollywood, se convirtieron en estrellas de cine, lo perdieron todo, desataron monstruos en el mundo y luego se unieron para intentar salvar al planeta del caos que acababan de crear.",
+      "genres": [
+        "Aventura",
+        "Animación",
+        "Comedia"
       ]
     },
     {
@@ -661,7 +812,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Supergirl",
-      "time": "17:50",
+      "time": "17:30",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/j1FSus4RoDJpY8zzfwjaqBktlUk.jpg",
       "summary": "Tomando como referencia la reciente miniserie escrita por Tom King, esta película promete una visión diferente de lo que la mayoría piensa cuando le viene a la mente la prima de Superman. \"Veremos la diferencia entre Superman, que fue enviado a la Tierra y criado por unos padres cariñosos desde que era un bebé, y Supergirl, criada en una roca, una astilla de Krypton, y que vio morir y ser asesinados de formas terribles a todos los que la rodeaban durante los primeros 14 años de su vida para luego venir a la Tierra. Ella es mucho más dura y no es la Supergirl a la que estamos acostumbrados\".",
@@ -669,6 +820,17 @@ export const MOVIE_DATA = {
         "Acción",
         "Aventura",
         "Ciencia ficción"
+      ]
+    },
+    {
+      "title": "Obsession",
+      "time": "12:50",
+      "rating": 7.9,
+      "poster": "https://image.tmdb.org/t/p/w342/ohi9xvbBUymM4SuIOSlt1xbLRQQ.jpg",
+      "summary": "El anhelo romántico desesperado de un chico por su amor platónico de toda la vida desencadena un siniestro hechizo: Niki se vuelve irracionalmente obsesiva hasta convertirse en la sombra de Bear. Una fantasía aparentemente inofensiva que se convertirá en una perturbadora pesadilla.",
+      "genres": [
+        "Terror",
+        "Suspense"
       ]
     },
     {
@@ -717,7 +879,79 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Toy Story 5",
+      "time": "12:10",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/1yF3AztF3rQ8MZ8En8974AWo5zZ.jpg",
+      "summary": "Buzz, Woody, Jessie y el resto de la pandilla tienen un trabajo exponencialmente más difícil cuando se enfrentan a esta nueva amenaza para la hora de jugar: la tecnología.",
+      "genres": [
+        "Animación",
+        "Familia",
+        "Comedia"
+      ]
+    },
+    {
+      "title": "Toy Story 5",
+      "time": "13:00",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/1yF3AztF3rQ8MZ8En8974AWo5zZ.jpg",
+      "summary": "Buzz, Woody, Jessie y el resto de la pandilla tienen un trabajo exponencialmente más difícil cuando se enfrentan a esta nueva amenaza para la hora de jugar: la tecnología.",
+      "genres": [
+        "Animación",
+        "Familia",
+        "Comedia"
+      ]
+    },
+    {
+      "title": "Toy Story 5",
+      "time": "14:25",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/1yF3AztF3rQ8MZ8En8974AWo5zZ.jpg",
+      "summary": "Buzz, Woody, Jessie y el resto de la pandilla tienen un trabajo exponencialmente más difícil cuando se enfrentan a esta nueva amenaza para la hora de jugar: la tecnología.",
+      "genres": [
+        "Animación",
+        "Familia",
+        "Comedia"
+      ]
+    },
+    {
+      "title": "Toy Story 5",
+      "time": "15:20",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/1yF3AztF3rQ8MZ8En8974AWo5zZ.jpg",
+      "summary": "Buzz, Woody, Jessie y el resto de la pandilla tienen un trabajo exponencialmente más difícil cuando se enfrentan a esta nueva amenaza para la hora de jugar: la tecnología.",
+      "genres": [
+        "Animación",
+        "Familia",
+        "Comedia"
+      ]
+    },
+    {
+      "title": "Toy Story 5",
+      "time": "16:40",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/1yF3AztF3rQ8MZ8En8974AWo5zZ.jpg",
+      "summary": "Buzz, Woody, Jessie y el resto de la pandilla tienen un trabajo exponencialmente más difícil cuando se enfrentan a esta nueva amenaza para la hora de jugar: la tecnología.",
+      "genres": [
+        "Animación",
+        "Familia",
+        "Comedia"
+      ]
+    },
+    {
+      "title": "Toy Story 5",
       "time": "17:40",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/1yF3AztF3rQ8MZ8En8974AWo5zZ.jpg",
+      "summary": "Buzz, Woody, Jessie y el resto de la pandilla tienen un trabajo exponencialmente más difícil cuando se enfrentan a esta nueva amenaza para la hora de jugar: la tecnología.",
+      "genres": [
+        "Animación",
+        "Familia",
+        "Comedia"
+      ]
+    },
+    {
+      "title": "Toy Story 5",
+      "time": "19:10",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/1yF3AztF3rQ8MZ8En8974AWo5zZ.jpg",
       "summary": "Buzz, Woody, Jessie y el resto de la pandilla tienen un trabajo exponencialmente más difícil cuando se enfrentan a esta nueva amenaza para la hora de jugar: la tecnología.",
@@ -759,6 +993,18 @@ export const MOVIE_DATA = {
       "summary": "Ousman Umar, un joven de Ghana fascinado por el misterioso “país de los blancos”, abandona su aldea y pone rumbo a Europa. Cuando llega a Barcelona, tras una dura travesía de varios años, el sueño que lo impulsó se desvanece entre el rechazo y la soledad. Hasta que conoce a Montse, que le acoge en su familia y le ofrece, además de amor y apoyo, la posibilidad de un futuro. Ousman no solo la aprovecha, sino que la transforma en algo mucho mayor, decidido a que todo su viaje haya tenido un sentido. ‘Viaje al País de los Blancos’ está basada en una extraordinaria historia real de superación y amor en la que la bondad de las personas prevalece en un mundo hostil.",
       "genres": [
         "Drama"
+      ]
+    },
+    {
+      "title": "El Día De La Revelación",
+      "time": "13:10",
+      "rating": 8.4,
+      "poster": "https://image.tmdb.org/t/p/w342/uGww4UrU3316Mld4p30dgdM09Du.jpg",
+      "summary": "Si descubrieras que no estamos solos, si alguien te abriera los ojos y te lo demostrase, ¿te asustarías? Este verano, la verdad será revelada a siete mil millones de personas. Llega... el día de la revelación.",
+      "genres": [
+        "Misterio",
+        "Ciencia ficción",
+        "Suspense"
       ]
     },
     {
@@ -839,12 +1085,52 @@ export const MOVIE_DATA = {
       ]
     },
     {
-      "title": "España Vs Bélgica. Copa Mundial De La Fifa 2026",
-      "time": "19:40",
-      "rating": 0,
-      "poster": null,
-      "summary": "El Mundial se vive en directo y en pantalla grande.\n\nEl próximo viernes 10 de julio de 2026, a las 21:00 h, la emoción del fútbol mundial aterriza en Los Ángeles, pero puedes vivirla como si estuvieras allí en Cine Yelmo. En el espectacular Los Ángeles Stadium, España se enfrenta a Bélgica en un duelo clave, los cuartos de final de la Copa Mundial de la FIFA 2026™. Acompaña a la Selección Española, siente cada jugada y comparte la pasión del Mundial rodeado de afición.",
-      "genres": []
+      "title": "Vaiana",
+      "time": "12:00",
+      "rating": 6.4,
+      "poster": "https://image.tmdb.org/t/p/w342/wC27PIEqSthbUhaVMdYEhaTzYmo.jpg",
+      "summary": "Versión de imagen real de la película de animación de 2016 'Vaiana'.",
+      "genres": [
+        "Familia",
+        "Fantasía",
+        "Comedia"
+      ]
+    },
+    {
+      "title": "Vaiana",
+      "time": "13:15",
+      "rating": 6.4,
+      "poster": "https://image.tmdb.org/t/p/w342/wC27PIEqSthbUhaVMdYEhaTzYmo.jpg",
+      "summary": "Versión de imagen real de la película de animación de 2016 'Vaiana'.",
+      "genres": [
+        "Familia",
+        "Fantasía",
+        "Comedia"
+      ]
+    },
+    {
+      "title": "Vaiana",
+      "time": "14:00",
+      "rating": 6.4,
+      "poster": "https://image.tmdb.org/t/p/w342/wC27PIEqSthbUhaVMdYEhaTzYmo.jpg",
+      "summary": "Versión de imagen real de la película de animación de 2016 'Vaiana'.",
+      "genres": [
+        "Familia",
+        "Fantasía",
+        "Comedia"
+      ]
+    },
+    {
+      "title": "Vaiana",
+      "time": "14:30",
+      "rating": 6.4,
+      "poster": "https://image.tmdb.org/t/p/w342/wC27PIEqSthbUhaVMdYEhaTzYmo.jpg",
+      "summary": "Versión de imagen real de la película de animación de 2016 'Vaiana'.",
+      "genres": [
+        "Familia",
+        "Fantasía",
+        "Comedia"
+      ]
     },
     {
       "title": "Vaiana",
@@ -943,6 +1229,42 @@ export const MOVIE_DATA = {
       ]
     },
     {
+      "title": "Akira (Reestreno)",
+      "time": "13:00",
+      "rating": 7.9,
+      "poster": "https://image.tmdb.org/t/p/w342/vjPt8HYymLOkRv82x9JwVO7M2a5.jpg",
+      "summary": "Corre el año 2019. Un estado policial, políticos tramposos, sectas religiosas, revolucionarios y un proyecto científico secreto se combinan para causar una atmósfera explosiva en Neo-Tokyo. Todos los grupos rivales quieren controlar a Akira, un chico con extraños poderes psíquicos que ha sido mantenido bajo custodia criogénica por más de 30 años. En medio de esta tensa atmósfera, un joven psíquico llamado Tetsuo libera a Akira.",
+      "genres": [
+        "Animación",
+        "Ciencia ficción",
+        "Acción"
+      ]
+    },
+    {
+      "title": "Minions & Monsters",
+      "time": "12:10",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/7DUzo8Ys7BfmZpqnzIwG4qA0egl.jpg",
+      "summary": "La historia de cómo los Minions conquistaron Hollywood, se convirtieron en estrellas de cine, lo perdieron todo, desataron monstruos en el mundo y luego se unieron para intentar salvar al planeta del caos que acababan de crear.",
+      "genres": [
+        "Aventura",
+        "Animación",
+        "Comedia"
+      ]
+    },
+    {
+      "title": "Minions & Monsters",
+      "time": "14:20",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/7DUzo8Ys7BfmZpqnzIwG4qA0egl.jpg",
+      "summary": "La historia de cómo los Minions conquistaron Hollywood, se convirtieron en estrellas de cine, lo perdieron todo, desataron monstruos en el mundo y luego se unieron para intentar salvar al planeta del caos que acababan de crear.",
+      "genres": [
+        "Aventura",
+        "Animación",
+        "Comedia"
+      ]
+    },
+    {
       "title": "Minions & Monsters",
       "time": "16:25",
       "rating": 0.0,
@@ -1004,7 +1326,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Supergirl",
-      "time": "16:20",
+      "time": "16:50",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/j1FSus4RoDJpY8zzfwjaqBktlUk.jpg",
       "summary": "Tomando como referencia la reciente miniserie escrita por Tom King, esta película promete una visión diferente de lo que la mayoría piensa cuando le viene a la mente la prima de Superman. \"Veremos la diferencia entre Superman, que fue enviado a la Tierra y criado por unos padres cariñosos desde que era un bebé, y Supergirl, criada en una roca, una astilla de Krypton, y que vio morir y ser asesinados de formas terribles a todos los que la rodeaban durante los primeros 14 años de su vida para luego venir a la Tierra. Ella es mucho más dura y no es la Supergirl a la que estamos acostumbrados\".",
@@ -1012,6 +1334,17 @@ export const MOVIE_DATA = {
         "Acción",
         "Aventura",
         "Ciencia ficción"
+      ]
+    },
+    {
+      "title": "Obsession",
+      "time": "13:25",
+      "rating": 7.9,
+      "poster": "https://image.tmdb.org/t/p/w342/ohi9xvbBUymM4SuIOSlt1xbLRQQ.jpg",
+      "summary": "El anhelo romántico desesperado de un chico por su amor platónico de toda la vida desencadena un siniestro hechizo: Niki se vuelve irracionalmente obsesiva hasta convertirse en la sombra de Bear. Una fantasía aparentemente inofensiva que se convertirá en una perturbadora pesadilla.",
+      "genres": [
+        "Terror",
+        "Suspense"
       ]
     },
     {
@@ -1060,7 +1393,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Toy Story 5",
-      "time": "17:10",
+      "time": "12:20",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/1yF3AztF3rQ8MZ8En8974AWo5zZ.jpg",
       "summary": "Buzz, Woody, Jessie y el resto de la pandilla tienen un trabajo exponencialmente más difícil cuando se enfrentan a esta nueva amenaza para la hora de jugar: la tecnología.",
@@ -1072,7 +1405,67 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Toy Story 5",
-      "time": "19:25",
+      "time": "12:45",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/1yF3AztF3rQ8MZ8En8974AWo5zZ.jpg",
+      "summary": "Buzz, Woody, Jessie y el resto de la pandilla tienen un trabajo exponencialmente más difícil cuando se enfrentan a esta nueva amenaza para la hora de jugar: la tecnología.",
+      "genres": [
+        "Animación",
+        "Familia",
+        "Comedia"
+      ]
+    },
+    {
+      "title": "Toy Story 5",
+      "time": "15:35",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/1yF3AztF3rQ8MZ8En8974AWo5zZ.jpg",
+      "summary": "Buzz, Woody, Jessie y el resto de la pandilla tienen un trabajo exponencialmente más difícil cuando se enfrentan a esta nueva amenaza para la hora de jugar: la tecnología.",
+      "genres": [
+        "Animación",
+        "Familia",
+        "Comedia"
+      ]
+    },
+    {
+      "title": "Toy Story 5",
+      "time": "17:50",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/1yF3AztF3rQ8MZ8En8974AWo5zZ.jpg",
+      "summary": "Buzz, Woody, Jessie y el resto de la pandilla tienen un trabajo exponencialmente más difícil cuando se enfrentan a esta nueva amenaza para la hora de jugar: la tecnología.",
+      "genres": [
+        "Animación",
+        "Familia",
+        "Comedia"
+      ]
+    },
+    {
+      "title": "Toy Story 5",
+      "time": "19:20",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/1yF3AztF3rQ8MZ8En8974AWo5zZ.jpg",
+      "summary": "Buzz, Woody, Jessie y el resto de la pandilla tienen un trabajo exponencialmente más difícil cuando se enfrentan a esta nueva amenaza para la hora de jugar: la tecnología.",
+      "genres": [
+        "Animación",
+        "Familia",
+        "Comedia"
+      ]
+    },
+    {
+      "title": "Toy Story 5",
+      "time": "20:05",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/1yF3AztF3rQ8MZ8En8974AWo5zZ.jpg",
+      "summary": "Buzz, Woody, Jessie y el resto de la pandilla tienen un trabajo exponencialmente más difícil cuando se enfrentan a esta nueva amenaza para la hora de jugar: la tecnología.",
+      "genres": [
+        "Animación",
+        "Familia",
+        "Comedia"
+      ]
+    },
+    {
+      "title": "Toy Story 5",
+      "time": "22:20",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/1yF3AztF3rQ8MZ8En8974AWo5zZ.jpg",
       "summary": "Buzz, Woody, Jessie y el resto de la pandilla tienen un trabajo exponencialmente más difícil cuando se enfrentan a esta nueva amenaza para la hora de jugar: la tecnología.",
