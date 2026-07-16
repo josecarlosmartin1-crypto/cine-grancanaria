@@ -1,6 +1,29 @@
 export const MOVIE_DATA = {
   "Cine Yelmo Vecindario": [
     {
+      "title": "La Odisea",
+      "time": "23:01",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/bheY17L6wtB0SdJn6EYyh1X5iry.jpg",
+      "summary": "Una epopeya mitológica que sigue la historia de Odiseo y su largo viaje a casa, de 10 años de duración, tras la guerra de Troya.",
+      "genres": [
+        "Aventura",
+        "Acción",
+        "Fantasía"
+      ]
+    },
+    {
+      "title": "Posesión Infernal: En Llamas",
+      "time": "19:15",
+      "rating": 6.8,
+      "poster": "https://image.tmdb.org/t/p/w342/hDXmoQJ7EClgjv83Z0vEIQu2t7S.jpg",
+      "summary": "Película ambientada en el universo de la saga 'Evil Dead / Posesión infernal'. Tras la muerte de su marido, una mujer busca consuelo junto a la familia de este en su aislada casa familiar. Pero, cuando uno a uno comienzan a convertirse en seres poseídos, el encuentro acaba convirtiéndose en una reunión familiar salida del infierno. Entonces descubre que los votos que hizo en vida... siguen vigentes incluso después de la muerte.",
+      "genres": [
+        "Terror",
+        "Suspense"
+      ]
+    },
+    {
       "title": "Backrooms: Liquidación Total (Versión Extendida)",
       "time": "20:00",
       "rating": 0,
@@ -218,6 +241,18 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Minions & Monsters",
+      "time": "21:05",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/7DUzo8Ys7BfmZpqnzIwG4qA0egl.jpg",
+      "summary": "La historia de cómo los Minions conquistaron Hollywood, se convirtieron en estrellas de cine, lo perdieron todo, desataron monstruos en el mundo y luego se unieron para intentar salvar al planeta del caos que acababan de crear.",
+      "genres": [
+        "Aventura",
+        "Animación",
+        "Comedia"
+      ]
+    },
+    {
+      "title": "Minions & Monsters",
       "time": "22:35",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/7DUzo8Ys7BfmZpqnzIwG4qA0egl.jpg",
@@ -298,7 +333,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Toy Story 5",
-      "time": "17:15",
+      "time": "17:00",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/1yF3AztF3rQ8MZ8En8974AWo5zZ.jpg",
       "summary": "Buzz, Woody, Jessie y el resto de la pandilla tienen un trabajo exponencialmente más difícil cuando se enfrentan a esta nueva amenaza para la hora de jugar: la tecnología.",
@@ -311,18 +346,6 @@ export const MOVIE_DATA = {
     {
       "title": "Toy Story 5",
       "time": "18:10",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/1yF3AztF3rQ8MZ8En8974AWo5zZ.jpg",
-      "summary": "Buzz, Woody, Jessie y el resto de la pandilla tienen un trabajo exponencialmente más difícil cuando se enfrentan a esta nueva amenaza para la hora de jugar: la tecnología.",
-      "genres": [
-        "Animación",
-        "Familia",
-        "Comedia"
-      ]
-    },
-    {
-      "title": "Toy Story 5",
-      "time": "19:25",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/1yF3AztF3rQ8MZ8En8974AWo5zZ.jpg",
       "summary": "Buzz, Woody, Jessie y el resto de la pandilla tienen un trabajo exponencialmente más difícil cuando se enfrentan a esta nueva amenaza para la hora de jugar: la tecnología.",
@@ -406,7 +429,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Scary Movie",
-      "time": "22:40",
+      "time": "22:45",
       "rating": 5.8,
       "poster": "https://image.tmdb.org/t/p/w342/vUPE82BWRZwq6M5Xc9UNuf8AffK.jpg",
       "summary": "Veintiséis años después de conseguir escapar de un asesino enmascarado sospechosamente familiar, el Core Four están de vuelta en el punto de mira del asesino y ninguna película de terror está a salvo.",
@@ -414,29 +437,18 @@ export const MOVIE_DATA = {
         "Comedia",
         "Terror"
       ]
-    },
-    {
-      "title": "Michael",
-      "time": "21:05",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/2uK36ujoDXOfNiJ5Yp3raVprB51.jpg",
-      "summary": "El viaje de Michael Jackson más allá de la música, desde el descubrimiento de su extraordinario talento como líder de los Jackson Five hasta convertirse en una visionaria estrella cuya ambición creativa despertó un incansable afán por consagrarse como el mayor icono de la industria del entretenimiento.",
-      "genres": [
-        "Música",
-        "Drama"
-      ]
     }
   ],
   "Cine Yelmo Las Arenas": [
     {
-      "title": "Resurrection (Efecto Cinema)",
-      "time": "19:00",
-      "rating": 7.1,
-      "poster": "https://image.tmdb.org/t/p/w342/76uPr6mqXiEY935oH2IxTCJjLxo.jpg",
-      "summary": "En un mundo donde la humanidad ha perdido la capacidad de soñar, una criatura sigue fascinada por las ilusiones que se desvanecen del mundo onírico. Este monstruo, a la deriva en la ensoñación, se aferra a visiones que nadie más puede ver… hasta que aparece una mujer. Dotada del raro poder de percibir estas ilusiones tal como son, decide adentrarse en los sueños del monstruo, decidida a descubrir la verdad que se oculta en su interior.",
+      "title": "Posesión Infernal: En Llamas",
+      "time": "19:10",
+      "rating": 6.8,
+      "poster": "https://image.tmdb.org/t/p/w342/hDXmoQJ7EClgjv83Z0vEIQu2t7S.jpg",
+      "summary": "Película ambientada en el universo de la saga 'Evil Dead / Posesión infernal'. Tras la muerte de su marido, una mujer busca consuelo junto a la familia de este en su aislada casa familiar. Pero, cuando uno a uno comienzan a convertirse en seres poseídos, el encuentro acaba convirtiéndose en una reunión familiar salida del infierno. Entonces descubre que los votos que hizo en vida... siguen vigentes incluso después de la muerte.",
       "genres": [
-        "Ciencia ficción",
-        "Drama"
+        "Terror",
+        "Suspense"
       ]
     },
     {
@@ -821,7 +833,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Michael",
-      "time": "22:20",
+      "time": "21:45",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/2uK36ujoDXOfNiJ5Yp3raVprB51.jpg",
       "summary": "El viaje de Michael Jackson más allá de la música, desde el descubrimiento de su extraordinario talento como líder de los Jackson Five hasta convertirse en una visionaria estrella cuya ambición creativa despertó un incansable afán por consagrarse como el mayor icono de la industria del entretenimiento.",
@@ -832,6 +844,17 @@ export const MOVIE_DATA = {
     }
   ],
   "Cine Yelmo Premium Alisios": [
+    {
+      "title": "Posesión Infernal: En Llamas",
+      "time": "19:20",
+      "rating": 6.8,
+      "poster": "https://image.tmdb.org/t/p/w342/hDXmoQJ7EClgjv83Z0vEIQu2t7S.jpg",
+      "summary": "Película ambientada en el universo de la saga 'Evil Dead / Posesión infernal'. Tras la muerte de su marido, una mujer busca consuelo junto a la familia de este en su aislada casa familiar. Pero, cuando uno a uno comienzan a convertirse en seres poseídos, el encuentro acaba convirtiéndose en una reunión familiar salida del infierno. Entonces descubre que los votos que hizo en vida... siguen vigentes incluso después de la muerte.",
+      "genres": [
+        "Terror",
+        "Suspense"
+      ]
+    },
     {
       "title": "Haciendo Amigos",
       "time": "16:00",
@@ -1098,18 +1121,6 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Toy Story 5",
-      "time": "19:20",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/1yF3AztF3rQ8MZ8En8974AWo5zZ.jpg",
-      "summary": "Buzz, Woody, Jessie y el resto de la pandilla tienen un trabajo exponencialmente más difícil cuando se enfrentan a esta nueva amenaza para la hora de jugar: la tecnología.",
-      "genres": [
-        "Animación",
-        "Familia",
-        "Comedia"
-      ]
-    },
-    {
-      "title": "Toy Story 5",
       "time": "20:15",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/1yF3AztF3rQ8MZ8En8974AWo5zZ.jpg",
@@ -1134,7 +1145,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "El Día De La Revelación",
-      "time": "21:40",
+      "time": "21:55",
       "rating": 8.4,
       "poster": "https://image.tmdb.org/t/p/w342/uGww4UrU3316Mld4p30dgdM09Du.jpg",
       "summary": "Si descubrieras que no estamos solos, si alguien te abriera los ojos y te lo demostrase, ¿te asustarías? Este verano, la verdad será revelada a siete mil millones de personas. Llega... el día de la revelación.",
@@ -1148,7 +1159,7 @@ export const MOVIE_DATA = {
   "Artesiete Las Terrazas": [
     {
       "title": "El Dia De La Revelacion",
-      "time": "22:00",
+      "time": "21:45",
       "rating": 7.5,
       "poster": "https://image.tmdb.org/t/p/w342/uGww4UrU3316Mld4p30dgdM09Du.jpg",
       "summary": "Si descubrieras que no estamos solos, si alguien te abriera los ojos y te lo demostrase, ¿te asustarías? Este verano, la verdad será revelada a siete mil millones de personas. Llega... el día de la revelación.",
@@ -1160,7 +1171,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Toy Story 5",
-      "time": "16:00",
+      "time": "16:45",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/1yF3AztF3rQ8MZ8En8974AWo5zZ.jpg",
       "summary": "Buzz, Woody, Jessie y el resto de la pandilla tienen un trabajo exponencialmente más difícil cuando se enfrentan a esta nueva amenaza para la hora de jugar: la tecnología.",
@@ -1184,7 +1195,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Toy Story 5",
-      "time": "18:15",
+      "time": "17:45",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/1yF3AztF3rQ8MZ8En8974AWo5zZ.jpg",
       "summary": "Buzz, Woody, Jessie y el resto de la pandilla tienen un trabajo exponencialmente más difícil cuando se enfrentan a esta nueva amenaza para la hora de jugar: la tecnología.",
@@ -1197,18 +1208,6 @@ export const MOVIE_DATA = {
     {
       "title": "Toy Story 5",
       "time": "19:00",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/1yF3AztF3rQ8MZ8En8974AWo5zZ.jpg",
-      "summary": "Buzz, Woody, Jessie y el resto de la pandilla tienen un trabajo exponencialmente más difícil cuando se enfrentan a esta nueva amenaza para la hora de jugar: la tecnología.",
-      "genres": [
-        "Animación",
-        "Familia",
-        "Comedia"
-      ]
-    },
-    {
-      "title": "Toy Story 5",
-      "time": "20:00",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/1yF3AztF3rQ8MZ8En8974AWo5zZ.jpg",
       "summary": "Buzz, Woody, Jessie y el resto de la pandilla tienen un trabajo exponencialmente más difícil cuando se enfrentan a esta nueva amenaza para la hora de jugar: la tecnología.",
@@ -1277,18 +1276,6 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Minions & Monstruos",
-      "time": "16:15",
-      "rating": 6.8,
-      "poster": "https://image.tmdb.org/t/p/w342/7DUzo8Ys7BfmZpqnzIwG4qA0egl.jpg",
-      "summary": "La historia de cómo los Minions conquistaron Hollywood, se convirtieron en estrellas de cine, lo perdieron todo, desataron monstruos en el mundo y luego se unieron para intentar salvar al planeta del caos que acababan de crear.",
-      "genres": [
-        "Aventura",
-        "Animación",
-        "Comedia"
-      ]
-    },
-    {
-      "title": "Minions & Monstruos",
       "time": "17:00",
       "rating": 6.8,
       "poster": "https://image.tmdb.org/t/p/w342/7DUzo8Ys7BfmZpqnzIwG4qA0egl.jpg",
@@ -1301,7 +1288,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Minions & Monstruos",
-      "time": "18:00",
+      "time": "18:45",
       "rating": 6.8,
       "poster": "https://image.tmdb.org/t/p/w342/7DUzo8Ys7BfmZpqnzIwG4qA0egl.jpg",
       "summary": "La historia de cómo los Minions conquistaron Hollywood, se convirtieron en estrellas de cine, lo perdieron todo, desataron monstruos en el mundo y luego se unieron para intentar salvar al planeta del caos que acababan de crear.",
@@ -1313,7 +1300,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Minions & Monstruos",
-      "time": "20:15",
+      "time": "19:45",
       "rating": 6.8,
       "poster": "https://image.tmdb.org/t/p/w342/7DUzo8Ys7BfmZpqnzIwG4qA0egl.jpg",
       "summary": "La historia de cómo los Minions conquistaron Hollywood, se convirtieron en estrellas de cine, lo perdieron todo, desataron monstruos en el mundo y luego se unieron para intentar salvar al planeta del caos que acababan de crear.",
@@ -1325,7 +1312,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Minions & Monstruos",
-      "time": "22:15",
+      "time": "20:30",
       "rating": 6.8,
       "poster": "https://image.tmdb.org/t/p/w342/7DUzo8Ys7BfmZpqnzIwG4qA0egl.jpg",
       "summary": "La historia de cómo los Minions conquistaron Hollywood, se convirtieron en estrellas de cine, lo perdieron todo, desataron monstruos en el mundo y luego se unieron para intentar salvar al planeta del caos que acababan de crear.",
@@ -1337,7 +1324,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Vaiana",
-      "time": "15:50",
+      "time": "17:00",
       "rating": 6.4,
       "poster": "https://image.tmdb.org/t/p/w342/wC27PIEqSthbUhaVMdYEhaTzYmo.jpg",
       "summary": "Versión de imagen real de la película de animación de 2016 'Vaiana'.",
@@ -1349,19 +1336,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Vaiana",
-      "time": "16:30",
-      "rating": 6.4,
-      "poster": "https://image.tmdb.org/t/p/w342/wC27PIEqSthbUhaVMdYEhaTzYmo.jpg",
-      "summary": "Versión de imagen real de la película de animación de 2016 'Vaiana'.",
-      "genres": [
-        "Familia",
-        "Fantasía",
-        "Comedia"
-      ]
-    },
-    {
-      "title": "Vaiana",
-      "time": "18:00",
+      "time": "17:45",
       "rating": 6.4,
       "poster": "https://image.tmdb.org/t/p/w342/wC27PIEqSthbUhaVMdYEhaTzYmo.jpg",
       "summary": "Versión de imagen real de la película de animación de 2016 'Vaiana'.",
@@ -1385,7 +1360,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Vaiana",
-      "time": "20:15",
+      "time": "19:45",
       "rating": 6.4,
       "poster": "https://image.tmdb.org/t/p/w342/wC27PIEqSthbUhaVMdYEhaTzYmo.jpg",
       "summary": "Versión de imagen real de la película de animación de 2016 'Vaiana'.",
@@ -1397,7 +1372,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Vaiana",
-      "time": "22:30",
+      "time": "21:45",
       "rating": 6.4,
       "poster": "https://image.tmdb.org/t/p/w342/wC27PIEqSthbUhaVMdYEhaTzYmo.jpg",
       "summary": "Versión de imagen real de la película de animación de 2016 'Vaiana'.",
@@ -1409,7 +1384,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Haciendo Amigos",
-      "time": "18:35",
+      "time": "19:15",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/wE8Fud4W5Eqyaqu05JxdCIXdKsN.jpg",
       "summary": "Antonio y Félix son una pareja de atracadores de poca monta que, huyendo de la policía tras atracar una joyería, se cruzan con Eva, monitora de un grupo de teatro formado por personas con discapacidad, que confunde a Félix con Ángel, un nuevo miembro del grupo al cual no conoce y al que están esperando. Aprovechando la confusión, Félix y Antonio consiguen escabullirse. Sin saber que les espera un retiro creativo de una semana con el entrañable grupo.",
@@ -1419,17 +1394,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Haciendo Amigos",
-      "time": "20:30",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/wE8Fud4W5Eqyaqu05JxdCIXdKsN.jpg",
-      "summary": "Antonio y Félix son una pareja de atracadores de poca monta que, huyendo de la policía tras atracar una joyería, se cruzan con Eva, monitora de un grupo de teatro formado por personas con discapacidad, que confunde a Félix con Ángel, un nuevo miembro del grupo al cual no conoce y al que están esperando. Aprovechando la confusión, Félix y Antonio consiguen escabullirse. Sin saber que les espera un retiro creativo de una semana con el entrañable grupo.",
-      "genres": [
-        "Comedia"
-      ]
-    },
-    {
-      "title": "Haciendo Amigos",
-      "time": "22:30",
+      "time": "21:15",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/wE8Fud4W5Eqyaqu05JxdCIXdKsN.jpg",
       "summary": "Antonio y Félix son una pareja de atracadores de poca monta que, huyendo de la policía tras atracar una joyería, se cruzan con Eva, monitora de un grupo de teatro formado por personas con discapacidad, que confunde a Félix con Ángel, un nuevo miembro del grupo al cual no conoce y al que están esperando. Aprovechando la confusión, Félix y Antonio consiguen escabullirse. Sin saber que les espera un retiro creativo de una semana con el entrañable grupo.",
