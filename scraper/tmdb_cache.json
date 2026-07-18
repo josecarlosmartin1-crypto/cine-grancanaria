@@ -1974,5 +1974,13 @@
       "Terror",
       "Suspense"
     ]
+  },
+  "Dhamaal 4": {
+    "rating": 3.0,
+    "poster": "https://image.tmdb.org/t/p/w342/5d7hpbefNiuebl5eqP5cRrckVxs.jpg",
+    "summary": "Los chicos de Dhamaal han regresado y están listos para perseguir el «Tesoro de la Vida», enfrentándose a desafíos locos en el camino. Lo que comienza como una búsqueda del tesoro se convierte rápidamente en una montaña rusa de divertidísimas desventuras.",
+    "genres": [
+      "Comedia"
+    ]
   }
 }
