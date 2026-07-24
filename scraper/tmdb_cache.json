@@ -1988,5 +1988,49 @@
     "poster": null,
     "summary": "Este domingo 19 de julio a las 21:00 desde el espectacular ESTADIO NUEVA YORK/NUEVA JERSEY vive la gran final del MUNDIAL 2026 con España ante la gran oportunidad de ganar la Copa Mundial de la FIFA 16 años después.\n\n¡Disfruta en Cine Yelmo de la final del Mundial 2026! ¡Vívelo en pantalla grande!",
     "genres": []
+  },
+  "Tres De Más": {
+    "rating": 0.0,
+    "poster": "https://image.tmdb.org/t/p/w342/bG87VicPzkGtlrl9v2oXS56oeIL.jpg",
+    "summary": "Julia y Ernesto lo tienen todo: una relación envidiable, carreras de éxito y, sobre todo, una vida ideal sin hijos. Sin embargo, un día despiertan y se encuentran con tres niños que insisten en llamarlos mamá y papá. Su vida perfecta se ha esfumado. De la noche a la mañana tendrán que aprender a ser padres mientras tratan de descubrir de dónde han salido esos niños y cómo pueden librarse de ellos.",
+    "genres": [
+      "Comedia"
+    ]
+  },
+  "Nicky, La Aprendiz De Bruja": {
+    "rating": 7.8,
+    "poster": "https://image.tmdb.org/t/p/w342/psw0tp25DNBkdEAfwjZYcgbpgme.jpg",
+    "summary": "Nicky no es una niña como otra cualquiera porque es aprendiz de bruja. Con solo 13 años y por tradición del oficio que está aprendiendo, la niña tiene que abandonar la casa de sus padres y buscar algún sitio donde sean necesarios sus servicios de bruja. Para emprender el viaje, Nicky se acompaña de su amigo Jiji y también de su gato; juntos, y sobre una escoba voladora, los amigos se instalan en un pueblecito que da al mar, donde la niña empezará a conocerse verdaderamente a sí misma.",
+    "genres": [
+      "Animación",
+      "Familia",
+      "Fantasía"
+    ]
+  },
+  "Insaciable": {
+    "rating": 6.3,
+    "poster": "https://image.tmdb.org/t/p/w342/v9st6lwP4K2i6YCa7kLQVQEuvNZ.jpg",
+    "summary": "Hana, una estudiante de medicina con una fuerte dismorfia corporal, se somete a una moda de adelgazamiento tan absurda como macabra: comer cenizas humanas. A partir de ese momento, comienza a ser acosada por un fantasma hambriento, una manifestación literal del mito del 'hungry ghost'.",
+    "genres": [
+      "Terror"
+    ]
+  },
+  "Motor City": {
+    "rating": 4.2,
+    "poster": "https://image.tmdb.org/t/p/w342/9CatrE52P66ODUQmrMlBO7L0D5c.jpg",
+    "summary": "\"Motor City\" narra la historia de John Miller (Alan Ritchson), un joven de Detroit cuya vida y novia (Shailene Woodley) le son arrebatadas cuando un gánster local (Ben Foster) le tiende una trampa y le envía a prisión. Al salir de la cárcel, Miller desata una vorágine de venganza contra los que le hicieron daño mientras intenta recuperar a su novia.",
+    "genres": [
+      "Acción",
+      "Suspense",
+      "Crimen"
+    ]
+  },
+  "Tres De Mas": {
+    "rating": 0.0,
+    "poster": "https://image.tmdb.org/t/p/w342/bG87VicPzkGtlrl9v2oXS56oeIL.jpg",
+    "summary": "Julia y Ernesto lo tienen todo: una relación envidiable, carreras de éxito y, sobre todo, una vida ideal sin hijos. Sin embargo, un día despiertan y se encuentran con tres niños que insisten en llamarlos mamá y papá. Su vida perfecta se ha esfumado. De la noche a la mañana tendrán que aprender a ser padres mientras tratan de descubrir de dónde han salido esos niños y cómo pueden librarse de ellos.",
+    "genres": [
+      "Comedia"
+    ]
   }
 }
