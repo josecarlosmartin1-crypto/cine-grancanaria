@@ -398,6 +398,26 @@ export const MOVIE_DATA = {
   "Cine Yelmo Las Arenas": [
     {
       "title": "Tres De Más",
+      "time": "12:30",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/bG87VicPzkGtlrl9v2oXS56oeIL.jpg",
+      "summary": "Julia y Ernesto lo tienen todo: una relación envidiable, carreras de éxito y, sobre todo, una vida ideal sin hijos. Sin embargo, un día despiertan y se encuentran con tres niños que insisten en llamarlos mamá y papá. Su vida perfecta se ha esfumado. De la noche a la mañana tendrán que aprender a ser padres mientras tratan de descubrir de dónde han salido esos niños y cómo pueden librarse de ellos.",
+      "genres": [
+        "Comedia"
+      ]
+    },
+    {
+      "title": "Tres De Más",
+      "time": "14:40",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/bG87VicPzkGtlrl9v2oXS56oeIL.jpg",
+      "summary": "Julia y Ernesto lo tienen todo: una relación envidiable, carreras de éxito y, sobre todo, una vida ideal sin hijos. Sin embargo, un día despiertan y se encuentran con tres niños que insisten en llamarlos mamá y papá. Su vida perfecta se ha esfumado. De la noche a la mañana tendrán que aprender a ser padres mientras tratan de descubrir de dónde han salido esos niños y cómo pueden librarse de ellos.",
+      "genres": [
+        "Comedia"
+      ]
+    },
+    {
+      "title": "Tres De Más",
       "time": "17:00",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/bG87VicPzkGtlrl9v2oXS56oeIL.jpg",
@@ -450,8 +470,79 @@ export const MOVIE_DATA = {
       ]
     },
     {
+      "title": "Tal Vez",
+      "time": "22:30",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/sY9PsGiR8VQ0oeKhndvuuvFc7tp.jpg",
+      "summary": "Relata una relación amorosa imaginaria entre la escritora canaria Natalia Sosa Ayala y la famosa artista circense Pinito del Oro, que se conocieron en 1968 cuando la primera ayudó a la segunda a escribir sus memorias.",
+      "genres": [
+        "Drama",
+        "Romance"
+      ]
+    },
+    {
       "title": "La Odisea",
-      "time": "15:45",
+      "time": "12:10",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/bheY17L6wtB0SdJn6EYyh1X5iry.jpg",
+      "summary": "Una epopeya mitológica que sigue la historia de Odiseo y su largo viaje a casa, de 10 años de duración, tras la guerra de Troya.",
+      "genres": [
+        "Aventura",
+        "Acción",
+        "Fantasía"
+      ]
+    },
+    {
+      "title": "La Odisea",
+      "time": "12:20",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/bheY17L6wtB0SdJn6EYyh1X5iry.jpg",
+      "summary": "Una epopeya mitológica que sigue la historia de Odiseo y su largo viaje a casa, de 10 años de duración, tras la guerra de Troya.",
+      "genres": [
+        "Aventura",
+        "Acción",
+        "Fantasía"
+      ]
+    },
+    {
+      "title": "La Odisea",
+      "time": "13:00",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/bheY17L6wtB0SdJn6EYyh1X5iry.jpg",
+      "summary": "Una epopeya mitológica que sigue la historia de Odiseo y su largo viaje a casa, de 10 años de duración, tras la guerra de Troya.",
+      "genres": [
+        "Aventura",
+        "Acción",
+        "Fantasía"
+      ]
+    },
+    {
+      "title": "La Odisea",
+      "time": "13:40",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/bheY17L6wtB0SdJn6EYyh1X5iry.jpg",
+      "summary": "Una epopeya mitológica que sigue la historia de Odiseo y su largo viaje a casa, de 10 años de duración, tras la guerra de Troya.",
+      "genres": [
+        "Aventura",
+        "Acción",
+        "Fantasía"
+      ]
+    },
+    {
+      "title": "La Odisea",
+      "time": "14:10",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/bheY17L6wtB0SdJn6EYyh1X5iry.jpg",
+      "summary": "Una epopeya mitológica que sigue la historia de Odiseo y su largo viaje a casa, de 10 años de duración, tras la guerra de Troya.",
+      "genres": [
+        "Aventura",
+        "Acción",
+        "Fantasía"
+      ]
+    },
+    {
+      "title": "La Odisea",
+      "time": "15:40",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/bheY17L6wtB0SdJn6EYyh1X5iry.jpg",
       "summary": "Una epopeya mitológica que sigue la historia de Odiseo y su largo viaje a casa, de 10 años de duración, tras la guerra de Troya.",
@@ -499,7 +590,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "La Odisea",
-      "time": "19:15",
+      "time": "19:10",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/bheY17L6wtB0SdJn6EYyh1X5iry.jpg",
       "summary": "Una epopeya mitológica que sigue la historia de Odiseo y su largo viaje a casa, de 10 años de duración, tras la guerra de Troya.",
@@ -559,7 +650,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Posesión Infernal: En Llamas",
-      "time": "20:10",
+      "time": "20:00",
       "rating": 6.8,
       "poster": "https://image.tmdb.org/t/p/w342/hDXmoQJ7EClgjv83Z0vEIQu2t7S.jpg",
       "summary": "Película ambientada en el universo de la saga 'Evil Dead / Posesión infernal'. Tras la muerte de su marido, una mujer busca consuelo junto a la familia de este en su aislada casa familiar. Pero, cuando uno a uno comienzan a convertirse en seres poseídos, el encuentro acaba convirtiéndose en una reunión familiar salida del infierno. Entonces descubre que los votos que hizo en vida... siguen vigentes incluso después de la muerte.",
@@ -581,7 +672,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Haciendo Amigos",
-      "time": "15:40",
+      "time": "15:25",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/wE8Fud4W5Eqyaqu05JxdCIXdKsN.jpg",
       "summary": "Antonio y Félix son una pareja de atracadores de poca monta que, huyendo de la policía tras atracar una joyería, se cruzan con Eva, monitora de un grupo de teatro formado por personas con discapacidad, que confunde a Félix con Ángel, un nuevo miembro del grupo al cual no conoce y al que están esperando. Aprovechando la confusión, Félix y Antonio consiguen escabullirse. Sin saber que les espera un retiro creativo de una semana con el entrañable grupo.",
@@ -591,7 +682,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Haciendo Amigos",
-      "time": "17:55",
+      "time": "17:45",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/wE8Fud4W5Eqyaqu05JxdCIXdKsN.jpg",
       "summary": "Antonio y Félix son una pareja de atracadores de poca monta que, huyendo de la policía tras atracar una joyería, se cruzan con Eva, monitora de un grupo de teatro formado por personas con discapacidad, que confunde a Félix con Ángel, un nuevo miembro del grupo al cual no conoce y al que están esperando. Aprovechando la confusión, Félix y Antonio consiguen escabullirse. Sin saber que les espera un retiro creativo de una semana con el entrañable grupo.",
@@ -600,12 +691,28 @@ export const MOVIE_DATA = {
       ]
     },
     {
-      "title": "Backrooms: Liquidación Total (Versión Extendida)",
-      "time": "22:40",
-      "rating": 0,
-      "poster": null,
-      "summary": "Una extraña puerta aparece en el sótano de una exposición de muebles. Incluye 16 min de metraje en una nueva versión extendida del director.",
-      "genres": []
+      "title": "Vaiana",
+      "time": "12:00",
+      "rating": 6.4,
+      "poster": "https://image.tmdb.org/t/p/w342/wC27PIEqSthbUhaVMdYEhaTzYmo.jpg",
+      "summary": "Versión de imagen real de la película de animación de 2016 'Vaiana'.",
+      "genres": [
+        "Familia",
+        "Fantasía",
+        "Comedia"
+      ]
+    },
+    {
+      "title": "Vaiana",
+      "time": "14:35",
+      "rating": 6.4,
+      "poster": "https://image.tmdb.org/t/p/w342/wC27PIEqSthbUhaVMdYEhaTzYmo.jpg",
+      "summary": "Versión de imagen real de la película de animación de 2016 'Vaiana'.",
+      "genres": [
+        "Familia",
+        "Fantasía",
+        "Comedia"
+      ]
     },
     {
       "title": "Vaiana",
@@ -657,6 +764,30 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Minions & Monsters",
+      "time": "11:50",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/7DUzo8Ys7BfmZpqnzIwG4qA0egl.jpg",
+      "summary": "La historia de cómo los Minions conquistaron Hollywood, se convirtieron en estrellas de cine, lo perdieron todo, desataron monstruos en el mundo y luego se unieron para intentar salvar al planeta del caos que acababan de crear.",
+      "genres": [
+        "Aventura",
+        "Animación",
+        "Comedia"
+      ]
+    },
+    {
+      "title": "Minions & Monsters",
+      "time": "14:00",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/7DUzo8Ys7BfmZpqnzIwG4qA0egl.jpg",
+      "summary": "La historia de cómo los Minions conquistaron Hollywood, se convirtieron en estrellas de cine, lo perdieron todo, desataron monstruos en el mundo y luego se unieron para intentar salvar al planeta del caos que acababan de crear.",
+      "genres": [
+        "Aventura",
+        "Animación",
+        "Comedia"
+      ]
+    },
+    {
+      "title": "Minions & Monsters",
       "time": "16:20",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/7DUzo8Ys7BfmZpqnzIwG4qA0egl.jpg",
@@ -692,8 +823,20 @@ export const MOVIE_DATA = {
       ]
     },
     {
+      "title": "Supergirl",
+      "time": "13:05",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/j1FSus4RoDJpY8zzfwjaqBktlUk.jpg",
+      "summary": "Tomando como referencia la reciente miniserie escrita por Tom King, esta película promete una visión diferente de lo que la mayoría piensa cuando le viene a la mente la prima de Superman. \"Veremos la diferencia entre Superman, que fue enviado a la Tierra y criado por unos padres cariñosos desde que era un bebé, y Supergirl, criada en una roca, una astilla de Krypton, y que vio morir y ser asesinados de formas terribles a todos los que la rodeaban durante los primeros 14 años de su vida para luego venir a la Tierra. Ella es mucho más dura y no es la Supergirl a la que estamos acostumbrados\".",
+      "genres": [
+        "Acción",
+        "Aventura",
+        "Ciencia ficción"
+      ]
+    },
+    {
       "title": "Obsession",
-      "time": "15:40",
+      "time": "12:40",
       "rating": 7.9,
       "poster": "https://image.tmdb.org/t/p/w342/ohi9xvbBUymM4SuIOSlt1xbLRQQ.jpg",
       "summary": "El anhelo romántico desesperado de un chico por su amor platónico de toda la vida desencadena un siniestro hechizo: Niki se vuelve irracionalmente obsesiva hasta convertirse en la sombra de Bear. Una fantasía aparentemente inofensiva que se convertirá en una perturbadora pesadilla.",
@@ -704,7 +847,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Obsession",
-      "time": "18:00",
+      "time": "15:30",
       "rating": 7.9,
       "poster": "https://image.tmdb.org/t/p/w342/ohi9xvbBUymM4SuIOSlt1xbLRQQ.jpg",
       "summary": "El anhelo romántico desesperado de un chico por su amor platónico de toda la vida desencadena un siniestro hechizo: Niki se vuelve irracionalmente obsesiva hasta convertirse en la sombra de Bear. Una fantasía aparentemente inofensiva que se convertirá en una perturbadora pesadilla.",
@@ -715,7 +858,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Obsession",
-      "time": "20:25",
+      "time": "17:50",
       "rating": 7.9,
       "poster": "https://image.tmdb.org/t/p/w342/ohi9xvbBUymM4SuIOSlt1xbLRQQ.jpg",
       "summary": "El anhelo romántico desesperado de un chico por su amor platónico de toda la vida desencadena un siniestro hechizo: Niki se vuelve irracionalmente obsesiva hasta convertirse en la sombra de Bear. Una fantasía aparentemente inofensiva que se convertirá en una perturbadora pesadilla.",
@@ -726,7 +869,18 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Obsession",
-      "time": "22:50",
+      "time": "20:15",
+      "rating": 7.9,
+      "poster": "https://image.tmdb.org/t/p/w342/ohi9xvbBUymM4SuIOSlt1xbLRQQ.jpg",
+      "summary": "El anhelo romántico desesperado de un chico por su amor platónico de toda la vida desencadena un siniestro hechizo: Niki se vuelve irracionalmente obsesiva hasta convertirse en la sombra de Bear. Una fantasía aparentemente inofensiva que se convertirá en una perturbadora pesadilla.",
+      "genres": [
+        "Terror",
+        "Suspense"
+      ]
+    },
+    {
+      "title": "Obsession",
+      "time": "22:40",
       "rating": 7.9,
       "poster": "https://image.tmdb.org/t/p/w342/ohi9xvbBUymM4SuIOSlt1xbLRQQ.jpg",
       "summary": "El anhelo romántico desesperado de un chico por su amor platónico de toda la vida desencadena un siniestro hechizo: Niki se vuelve irracionalmente obsesiva hasta convertirse en la sombra de Bear. Una fantasía aparentemente inofensiva que se convertirá en una perturbadora pesadilla.",
@@ -737,7 +891,19 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Toy Story 5",
-      "time": "15:50",
+      "time": "12:50",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/1yF3AztF3rQ8MZ8En8974AWo5zZ.jpg",
+      "summary": "Buzz, Woody, Jessie y el resto de la pandilla tienen un trabajo exponencialmente más difícil cuando se enfrentan a esta nueva amenaza para la hora de jugar: la tecnología.",
+      "genres": [
+        "Animación",
+        "Familia",
+        "Comedia"
+      ]
+    },
+    {
+      "title": "Toy Story 5",
+      "time": "15:45",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/1yF3AztF3rQ8MZ8En8974AWo5zZ.jpg",
       "summary": "Buzz, Woody, Jessie y el resto de la pandilla tienen un trabajo exponencialmente más difícil cuando se enfrentan a esta nueva amenaza para la hora de jugar: la tecnología.",
@@ -786,6 +952,16 @@ export const MOVIE_DATA = {
   "Cine Yelmo Premium Alisios": [
     {
       "title": "Tres De Más",
+      "time": "13:10",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/bG87VicPzkGtlrl9v2oXS56oeIL.jpg",
+      "summary": "Julia y Ernesto lo tienen todo: una relación envidiable, carreras de éxito y, sobre todo, una vida ideal sin hijos. Sin embargo, un día despiertan y se encuentran con tres niños que insisten en llamarlos mamá y papá. Su vida perfecta se ha esfumado. De la noche a la mañana tendrán que aprender a ser padres mientras tratan de descubrir de dónde han salido esos niños y cómo pueden librarse de ellos.",
+      "genres": [
+        "Comedia"
+      ]
+    },
+    {
+      "title": "Tres De Más",
       "time": "16:10",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/bG87VicPzkGtlrl9v2oXS56oeIL.jpg",
@@ -822,6 +998,30 @@ export const MOVIE_DATA = {
       "summary": "Julia y Ernesto lo tienen todo: una relación envidiable, carreras de éxito y, sobre todo, una vida ideal sin hijos. Sin embargo, un día despiertan y se encuentran con tres niños que insisten en llamarlos mamá y papá. Su vida perfecta se ha esfumado. De la noche a la mañana tendrán que aprender a ser padres mientras tratan de descubrir de dónde han salido esos niños y cómo pueden librarse de ellos.",
       "genres": [
         "Comedia"
+      ]
+    },
+    {
+      "title": "La Odisea",
+      "time": "12:20",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/bheY17L6wtB0SdJn6EYyh1X5iry.jpg",
+      "summary": "Una epopeya mitológica que sigue la historia de Odiseo y su largo viaje a casa, de 10 años de duración, tras la guerra de Troya.",
+      "genres": [
+        "Aventura",
+        "Acción",
+        "Fantasía"
+      ]
+    },
+    {
+      "title": "La Odisea",
+      "time": "12:50",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/bheY17L6wtB0SdJn6EYyh1X5iry.jpg",
+      "summary": "Una epopeya mitológica que sigue la historia de Odiseo y su largo viaje a casa, de 10 años de duración, tras la guerra de Troya.",
+      "genres": [
+        "Aventura",
+        "Acción",
+        "Fantasía"
       ]
     },
     {
@@ -932,6 +1132,16 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Haciendo Amigos",
+      "time": "13:40",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/wE8Fud4W5Eqyaqu05JxdCIXdKsN.jpg",
+      "summary": "Antonio y Félix son una pareja de atracadores de poca monta que, huyendo de la policía tras atracar una joyería, se cruzan con Eva, monitora de un grupo de teatro formado por personas con discapacidad, que confunde a Félix con Ángel, un nuevo miembro del grupo al cual no conoce y al que están esperando. Aprovechando la confusión, Félix y Antonio consiguen escabullirse. Sin saber que les espera un retiro creativo de una semana con el entrañable grupo.",
+      "genres": [
+        "Comedia"
+      ]
+    },
+    {
+      "title": "Haciendo Amigos",
       "time": "15:50",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/wE8Fud4W5Eqyaqu05JxdCIXdKsN.jpg",
@@ -952,7 +1162,31 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Vaiana",
-      "time": "15:50",
+      "time": "12:00",
+      "rating": 6.4,
+      "poster": "https://image.tmdb.org/t/p/w342/wC27PIEqSthbUhaVMdYEhaTzYmo.jpg",
+      "summary": "Versión de imagen real de la película de animación de 2016 'Vaiana'.",
+      "genres": [
+        "Familia",
+        "Fantasía",
+        "Comedia"
+      ]
+    },
+    {
+      "title": "Vaiana",
+      "time": "12:45",
+      "rating": 6.4,
+      "poster": "https://image.tmdb.org/t/p/w342/wC27PIEqSthbUhaVMdYEhaTzYmo.jpg",
+      "summary": "Versión de imagen real de la película de animación de 2016 'Vaiana'.",
+      "genres": [
+        "Familia",
+        "Fantasía",
+        "Comedia"
+      ]
+    },
+    {
+      "title": "Vaiana",
+      "time": "14:30",
       "rating": 6.4,
       "poster": "https://image.tmdb.org/t/p/w342/wC27PIEqSthbUhaVMdYEhaTzYmo.jpg",
       "summary": "Versión de imagen real de la película de animación de 2016 'Vaiana'.",
@@ -1000,7 +1234,19 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Minions & Monsters",
-      "time": "16:00",
+      "time": "13:30",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/7DUzo8Ys7BfmZpqnzIwG4qA0egl.jpg",
+      "summary": "La historia de cómo los Minions conquistaron Hollywood, se convirtieron en estrellas de cine, lo perdieron todo, desataron monstruos en el mundo y luego se unieron para intentar salvar al planeta del caos que acababan de crear.",
+      "genres": [
+        "Aventura",
+        "Animación",
+        "Comedia"
+      ]
+    },
+    {
+      "title": "Minions & Monsters",
+      "time": "15:50",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/7DUzo8Ys7BfmZpqnzIwG4qA0egl.jpg",
       "summary": "La historia de cómo los Minions conquistaron Hollywood, se convirtieron en estrellas de cine, lo perdieron todo, desataron monstruos en el mundo y luego se unieron para intentar salvar al planeta del caos que acababan de crear.",
@@ -1024,7 +1270,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Minions & Monsters",
-      "time": "18:05",
+      "time": "17:55",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/7DUzo8Ys7BfmZpqnzIwG4qA0egl.jpg",
       "summary": "La historia de cómo los Minions conquistaron Hollywood, se convirtieron en estrellas de cine, lo perdieron todo, desataron monstruos en el mundo y luego se unieron para intentar salvar al planeta del caos que acababan de crear.",
@@ -1036,7 +1282,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Minions & Monsters",
-      "time": "20:10",
+      "time": "20:00",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/7DUzo8Ys7BfmZpqnzIwG4qA0egl.jpg",
       "summary": "La historia de cómo los Minions conquistaron Hollywood, se convirtieron en estrellas de cine, lo perdieron todo, desataron monstruos en el mundo y luego se unieron para intentar salvar al planeta del caos que acababan de crear.",
@@ -1070,7 +1316,19 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Toy Story 5",
-      "time": "15:45",
+      "time": "12:30",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/1yF3AztF3rQ8MZ8En8974AWo5zZ.jpg",
+      "summary": "Buzz, Woody, Jessie y el resto de la pandilla tienen un trabajo exponencialmente más difícil cuando se enfrentan a esta nueva amenaza para la hora de jugar: la tecnología.",
+      "genres": [
+        "Animación",
+        "Familia",
+        "Comedia"
+      ]
+    },
+    {
+      "title": "Toy Story 5",
+      "time": "15:40",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/1yF3AztF3rQ8MZ8En8974AWo5zZ.jpg",
       "summary": "Buzz, Woody, Jessie y el resto de la pandilla tienen un trabajo exponencialmente más difícil cuando se enfrentan a esta nueva amenaza para la hora de jugar: la tecnología.",
@@ -1106,7 +1364,19 @@ export const MOVIE_DATA = {
     },
     {
       "title": "El Día De La Revelación",
-      "time": "22:20",
+      "time": "12:10",
+      "rating": 8.4,
+      "poster": "https://image.tmdb.org/t/p/w342/uGww4UrU3316Mld4p30dgdM09Du.jpg",
+      "summary": "Si descubrieras que no estamos solos, si alguien te abriera los ojos y te lo demostrase, ¿te asustarías? Este verano, la verdad será revelada a siete mil millones de personas. Llega... el día de la revelación.",
+      "genres": [
+        "Misterio",
+        "Ciencia ficción",
+        "Suspense"
+      ]
+    },
+    {
+      "title": "El Día De La Revelación",
+      "time": "22:05",
       "rating": 8.4,
       "poster": "https://image.tmdb.org/t/p/w342/uGww4UrU3316Mld4p30dgdM09Du.jpg",
       "summary": "Si descubrieras que no estamos solos, si alguien te abriera los ojos y te lo demostrase, ¿te asustarías? Este verano, la verdad será revelada a siete mil millones de personas. Llega... el día de la revelación.",
