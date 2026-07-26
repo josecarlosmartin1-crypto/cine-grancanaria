@@ -494,18 +494,6 @@ export const MOVIE_DATA = {
     },
     {
       "title": "La Odisea",
-      "time": "12:20",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/bheY17L6wtB0SdJn6EYyh1X5iry.jpg",
-      "summary": "Una epopeya mitológica que sigue la historia de Odiseo y su largo viaje a casa, de 10 años de duración, tras la guerra de Troya.",
-      "genres": [
-        "Aventura",
-        "Acción",
-        "Fantasía"
-      ]
-    },
-    {
-      "title": "La Odisea",
       "time": "13:00",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/bheY17L6wtB0SdJn6EYyh1X5iry.jpg",
@@ -671,6 +659,14 @@ export const MOVIE_DATA = {
       ]
     },
     {
+      "title": "Backrooms: Liquidación Total (Versión Extendida)",
+      "time": "22:40",
+      "rating": 0,
+      "poster": null,
+      "summary": "Una extraña puerta aparece en el sótano de una exposición de muebles. Incluye 16 min de metraje en una nueva versión extendida del director.",
+      "genres": []
+    },
+    {
       "title": "Haciendo Amigos",
       "time": "15:25",
       "rating": 0.0,
@@ -823,18 +819,6 @@ export const MOVIE_DATA = {
       ]
     },
     {
-      "title": "Supergirl",
-      "time": "13:05",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/j1FSus4RoDJpY8zzfwjaqBktlUk.jpg",
-      "summary": "Tomando como referencia la reciente miniserie escrita por Tom King, esta película promete una visión diferente de lo que la mayoría piensa cuando le viene a la mente la prima de Superman. \"Veremos la diferencia entre Superman, que fue enviado a la Tierra y criado por unos padres cariñosos desde que era un bebé, y Supergirl, criada en una roca, una astilla de Krypton, y que vio morir y ser asesinados de formas terribles a todos los que la rodeaban durante los primeros 14 años de su vida para luego venir a la Tierra. Ella es mucho más dura y no es la Supergirl a la que estamos acostumbrados\".",
-      "genres": [
-        "Acción",
-        "Aventura",
-        "Ciencia ficción"
-      ]
-    },
-    {
       "title": "Obsession",
       "time": "12:40",
       "rating": 7.9,
@@ -935,17 +919,6 @@ export const MOVIE_DATA = {
         "Misterio",
         "Ciencia ficción",
         "Suspense"
-      ]
-    },
-    {
-      "title": "Michael",
-      "time": "22:45",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/2uK36ujoDXOfNiJ5Yp3raVprB51.jpg",
-      "summary": "El viaje de Michael Jackson más allá de la música, desde el descubrimiento de su extraordinario talento como líder de los Jackson Five hasta convertirse en una visionaria estrella cuya ambición creativa despertó un incansable afán por consagrarse como el mayor icono de la industria del entretenimiento.",
-      "genres": [
-        "Música",
-        "Drama"
       ]
     }
   ],
@@ -1050,7 +1023,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "La Odisea",
-      "time": "18:20",
+      "time": "18:15",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/bheY17L6wtB0SdJn6EYyh1X5iry.jpg",
       "summary": "Una epopeya mitológica que sigue la historia de Odiseo y su largo viaje a casa, de 10 años de duración, tras la guerra de Troya.",
@@ -1086,19 +1059,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "La Odisea",
-      "time": "21:45",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/bheY17L6wtB0SdJn6EYyh1X5iry.jpg",
-      "summary": "Una epopeya mitológica que sigue la historia de Odiseo y su largo viaje a casa, de 10 años de duración, tras la guerra de Troya.",
-      "genres": [
-        "Aventura",
-        "Acción",
-        "Fantasía"
-      ]
-    },
-    {
-      "title": "La Odisea",
-      "time": "22:35",
+      "time": "21:40",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/bheY17L6wtB0SdJn6EYyh1X5iry.jpg",
       "summary": "Una epopeya mitológica que sigue la historia de Odiseo y su largo viaje a casa, de 10 años de duración, tras la guerra de Troya.",
@@ -1121,7 +1082,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Posesión Infernal: En Llamas",
-      "time": "22:45",
+      "time": "22:40",
       "rating": 6.8,
       "poster": "https://image.tmdb.org/t/p/w342/hDXmoQJ7EClgjv83Z0vEIQu2t7S.jpg",
       "summary": "Película ambientada en el universo de la saga 'Evil Dead / Posesión infernal'. Tras la muerte de su marido, una mujer busca consuelo junto a la familia de este en su aislada casa familiar. Pero, cuando uno a uno comienzan a convertirse en seres poseídos, el encuentro acaba convirtiéndose en una reunión familiar salida del infierno. Entonces descubre que los votos que hizo en vida... siguen vigentes incluso después de la muerte.",
@@ -1222,7 +1183,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Vaiana",
-      "time": "22:00",
+      "time": "22:35",
       "rating": 6.4,
       "poster": "https://image.tmdb.org/t/p/w342/wC27PIEqSthbUhaVMdYEhaTzYmo.jpg",
       "summary": "Versión de imagen real de la película de animación de 2016 'Vaiana'.",
@@ -1246,7 +1207,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Minions & Monsters",
-      "time": "15:50",
+      "time": "16:00",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/7DUzo8Ys7BfmZpqnzIwG4qA0egl.jpg",
       "summary": "La historia de cómo los Minions conquistaron Hollywood, se convirtieron en estrellas de cine, lo perdieron todo, desataron monstruos en el mundo y luego se unieron para intentar salvar al planeta del caos que acababan de crear.",
@@ -1270,7 +1231,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Minions & Monsters",
-      "time": "17:55",
+      "time": "18:05",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/7DUzo8Ys7BfmZpqnzIwG4qA0egl.jpg",
       "summary": "La historia de cómo los Minions conquistaron Hollywood, se convirtieron en estrellas de cine, lo perdieron todo, desataron monstruos en el mundo y luego se unieron para intentar salvar al planeta del caos que acababan de crear.",
@@ -1282,7 +1243,19 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Minions & Monsters",
-      "time": "20:00",
+      "time": "20:10",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/7DUzo8Ys7BfmZpqnzIwG4qA0egl.jpg",
+      "summary": "La historia de cómo los Minions conquistaron Hollywood, se convirtieron en estrellas de cine, lo perdieron todo, desataron monstruos en el mundo y luego se unieron para intentar salvar al planeta del caos que acababan de crear.",
+      "genres": [
+        "Aventura",
+        "Animación",
+        "Comedia"
+      ]
+    },
+    {
+      "title": "Minions & Monsters",
+      "time": "22:20",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/7DUzo8Ys7BfmZpqnzIwG4qA0egl.jpg",
       "summary": "La historia de cómo los Minions conquistaron Hollywood, se convirtieron en estrellas de cine, lo perdieron todo, desataron monstruos en el mundo y luego se unieron para intentar salvar al planeta del caos que acababan de crear.",
@@ -1376,7 +1349,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "El Día De La Revelación",
-      "time": "22:05",
+      "time": "22:00",
       "rating": 8.4,
       "poster": "https://image.tmdb.org/t/p/w342/uGww4UrU3316Mld4p30dgdM09Du.jpg",
       "summary": "Si descubrieras que no estamos solos, si alguien te abriera los ojos y te lo demostrase, ¿te asustarías? Este verano, la verdad será revelada a siete mil millones de personas. Llega... el día de la revelación.",
@@ -1390,7 +1363,7 @@ export const MOVIE_DATA = {
   "Artesiete Las Terrazas": [
     {
       "title": "Toy Story 5",
-      "time": "15:50",
+      "time": "12:00",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/1yF3AztF3rQ8MZ8En8974AWo5zZ.jpg",
       "summary": "Buzz, Woody, Jessie y el resto de la pandilla tienen un trabajo exponencialmente más difícil cuando se enfrentan a esta nueva amenaza para la hora de jugar: la tecnología.",
@@ -1402,7 +1375,19 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Toy Story 5",
-      "time": "18:00",
+      "time": "15:45",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/1yF3AztF3rQ8MZ8En8974AWo5zZ.jpg",
+      "summary": "Buzz, Woody, Jessie y el resto de la pandilla tienen un trabajo exponencialmente más difícil cuando se enfrentan a esta nueva amenaza para la hora de jugar: la tecnología.",
+      "genres": [
+        "Animación",
+        "Familia",
+        "Comedia"
+      ]
+    },
+    {
+      "title": "Toy Story 5",
+      "time": "17:45",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/1yF3AztF3rQ8MZ8En8974AWo5zZ.jpg",
       "summary": "Buzz, Woody, Jessie y el resto de la pandilla tienen un trabajo exponencialmente más difícil cuando se enfrentan a esta nueva amenaza para la hora de jugar: la tecnología.",
@@ -1425,7 +1410,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Minions & Monstruos",
-      "time": "16:00",
+      "time": "12:15",
       "rating": 6.8,
       "poster": "https://image.tmdb.org/t/p/w342/7DUzo8Ys7BfmZpqnzIwG4qA0egl.jpg",
       "summary": "La historia de cómo los Minions conquistaron Hollywood, se convirtieron en estrellas de cine, lo perdieron todo, desataron monstruos en el mundo y luego se unieron para intentar salvar al planeta del caos que acababan de crear.",
@@ -1437,7 +1422,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Minions & Monstruos",
-      "time": "18:10",
+      "time": "16:30",
       "rating": 6.8,
       "poster": "https://image.tmdb.org/t/p/w342/7DUzo8Ys7BfmZpqnzIwG4qA0egl.jpg",
       "summary": "La historia de cómo los Minions conquistaron Hollywood, se convirtieron en estrellas de cine, lo perdieron todo, desataron monstruos en el mundo y luego se unieron para intentar salvar al planeta del caos que acababan de crear.",
@@ -1449,7 +1434,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Minions & Monstruos",
-      "time": "20:00",
+      "time": "19:10",
       "rating": 6.8,
       "poster": "https://image.tmdb.org/t/p/w342/7DUzo8Ys7BfmZpqnzIwG4qA0egl.jpg",
       "summary": "La historia de cómo los Minions conquistaron Hollywood, se convirtieron en estrellas de cine, lo perdieron todo, desataron monstruos en el mundo y luego se unieron para intentar salvar al planeta del caos que acababan de crear.",
@@ -1461,7 +1446,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Vaiana",
-      "time": "16:00",
+      "time": "12:00",
       "rating": 6.4,
       "poster": "https://image.tmdb.org/t/p/w342/wC27PIEqSthbUhaVMdYEhaTzYmo.jpg",
       "summary": "Versión de imagen real de la película de animación de 2016 'Vaiana'.",
@@ -1473,7 +1458,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Vaiana",
-      "time": "17:50",
+      "time": "17:00",
       "rating": 6.4,
       "poster": "https://image.tmdb.org/t/p/w342/wC27PIEqSthbUhaVMdYEhaTzYmo.jpg",
       "summary": "Versión de imagen real de la película de animación de 2016 'Vaiana'.",
@@ -1485,7 +1470,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Vaiana",
-      "time": "20:00",
+      "time": "18:30",
       "rating": 6.4,
       "poster": "https://image.tmdb.org/t/p/w342/wC27PIEqSthbUhaVMdYEhaTzYmo.jpg",
       "summary": "Versión de imagen real de la película de animación de 2016 'Vaiana'.",
@@ -1493,6 +1478,18 @@ export const MOVIE_DATA = {
         "Familia",
         "Fantasía",
         "Comedia"
+      ]
+    },
+    {
+      "title": "La Odisea",
+      "time": "11:40",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/bheY17L6wtB0SdJn6EYyh1X5iry.jpg",
+      "summary": "Una epopeya mitológica que sigue la historia de Odiseo y su largo viaje a casa, de 10 años de duración, tras la guerra de Troya.",
+      "genres": [
+        "Aventura",
+        "Acción",
+        "Fantasía"
       ]
     },
     {
@@ -1533,7 +1530,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "La Odisea",
-      "time": "21:45",
+      "time": "21:15",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/bheY17L6wtB0SdJn6EYyh1X5iry.jpg",
       "summary": "Una epopeya mitológica que sigue la historia de Odiseo y su largo viaje a casa, de 10 años de duración, tras la guerra de Troya.",
@@ -1541,6 +1538,17 @@ export const MOVIE_DATA = {
         "Aventura",
         "Acción",
         "Fantasía"
+      ]
+    },
+    {
+      "title": "Posesion Infernal: En Llamas",
+      "time": "12:30",
+      "rating": 6.8,
+      "poster": "https://image.tmdb.org/t/p/w342/hDXmoQJ7EClgjv83Z0vEIQu2t7S.jpg",
+      "summary": "Película ambientada en el universo de la saga 'Evil Dead / Posesión infernal'. Tras la muerte de su marido, una mujer busca consuelo junto a la familia de este en su aislada casa familiar. Pero, cuando uno a uno comienzan a convertirse en seres poseídos, el encuentro acaba convirtiéndose en una reunión familiar salida del infierno. Entonces descubre que los votos que hizo en vida... siguen vigentes incluso después de la muerte.",
+      "genres": [
+        "Terror",
+        "Suspense"
       ]
     },
     {
@@ -1556,7 +1564,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Posesion Infernal: En Llamas",
-      "time": "22:10",
+      "time": "20:30",
       "rating": 6.8,
       "poster": "https://image.tmdb.org/t/p/w342/hDXmoQJ7EClgjv83Z0vEIQu2t7S.jpg",
       "summary": "Película ambientada en el universo de la saga 'Evil Dead / Posesión infernal'. Tras la muerte de su marido, una mujer busca consuelo junto a la familia de este en su aislada casa familiar. Pero, cuando uno a uno comienzan a convertirse en seres poseídos, el encuentro acaba convirtiéndose en una reunión familiar salida del infierno. Entonces descubre que los votos que hizo en vida... siguen vigentes incluso después de la muerte.",
@@ -1567,7 +1575,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Insaciable",
-      "time": "20:00",
+      "time": "19:45",
       "rating": 6.3,
       "poster": "https://image.tmdb.org/t/p/w342/v9st6lwP4K2i6YCa7kLQVQEuvNZ.jpg",
       "summary": "Hana, una estudiante de medicina con una fuerte dismorfia corporal, se somete a una moda de adelgazamiento tan absurda como macabra: comer cenizas humanas. A partir de ese momento, comienza a ser acosada por un fantasma hambriento, una manifestación literal del mito del 'hungry ghost'.",
@@ -1577,7 +1585,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Insaciable",
-      "time": "22:10",
+      "time": "21:45",
       "rating": 6.3,
       "poster": "https://image.tmdb.org/t/p/w342/v9st6lwP4K2i6YCa7kLQVQEuvNZ.jpg",
       "summary": "Hana, una estudiante de medicina con una fuerte dismorfia corporal, se somete a una moda de adelgazamiento tan absurda como macabra: comer cenizas humanas. A partir de ese momento, comienza a ser acosada por un fantasma hambriento, una manifestación literal del mito del 'hungry ghost'.",
@@ -1587,7 +1595,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Tres De Mas",
-      "time": "16:30",
+      "time": "12:30",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/bG87VicPzkGtlrl9v2oXS56oeIL.jpg",
       "summary": "Julia y Ernesto lo tienen todo: una relación envidiable, carreras de éxito y, sobre todo, una vida ideal sin hijos. Sin embargo, un día despiertan y se encuentran con tres niños que insisten en llamarlos mamá y papá. Su vida perfecta se ha esfumado. De la noche a la mañana tendrán que aprender a ser padres mientras tratan de descubrir de dónde han salido esos niños y cómo pueden librarse de ellos.",
@@ -1597,7 +1605,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Tres De Mas",
-      "time": "18:20",
+      "time": "16:00",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/bG87VicPzkGtlrl9v2oXS56oeIL.jpg",
       "summary": "Julia y Ernesto lo tienen todo: una relación envidiable, carreras de éxito y, sobre todo, una vida ideal sin hijos. Sin embargo, un día despiertan y se encuentran con tres niños que insisten en llamarlos mamá y papá. Su vida perfecta se ha esfumado. De la noche a la mañana tendrán que aprender a ser padres mientras tratan de descubrir de dónde han salido esos niños y cómo pueden librarse de ellos.",
@@ -1607,7 +1615,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Tres De Mas",
-      "time": "20:10",
+      "time": "17:50",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/bG87VicPzkGtlrl9v2oXS56oeIL.jpg",
       "summary": "Julia y Ernesto lo tienen todo: una relación envidiable, carreras de éxito y, sobre todo, una vida ideal sin hijos. Sin embargo, un día despiertan y se encuentran con tres niños que insisten en llamarlos mamá y papá. Su vida perfecta se ha esfumado. De la noche a la mañana tendrán que aprender a ser padres mientras tratan de descubrir de dónde han salido esos niños y cómo pueden librarse de ellos.",
@@ -1617,7 +1625,17 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Tres De Mas",
-      "time": "22:00",
+      "time": "19:40",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/bG87VicPzkGtlrl9v2oXS56oeIL.jpg",
+      "summary": "Julia y Ernesto lo tienen todo: una relación envidiable, carreras de éxito y, sobre todo, una vida ideal sin hijos. Sin embargo, un día despiertan y se encuentran con tres niños que insisten en llamarlos mamá y papá. Su vida perfecta se ha esfumado. De la noche a la mañana tendrán que aprender a ser padres mientras tratan de descubrir de dónde han salido esos niños y cómo pueden librarse de ellos.",
+      "genres": [
+        "Comedia"
+      ]
+    },
+    {
+      "title": "Tres De Mas",
+      "time": "21:30",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/bG87VicPzkGtlrl9v2oXS56oeIL.jpg",
       "summary": "Julia y Ernesto lo tienen todo: una relación envidiable, carreras de éxito y, sobre todo, una vida ideal sin hijos. Sin embargo, un día despiertan y se encuentran con tres niños que insisten en llamarlos mamá y papá. Su vida perfecta se ha esfumado. De la noche a la mañana tendrán que aprender a ser padres mientras tratan de descubrir de dónde han salido esos niños y cómo pueden librarse de ellos.",
