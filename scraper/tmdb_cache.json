@@ -2032,5 +2032,43 @@
     "genres": [
       "Comedia"
     ]
+  },
+  "Vaiana: Live Action": {
+    "rating": 5.9,
+    "poster": "https://image.tmdb.org/t/p/w342/4sFGyfPGrS2uonrWFDGlLXT0nyA.jpg",
+    "summary": "Versión de imagen real de la película de animación de 2016 'Vaiana'.",
+    "genres": [
+      "Familia",
+      "Fantasía",
+      "Comedia"
+    ]
+  },
+  "La Patrulla Canina: La Dino Película": {
+    "rating": 3.5,
+    "poster": "https://image.tmdb.org/t/p/w342/jfwX8QE4jJg0rWI2CIZ8tDB5eul.jpg",
+    "summary": "Cuando una fuerte tormenta deja a la patrulla canina varada en una isla inexplorada llena de dinosaurios vivos, los cachorros deben unirse a su nuevo aliado, Rex, para detener al alcalde Humdinger antes de que la codicia de este provoque una catastrófica erupción volcánica.",
+    "genres": [
+      "Aventura",
+      "Animación",
+      "Comedia"
+    ]
+  },
+  "Katseye: Wild Hearts": {
+    "rating": 0.0,
+    "poster": "https://image.tmdb.org/t/p/w342/bcAxxRpiBIT3JWXAYUAf10UG4LD.jpg",
+    "summary": "El grupo femenino internacional KATSEYE, dos veces nominado a los premios GRAMMY®, llega a los cines de todo el mundo con un estreno especial en salas antes del lanzamiento de su tercer EP, WILD.\r\nKATSEYE: WILD HEARTS es un viaje fascinante a la nueva y audaz etapa del grupo que rinde homenaje a los fans que la hicieron posible. Con material inédito, videos de fans de EYEKONS y entrevistas íntimas con los miembros del grupo, la película explora el fuerte vínculo que une a KATSEYE con su comunidad de fans de todo el mundo. KATSEYE: WILD HEARTS, una carta de amor a los EYEKONS que ayudaron a crear este movimiento, nos muestra por qué la historia de este grupo apenas está comenzando.\r\nDesde la intensa presión de Dream Academy hasta el éxito viral que las llevó a lo más alto de las listas, el público vivirá los momentos de gloria, los reveses, los sacrificios y los momentos decisivos que transformaron a KATSEYE en su camino hacia el estrellato pop mundial.   Elogiado por medios como The New York Times, Vogue, Rolling Stone y Billboard, KATSEYE se ha ganado el reconocimiento por su incansable dedicación a su arte y sus electrizantes actuaciones en vivo. Como uno de los grupos emergentes más prometedores del pop a nivel mundial, el grupo sigue consolidando su posición como una fuerza global.\r\nDel mismo equipo que creó POP STAR ACADEMY de Netflix, KATSEYE: WILD HEARTS es una producción de Interscope Films y Boardwalk Pictures, en colaboración con HYBE X GEFFEN, y está dirigida por Nadia Hallgren.",
+    "genres": [
+      "Documental",
+      "Música"
+    ]
+  },
+  "Ghost: 2 Big To Rig": {
+    "rating": 0.0,
+    "poster": "https://image.tmdb.org/t/p/w342/nZnCOQNa4UcBNGjqbw12HPIFqBY.jpg",
+    "summary": "Grabada durante dos noches con entradas agotadas en Ciudad de México (más de 40.000 fans), esta es la película-concierto definitiva de la producción más ambiciosa de GHOST hasta la fecha, incluyendo imágenes exclusivas de su gira \"phone-free\".\r\n\r\n'GHOST: 2 Big To Rig contiene secuencias de luces intermitentes que podrían afectar a clientes susceptibles a la epilepsia fotosensible.'",
+    "genres": [
+      "Música",
+      "Documental"
+    ]
   }
 }
