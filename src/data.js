@@ -397,6 +397,14 @@ export const MOVIE_DATA = {
   ],
   "Cine Yelmo Las Arenas": [
     {
+      "title": "The Merry Widow - Ópera Met Encores 2026",
+      "time": "19:00",
+      "rating": 0,
+      "poster": null,
+      "summary": "Renée Fleming ilumina el escenario del Met en el papel de Hanna Glawari, la fabulosamente rica viuda que da título a la querida opereta de Lehár, ambientada en París y presentada en una deslumbrante producción dirigida y coreografiada por la artista de Broadway Susan Stroman. Nathan Gunn interpreta a Danilo, el antiguo amor de Hanna, que debe cortejarla y casarse con ella para mantener su fortuna en su país natal, Pontevedro. Kelli O’Hara interpreta a Valencienne, la coqueta joven esposa del embajador de Pontevedro en París, el barón Zeta, interpretado por Thomas Allen, y Alek Shrader es su pretendiente, Camille. Andrew Davis dirige la partitura, repleta de valses, y la nueva traducción al inglés es obra de Jeremy Sams.",
+      "genres": []
+    },
+    {
       "title": "Tres De Más",
       "time": "17:00",
       "rating": 0.0,
@@ -418,7 +426,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Tres De Más",
-      "time": "22:45",
+      "time": "22:50",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/bG87VicPzkGtlrl9v2oXS56oeIL.jpg",
       "summary": "Julia y Ernesto lo tienen todo: una relación envidiable, carreras de éxito y, sobre todo, una vida ideal sin hijos. Sin embargo, un día despiertan y se encuentran con tres niños que insisten en llamarlos mamá y papá. Su vida perfecta se ha esfumado. De la noche a la mañana tendrán que aprender a ser padres mientras tratan de descubrir de dónde han salido esos niños y cómo pueden librarse de ellos.",
@@ -440,6 +448,17 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Tal Vez",
+      "time": "17:50",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/sY9PsGiR8VQ0oeKhndvuuvFc7tp.jpg",
+      "summary": "Relata una relación amorosa imaginaria entre la escritora canaria Natalia Sosa Ayala y la famosa artista circense Pinito del Oro, que se conocieron en 1968 cuando la primera ayudó a la segunda a escribir sus memorias.",
+      "genres": [
+        "Drama",
+        "Romance"
+      ]
+    },
+    {
+      "title": "Tal Vez",
       "time": "20:20",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/sY9PsGiR8VQ0oeKhndvuuvFc7tp.jpg",
@@ -451,7 +470,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Tal Vez",
-      "time": "22:40",
+      "time": "22:20",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/sY9PsGiR8VQ0oeKhndvuuvFc7tp.jpg",
       "summary": "Relata una relación amorosa imaginaria entre la escritora canaria Natalia Sosa Ayala y la famosa artista circense Pinito del Oro, que se conocieron en 1968 cuando la primera ayudó a la segunda a escribir sus memorias.",
@@ -570,7 +589,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Posesión Infernal: En Llamas",
-      "time": "20:10",
+      "time": "16:30",
       "rating": 6.8,
       "poster": "https://image.tmdb.org/t/p/w342/hDXmoQJ7EClgjv83Z0vEIQu2t7S.jpg",
       "summary": "Película ambientada en el universo de la saga 'Evil Dead / Posesión infernal'. Tras la muerte de su marido, una mujer busca consuelo junto a la familia de este en su aislada casa familiar. Pero, cuando uno a uno comienzan a convertirse en seres poseídos, el encuentro acaba convirtiéndose en una reunión familiar salida del infierno. Entonces descubre que los votos que hizo en vida... siguen vigentes incluso después de la muerte.",
@@ -581,7 +600,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Posesión Infernal: En Llamas",
-      "time": "22:50",
+      "time": "22:00",
       "rating": 6.8,
       "poster": "https://image.tmdb.org/t/p/w342/hDXmoQJ7EClgjv83Z0vEIQu2t7S.jpg",
       "summary": "Película ambientada en el universo de la saga 'Evil Dead / Posesión infernal'. Tras la muerte de su marido, una mujer busca consuelo junto a la familia de este en su aislada casa familiar. Pero, cuando uno a uno comienzan a convertirse en seres poseídos, el encuentro acaba convirtiéndose en una reunión familiar salida del infierno. Entonces descubre que los votos que hizo en vida... siguen vigentes incluso después de la muerte.",
@@ -592,7 +611,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Backrooms: Liquidación Total (Versión Extendida)",
-      "time": "22:45",
+      "time": "22:40",
       "rating": 0,
       "poster": null,
       "summary": "Una extraña puerta aparece en el sótano de una exposición de muebles. Incluye 16 min de metraje en una nueva versión extendida del director.",
@@ -601,16 +620,6 @@ export const MOVIE_DATA = {
     {
       "title": "Haciendo Amigos",
       "time": "15:40",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/wE8Fud4W5Eqyaqu05JxdCIXdKsN.jpg",
-      "summary": "Antonio y Félix son una pareja de atracadores de poca monta que, huyendo de la policía tras atracar una joyería, se cruzan con Eva, monitora de un grupo de teatro formado por personas con discapacidad, que confunde a Félix con Ángel, un nuevo miembro del grupo al cual no conoce y al que están esperando. Aprovechando la confusión, Félix y Antonio consiguen escabullirse. Sin saber que les espera un retiro creativo de una semana con el entrañable grupo.",
-      "genres": [
-        "Comedia"
-      ]
-    },
-    {
-      "title": "Haciendo Amigos",
-      "time": "17:55",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/wE8Fud4W5Eqyaqu05JxdCIXdKsN.jpg",
       "summary": "Antonio y Félix son una pareja de atracadores de poca monta que, huyendo de la policía tras atracar una joyería, se cruzan con Eva, monitora de un grupo de teatro formado por personas con discapacidad, que confunde a Félix con Ángel, un nuevo miembro del grupo al cual no conoce y al que están esperando. Aprovechando la confusión, Félix y Antonio consiguen escabullirse. Sin saber que les espera un retiro creativo de una semana con el entrañable grupo.",
@@ -668,65 +677,43 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Minions & Monsters",
-      "time": "16:20",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/7DUzo8Ys7BfmZpqnzIwG4qA0egl.jpg",
-      "summary": "La historia de cómo los Minions conquistaron Hollywood, se convirtieron en estrellas de cine, lo perdieron todo, desataron monstruos en el mundo y luego se unieron para intentar salvar al planeta del caos que acababan de crear.",
-      "genres": [
-        "Aventura",
-        "Animación",
-        "Comedia"
-      ]
-    },
-    {
-      "title": "Minions & Monsters",
-      "time": "18:30",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/7DUzo8Ys7BfmZpqnzIwG4qA0egl.jpg",
-      "summary": "La historia de cómo los Minions conquistaron Hollywood, se convirtieron en estrellas de cine, lo perdieron todo, desataron monstruos en el mundo y luego se unieron para intentar salvar al planeta del caos que acababan de crear.",
-      "genres": [
-        "Aventura",
-        "Animación",
-        "Comedia"
-      ]
-    },
-    {
-      "title": "Minions & Monsters",
-      "time": "20:40",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/7DUzo8Ys7BfmZpqnzIwG4qA0egl.jpg",
-      "summary": "La historia de cómo los Minions conquistaron Hollywood, se convirtieron en estrellas de cine, lo perdieron todo, desataron monstruos en el mundo y luego se unieron para intentar salvar al planeta del caos que acababan de crear.",
-      "genres": [
-        "Aventura",
-        "Animación",
-        "Comedia"
-      ]
-    },
-    {
-      "title": "Obsession",
       "time": "15:40",
-      "rating": 7.9,
-      "poster": "https://image.tmdb.org/t/p/w342/ohi9xvbBUymM4SuIOSlt1xbLRQQ.jpg",
-      "summary": "El anhelo romántico desesperado de un chico por su amor platónico de toda la vida desencadena un siniestro hechizo: Niki se vuelve irracionalmente obsesiva hasta convertirse en la sombra de Bear. Una fantasía aparentemente inofensiva que se convertirá en una perturbadora pesadilla.",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/7DUzo8Ys7BfmZpqnzIwG4qA0egl.jpg",
+      "summary": "La historia de cómo los Minions conquistaron Hollywood, se convirtieron en estrellas de cine, lo perdieron todo, desataron monstruos en el mundo y luego se unieron para intentar salvar al planeta del caos que acababan de crear.",
       "genres": [
-        "Terror",
-        "Suspense"
+        "Aventura",
+        "Animación",
+        "Comedia"
       ]
     },
     {
-      "title": "Obsession",
+      "title": "Minions & Monsters",
       "time": "18:00",
-      "rating": 7.9,
-      "poster": "https://image.tmdb.org/t/p/w342/ohi9xvbBUymM4SuIOSlt1xbLRQQ.jpg",
-      "summary": "El anhelo romántico desesperado de un chico por su amor platónico de toda la vida desencadena un siniestro hechizo: Niki se vuelve irracionalmente obsesiva hasta convertirse en la sombra de Bear. Una fantasía aparentemente inofensiva que se convertirá en una perturbadora pesadilla.",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/7DUzo8Ys7BfmZpqnzIwG4qA0egl.jpg",
+      "summary": "La historia de cómo los Minions conquistaron Hollywood, se convirtieron en estrellas de cine, lo perdieron todo, desataron monstruos en el mundo y luego se unieron para intentar salvar al planeta del caos que acababan de crear.",
       "genres": [
-        "Terror",
-        "Suspense"
+        "Aventura",
+        "Animación",
+        "Comedia"
       ]
     },
     {
-      "title": "Obsession",
+      "title": "Minions & Monsters",
       "time": "20:25",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/7DUzo8Ys7BfmZpqnzIwG4qA0egl.jpg",
+      "summary": "La historia de cómo los Minions conquistaron Hollywood, se convirtieron en estrellas de cine, lo perdieron todo, desataron monstruos en el mundo y luego se unieron para intentar salvar al planeta del caos que acababan de crear.",
+      "genres": [
+        "Aventura",
+        "Animación",
+        "Comedia"
+      ]
+    },
+    {
+      "title": "Obsession",
+      "time": "20:10",
       "rating": 7.9,
       "poster": "https://image.tmdb.org/t/p/w342/ohi9xvbBUymM4SuIOSlt1xbLRQQ.jpg",
       "summary": "El anhelo romántico desesperado de un chico por su amor platónico de toda la vida desencadena un siniestro hechizo: Niki se vuelve irracionalmente obsesiva hasta convertirse en la sombra de Bear. Una fantasía aparentemente inofensiva que se convertirá en una perturbadora pesadilla.",
@@ -737,7 +724,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Obsession",
-      "time": "22:50",
+      "time": "22:45",
       "rating": 7.9,
       "poster": "https://image.tmdb.org/t/p/w342/ohi9xvbBUymM4SuIOSlt1xbLRQQ.jpg",
       "summary": "El anhelo romántico desesperado de un chico por su amor platónico de toda la vida desencadena un siniestro hechizo: Niki se vuelve irracionalmente obsesiva hasta convertirse en la sombra de Bear. Una fantasía aparentemente inofensiva que se convertirá en una perturbadora pesadilla.",
@@ -1131,6 +1118,18 @@ export const MOVIE_DATA = {
       ]
     },
     {
+      "title": "Toy Story 5",
+      "time": "19:00",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/1yF3AztF3rQ8MZ8En8974AWo5zZ.jpg",
+      "summary": "Buzz, Woody, Jessie y el resto de la pandilla tienen un trabajo exponencialmente más difícil cuando se enfrentan a esta nueva amenaza para la hora de jugar: la tecnología.",
+      "genres": [
+        "Animación",
+        "Familia",
+        "Comedia"
+      ]
+    },
+    {
       "title": "Obsession",
       "time": "21:45",
       "rating": 7.9,
@@ -1203,18 +1202,6 @@ export const MOVIE_DATA = {
     },
     {
       "title": "La Odisea",
-      "time": "18:45",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/bheY17L6wtB0SdJn6EYyh1X5iry.jpg",
-      "summary": "Una epopeya mitológica que sigue la historia de Odiseo y su largo viaje a casa, de 10 años de duración, tras la guerra de Troya.",
-      "genres": [
-        "Aventura",
-        "Acción",
-        "Fantasía"
-      ]
-    },
-    {
-      "title": "La Odisea",
       "time": "21:15",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/bheY17L6wtB0SdJn6EYyh1X5iry.jpg",
@@ -1249,16 +1236,6 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Insaciable",
-      "time": "19:00",
-      "rating": 6.3,
-      "poster": "https://image.tmdb.org/t/p/w342/v9st6lwP4K2i6YCa7kLQVQEuvNZ.jpg",
-      "summary": "Hana, una estudiante de medicina con una fuerte dismorfia corporal, se somete a una moda de adelgazamiento tan absurda como macabra: comer cenizas humanas. A partir de ese momento, comienza a ser acosada por un fantasma hambriento, una manifestación literal del mito del 'hungry ghost'.",
-      "genres": [
-        "Terror"
-      ]
-    },
-    {
-      "title": "Insaciable",
       "time": "21:00",
       "rating": 6.3,
       "poster": "https://image.tmdb.org/t/p/w342/v9st6lwP4K2i6YCa7kLQVQEuvNZ.jpg",
@@ -1269,7 +1246,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Tres De Mas",
-      "time": "17:50",
+      "time": "17:00",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/bG87VicPzkGtlrl9v2oXS56oeIL.jpg",
       "summary": "Julia y Ernesto lo tienen todo: una relación envidiable, carreras de éxito y, sobre todo, una vida ideal sin hijos. Sin embargo, un día despiertan y se encuentran con tres niños que insisten en llamarlos mamá y papá. Su vida perfecta se ha esfumado. De la noche a la mañana tendrán que aprender a ser padres mientras tratan de descubrir de dónde han salido esos niños y cómo pueden librarse de ellos.",
@@ -1279,7 +1256,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Tres De Mas",
-      "time": "19:40",
+      "time": "19:00",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/bG87VicPzkGtlrl9v2oXS56oeIL.jpg",
       "summary": "Julia y Ernesto lo tienen todo: una relación envidiable, carreras de éxito y, sobre todo, una vida ideal sin hijos. Sin embargo, un día despiertan y se encuentran con tres niños que insisten en llamarlos mamá y papá. Su vida perfecta se ha esfumado. De la noche a la mañana tendrán que aprender a ser padres mientras tratan de descubrir de dónde han salido esos niños y cómo pueden librarse de ellos.",
@@ -1289,7 +1266,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Tres De Mas",
-      "time": "21:30",
+      "time": "21:00",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/bG87VicPzkGtlrl9v2oXS56oeIL.jpg",
       "summary": "Julia y Ernesto lo tienen todo: una relación envidiable, carreras de éxito y, sobre todo, una vida ideal sin hijos. Sin embargo, un día despiertan y se encuentran con tres niños que insisten en llamarlos mamá y papá. Su vida perfecta se ha esfumado. De la noche a la mañana tendrán que aprender a ser padres mientras tratan de descubrir de dónde han salido esos niños y cómo pueden librarse de ellos.",
@@ -1343,97 +1320,6 @@ export const MOVIE_DATA = {
         "Animación",
         "Familia",
         "Fantasía"
-      ]
-    },
-    {
-      "title": "Obsession (Atmos)",
-      "time": "16:30",
-      "rating": 7.9,
-      "poster": "https://image.tmdb.org/t/p/w342/ohi9xvbBUymM4SuIOSlt1xbLRQQ.jpg",
-      "summary": "El anhelo romántico desesperado de un chico por su amor platónico de toda la vida desencadena un siniestro hechizo: Niki se vuelve irracionalmente obsesiva hasta convertirse en la sombra de Bear. Una fantasía aparentemente inofensiva que se convertirá en una perturbadora pesadilla.",
-      "genres": [
-        "Terror",
-        "Suspense"
-      ]
-    },
-    {
-      "title": "Obsession (Atmos)",
-      "time": "20:45",
-      "rating": 7.9,
-      "poster": "https://image.tmdb.org/t/p/w342/ohi9xvbBUymM4SuIOSlt1xbLRQQ.jpg",
-      "summary": "El anhelo romántico desesperado de un chico por su amor platónico de toda la vida desencadena un siniestro hechizo: Niki se vuelve irracionalmente obsesiva hasta convertirse en la sombra de Bear. Una fantasía aparentemente inofensiva que se convertirá en una perturbadora pesadilla.",
-      "genres": [
-        "Terror",
-        "Suspense"
-      ]
-    },
-    {
-      "title": "Obsession (Atmos)",
-      "time": "22:15",
-      "rating": 7.9,
-      "poster": "https://image.tmdb.org/t/p/w342/ohi9xvbBUymM4SuIOSlt1xbLRQQ.jpg",
-      "summary": "El anhelo romántico desesperado de un chico por su amor platónico de toda la vida desencadena un siniestro hechizo: Niki se vuelve irracionalmente obsesiva hasta convertirse en la sombra de Bear. Una fantasía aparentemente inofensiva que se convertirá en una perturbadora pesadilla.",
-      "genres": [
-        "Terror",
-        "Suspense"
-      ]
-    },
-    {
-      "title": "Posesión Infernal: En Llamas",
-      "time": "20:20",
-      "rating": 6.8,
-      "poster": "https://image.tmdb.org/t/p/w342/hDXmoQJ7EClgjv83Z0vEIQu2t7S.jpg",
-      "summary": "Película ambientada en el universo de la saga 'Evil Dead / Posesión infernal'. Tras la muerte de su marido, una mujer busca consuelo junto a la familia de este en su aislada casa familiar. Pero, cuando uno a uno comienzan a convertirse en seres poseídos, el encuentro acaba convirtiéndose en una reunión familiar salida del infierno. Entonces descubre que los votos que hizo en vida... siguen vigentes incluso después de la muerte.",
-      "genres": [
-        "Terror",
-        "Suspense"
-      ]
-    },
-    {
-      "title": "Posesión Infernal: En Llamas",
-      "time": "22:35",
-      "rating": 6.8,
-      "poster": "https://image.tmdb.org/t/p/w342/hDXmoQJ7EClgjv83Z0vEIQu2t7S.jpg",
-      "summary": "Película ambientada en el universo de la saga 'Evil Dead / Posesión infernal'. Tras la muerte de su marido, una mujer busca consuelo junto a la familia de este en su aislada casa familiar. Pero, cuando uno a uno comienzan a convertirse en seres poseídos, el encuentro acaba convirtiéndose en una reunión familiar salida del infierno. Entonces descubre que los votos que hizo en vida... siguen vigentes incluso después de la muerte.",
-      "genres": [
-        "Terror",
-        "Suspense"
-      ]
-    },
-    {
-      "title": "Toy Story 5 (Atmos)",
-      "time": "15:50",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/1yF3AztF3rQ8MZ8En8974AWo5zZ.jpg",
-      "summary": "Buzz, Woody, Jessie y el resto de la pandilla tienen un trabajo exponencialmente más difícil cuando se enfrentan a esta nueva amenaza para la hora de jugar: la tecnología.",
-      "genres": [
-        "Animación",
-        "Familia",
-        "Comedia"
-      ]
-    },
-    {
-      "title": "Toy Story 5 (Atmos)",
-      "time": "18:00",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/1yF3AztF3rQ8MZ8En8974AWo5zZ.jpg",
-      "summary": "Buzz, Woody, Jessie y el resto de la pandilla tienen un trabajo exponencialmente más difícil cuando se enfrentan a esta nueva amenaza para la hora de jugar: la tecnología.",
-      "genres": [
-        "Animación",
-        "Familia",
-        "Comedia"
-      ]
-    },
-    {
-      "title": "Toy Story 5 (Atmos)",
-      "time": "20:05",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/1yF3AztF3rQ8MZ8En8974AWo5zZ.jpg",
-      "summary": "Buzz, Woody, Jessie y el resto de la pandilla tienen un trabajo exponencialmente más difícil cuando se enfrentan a esta nueva amenaza para la hora de jugar: la tecnología.",
-      "genres": [
-        "Animación",
-        "Familia",
-        "Comedia"
       ]
     }
   ]
