@@ -2076,5 +2076,21 @@
     "poster": null,
     "summary": "Renée Fleming ilumina el escenario del Met en el papel de Hanna Glawari, la fabulosamente rica viuda que da título a la querida opereta de Lehár, ambientada en París y presentada en una deslumbrante producción dirigida y coreografiada por la artista de Broadway Susan Stroman. Nathan Gunn interpreta a Danilo, el antiguo amor de Hanna, que debe cortejarla y casarse con ella para mantener su fortuna en su país natal, Pontevedro. Kelli O’Hara interpreta a Valencienne, la coqueta joven esposa del embajador de Pontevedro en París, el barón Zeta, interpretado por Thomas Allen, y Alek Shrader es su pretendiente, Camille. Andrew Davis dirige la partitura, repleta de valses, y la nueva traducción al inglés es obra de Jeremy Sams.",
     "genres": []
+  },
+  "Vaiana: Sing Along": {
+    "rating": 0,
+    "poster": null,
+    "summary": "Vaiana (Catherine Lagaʻaia) responde a la llamada del océano y, por primera vez, viaja más allá del arrecife de su isla de Motunui con el semidiós Maui (Dwayne Johnson) en un viaje inolvidable para devolver la prosperidad a su pueblo.",
+    "genres": []
+  },
+  "Spider-Man Brand New Day": {
+    "rating": 7.8,
+    "poster": "https://image.tmdb.org/t/p/w342/tluwRNA7k0XfTtDkdLYKX1KOSCJ.jpg",
+    "summary": "Han pasado cuatro años desde los acontecimientos de No Way Home, y Peter Parker ahora es un adulto que vive completamente solo, ha desaparecido voluntariamente de las vidas y recuerdos de quienes ama. Combatiendo el crimen en una Nueva York que ya no conoce su nombre, se ha dedicado por completo a proteger su ciudad, pero a medida que aumentan las exigencias sobre él, la presión desencadena una evolución física que amenaza su existencia, al mismo tiempo que un extraño nuevo patrón de crímenes da lugar a una de las amenazas más poderosas a las que se ha enfrentado.",
+    "genres": [
+      "Ciencia ficción",
+      "Acción",
+      "Aventura"
+    ]
   }
 }
