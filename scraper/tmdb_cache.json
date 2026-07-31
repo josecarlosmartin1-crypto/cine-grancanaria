@@ -2092,5 +2092,14 @@
       "Acción",
       "Aventura"
     ]
+  },
+  "Atrapa El Millon": {
+    "rating": 5.4,
+    "poster": "https://image.tmdb.org/t/p/w342/2zcOGF0YJSMkleuXazZsmsPAbTg.jpg",
+    "summary": "",
+    "genres": [
+      "Comedia",
+      "Crimen"
+    ]
   }
 }

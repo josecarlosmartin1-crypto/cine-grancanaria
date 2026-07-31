@@ -1,1 +1,1 @@
-EXCEPTION: HTTPSConnectionPool(host='www.ocinepremium7palmas.es', port=443): Read timed out. (read timeout=15)
+EXCEPTION: HTTPSConnectionPool(host='tickets.ocinepremium7palmas.es', port=443): Max retries exceeded with url: / (Caused by NewConnectionError("HTTPSConnection(host='tickets.ocinepremium7palmas.es', port=443): Failed to establish a new connection: [Errno 111] Connection refused"))
