@@ -1277,49 +1277,27 @@ export const MOVIE_DATA = {
   ],
   "Ocine Premium Siete Palmas": [
     {
-      "title": "Backrooms",
-      "time": "22:30",
-      "rating": 6.8,
-      "poster": "https://image.tmdb.org/t/p/w342/u3CfgxtnZRxbIm8JuVTzt3DXQhg.jpg",
-      "summary": "Una puerta extraña aparece en el sótano de una sala de exposición de muebles.",
-      "genres": [
-        "Terror",
-        "Misterio",
-        "Ciencia ficción"
-      ]
-    },
-    {
-      "title": "El Día De La Revelación",
-      "time": "21:15",
-      "rating": 8.4,
-      "poster": "https://image.tmdb.org/t/p/w342/uGww4UrU3316Mld4p30dgdM09Du.jpg",
-      "summary": "Si descubrieras que no estamos solos, si alguien te abriera los ojos y te lo demostrase, ¿te asustarías? Este verano, la verdad será revelada a siete mil millones de personas. Llega... el día de la revelación.",
-      "genres": [
-        "Misterio",
-        "Ciencia ficción",
-        "Suspense"
-      ]
-    },
-    {
-      "title": "Haciendo Amigos",
-      "time": "22:40",
+      "title": "Minions & Monsters (Kids)",
+      "time": "16:00",
       "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/wE8Fud4W5Eqyaqu05JxdCIXdKsN.jpg",
-      "summary": "Antonio y Félix son una pareja de atracadores de poca monta que, huyendo de la policía tras atracar una joyería, se cruzan con Eva, monitora de un grupo de teatro formado por personas con discapacidad, que confunde a Félix con Ángel, un nuevo miembro del grupo al cual no conoce y al que están esperando. Aprovechando la confusión, Félix y Antonio consiguen escabullirse. Sin saber que les espera un retiro creativo de una semana con el entrañable grupo.",
+      "poster": "https://image.tmdb.org/t/p/w342/7DUzo8Ys7BfmZpqnzIwG4qA0egl.jpg",
+      "summary": "La historia de cómo los Minions conquistaron Hollywood, se convirtieron en estrellas de cine, lo perdieron todo, desataron monstruos en el mundo y luego se unieron para intentar salvar al planeta del caos que acababan de crear.",
       "genres": [
+        "Aventura",
+        "Animación",
         "Comedia"
       ]
     },
     {
-      "title": "Nicky, La Aprendiz De Bruja",
-      "time": "16:05",
-      "rating": 7.8,
-      "poster": "https://image.tmdb.org/t/p/w342/psw0tp25DNBkdEAfwjZYcgbpgme.jpg",
-      "summary": "Nicky no es una niña como otra cualquiera porque es aprendiz de bruja. Con solo 13 años y por tradición del oficio que está aprendiendo, la niña tiene que abandonar la casa de sus padres y buscar algún sitio donde sean necesarios sus servicios de bruja. Para emprender el viaje, Nicky se acompaña de su amigo Jiji y también de su gato; juntos, y sobre una escoba voladora, los amigos se instalan en un pueblecito que da al mar, donde la niña empezará a conocerse verdaderamente a sí misma.",
+      "title": "Minions & Monsters (Kids)",
+      "time": "18:10",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/7DUzo8Ys7BfmZpqnzIwG4qA0egl.jpg",
+      "summary": "La historia de cómo los Minions conquistaron Hollywood, se convirtieron en estrellas de cine, lo perdieron todo, desataron monstruos en el mundo y luego se unieron para intentar salvar al planeta del caos que acababan de crear.",
       "genres": [
+        "Aventura",
         "Animación",
-        "Familia",
-        "Fantasía"
+        "Comedia"
       ]
     }
   ]
