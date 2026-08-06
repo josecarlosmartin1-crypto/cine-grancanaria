@@ -317,6 +317,24 @@ export const MOVIE_DATA = {
   ],
   "Cine Yelmo Las Arenas": [
     {
+      "title": "Ateez : Light The Way In Cinemas",
+      "time": "18:50",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/raY91P5jziALAAutHoAM73i8jwr.jpg",
+      "summary": "Un día, llega un misterioso mensaje para ATEEZ, quienes habían estado pasando unos días tranquilos en su escondite. En ese momento, todo empezó a cambiar.\nATINY desapareció… Como si estuviera bajo hechizo, ATEEZ vaga por un páramo onírico, hacia un mundo que se derrumba envuelto en llamas, y la Ciudad Oscura, envuelta en una densa niebla. Perseguido por una fuerza desconocida, ATEEZ empieza a defenderse para encontrar a ATINY.\nVive una experiencia inmersiva intensa en la que cada segundo cuenta con INCEPTION, una explosión de libertad y energía en el éxito mundial BOUNCY (K-HOT CHILLI PEPPERS), y la máxima expresión del carisma refinado con Ice On My Teeth, ahora reimaginada para la gran pantalla.\nEl concierto de realidad virtual de clase mundial que cautivó al público de todo el mundo ha sido totalmente adaptado para las salas de cine, llevando las electrizantes actuaciones de ATEEZ a la pantalla más grande de todas. Y, por primera vez, ve más allá del concierto con imágenes exclusivas detrás de cámaras nunca antes vistas, disponibles solo en este estreno en cines.\nUna historia que solo termina cuando estamos juntos. ATEEZ te invita ahora a otra dimensión. Nos vemos en la gran pantalla.",
+      "genres": [
+        "Música"
+      ]
+    },
+    {
+      "title": "Aída - Ópera Met Encores 2026",
+      "time": "19:00",
+      "rating": 0,
+      "poster": null,
+      "summary": "La soprano estadounidense Angel Blue interpreta a la princesa etíope dividida entre el amor y la patria en una nueva producción de Aida, de Verdi, a cargo de Michael Mayer, que traslada al público al interior de las pirámides y tumbas doradas del antiguo Egipto con intrincadas proyecciones y deslumbrantes animaciones. \n\nLa mezzosoprano rumano-húngara Judit Kutasi interpreta también a la rival de Aida, Amneris, junto al tenor polaco Piotr Beczała como el soldado Radamès, completando así el mayor triángulo amoroso de la ópera. \n\nEl director musical del Met, Yannick Nézet-Séguin, tomará el podio para dirigir la representación del 25 de enero, que se retransmitirá en directo desde el escenario del Metropolitan Opera a los cines de todo el mundo.",
+      "genres": []
+    },
+    {
       "title": "Spider-Man: Brand New Day",
       "time": "15:40",
       "rating": 0.0,
@@ -474,7 +492,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Tres De Más",
-      "time": "16:15",
+      "time": "16:25",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/bG87VicPzkGtlrl9v2oXS56oeIL.jpg",
       "summary": "Julia y Ernesto lo tienen todo: una relación envidiable, carreras de éxito y, sobre todo, una vida ideal sin hijos. Sin embargo, un día despiertan y se encuentran con tres niños que insisten en llamarlos mamá y papá. Su vida perfecta se ha esfumado. De la noche a la mañana tendrán que aprender a ser padres mientras tratan de descubrir de dónde han salido esos niños y cómo pueden librarse de ellos.",
@@ -484,7 +502,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Tres De Más",
-      "time": "20:40",
+      "time": "20:35",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/bG87VicPzkGtlrl9v2oXS56oeIL.jpg",
       "summary": "Julia y Ernesto lo tienen todo: una relación envidiable, carreras de éxito y, sobre todo, una vida ideal sin hijos. Sin embargo, un día despiertan y se encuentran con tres niños que insisten en llamarlos mamá y papá. Su vida perfecta se ha esfumado. De la noche a la mañana tendrán que aprender a ser padres mientras tratan de descubrir de dónde han salido esos niños y cómo pueden librarse de ellos.",
@@ -516,18 +534,6 @@ export const MOVIE_DATA = {
     },
     {
       "title": "La Odisea",
-      "time": "16:05",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/bheY17L6wtB0SdJn6EYyh1X5iry.jpg",
-      "summary": "Una epopeya mitológica que sigue la historia de Odiseo y su largo viaje a casa, de 10 años de duración, tras la guerra de Troya.",
-      "genres": [
-        "Aventura",
-        "Acción",
-        "Fantasía"
-      ]
-    },
-    {
-      "title": "La Odisea",
       "time": "16:50",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/bheY17L6wtB0SdJn6EYyh1X5iry.jpg",
@@ -552,19 +558,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "La Odisea",
-      "time": "19:15",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/bheY17L6wtB0SdJn6EYyh1X5iry.jpg",
-      "summary": "Una epopeya mitológica que sigue la historia de Odiseo y su largo viaje a casa, de 10 años de duración, tras la guerra de Troya.",
-      "genres": [
-        "Aventura",
-        "Acción",
-        "Fantasía"
-      ]
-    },
-    {
-      "title": "La Odisea",
-      "time": "20:50",
+      "time": "20:40",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/bheY17L6wtB0SdJn6EYyh1X5iry.jpg",
       "summary": "Una epopeya mitológica que sigue la historia de Odiseo y su largo viaje a casa, de 10 años de duración, tras la guerra de Troya.",
@@ -608,36 +602,24 @@ export const MOVIE_DATA = {
       ]
     },
     {
-      "title": "Vaiana",
-      "time": "19:30",
-      "rating": 6.4,
-      "poster": "https://image.tmdb.org/t/p/w342/wC27PIEqSthbUhaVMdYEhaTzYmo.jpg",
-      "summary": "Versión de imagen real de la película de animación de 2016 'Vaiana'.",
-      "genres": [
-        "Familia",
-        "Fantasía",
-        "Comedia"
-      ]
-    },
-    {
-      "title": "Vaiana",
-      "time": "22:10",
-      "rating": 6.4,
-      "poster": "https://image.tmdb.org/t/p/w342/wC27PIEqSthbUhaVMdYEhaTzYmo.jpg",
-      "summary": "Versión de imagen real de la película de animación de 2016 'Vaiana'.",
-      "genres": [
-        "Familia",
-        "Fantasía",
-        "Comedia"
-      ]
-    },
-    {
       "title": "Vaiana: Sing Along",
-      "time": "16:40",
+      "time": "16:15",
       "rating": 0,
       "poster": null,
       "summary": "Vaiana (Catherine Lagaʻaia) responde a la llamada del océano y, por primera vez, viaja más allá del arrecife de su isla de Motunui con el semidiós Maui (Dwayne Johnson) en un viaje inolvidable para devolver la prosperidad a su pueblo.",
       "genres": []
+    },
+    {
+      "title": "Vaiana",
+      "time": "20:50",
+      "rating": 6.4,
+      "poster": "https://image.tmdb.org/t/p/w342/wC27PIEqSthbUhaVMdYEhaTzYmo.jpg",
+      "summary": "Versión de imagen real de la película de animación de 2016 'Vaiana'.",
+      "genres": [
+        "Familia",
+        "Fantasía",
+        "Comedia"
+      ]
     },
     {
       "title": "Minions & Monsters",
@@ -664,7 +646,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Obsession",
-      "time": "22:40",
+      "time": "22:50",
       "rating": 7.9,
       "poster": "https://image.tmdb.org/t/p/w342/ohi9xvbBUymM4SuIOSlt1xbLRQQ.jpg",
       "summary": "El anhelo romántico desesperado de un chico por su amor platónico de toda la vida desencadena un siniestro hechizo: Niki se vuelve irracionalmente obsesiva hasta convertirse en la sombra de Bear. Una fantasía aparentemente inofensiva que se convertirá en una perturbadora pesadilla.",
@@ -675,7 +657,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Toy Story 5",
-      "time": "18:25",
+      "time": "18:35",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/1yF3AztF3rQ8MZ8En8974AWo5zZ.jpg",
       "summary": "Buzz, Woody, Jessie y el resto de la pandilla tienen un trabajo exponencialmente más difícil cuando se enfrentan a esta nueva amenaza para la hora de jugar: la tecnología.",
@@ -960,7 +942,7 @@ export const MOVIE_DATA = {
   "Artesiete Las Terrazas": [
     {
       "title": "Toy Story 5",
-      "time": "16:00",
+      "time": "17:00",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/1yF3AztF3rQ8MZ8En8974AWo5zZ.jpg",
       "summary": "Buzz, Woody, Jessie y el resto de la pandilla tienen un trabajo exponencialmente más difícil cuando se enfrentan a esta nueva amenaza para la hora de jugar: la tecnología.",
@@ -972,7 +954,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Obsession",
-      "time": "23:00",
+      "time": "21:45",
       "rating": 7.9,
       "poster": "https://image.tmdb.org/t/p/w342/ohi9xvbBUymM4SuIOSlt1xbLRQQ.jpg",
       "summary": "El anhelo romántico desesperado de un chico por su amor platónico de toda la vida desencadena un siniestro hechizo: Niki se vuelve irracionalmente obsesiva hasta convertirse en la sombra de Bear. Una fantasía aparentemente inofensiva que se convertirá en una perturbadora pesadilla.",
@@ -983,19 +965,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Minions & Monstruos",
-      "time": "16:00",
-      "rating": 6.8,
-      "poster": "https://image.tmdb.org/t/p/w342/7DUzo8Ys7BfmZpqnzIwG4qA0egl.jpg",
-      "summary": "La historia de cómo los Minions conquistaron Hollywood, se convirtieron en estrellas de cine, lo perdieron todo, desataron monstruos en el mundo y luego se unieron para intentar salvar al planeta del caos que acababan de crear.",
-      "genres": [
-        "Aventura",
-        "Animación",
-        "Comedia"
-      ]
-    },
-    {
-      "title": "Minions & Monstruos",
-      "time": "18:10",
+      "time": "17:30",
       "rating": 6.8,
       "poster": "https://image.tmdb.org/t/p/w342/7DUzo8Ys7BfmZpqnzIwG4qA0egl.jpg",
       "summary": "La historia de cómo los Minions conquistaron Hollywood, se convirtieron en estrellas de cine, lo perdieron todo, desataron monstruos en el mundo y luego se unieron para intentar salvar al planeta del caos que acababan de crear.",
@@ -1019,7 +989,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "La Odisea",
-      "time": "15:50",
+      "time": "17:00",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/bheY17L6wtB0SdJn6EYyh1X5iry.jpg",
       "summary": "Una epopeya mitológica que sigue la historia de Odiseo y su largo viaje a casa, de 10 años de duración, tras la guerra de Troya.",
@@ -1031,31 +1001,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "La Odisea",
-      "time": "19:10",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/bheY17L6wtB0SdJn6EYyh1X5iry.jpg",
-      "summary": "Una epopeya mitológica que sigue la historia de Odiseo y su largo viaje a casa, de 10 años de duración, tras la guerra de Troya.",
-      "genres": [
-        "Aventura",
-        "Acción",
-        "Fantasía"
-      ]
-    },
-    {
-      "title": "La Odisea",
-      "time": "20:00",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/bheY17L6wtB0SdJn6EYyh1X5iry.jpg",
-      "summary": "Una epopeya mitológica que sigue la historia de Odiseo y su largo viaje a casa, de 10 años de duración, tras la guerra de Troya.",
-      "genres": [
-        "Aventura",
-        "Acción",
-        "Fantasía"
-      ]
-    },
-    {
-      "title": "La Odisea",
-      "time": "22:30",
+      "time": "20:30",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/bheY17L6wtB0SdJn6EYyh1X5iry.jpg",
       "summary": "Una epopeya mitológica que sigue la historia de Odiseo y su largo viaje a casa, de 10 años de duración, tras la guerra de Troya.",
@@ -1067,7 +1013,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Posesion Infernal: En Llamas",
-      "time": "23:00",
+      "time": "21:00",
       "rating": 6.8,
       "poster": "https://image.tmdb.org/t/p/w342/hDXmoQJ7EClgjv83Z0vEIQu2t7S.jpg",
       "summary": "Película ambientada en el universo de la saga 'Evil Dead / Posesión infernal'. Tras la muerte de su marido, una mujer busca consuelo junto a la familia de este en su aislada casa familiar. Pero, cuando uno a uno comienzan a convertirse en seres poseídos, el encuentro acaba convirtiéndose en una reunión familiar salida del infierno. Entonces descubre que los votos que hizo en vida... siguen vigentes incluso después de la muerte.",
@@ -1078,7 +1024,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Tres De Mas",
-      "time": "21:45",
+      "time": "19:15",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/bG87VicPzkGtlrl9v2oXS56oeIL.jpg",
       "summary": "Julia y Ernesto lo tienen todo: una relación envidiable, carreras de éxito y, sobre todo, una vida ideal sin hijos. Sin embargo, un día despiertan y se encuentran con tres niños que insisten en llamarlos mamá y papá. Su vida perfecta se ha esfumado. De la noche a la mañana tendrán que aprender a ser padres mientras tratan de descubrir de dónde han salido esos niños y cómo pueden librarse de ellos.",
@@ -1088,31 +1034,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Spider-Man Brand New Day",
-      "time": "16:00",
-      "rating": 7.8,
-      "poster": "https://image.tmdb.org/t/p/w342/tluwRNA7k0XfTtDkdLYKX1KOSCJ.jpg",
-      "summary": "Han pasado cuatro años desde los acontecimientos de No Way Home, y Peter Parker ahora es un adulto que vive completamente solo, ha desaparecido voluntariamente de las vidas y recuerdos de quienes ama. Combatiendo el crimen en una Nueva York que ya no conoce su nombre, se ha dedicado por completo a proteger su ciudad, pero a medida que aumentan las exigencias sobre él, la presión desencadena una evolución física que amenaza su existencia, al mismo tiempo que un extraño nuevo patrón de crímenes da lugar a una de las amenazas más poderosas a las que se ha enfrentado.",
-      "genres": [
-        "Ciencia ficción",
-        "Acción",
-        "Aventura"
-      ]
-    },
-    {
-      "title": "Spider-Man Brand New Day",
       "time": "18:00",
-      "rating": 7.8,
-      "poster": "https://image.tmdb.org/t/p/w342/tluwRNA7k0XfTtDkdLYKX1KOSCJ.jpg",
-      "summary": "Han pasado cuatro años desde los acontecimientos de No Way Home, y Peter Parker ahora es un adulto que vive completamente solo, ha desaparecido voluntariamente de las vidas y recuerdos de quienes ama. Combatiendo el crimen en una Nueva York que ya no conoce su nombre, se ha dedicado por completo a proteger su ciudad, pero a medida que aumentan las exigencias sobre él, la presión desencadena una evolución física que amenaza su existencia, al mismo tiempo que un extraño nuevo patrón de crímenes da lugar a una de las amenazas más poderosas a las que se ha enfrentado.",
-      "genres": [
-        "Ciencia ficción",
-        "Acción",
-        "Aventura"
-      ]
-    },
-    {
-      "title": "Spider-Man Brand New Day",
-      "time": "18:45",
       "rating": 7.8,
       "poster": "https://image.tmdb.org/t/p/w342/tluwRNA7k0XfTtDkdLYKX1KOSCJ.jpg",
       "summary": "Han pasado cuatro años desde los acontecimientos de No Way Home, y Peter Parker ahora es un adulto que vive completamente solo, ha desaparecido voluntariamente de las vidas y recuerdos de quienes ama. Combatiendo el crimen en una Nueva York que ya no conoce su nombre, se ha dedicado por completo a proteger su ciudad, pero a medida que aumentan las exigencias sobre él, la presión desencadena una evolución física que amenaza su existencia, al mismo tiempo que un extraño nuevo patrón de crímenes da lugar a una de las amenazas más poderosas a las que se ha enfrentado.",
@@ -1136,18 +1058,6 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Spider-Man Brand New Day",
-      "time": "19:45",
-      "rating": 7.8,
-      "poster": "https://image.tmdb.org/t/p/w342/tluwRNA7k0XfTtDkdLYKX1KOSCJ.jpg",
-      "summary": "Han pasado cuatro años desde los acontecimientos de No Way Home, y Peter Parker ahora es un adulto que vive completamente solo, ha desaparecido voluntariamente de las vidas y recuerdos de quienes ama. Combatiendo el crimen en una Nueva York que ya no conoce su nombre, se ha dedicado por completo a proteger su ciudad, pero a medida que aumentan las exigencias sobre él, la presión desencadena una evolución física que amenaza su existencia, al mismo tiempo que un extraño nuevo patrón de crímenes da lugar a una de las amenazas más poderosas a las que se ha enfrentado.",
-      "genres": [
-        "Ciencia ficción",
-        "Acción",
-        "Aventura"
-      ]
-    },
-    {
-      "title": "Spider-Man Brand New Day",
       "time": "20:35",
       "rating": 7.8,
       "poster": "https://image.tmdb.org/t/p/w342/tluwRNA7k0XfTtDkdLYKX1KOSCJ.jpg",
@@ -1160,7 +1070,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Spider-Man Brand New Day",
-      "time": "23:15",
+      "time": "21:30",
       "rating": 7.8,
       "poster": "https://image.tmdb.org/t/p/w342/tluwRNA7k0XfTtDkdLYKX1KOSCJ.jpg",
       "summary": "Han pasado cuatro años desde los acontecimientos de No Way Home, y Peter Parker ahora es un adulto que vive completamente solo, ha desaparecido voluntariamente de las vidas y recuerdos de quienes ama. Combatiendo el crimen en una Nueva York que ya no conoce su nombre, se ha dedicado por completo a proteger su ciudad, pero a medida que aumentan las exigencias sobre él, la presión desencadena una evolución física que amenaza su existencia, al mismo tiempo que un extraño nuevo patrón de crímenes da lugar a una de las amenazas más poderosas a las que se ha enfrentado.",
@@ -1172,18 +1082,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Atrapa El Millon",
-      "time": "21:15",
-      "rating": 5.4,
-      "poster": "https://image.tmdb.org/t/p/w342/2zcOGF0YJSMkleuXazZsmsPAbTg.jpg",
-      "summary": "",
-      "genres": [
-        "Comedia",
-        "Crimen"
-      ]
-    },
-    {
-      "title": "Atrapa El Millon",
-      "time": "23:30",
+      "time": "19:10",
       "rating": 5.4,
       "poster": "https://image.tmdb.org/t/p/w342/2zcOGF0YJSMkleuXazZsmsPAbTg.jpg",
       "summary": "",
