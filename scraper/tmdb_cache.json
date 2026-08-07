@@ -2115,5 +2115,48 @@
     "poster": null,
     "summary": "La soprano estadounidense Angel Blue interpreta a la princesa etíope dividida entre el amor y la patria en una nueva producción de Aida, de Verdi, a cargo de Michael Mayer, que traslada al público al interior de las pirámides y tumbas doradas del antiguo Egipto con intrincadas proyecciones y deslumbrantes animaciones. \n\nLa mezzosoprano rumano-húngara Judit Kutasi interpreta también a la rival de Aida, Amneris, junto al tenor polaco Piotr Beczała como el soldado Radamès, completando así el mayor triángulo amoroso de la ópera. \n\nEl director musical del Met, Yannick Nézet-Séguin, tomará el podio para dirigir la representación del 25 de enero, que se retransmitirá en directo desde el escenario del Metropolitan Opera a los cines de todo el mundo.",
     "genres": []
+  },
+  "El Último Mono": {
+    "rating": 0.0,
+    "poster": "https://image.tmdb.org/t/p/w342/ci9TmfbUjtodIzdKYhMLMmbFNGf.jpg",
+    "summary": "Nos contará la historia de un hombre (interpretado por Juan Dávila) que vende cursos para “machos alfa” aconsejándoles para ser mejores hombres. El reto de este protagonista es enamorar a una mujer feminista (interpretada por Susana Gómez Abaitua) que se encuentra de gira presentando su último libro. En tono de comedia y buscando generar una reflexión, El Último Mono cuenta la historia del reto de un “macho alfa” que pretende mostrar en redes sociales que ha conseguido enamorar a una mujer con la que probablemente no tendría ninguna posibilidad.",
+    "genres": [
+      "Comedia",
+      "Romance"
+    ]
+  },
+  "En Mar Abierto": {
+    "rating": 7.2,
+    "poster": "https://image.tmdb.org/t/p/w342/6hlW7llzDIh4rBIGvtdGoIFsawg.jpg",
+    "summary": "Un avión comercial en ruta de Los Ángeles a Shanghai se ve obligado a realizar un aterrizaje de emergencia en aguas infestadas de tiburones.",
+    "genres": [
+      "Terror",
+      "Suspense"
+    ]
+  },
+  "Assassination Classroom: El Tiempo Que Compartimos": {
+    "rating": 0,
+    "poster": null,
+    "summary": "Con la graduación a la vuelta de la esquina, ya nadie se burla de los alumnos rezagados de la clase 3-E. Ahora, solo les queda una cosa por hacer: asesinar a su tutor, el inefable Koro-sensei, antes de que destruya la Tierra en un plazo de 15 días. Arte corporal, natación, actividades extracurriculares que aprovechan sus habilidades de asesinato, romances de San Valentín y la misteriosa vida privada del profesor fuera del horario escolar… cada recuerdo del año que han vivido juntos va llenando poco a poco el viejo edificio del aula. Al mirar atrás, los alumnos comprenden cuánto han cambiado durante su paso por esta peculiar “Clase de Asesinato”. Pero, ¿qué será lo que Koro-sensei tendrá preparado para ellos en el poco tiempo que les queda juntos?",
+    "genres": []
+  },
+  "El Ultimo Mono": {
+    "rating": 0.0,
+    "poster": "https://image.tmdb.org/t/p/w342/ci9TmfbUjtodIzdKYhMLMmbFNGf.jpg",
+    "summary": "Nos contará la historia de un hombre (interpretado por Juan Dávila) que vende cursos para “machos alfa” aconsejándoles para ser mejores hombres. El reto de este protagonista es enamorar a una mujer feminista (interpretada por Susana Gómez Abaitua) que se encuentra de gira presentando su último libro. En tono de comedia y buscando generar una reflexión, El Último Mono cuenta la historia del reto de un “macho alfa” que pretende mostrar en redes sociales que ha conseguido enamorar a una mujer con la que probablemente no tendría ninguna posibilidad.",
+    "genres": [
+      "Comedia",
+      "Romance"
+    ]
+  },
+  "La Patrulla Canina: La Dino Pelicula": {
+    "rating": 7.3,
+    "poster": "https://image.tmdb.org/t/p/w342/jfwX8QE4jJg0rWI2CIZ8tDB5eul.jpg",
+    "summary": "Cuando una fuerte tormenta deja a la patrulla canina varada en una isla inexplorada llena de dinosaurios vivos, los cachorros deben unirse a su nuevo aliado, Rex, para detener al alcalde Humdinger antes de que la codicia de este provoque una catastrófica erupción volcánica.",
+    "genres": [
+      "Aventura",
+      "Animación",
+      "Comedia"
+    ]
   }
 }
