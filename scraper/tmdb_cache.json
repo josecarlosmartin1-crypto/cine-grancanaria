@@ -2164,5 +2164,30 @@
     "poster": null,
     "summary": "La eterna comedia de Mozart vuelve a los cines en las reposiciones de verano del MET. \n\nLa directora Joana Mallwitz, en su debut en el Met, sube al podio para dirigir a un reparto estelar que incluye al bajo-barítono estadounidense Michael Sumuel como el astuto ayuda de cámara Fígaro, la soprano ucraniana Olga Kulchynska como la astuta doncella Susanna, el barítono canadiense Joshua Hopkins como el conde perseguidor de faldas, la soprano italiana Federica Lombardi como su angustiada esposa y la mezzosoprano francesa Marianne Crebassa como el paje adolescente Cherubino.",
     "genres": []
+  },
+  "Marsupilami": {
+    "rating": 6.4,
+    "poster": "https://image.tmdb.org/t/p/w342/rJNHFa07Id2ylQgw0ttzGwpeczE.jpg",
+    "summary": "Para salvar su trabajo en el zoo, David acepta una arriesgada misión: recuperar un misterioso paquete en Sudamérica. El encargo lo lleva a un crucero donde viaja con su ex, su hijo y Stéphane, un compañero torpe. Todo se descontrola cuando Stéphane lo abre por accidente y libera a un adorable bebé marsupilami que convertirá el viaje en un caos absoluto. David y su familia tendrán que estar más unidos que nunca para recuperarlo.",
+    "genres": [
+      "Aventura",
+      "Comedia"
+    ]
+  },
+  "Tadeo Jones Y La Lámpara Maravillosa": {
+    "rating": 0.0,
+    "poster": "https://image.tmdb.org/t/p/w342/71G1b8bqa7gzP9yU7q2fgNf2t0D.jpg",
+    "summary": "Tadeo y Sara son ahora padres de Olimpia (Oli), una adorable e intrépida niña de dos años. Y Momia no lleva nada bien haber dejado de ser el centro de atención. Mientras están de vacaciones en Londres, Sara sigue la pista hacia un objeto único: la lámpara maravillosa de Las mil y una noches. Y Momia, presa de los celos, pide un deseo: viajar en el tiempo hasta el momento en que era joven y todos le querían. Tadeo y Sara tienen que unir fuerzas para evitar que Momia cambie el curso de la historia y traer al grupo (Jeff, Belzoni y Ramona incluidos) de vuelta a casa, a su época. Esta nueva aventura los llevará a cruzar el Océano Atlántico desde Perú hasta Grecia, y de allí a lo más profundo de Oriente Medio, hasta la misma cueva de Ali Babá y los cuarenta ladrones.",
+    "genres": [
+      "Animación",
+      "Comedia",
+      "Familia"
+    ]
+  },
+  "Harry Potter Y La Piedra Filosofal [25 Aniversario]": {
+    "rating": 0,
+    "poster": null,
+    "summary": "Adaptación de la primera novela de la famosa saga de Harry Potter de J. K. Rowling. Harry Potter es un niño huérfano criado por su tío Vernon y su tía Petunia que lo odian. Desde que era pequeño, estos siempre le han contado que sus padres murieron en un accidente de coche. El día de su decimoprimer cumpleaños, Harry recibe la inesperada visita de un hombre gigantesco de nombre Rubeus Hagrid. Este le revela que es, de hecho, hijo de dos poderosos magos y que él también posee extraordinarios poderes. Lleno de alegría, el chico acepta ir a estudiar a Hogwarts, el famoso colegio de magia y hechicería. Por fin, tiene la oportunidad de hacer amigos. Odiado por Severus Snape, profesor de Pociones, y protegido por Albus Dumbledore, director del colegio, Harry intentará dilucidar el misterio de la piedra filosofal.\r\n",
+    "genres": []
   }
 }

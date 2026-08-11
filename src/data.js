@@ -1222,8 +1222,30 @@ export const MOVIE_DATA = {
   ],
   "Ocine Premium Siete Palmas": [
     {
-      "title": "Minions & Monsters (Kids)",
-      "time": "16:00",
+      "title": "En Mar Abierto",
+      "time": "15:40",
+      "rating": 7.2,
+      "poster": "https://image.tmdb.org/t/p/w342/6hlW7llzDIh4rBIGvtdGoIFsawg.jpg",
+      "summary": "Un avión comercial en ruta de Los Ángeles a Shanghai se ve obligado a realizar un aterrizaje de emergencia en aguas infestadas de tiburones.",
+      "genres": [
+        "Terror",
+        "Suspense"
+      ]
+    },
+    {
+      "title": "En Mar Abierto",
+      "time": "22:25",
+      "rating": 7.2,
+      "poster": "https://image.tmdb.org/t/p/w342/6hlW7llzDIh4rBIGvtdGoIFsawg.jpg",
+      "summary": "Un avión comercial en ruta de Los Ángeles a Shanghai se ve obligado a realizar un aterrizaje de emergencia en aguas infestadas de tiburones.",
+      "genres": [
+        "Terror",
+        "Suspense"
+      ]
+    },
+    {
+      "title": "Minions & Monsters",
+      "time": "17:45",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/7DUzo8Ys7BfmZpqnzIwG4qA0egl.jpg",
       "summary": "La historia de cómo los Minions conquistaron Hollywood, se convirtieron en estrellas de cine, lo perdieron todo, desataron monstruos en el mundo y luego se unieron para intentar salvar al planeta del caos que acababan de crear.",
@@ -1234,14 +1256,48 @@ export const MOVIE_DATA = {
       ]
     },
     {
-      "title": "Minions & Monsters (Kids)",
-      "time": "18:10",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/7DUzo8Ys7BfmZpqnzIwG4qA0egl.jpg",
-      "summary": "La historia de cómo los Minions conquistaron Hollywood, se convirtieron en estrellas de cine, lo perdieron todo, desataron monstruos en el mundo y luego se unieron para intentar salvar al planeta del caos que acababan de crear.",
+      "title": "Obsession (Atmos)",
+      "time": "22:50",
+      "rating": 7.9,
+      "poster": "https://image.tmdb.org/t/p/w342/ohi9xvbBUymM4SuIOSlt1xbLRQQ.jpg",
+      "summary": "El anhelo romántico desesperado de un chico por su amor platónico de toda la vida desencadena un siniestro hechizo: Niki se vuelve irracionalmente obsesiva hasta convertirse en la sombra de Bear. Una fantasía aparentemente inofensiva que se convertirá en una perturbadora pesadilla.",
       "genres": [
-        "Aventura",
+        "Terror",
+        "Suspense"
+      ]
+    },
+    {
+      "title": "Obsession (Atmos)",
+      "time": "15:40",
+      "rating": 7.9,
+      "poster": "https://image.tmdb.org/t/p/w342/ohi9xvbBUymM4SuIOSlt1xbLRQQ.jpg",
+      "summary": "El anhelo romántico desesperado de un chico por su amor platónico de toda la vida desencadena un siniestro hechizo: Niki se vuelve irracionalmente obsesiva hasta convertirse en la sombra de Bear. Una fantasía aparentemente inofensiva que se convertirá en una perturbadora pesadilla.",
+      "genres": [
+        "Terror",
+        "Suspense"
+      ]
+    },
+    {
+      "title": "Toy Story 5 (Kids)",
+      "time": "20:20",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/1yF3AztF3rQ8MZ8En8974AWo5zZ.jpg",
+      "summary": "Buzz, Woody, Jessie y el resto de la pandilla tienen un trabajo exponencialmente más difícil cuando se enfrentan a esta nueva amenaza para la hora de jugar: la tecnología.",
+      "genres": [
         "Animación",
+        "Familia",
+        "Comedia"
+      ]
+    },
+    {
+      "title": "Vaiana: Live Action (Atmos)",
+      "time": "16:50",
+      "rating": 5.9,
+      "poster": "https://image.tmdb.org/t/p/w342/4sFGyfPGrS2uonrWFDGlLXT0nyA.jpg",
+      "summary": "Versión de imagen real de la película de animación de 2016 'Vaiana'.",
+      "genres": [
+        "Familia",
+        "Fantasía",
         "Comedia"
       ]
     }
