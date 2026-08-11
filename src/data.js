@@ -365,6 +365,14 @@ export const MOVIE_DATA = {
   ],
   "Cine Yelmo Las Arenas": [
     {
+      "title": "Le Nozze Di Figaro - Ópera Met Encores 2026",
+      "time": "19:00",
+      "rating": 0,
+      "poster": null,
+      "summary": "La eterna comedia de Mozart vuelve a los cines en las reposiciones de verano del MET. \n\nLa directora Joana Mallwitz, en su debut en el Met, sube al podio para dirigir a un reparto estelar que incluye al bajo-barítono estadounidense Michael Sumuel como el astuto ayuda de cámara Fígaro, la soprano ucraniana Olga Kulchynska como la astuta doncella Susanna, el barítono canadiense Joshua Hopkins como el conde perseguidor de faldas, la soprano italiana Federica Lombardi como su angustiada esposa y la mezzosoprano francesa Marianne Crebassa como el paje adolescente Cherubino.",
+      "genres": []
+    },
+    {
       "title": "El Último Mono",
       "time": "15:55",
       "rating": 0.0,
@@ -377,7 +385,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "El Último Mono",
-      "time": "18:35",
+      "time": "18:50",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/ci9TmfbUjtodIzdKYhMLMmbFNGf.jpg",
       "summary": "Nos contará la historia de un hombre (interpretado por Juan Dávila) que vende cursos para “machos alfa” aconsejándoles para ser mejores hombres. El reto de este protagonista es enamorar a una mujer feminista (interpretada por Susana Gómez Abaitua) que se encuentra de gira presentando su último libro. En tono de comedia y buscando generar una reflexión, El Último Mono cuenta la historia del reto de un “macho alfa” que pretende mostrar en redes sociales que ha conseguido enamorar a una mujer con la que probablemente no tendría ninguna posibilidad.",
@@ -410,7 +418,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "La Patrulla Canina: La Dino Película",
-      "time": "15:50",
+      "time": "15:45",
       "rating": 3.5,
       "poster": "https://image.tmdb.org/t/p/w342/jfwX8QE4jJg0rWI2CIZ8tDB5eul.jpg",
       "summary": "Cuando una fuerte tormenta deja a la patrulla canina varada en una isla inexplorada llena de dinosaurios vivos, los cachorros deben unirse a su nuevo aliado, Rex, para detener al alcalde Humdinger antes de que la codicia de este provoque una catastrófica erupción volcánica.",
@@ -458,6 +466,18 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Spider-Man: Brand New Day",
+      "time": "15:55",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/2OKQrD5Txku6o5JQmxXrUAGKrSt.jpg",
+      "summary": "Han pasado cuatro años desde los acontecimientos de No Way Home, y Peter Parker ahora es un adulto que vive completamente solo, ha desaparecido voluntariamente de las vidas y recuerdos de quienes ama. Combatiendo el crimen en una Nueva York que ya no conoce su nombre, se ha dedicado por completo a proteger su ciudad, pero a medida que aumentan las exigencias sobre él, la presión desencadena una evolución física que amenaza su existencia, al mismo tiempo que un extraño nuevo patrón de crímenes da lugar a una de las amenazas más poderosas a las que se ha enfrentado.",
+      "genres": [
+        "Ciencia ficción",
+        "Acción",
+        "Aventura"
+      ]
+    },
+    {
+      "title": "Spider-Man: Brand New Day",
       "time": "16:05",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/2OKQrD5Txku6o5JQmxXrUAGKrSt.jpg",
@@ -471,18 +491,6 @@ export const MOVIE_DATA = {
     {
       "title": "Spider-Man: Brand New Day",
       "time": "17:10",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/2OKQrD5Txku6o5JQmxXrUAGKrSt.jpg",
-      "summary": "Han pasado cuatro años desde los acontecimientos de No Way Home, y Peter Parker ahora es un adulto que vive completamente solo, ha desaparecido voluntariamente de las vidas y recuerdos de quienes ama. Combatiendo el crimen en una Nueva York que ya no conoce su nombre, se ha dedicado por completo a proteger su ciudad, pero a medida que aumentan las exigencias sobre él, la presión desencadena una evolución física que amenaza su existencia, al mismo tiempo que un extraño nuevo patrón de crímenes da lugar a una de las amenazas más poderosas a las que se ha enfrentado.",
-      "genres": [
-        "Ciencia ficción",
-        "Acción",
-        "Aventura"
-      ]
-    },
-    {
-      "title": "Spider-Man: Brand New Day",
-      "time": "17:30",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/2OKQrD5Txku6o5JQmxXrUAGKrSt.jpg",
       "summary": "Han pasado cuatro años desde los acontecimientos de No Way Home, y Peter Parker ahora es un adulto que vive completamente solo, ha desaparecido voluntariamente de las vidas y recuerdos de quienes ama. Combatiendo el crimen en una Nueva York que ya no conoce su nombre, se ha dedicado por completo a proteger su ciudad, pero a medida que aumentan las exigencias sobre él, la presión desencadena una evolución física que amenaza su existencia, al mismo tiempo que un extraño nuevo patrón de crímenes da lugar a una de las amenazas más poderosas a las que se ha enfrentado.",
@@ -531,18 +539,6 @@ export const MOVIE_DATA = {
     {
       "title": "Spider-Man: Brand New Day",
       "time": "20:20",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/2OKQrD5Txku6o5JQmxXrUAGKrSt.jpg",
-      "summary": "Han pasado cuatro años desde los acontecimientos de No Way Home, y Peter Parker ahora es un adulto que vive completamente solo, ha desaparecido voluntariamente de las vidas y recuerdos de quienes ama. Combatiendo el crimen en una Nueva York que ya no conoce su nombre, se ha dedicado por completo a proteger su ciudad, pero a medida que aumentan las exigencias sobre él, la presión desencadena una evolución física que amenaza su existencia, al mismo tiempo que un extraño nuevo patrón de crímenes da lugar a una de las amenazas más poderosas a las que se ha enfrentado.",
-      "genres": [
-        "Ciencia ficción",
-        "Acción",
-        "Aventura"
-      ]
-    },
-    {
-      "title": "Spider-Man: Brand New Day",
-      "time": "20:50",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/2OKQrD5Txku6o5JQmxXrUAGKrSt.jpg",
       "summary": "Han pasado cuatro años desde los acontecimientos de No Way Home, y Peter Parker ahora es un adulto que vive completamente solo, ha desaparecido voluntariamente de las vidas y recuerdos de quienes ama. Combatiendo el crimen en una Nueva York que ya no conoce su nombre, se ha dedicado por completo a proteger su ciudad, pero a medida que aumentan las exigencias sobre él, la presión desencadena una evolución física que amenaza su existencia, al mismo tiempo que un extraño nuevo patrón de crímenes da lugar a una de las amenazas más poderosas a las que se ha enfrentado.",
@@ -740,7 +736,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Toy Story 5",
-      "time": "16:05",
+      "time": "16:00",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/1yF3AztF3rQ8MZ8En8974AWo5zZ.jpg",
       "summary": "Buzz, Woody, Jessie y el resto de la pandilla tienen un trabajo exponencialmente más difícil cuando se enfrentan a esta nueva amenaza para la hora de jugar: la tecnología.",
@@ -940,16 +936,6 @@ export const MOVIE_DATA = {
       ]
     },
     {
-      "title": "Tres De Más",
-      "time": "16:05",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/bG87VicPzkGtlrl9v2oXS56oeIL.jpg",
-      "summary": "Julia y Ernesto lo tienen todo: una relación envidiable, carreras de éxito y, sobre todo, una vida ideal sin hijos. Sin embargo, un día despiertan y se encuentran con tres niños que insisten en llamarlos mamá y papá. Su vida perfecta se ha esfumado. De la noche a la mañana tendrán que aprender a ser padres mientras tratan de descubrir de dónde han salido esos niños y cómo pueden librarse de ellos.",
-      "genres": [
-        "Comedia"
-      ]
-    },
-    {
       "title": "La Odisea",
       "time": "16:50",
       "rating": 0.0,
@@ -995,6 +981,16 @@ export const MOVIE_DATA = {
         "Aventura",
         "Acción",
         "Fantasía"
+      ]
+    },
+    {
+      "title": "Haciendo Amigos",
+      "time": "16:05",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/wE8Fud4W5Eqyaqu05JxdCIXdKsN.jpg",
+      "summary": "Antonio y Félix son una pareja de atracadores de poca monta que, huyendo de la policía tras atracar una joyería, se cruzan con Eva, monitora de un grupo de teatro formado por personas con discapacidad, que confunde a Félix con Ángel, un nuevo miembro del grupo al cual no conoce y al que están esperando. Aprovechando la confusión, Félix y Antonio consiguen escabullirse. Sin saber que les espera un retiro creativo de una semana con el entrañable grupo.",
+      "genres": [
+        "Comedia"
       ]
     },
     {
@@ -1168,7 +1164,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "El Ultimo Mono",
-      "time": "19:00",
+      "time": "19:10",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/ci9TmfbUjtodIzdKYhMLMmbFNGf.jpg",
       "summary": "Nos contará la historia de un hombre (interpretado por Juan Dávila) que vende cursos para “machos alfa” aconsejándoles para ser mejores hombres. El reto de este protagonista es enamorar a una mujer feminista (interpretada por Susana Gómez Abaitua) que se encuentra de gira presentando su último libro. En tono de comedia y buscando generar una reflexión, El Último Mono cuenta la historia del reto de un “macho alfa” que pretende mostrar en redes sociales que ha conseguido enamorar a una mujer con la que probablemente no tendría ninguna posibilidad.",
