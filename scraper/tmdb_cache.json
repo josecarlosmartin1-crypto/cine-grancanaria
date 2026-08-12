@@ -2189,5 +2189,14 @@
     "poster": null,
     "summary": "Adaptación de la primera novela de la famosa saga de Harry Potter de J. K. Rowling. Harry Potter es un niño huérfano criado por su tío Vernon y su tía Petunia que lo odian. Desde que era pequeño, estos siempre le han contado que sus padres murieron en un accidente de coche. El día de su decimoprimer cumpleaños, Harry recibe la inesperada visita de un hombre gigantesco de nombre Rubeus Hagrid. Este le revela que es, de hecho, hijo de dos poderosos magos y que él también posee extraordinarios poderes. Lleno de alegría, el chico acepta ir a estudiar a Hogwarts, el famoso colegio de magia y hechicería. Por fin, tiene la oportunidad de hacer amigos. Odiado por Severus Snape, profesor de Pociones, y protegido por Albus Dumbledore, director del colegio, Harry intentará dilucidar el misterio de la piedra filosofal.\r\n",
     "genres": []
+  },
+  "Kangaroo  Una Aventura En Australia": {
+    "rating": 6.4,
+    "poster": "https://image.tmdb.org/t/p/w342/9n7jV2Xt8AE9nAKSJojRcSZBV1N.jpg",
+    "summary": "",
+    "genres": [
+      "Familia",
+      "Comedia"
+    ]
   }
 }
