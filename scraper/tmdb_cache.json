@@ -2198,5 +2198,43 @@
       "Familia",
       "Comedia"
     ]
+  },
+  "El Final De Oak Street": {
+    "rating": 7.2,
+    "poster": "https://image.tmdb.org/t/p/w342/g9DUGw8ufetrwhCIrwq3h1NlpWO.jpg",
+    "summary": "Después de que un misterioso fenómeno cósmico arranque Oak Street de su entorno suburbano y transporte a sus habitantes a un lugar desconocido, la familia Platt pronto descubre que su propia supervivencia depende de que permanezcan unidos mientras se orientan en un entorno que ya no reconocen.",
+    "genres": [
+      "Ciencia ficción",
+      "Misterio",
+      "Suspense"
+    ]
+  },
+  "Cuenta Atrás": {
+    "rating": 7.1,
+    "poster": "https://image.tmdb.org/t/p/w342/8f3EHn2nFe4xbtcwNX9hmM0kb4m.jpg",
+    "summary": "Unos obreros de la construcción encuentran una bomba de la Segunda Guerra Mundial sin explotar en pleno centro de Londres, lo que les obliga a evacuar la ciudad para salvar a la multitud de transeúntes inocentes que se encuentran en las inmediaciones. Unos ladrones oportunistas aprovecharán el caos para llevar a cabo un elaborado atraco.",
+    "genres": [
+      "Acción",
+      "Crimen",
+      "Drama"
+    ]
+  },
+  "Cortis Tour: Put Your Phone Down": {
+    "rating": 0.0,
+    "poster": "https://image.tmdb.org/t/p/w342/wL2JQiKVhpyVZGdYnJnp86hQ6If.jpg",
+    "summary": "NEW EVENT | CORTIS TOUR <PUT YOUR PHONE DOWN> IN LA: LIVE VIEWING",
+    "genres": [
+      "Música"
+    ]
+  },
+  "Batwara 1947": {
+    "rating": 0.0,
+    "poster": "https://image.tmdb.org/t/p/w342/u4qctwtUwTEnA1gqQhM84MUygXp.jpg",
+    "summary": "Batwara 1947 (anteriormente conocida como Lahore 1947) es un drama histórico y de época indio dirigido por Rajkumar Santoshi y producido por Aamir Khan Productions. Está inspirada en la aclamada obra teatral “Jis Lahore Nai Vekhya, O Jamya E Nai” del dramaturgo Asghar Wajahat.\n",
+    "genres": [
+      "Acción",
+      "Drama",
+      "Bélica"
+    ]
   }
 }
