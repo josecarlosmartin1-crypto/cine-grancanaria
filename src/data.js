@@ -73,16 +73,6 @@ export const MOVIE_DATA = {
       ]
     },
     {
-      "title": "Cortis Tour: Put Your Phone Down",
-      "time": "19:00",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/wL2JQiKVhpyVZGdYnJnp86hQ6If.jpg",
-      "summary": "NEW EVENT | CORTIS TOUR <PUT YOUR PHONE DOWN> IN LA: LIVE VIEWING",
-      "genres": [
-        "Música"
-      ]
-    },
-    {
       "title": "Batwara 1947",
       "time": "22:05",
       "rating": 0.0,
@@ -161,6 +151,28 @@ export const MOVIE_DATA = {
         "Aventura",
         "Animación",
         "Comedia"
+      ]
+    },
+    {
+      "title": "En Mar Abierto",
+      "time": "20:10",
+      "rating": 7.2,
+      "poster": "https://image.tmdb.org/t/p/w342/6hlW7llzDIh4rBIGvtdGoIFsawg.jpg",
+      "summary": "Un avión comercial en ruta de Los Ángeles a Shanghai se ve obligado a realizar un aterrizaje de emergencia en aguas infestadas de tiburones.",
+      "genres": [
+        "Terror",
+        "Suspense"
+      ]
+    },
+    {
+      "title": "En Mar Abierto",
+      "time": "22:25",
+      "rating": 7.2,
+      "poster": "https://image.tmdb.org/t/p/w342/6hlW7llzDIh4rBIGvtdGoIFsawg.jpg",
+      "summary": "Un avión comercial en ruta de Los Ángeles a Shanghai se ve obligado a realizar un aterrizaje de emergencia en aguas infestadas de tiburones.",
+      "genres": [
+        "Terror",
+        "Suspense"
       ]
     },
     {
@@ -341,6 +353,18 @@ export const MOVIE_DATA = {
       ]
     },
     {
+      "title": "Minions & Monsters",
+      "time": "17:50",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/7DUzo8Ys7BfmZpqnzIwG4qA0egl.jpg",
+      "summary": "La historia de cómo los Minions conquistaron Hollywood, se convirtieron en estrellas de cine, lo perdieron todo, desataron monstruos en el mundo y luego se unieron para intentar salvar al planeta del caos que acababan de crear.",
+      "genres": [
+        "Aventura",
+        "Animación",
+        "Comedia"
+      ]
+    },
+    {
       "title": "Obsession",
       "time": "22:10",
       "rating": 7.9,
@@ -353,7 +377,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Toy Story 5",
-      "time": "16:15",
+      "time": "16:00",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/1yF3AztF3rQ8MZ8En8974AWo5zZ.jpg",
       "summary": "Buzz, Woody, Jessie y el resto de la pandilla tienen un trabajo exponencialmente más difícil cuando se enfrentan a esta nueva amenaza para la hora de jugar: la tecnología.",
@@ -367,7 +391,7 @@ export const MOVIE_DATA = {
   "Cine Yelmo Las Arenas": [
     {
       "title": "El Final De Oak Street",
-      "time": "15:45",
+      "time": "12:40",
       "rating": 7.2,
       "poster": "https://image.tmdb.org/t/p/w342/g9DUGw8ufetrwhCIrwq3h1NlpWO.jpg",
       "summary": "Después de que un misterioso fenómeno cósmico arranque Oak Street de su entorno suburbano y transporte a sus habitantes a un lugar desconocido, la familia Platt pronto descubre que su propia supervivencia depende de que permanezcan unidos mientras se orientan en un entorno que ya no reconocen.",
@@ -379,7 +403,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "El Final De Oak Street",
-      "time": "18:00",
+      "time": "15:00",
       "rating": 7.2,
       "poster": "https://image.tmdb.org/t/p/w342/g9DUGw8ufetrwhCIrwq3h1NlpWO.jpg",
       "summary": "Después de que un misterioso fenómeno cósmico arranque Oak Street de su entorno suburbano y transporte a sus habitantes a un lugar desconocido, la familia Platt pronto descubre que su propia supervivencia depende de que permanezcan unidos mientras se orientan en un entorno que ya no reconocen.",
@@ -391,7 +415,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "El Final De Oak Street",
-      "time": "20:20",
+      "time": "17:10",
       "rating": 7.2,
       "poster": "https://image.tmdb.org/t/p/w342/g9DUGw8ufetrwhCIrwq3h1NlpWO.jpg",
       "summary": "Después de que un misterioso fenómeno cósmico arranque Oak Street de su entorno suburbano y transporte a sus habitantes a un lugar desconocido, la familia Platt pronto descubre que su propia supervivencia depende de que permanezcan unidos mientras se orientan en un entorno que ya no reconocen.",
@@ -403,7 +427,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "El Final De Oak Street",
-      "time": "22:40",
+      "time": "19:40",
       "rating": 7.2,
       "poster": "https://image.tmdb.org/t/p/w342/g9DUGw8ufetrwhCIrwq3h1NlpWO.jpg",
       "summary": "Después de que un misterioso fenómeno cósmico arranque Oak Street de su entorno suburbano y transporte a sus habitantes a un lugar desconocido, la familia Platt pronto descubre que su propia supervivencia depende de que permanezcan unidos mientras se orientan en un entorno que ya no reconocen.",
@@ -411,6 +435,41 @@ export const MOVIE_DATA = {
         "Ciencia ficción",
         "Misterio",
         "Suspense"
+      ]
+    },
+    {
+      "title": "El Final De Oak Street",
+      "time": "22:00",
+      "rating": 7.2,
+      "poster": "https://image.tmdb.org/t/p/w342/g9DUGw8ufetrwhCIrwq3h1NlpWO.jpg",
+      "summary": "Después de que un misterioso fenómeno cósmico arranque Oak Street de su entorno suburbano y transporte a sus habitantes a un lugar desconocido, la familia Platt pronto descubre que su propia supervivencia depende de que permanezcan unidos mientras se orientan en un entorno que ya no reconocen.",
+      "genres": [
+        "Ciencia ficción",
+        "Misterio",
+        "Suspense"
+      ]
+    },
+    {
+      "title": "Batwara 1947",
+      "time": "12:00",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/u4qctwtUwTEnA1gqQhM84MUygXp.jpg",
+      "summary": "Batwara 1947 (anteriormente conocida como Lahore 1947) es un drama histórico y de época indio dirigido por Rajkumar Santoshi y producido por Aamir Khan Productions. Está inspirada en la aclamada obra teatral “Jis Lahore Nai Vekhya, O Jamya E Nai” del dramaturgo Asghar Wajahat.\n",
+      "genres": [
+        "Acción",
+        "Drama",
+        "Bélica"
+      ]
+    },
+    {
+      "title": "Marsupilami",
+      "time": "13:10",
+      "rating": 6.4,
+      "poster": "https://image.tmdb.org/t/p/w342/rJNHFa07Id2ylQgw0ttzGwpeczE.jpg",
+      "summary": "Para salvar su trabajo en el zoo, David acepta una arriesgada misión: recuperar un misterioso paquete en Sudamérica. El encargo lo lleva a un crucero donde viaja con su ex, su hijo y Stéphane, un compañero torpe. Todo se descontrola cuando Stéphane lo abre por accidente y libera a un adorable bebé marsupilami que convertirá el viaje en un caos absoluto. David y su familia tendrán que estar más unidos que nunca para recuperarlo.",
+      "genres": [
+        "Aventura",
+        "Comedia"
       ]
     },
     {
@@ -459,6 +518,30 @@ export const MOVIE_DATA = {
     },
     {
       "title": "La Patrulla Canina: La Dino Película",
+      "time": "12:30",
+      "rating": 3.5,
+      "poster": "https://image.tmdb.org/t/p/w342/jfwX8QE4jJg0rWI2CIZ8tDB5eul.jpg",
+      "summary": "Cuando una fuerte tormenta deja a la patrulla canina varada en una isla inexplorada llena de dinosaurios vivos, los cachorros deben unirse a su nuevo aliado, Rex, para detener al alcalde Humdinger antes de que la codicia de este provoque una catastrófica erupción volcánica.",
+      "genres": [
+        "Aventura",
+        "Animación",
+        "Comedia"
+      ]
+    },
+    {
+      "title": "La Patrulla Canina: La Dino Película",
+      "time": "15:20",
+      "rating": 3.5,
+      "poster": "https://image.tmdb.org/t/p/w342/jfwX8QE4jJg0rWI2CIZ8tDB5eul.jpg",
+      "summary": "Cuando una fuerte tormenta deja a la patrulla canina varada en una isla inexplorada llena de dinosaurios vivos, los cachorros deben unirse a su nuevo aliado, Rex, para detener al alcalde Humdinger antes de que la codicia de este provoque una catastrófica erupción volcánica.",
+      "genres": [
+        "Aventura",
+        "Animación",
+        "Comedia"
+      ]
+    },
+    {
+      "title": "La Patrulla Canina: La Dino Película",
       "time": "17:30",
       "rating": 3.5,
       "poster": "https://image.tmdb.org/t/p/w342/jfwX8QE4jJg0rWI2CIZ8tDB5eul.jpg",
@@ -489,6 +572,54 @@ export const MOVIE_DATA = {
       "genres": [
         "Terror",
         "Suspense"
+      ]
+    },
+    {
+      "title": "Spider-Man: Brand New Day",
+      "time": "11:50",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/2OKQrD5Txku6o5JQmxXrUAGKrSt.jpg",
+      "summary": "Han pasado cuatro años desde los acontecimientos de No Way Home, y Peter Parker ahora es un adulto que vive completamente solo, ha desaparecido voluntariamente de las vidas y recuerdos de quienes ama. Combatiendo el crimen en una Nueva York que ya no conoce su nombre, se ha dedicado por completo a proteger su ciudad, pero a medida que aumentan las exigencias sobre él, la presión desencadena una evolución física que amenaza su existencia, al mismo tiempo que un extraño nuevo patrón de crímenes da lugar a una de las amenazas más poderosas a las que se ha enfrentado.",
+      "genres": [
+        "Ciencia ficción",
+        "Acción",
+        "Aventura"
+      ]
+    },
+    {
+      "title": "Spider-Man: Brand New Day",
+      "time": "12:10",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/2OKQrD5Txku6o5JQmxXrUAGKrSt.jpg",
+      "summary": "Han pasado cuatro años desde los acontecimientos de No Way Home, y Peter Parker ahora es un adulto que vive completamente solo, ha desaparecido voluntariamente de las vidas y recuerdos de quienes ama. Combatiendo el crimen en una Nueva York que ya no conoce su nombre, se ha dedicado por completo a proteger su ciudad, pero a medida que aumentan las exigencias sobre él, la presión desencadena una evolución física que amenaza su existencia, al mismo tiempo que un extraño nuevo patrón de crímenes da lugar a una de las amenazas más poderosas a las que se ha enfrentado.",
+      "genres": [
+        "Ciencia ficción",
+        "Acción",
+        "Aventura"
+      ]
+    },
+    {
+      "title": "Spider-Man: Brand New Day",
+      "time": "12:50",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/2OKQrD5Txku6o5JQmxXrUAGKrSt.jpg",
+      "summary": "Han pasado cuatro años desde los acontecimientos de No Way Home, y Peter Parker ahora es un adulto que vive completamente solo, ha desaparecido voluntariamente de las vidas y recuerdos de quienes ama. Combatiendo el crimen en una Nueva York que ya no conoce su nombre, se ha dedicado por completo a proteger su ciudad, pero a medida que aumentan las exigencias sobre él, la presión desencadena una evolución física que amenaza su existencia, al mismo tiempo que un extraño nuevo patrón de crímenes da lugar a una de las amenazas más poderosas a las que se ha enfrentado.",
+      "genres": [
+        "Ciencia ficción",
+        "Acción",
+        "Aventura"
+      ]
+    },
+    {
+      "title": "Spider-Man: Brand New Day",
+      "time": "13:50",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/2OKQrD5Txku6o5JQmxXrUAGKrSt.jpg",
+      "summary": "Han pasado cuatro años desde los acontecimientos de No Way Home, y Peter Parker ahora es un adulto que vive completamente solo, ha desaparecido voluntariamente de las vidas y recuerdos de quienes ama. Combatiendo el crimen en una Nueva York que ya no conoce su nombre, se ha dedicado por completo a proteger su ciudad, pero a medida que aumentan las exigencias sobre él, la presión desencadena una evolución física que amenaza su existencia, al mismo tiempo que un extraño nuevo patrón de crímenes da lugar a una de las amenazas más poderosas a las que se ha enfrentado.",
+      "genres": [
+        "Ciencia ficción",
+        "Acción",
+        "Aventura"
       ]
     },
     {
@@ -625,6 +756,16 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Tres De Más",
+      "time": "13:30",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/bG87VicPzkGtlrl9v2oXS56oeIL.jpg",
+      "summary": "Julia y Ernesto lo tienen todo: una relación envidiable, carreras de éxito y, sobre todo, una vida ideal sin hijos. Sin embargo, un día despiertan y se encuentran con tres niños que insisten en llamarlos mamá y papá. Su vida perfecta se ha esfumado. De la noche a la mañana tendrán que aprender a ser padres mientras tratan de descubrir de dónde han salido esos niños y cómo pueden librarse de ellos.",
+      "genres": [
+        "Comedia"
+      ]
+    },
+    {
+      "title": "Tres De Más",
       "time": "15:45",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/bG87VicPzkGtlrl9v2oXS56oeIL.jpg",
@@ -642,6 +783,30 @@ export const MOVIE_DATA = {
       "genres": [
         "Drama",
         "Romance"
+      ]
+    },
+    {
+      "title": "La Odisea",
+      "time": "12:20",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/bheY17L6wtB0SdJn6EYyh1X5iry.jpg",
+      "summary": "Una epopeya mitológica que sigue la historia de Odiseo y su largo viaje a casa, de 10 años de duración, tras la guerra de Troya.",
+      "genres": [
+        "Aventura",
+        "Acción",
+        "Fantasía"
+      ]
+    },
+    {
+      "title": "La Odisea",
+      "time": "13:00",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/bheY17L6wtB0SdJn6EYyh1X5iry.jpg",
+      "summary": "Una epopeya mitológica que sigue la historia de Odiseo y su largo viaje a casa, de 10 años de duración, tras la guerra de Troya.",
+      "genres": [
+        "Aventura",
+        "Acción",
+        "Fantasía"
       ]
     },
     {
@@ -754,6 +919,30 @@ export const MOVIE_DATA = {
   "Cine Yelmo Premium Alisios": [
     {
       "title": "El Final De Oak Street",
+      "time": "12:00",
+      "rating": 7.2,
+      "poster": "https://image.tmdb.org/t/p/w342/g9DUGw8ufetrwhCIrwq3h1NlpWO.jpg",
+      "summary": "Después de que un misterioso fenómeno cósmico arranque Oak Street de su entorno suburbano y transporte a sus habitantes a un lugar desconocido, la familia Platt pronto descubre que su propia supervivencia depende de que permanezcan unidos mientras se orientan en un entorno que ya no reconocen.",
+      "genres": [
+        "Ciencia ficción",
+        "Misterio",
+        "Suspense"
+      ]
+    },
+    {
+      "title": "El Final De Oak Street",
+      "time": "14:05",
+      "rating": 7.2,
+      "poster": "https://image.tmdb.org/t/p/w342/g9DUGw8ufetrwhCIrwq3h1NlpWO.jpg",
+      "summary": "Después de que un misterioso fenómeno cósmico arranque Oak Street de su entorno suburbano y transporte a sus habitantes a un lugar desconocido, la familia Platt pronto descubre que su propia supervivencia depende de que permanezcan unidos mientras se orientan en un entorno que ya no reconocen.",
+      "genres": [
+        "Ciencia ficción",
+        "Misterio",
+        "Suspense"
+      ]
+    },
+    {
+      "title": "El Final De Oak Street",
       "time": "16:10",
       "rating": 7.2,
       "poster": "https://image.tmdb.org/t/p/w342/g9DUGw8ufetrwhCIrwq3h1NlpWO.jpg",
@@ -802,7 +991,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Marsupilami",
-      "time": "15:55",
+      "time": "13:10",
       "rating": 6.4,
       "poster": "https://image.tmdb.org/t/p/w342/rJNHFa07Id2ylQgw0ttzGwpeczE.jpg",
       "summary": "Para salvar su trabajo en el zoo, David acepta una arriesgada misión: recuperar un misterioso paquete en Sudamérica. El encargo lo lleva a un crucero donde viaja con su ex, su hijo y Stéphane, un compañero torpe. Todo se descontrola cuando Stéphane lo abre por accidente y libera a un adorable bebé marsupilami que convertirá el viaje en un caos absoluto. David y su familia tendrán que estar más unidos que nunca para recuperarlo.",
@@ -813,12 +1002,47 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Marsupilami",
-      "time": "18:05",
+      "time": "15:20",
       "rating": 6.4,
       "poster": "https://image.tmdb.org/t/p/w342/rJNHFa07Id2ylQgw0ttzGwpeczE.jpg",
       "summary": "Para salvar su trabajo en el zoo, David acepta una arriesgada misión: recuperar un misterioso paquete en Sudamérica. El encargo lo lleva a un crucero donde viaja con su ex, su hijo y Stéphane, un compañero torpe. Todo se descontrola cuando Stéphane lo abre por accidente y libera a un adorable bebé marsupilami que convertirá el viaje en un caos absoluto. David y su familia tendrán que estar más unidos que nunca para recuperarlo.",
       "genres": [
         "Aventura",
+        "Comedia"
+      ]
+    },
+    {
+      "title": "Marsupilami",
+      "time": "17:35",
+      "rating": 6.4,
+      "poster": "https://image.tmdb.org/t/p/w342/rJNHFa07Id2ylQgw0ttzGwpeczE.jpg",
+      "summary": "Para salvar su trabajo en el zoo, David acepta una arriesgada misión: recuperar un misterioso paquete en Sudamérica. El encargo lo lleva a un crucero donde viaja con su ex, su hijo y Stéphane, un compañero torpe. Todo se descontrola cuando Stéphane lo abre por accidente y libera a un adorable bebé marsupilami que convertirá el viaje en un caos absoluto. David y su familia tendrán que estar más unidos que nunca para recuperarlo.",
+      "genres": [
+        "Aventura",
+        "Comedia"
+      ]
+    },
+    {
+      "title": "La Patrulla Canina: La Dino Película",
+      "time": "12:10",
+      "rating": 3.5,
+      "poster": "https://image.tmdb.org/t/p/w342/jfwX8QE4jJg0rWI2CIZ8tDB5eul.jpg",
+      "summary": "Cuando una fuerte tormenta deja a la patrulla canina varada en una isla inexplorada llena de dinosaurios vivos, los cachorros deben unirse a su nuevo aliado, Rex, para detener al alcalde Humdinger antes de que la codicia de este provoque una catastrófica erupción volcánica.",
+      "genres": [
+        "Aventura",
+        "Animación",
+        "Comedia"
+      ]
+    },
+    {
+      "title": "La Patrulla Canina: La Dino Película",
+      "time": "12:50",
+      "rating": 3.5,
+      "poster": "https://image.tmdb.org/t/p/w342/jfwX8QE4jJg0rWI2CIZ8tDB5eul.jpg",
+      "summary": "Cuando una fuerte tormenta deja a la patrulla canina varada en una isla inexplorada llena de dinosaurios vivos, los cachorros deben unirse a su nuevo aliado, Rex, para detener al alcalde Humdinger antes de que la codicia de este provoque una catastrófica erupción volcánica.",
+      "genres": [
+        "Aventura",
+        "Animación",
         "Comedia"
       ]
     },
@@ -836,7 +1060,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "La Patrulla Canina: La Dino Película",
-      "time": "17:55",
+      "time": "17:45",
       "rating": 3.5,
       "poster": "https://image.tmdb.org/t/p/w342/jfwX8QE4jJg0rWI2CIZ8tDB5eul.jpg",
       "summary": "Cuando una fuerte tormenta deja a la patrulla canina varada en una isla inexplorada llena de dinosaurios vivos, los cachorros deben unirse a su nuevo aliado, Rex, para detener al alcalde Humdinger antes de que la codicia de este provoque una catastrófica erupción volcánica.",
@@ -859,13 +1083,49 @@ export const MOVIE_DATA = {
     },
     {
       "title": "En Mar Abierto",
-      "time": "20:15",
+      "time": "19:45",
       "rating": 7.2,
       "poster": "https://image.tmdb.org/t/p/w342/6hlW7llzDIh4rBIGvtdGoIFsawg.jpg",
       "summary": "Un avión comercial en ruta de Los Ángeles a Shanghai se ve obligado a realizar un aterrizaje de emergencia en aguas infestadas de tiburones.",
       "genres": [
         "Terror",
         "Suspense"
+      ]
+    },
+    {
+      "title": "Spider-Man: Brand New Day",
+      "time": "12:35",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/2OKQrD5Txku6o5JQmxXrUAGKrSt.jpg",
+      "summary": "Han pasado cuatro años desde los acontecimientos de No Way Home, y Peter Parker ahora es un adulto que vive completamente solo, ha desaparecido voluntariamente de las vidas y recuerdos de quienes ama. Combatiendo el crimen en una Nueva York que ya no conoce su nombre, se ha dedicado por completo a proteger su ciudad, pero a medida que aumentan las exigencias sobre él, la presión desencadena una evolución física que amenaza su existencia, al mismo tiempo que un extraño nuevo patrón de crímenes da lugar a una de las amenazas más poderosas a las que se ha enfrentado.",
+      "genres": [
+        "Ciencia ficción",
+        "Acción",
+        "Aventura"
+      ]
+    },
+    {
+      "title": "Spider-Man: Brand New Day",
+      "time": "13:00",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/2OKQrD5Txku6o5JQmxXrUAGKrSt.jpg",
+      "summary": "Han pasado cuatro años desde los acontecimientos de No Way Home, y Peter Parker ahora es un adulto que vive completamente solo, ha desaparecido voluntariamente de las vidas y recuerdos de quienes ama. Combatiendo el crimen en una Nueva York que ya no conoce su nombre, se ha dedicado por completo a proteger su ciudad, pero a medida que aumentan las exigencias sobre él, la presión desencadena una evolución física que amenaza su existencia, al mismo tiempo que un extraño nuevo patrón de crímenes da lugar a una de las amenazas más poderosas a las que se ha enfrentado.",
+      "genres": [
+        "Ciencia ficción",
+        "Acción",
+        "Aventura"
+      ]
+    },
+    {
+      "title": "Spider-Man: Brand New Day",
+      "time": "14:00",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/2OKQrD5Txku6o5JQmxXrUAGKrSt.jpg",
+      "summary": "Han pasado cuatro años desde los acontecimientos de No Way Home, y Peter Parker ahora es un adulto que vive completamente solo, ha desaparecido voluntariamente de las vidas y recuerdos de quienes ama. Combatiendo el crimen en una Nueva York que ya no conoce su nombre, se ha dedicado por completo a proteger su ciudad, pero a medida que aumentan las exigencias sobre él, la presión desencadena una evolución física que amenaza su existencia, al mismo tiempo que un extraño nuevo patrón de crímenes da lugar a una de las amenazas más poderosas a las que se ha enfrentado.",
+      "genres": [
+        "Ciencia ficción",
+        "Acción",
+        "Aventura"
       ]
     },
     {
@@ -966,12 +1226,36 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Tres De Más",
-      "time": "15:45",
+      "time": "15:35",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/bG87VicPzkGtlrl9v2oXS56oeIL.jpg",
       "summary": "Julia y Ernesto lo tienen todo: una relación envidiable, carreras de éxito y, sobre todo, una vida ideal sin hijos. Sin embargo, un día despiertan y se encuentran con tres niños que insisten en llamarlos mamá y papá. Su vida perfecta se ha esfumado. De la noche a la mañana tendrán que aprender a ser padres mientras tratan de descubrir de dónde han salido esos niños y cómo pueden librarse de ellos.",
       "genres": [
         "Comedia"
+      ]
+    },
+    {
+      "title": "La Odisea",
+      "time": "12:20",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/bheY17L6wtB0SdJn6EYyh1X5iry.jpg",
+      "summary": "Una epopeya mitológica que sigue la historia de Odiseo y su largo viaje a casa, de 10 años de duración, tras la guerra de Troya.",
+      "genres": [
+        "Aventura",
+        "Acción",
+        "Fantasía"
+      ]
+    },
+    {
+      "title": "La Odisea",
+      "time": "12:30",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/bheY17L6wtB0SdJn6EYyh1X5iry.jpg",
+      "summary": "Una epopeya mitológica que sigue la historia de Odiseo y su largo viaje a casa, de 10 años de duración, tras la guerra de Troya.",
+      "genres": [
+        "Aventura",
+        "Acción",
+        "Fantasía"
       ]
     },
     {
@@ -1048,7 +1332,19 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Minions & Monsters",
-      "time": "15:50",
+      "time": "12:00",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/7DUzo8Ys7BfmZpqnzIwG4qA0egl.jpg",
+      "summary": "La historia de cómo los Minions conquistaron Hollywood, se convirtieron en estrellas de cine, lo perdieron todo, desataron monstruos en el mundo y luego se unieron para intentar salvar al planeta del caos que acababan de crear.",
+      "genres": [
+        "Aventura",
+        "Animación",
+        "Comedia"
+      ]
+    },
+    {
+      "title": "Minions & Monsters",
+      "time": "15:10",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/7DUzo8Ys7BfmZpqnzIwG4qA0egl.jpg",
       "summary": "La historia de cómo los Minions conquistaron Hollywood, se convirtieron en estrellas de cine, lo perdieron todo, desataron monstruos en el mundo y luego se unieron para intentar salvar al planeta del caos que acababan de crear.",
@@ -1060,7 +1356,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Obsession",
-      "time": "22:35",
+      "time": "22:15",
       "rating": 7.9,
       "poster": "https://image.tmdb.org/t/p/w342/ohi9xvbBUymM4SuIOSlt1xbLRQQ.jpg",
       "summary": "El anhelo romántico desesperado de un chico por su amor platónico de toda la vida desencadena un siniestro hechizo: Niki se vuelve irracionalmente obsesiva hasta convertirse en la sombra de Bear. Una fantasía aparentemente inofensiva que se convertirá en una perturbadora pesadilla.",
@@ -1097,7 +1393,19 @@ export const MOVIE_DATA = {
   "Artesiete Las Terrazas": [
     {
       "title": "Toy Story 5",
-      "time": "16:00",
+      "time": "12:15",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/1yF3AztF3rQ8MZ8En8974AWo5zZ.jpg",
+      "summary": "Buzz, Woody, Jessie y el resto de la pandilla tienen un trabajo exponencialmente más difícil cuando se enfrentan a esta nueva amenaza para la hora de jugar: la tecnología.",
+      "genres": [
+        "Animación",
+        "Familia",
+        "Comedia"
+      ]
+    },
+    {
+      "title": "Toy Story 5",
+      "time": "18:00",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/1yF3AztF3rQ8MZ8En8974AWo5zZ.jpg",
       "summary": "Buzz, Woody, Jessie y el resto de la pandilla tienen un trabajo exponencialmente más difícil cuando se enfrentan a esta nueva amenaza para la hora de jugar: la tecnología.",
@@ -1109,13 +1417,37 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Minions & Monstruos",
-      "time": "18:00",
+      "time": "12:30",
       "rating": 6.8,
       "poster": "https://image.tmdb.org/t/p/w342/7DUzo8Ys7BfmZpqnzIwG4qA0egl.jpg",
       "summary": "La historia de cómo los Minions conquistaron Hollywood, se convirtieron en estrellas de cine, lo perdieron todo, desataron monstruos en el mundo y luego se unieron para intentar salvar al planeta del caos que acababan de crear.",
       "genres": [
         "Aventura",
         "Animación",
+        "Comedia"
+      ]
+    },
+    {
+      "title": "Minions & Monstruos",
+      "time": "16:15",
+      "rating": 6.8,
+      "poster": "https://image.tmdb.org/t/p/w342/7DUzo8Ys7BfmZpqnzIwG4qA0egl.jpg",
+      "summary": "La historia de cómo los Minions conquistaron Hollywood, se convirtieron en estrellas de cine, lo perdieron todo, desataron monstruos en el mundo y luego se unieron para intentar salvar al planeta del caos que acababan de crear.",
+      "genres": [
+        "Aventura",
+        "Animación",
+        "Comedia"
+      ]
+    },
+    {
+      "title": "Vaiana",
+      "time": "12:30",
+      "rating": 6.4,
+      "poster": "https://image.tmdb.org/t/p/w342/wC27PIEqSthbUhaVMdYEhaTzYmo.jpg",
+      "summary": "Versión de imagen real de la película de animación de 2016 'Vaiana'.",
+      "genres": [
+        "Familia",
+        "Fantasía",
         "Comedia"
       ]
     },
@@ -1165,6 +1497,18 @@ export const MOVIE_DATA = {
         "Aventura",
         "Acción",
         "Fantasía"
+      ]
+    },
+    {
+      "title": "Spider-Man Brand New Day",
+      "time": "12:00",
+      "rating": 7.8,
+      "poster": "https://image.tmdb.org/t/p/w342/tluwRNA7k0XfTtDkdLYKX1KOSCJ.jpg",
+      "summary": "Han pasado cuatro años desde los acontecimientos de No Way Home, y Peter Parker ahora es un adulto que vive completamente solo, ha desaparecido voluntariamente de las vidas y recuerdos de quienes ama. Combatiendo el crimen en una Nueva York que ya no conoce su nombre, se ha dedicado por completo a proteger su ciudad, pero a medida que aumentan las exigencias sobre él, la presión desencadena una evolución física que amenaza su existencia, al mismo tiempo que un extraño nuevo patrón de crímenes da lugar a una de las amenazas más poderosas a las que se ha enfrentado.",
+      "genres": [
+        "Ciencia ficción",
+        "Acción",
+        "Aventura"
       ]
     },
     {
@@ -1252,7 +1596,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "En Mar Abierto",
-      "time": "19:45",
+      "time": "20:00",
       "rating": 7.2,
       "poster": "https://image.tmdb.org/t/p/w342/6hlW7llzDIh4rBIGvtdGoIFsawg.jpg",
       "summary": "Un avión comercial en ruta de Los Ángeles a Shanghai se ve obligado a realizar un aterrizaje de emergencia en aguas infestadas de tiburones.",
@@ -1270,6 +1614,18 @@ export const MOVIE_DATA = {
       "genres": [
         "Terror",
         "Suspense"
+      ]
+    },
+    {
+      "title": "La Patrulla Canina: La Dino Pelicula",
+      "time": "12:15",
+      "rating": 7.3,
+      "poster": "https://image.tmdb.org/t/p/w342/jfwX8QE4jJg0rWI2CIZ8tDB5eul.jpg",
+      "summary": "Cuando una fuerte tormenta deja a la patrulla canina varada en una isla inexplorada llena de dinosaurios vivos, los cachorros deben unirse a su nuevo aliado, Rex, para detener al alcalde Humdinger antes de que la codicia de este provoque una catastrófica erupción volcánica.",
+      "genres": [
+        "Aventura",
+        "Animación",
+        "Comedia"
       ]
     },
     {
@@ -1309,7 +1665,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Marsupilami",
-      "time": "16:30",
+      "time": "12:00",
       "rating": 6.4,
       "poster": "https://image.tmdb.org/t/p/w342/rJNHFa07Id2ylQgw0ttzGwpeczE.jpg",
       "summary": "Para salvar su trabajo en el zoo, David acepta una arriesgada misión: recuperar un misterioso paquete en Sudamérica. El encargo lo lleva a un crucero donde viaja con su ex, su hijo y Stéphane, un compañero torpe. Todo se descontrola cuando Stéphane lo abre por accidente y libera a un adorable bebé marsupilami que convertirá el viaje en un caos absoluto. David y su familia tendrán que estar más unidos que nunca para recuperarlo.",
@@ -1338,6 +1694,18 @@ export const MOVIE_DATA = {
       "genres": [
         "Aventura",
         "Comedia"
+      ]
+    },
+    {
+      "title": "El Final De Oak Street",
+      "time": "12:00",
+      "rating": 7.2,
+      "poster": "https://image.tmdb.org/t/p/w342/g9DUGw8ufetrwhCIrwq3h1NlpWO.jpg",
+      "summary": "Después de que un misterioso fenómeno cósmico arranque Oak Street de su entorno suburbano y transporte a sus habitantes a un lugar desconocido, la familia Platt pronto descubre que su propia supervivencia depende de que permanezcan unidos mientras se orientan en un entorno que ya no reconocen.",
+      "genres": [
+        "Ciencia ficción",
+        "Misterio",
+        "Suspense"
       ]
     },
     {
