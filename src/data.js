@@ -389,6 +389,14 @@ export const MOVIE_DATA = {
   ],
   "Cine Yelmo Las Arenas": [
     {
+      "title": "La Bohème - Ópera Met Encores 2026",
+      "time": "19:00",
+      "rating": 0,
+      "poster": null,
+      "summary": "Con su escenario encantador y su partitura cautivadora, la ópera más popular del mundo es tan atemporal como desgarradora. \n\nLa impecable puesta en escena de Franco Zeffirelli traslada el París del siglo XIX al escenario del Met, mientras los jóvenes amigos y amantes de Puccini se enfrentan a las alegrías y las dificultades de la vida bohemia. \n\nLas sopranos Juliana Grigoryan, Angel Blue y Aleksandra Kurzak se turnan en el papel de la frágil costurera Mimì, junto a los tenores Freddie De Tommaso, Stephen Costello, Adam Smith y Long Long en el papel del ardiente poeta Rodolfo.",
+      "genres": []
+    },
+    {
       "title": "El Final De Oak Street",
       "time": "15:45",
       "rating": 7.2,
@@ -470,17 +478,6 @@ export const MOVIE_DATA = {
       ]
     },
     {
-      "title": "El Último Mono",
-      "time": "16:00",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/ci9TmfbUjtodIzdKYhMLMmbFNGf.jpg",
-      "summary": "Nos contará la historia de un hombre (interpretado por Juan Dávila) que vende cursos para “machos alfa” aconsejándoles para ser mejores hombres. El reto de este protagonista es enamorar a una mujer feminista (interpretada por Susana Gómez Abaitua) que se encuentra de gira presentando su último libro. En tono de comedia y buscando generar una reflexión, El Último Mono cuenta la historia del reto de un “macho alfa” que pretende mostrar en redes sociales que ha conseguido enamorar a una mujer con la que probablemente no tendría ninguna posibilidad.",
-      "genres": [
-        "Comedia",
-        "Romance"
-      ]
-    },
-    {
       "title": "La Patrulla Canina: La Dino Película",
       "time": "17:30",
       "rating": 3.5,
@@ -512,6 +509,17 @@ export const MOVIE_DATA = {
       "genres": [
         "Terror",
         "Suspense"
+      ]
+    },
+    {
+      "title": "El Último Mono",
+      "time": "15:50",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/ci9TmfbUjtodIzdKYhMLMmbFNGf.jpg",
+      "summary": "Nos contará la historia de un hombre (interpretado por Juan Dávila) que vende cursos para “machos alfa” aconsejándoles para ser mejores hombres. El reto de este protagonista es enamorar a una mujer feminista (interpretada por Susana Gómez Abaitua) que se encuentra de gira presentando su último libro. En tono de comedia y buscando generar una reflexión, El Último Mono cuenta la historia del reto de un “macho alfa” que pretende mostrar en redes sociales que ha conseguido enamorar a una mujer con la que probablemente no tendría ninguna posibilidad.",
+      "genres": [
+        "Comedia",
+        "Romance"
       ]
     },
     {
@@ -600,18 +608,6 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Spider-Man: Brand New Day",
-      "time": "20:50",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/2OKQrD5Txku6o5JQmxXrUAGKrSt.jpg",
-      "summary": "Han pasado cuatro años desde los acontecimientos de No Way Home, y Peter Parker ahora es un adulto que vive completamente solo, ha desaparecido voluntariamente de las vidas y recuerdos de quienes ama. Combatiendo el crimen en una Nueva York que ya no conoce su nombre, se ha dedicado por completo a proteger su ciudad, pero a medida que aumentan las exigencias sobre él, la presión desencadena una evolución física que amenaza su existencia, al mismo tiempo que un extraño nuevo patrón de crímenes da lugar a una de las amenazas más poderosas a las que se ha enfrentado.",
-      "genres": [
-        "Ciencia ficción",
-        "Acción",
-        "Aventura"
-      ]
-    },
-    {
-      "title": "Spider-Man: Brand New Day",
       "time": "21:20",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/2OKQrD5Txku6o5JQmxXrUAGKrSt.jpg",
@@ -657,17 +653,6 @@ export const MOVIE_DATA = {
       ]
     },
     {
-      "title": "Tal Vez",
-      "time": "18:15",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/sY9PsGiR8VQ0oeKhndvuuvFc7tp.jpg",
-      "summary": "Relata una relación amorosa imaginaria entre la escritora canaria Natalia Sosa Ayala y la famosa artista circense Pinito del Oro, que se conocieron en 1968 cuando la primera ayudó a la segunda a escribir sus memorias.",
-      "genres": [
-        "Drama",
-        "Romance"
-      ]
-    },
-    {
       "title": "La Odisea",
       "time": "16:40",
       "rating": 0.0,
@@ -681,7 +666,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "La Odisea",
-      "time": "18:10",
+      "time": "18:25",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/bheY17L6wtB0SdJn6EYyh1X5iry.jpg",
       "summary": "Una epopeya mitológica que sigue la historia de Odiseo y su largo viaje a casa, de 10 años de duración, tras la guerra de Troya.",
@@ -705,7 +690,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "La Odisea",
-      "time": "21:40",
+      "time": "21:50",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/bheY17L6wtB0SdJn6EYyh1X5iry.jpg",
       "summary": "Una epopeya mitológica que sigue la historia de Odiseo y su largo viaje a casa, de 10 años de duración, tras la guerra de Troya.",
@@ -763,7 +748,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Toy Story 5",
-      "time": "15:50",
+      "time": "16:05",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/1yF3AztF3rQ8MZ8En8974AWo5zZ.jpg",
       "summary": "Buzz, Woody, Jessie y el resto de la pandilla tienen un trabajo exponencialmente más difícil cuando se enfrentan a esta nueva amenaza para la hora de jugar: la tecnología.",
@@ -1226,7 +1211,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "La Patrulla Canina: La Dino Pelicula",
-      "time": "19:10",
+      "time": "19:00",
       "rating": 7.3,
       "poster": "https://image.tmdb.org/t/p/w342/jfwX8QE4jJg0rWI2CIZ8tDB5eul.jpg",
       "summary": "Cuando una fuerte tormenta deja a la patrulla canina varada en una isla inexplorada llena de dinosaurios vivos, los cachorros deben unirse a su nuevo aliado, Rex, para detener al alcalde Humdinger antes de que la codicia de este provoque una catastrófica erupción volcánica.",
