@@ -2242,5 +2242,69 @@
     "poster": null,
     "summary": "Con su escenario encantador y su partitura cautivadora, la ópera más popular del mundo es tan atemporal como desgarradora. \n\nLa impecable puesta en escena de Franco Zeffirelli traslada el París del siglo XIX al escenario del Met, mientras los jóvenes amigos y amantes de Puccini se enfrentan a las alegrías y las dificultades de la vida bohemia. \n\nLas sopranos Juliana Grigoryan, Angel Blue y Aleksandra Kurzak se turnan en el papel de la frágil costurera Mimì, junto a los tenores Freddie De Tommaso, Stephen Costello, Adam Smith y Long Long en el papel del ardiente poeta Rodolfo.",
     "genres": []
+  },
+  "The Fast & The Furious 25 Aniversario": {
+    "rating": 0,
+    "poster": null,
+    "summary": "Una misteriosa banda de delincuentes se dedica a robar camiones en marcha desde vehículos deportivos. La policía decide infiltrar un hombre en el mundo de las carreras ilegales para descubrir posibles sospechosos. El joven y apuesto Brian entra en el mundo del tunning donde conoce a Dominic, rey indiscutible de este mundo y sospechoso número uno, pero todo se complicará cuando se enamore de su hermana. ",
+    "genres": []
+  },
+  "El Motín": {
+    "rating": 7.0,
+    "poster": "https://image.tmdb.org/t/p/w342/6PwLfI2qpRZIIwN63XnNMYAqj87.jpg",
+    "summary": "Después de que su jefe, un industrial multimillonario, sea asesinado delante de él, Cole Reed se ve obligado a cargar con la culpa del crimen, lo que le obliga a huir mientras trabaja para descubrir una conspiración internacional.",
+    "genres": [
+      "Acción",
+      "Suspense"
+    ]
+  },
+  "Insidious: Fuera Del Más Allá": {
+    "rating": 6.5,
+    "poster": "https://image.tmdb.org/t/p/w342/uEqCJh1fA9Ao9jaCL2xoROPJeUB.jpg",
+    "summary": "Sexta entrega de la franquicia \"Insidious\".",
+    "genres": [
+      "Terror",
+      "Suspense"
+    ]
+  },
+  "A Fuego": {
+    "rating": 0.0,
+    "poster": "https://image.tmdb.org/t/p/w342/benVU7SN0lAzrmffBpzQUq03vmc.jpg",
+    "summary": "Después de la muerte de su hermano Nico, Lola descubra El Búnker, un lugar donde los invitados pueden bailar, celebrar fiestas clandestinas y ser ellos mismos. Allí, encuentra a su grupo de amigos y vuelve a apasionarse por el mundo de la música y el baile.",
+    "genres": []
+  },
+  "Manual Para Superhéroes: La Máscara Roja": {
+    "rating": 5.0,
+    "poster": "https://image.tmdb.org/t/p/w342/zvlIaUokk1g0r2Cy2tHYHBRLcZN.jpg",
+    "summary": "Lisa es una niña que se siente sola y sufre el acoso de unos compañeros de colegio. Todo cambia cuando descubre un misterioso manual que le enseña a desarrollar sus propios superpoderes. Con esfuerzo, valentía y confianza en sí misma, Lisa se convertirá en una heroína capaz de enfrentarse a sus miedos.",
+    "genres": [
+      "Animación",
+      "Aventura",
+      "Familia"
+    ]
+  },
+  "El Motin": {
+    "rating": 7.0,
+    "poster": "https://image.tmdb.org/t/p/w342/6PwLfI2qpRZIIwN63XnNMYAqj87.jpg",
+    "summary": "Después de que su jefe, un industrial multimillonario, sea asesinado delante de él, Cole Reed se ve obligado a cargar con la culpa del crimen, lo que le obliga a huir mientras trabaja para descubrir una conspiración internacional.",
+    "genres": [
+      "Acción",
+      "Suspense"
+    ]
+  },
+  "Insidious: Fuera Del Mas Alla": {
+    "rating": 6.5,
+    "poster": "https://image.tmdb.org/t/p/w342/uEqCJh1fA9Ao9jaCL2xoROPJeUB.jpg",
+    "summary": "Sexta entrega de la franquicia \"Insidious\".",
+    "genres": [
+      "Terror",
+      "Suspense"
+    ]
+  },
+  "The Fast And The Furious  25 Aniv": {
+    "rating": 0,
+    "poster": null,
+    "summary": "",
+    "genres": []
   }
 }
