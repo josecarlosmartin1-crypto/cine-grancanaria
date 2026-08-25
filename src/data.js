@@ -1049,7 +1049,7 @@ export const MOVIE_DATA = {
   "Artesiete Las Terrazas": [
     {
       "title": "Toy Story 5",
-      "time": "17:30",
+      "time": "19:00",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/1yF3AztF3rQ8MZ8En8974AWo5zZ.jpg",
       "summary": "Buzz, Woody, Jessie y el resto de la pandilla tienen un trabajo exponencialmente más difícil cuando se enfrentan a esta nueva amenaza para la hora de jugar: la tecnología.",
@@ -1073,7 +1073,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Vaiana",
-      "time": "17:00",
+      "time": "16:50",
       "rating": 6.4,
       "poster": "https://image.tmdb.org/t/p/w342/wC27PIEqSthbUhaVMdYEhaTzYmo.jpg",
       "summary": "Versión de imagen real de la película de animación de 2016 'Vaiana'.",
@@ -1086,18 +1086,6 @@ export const MOVIE_DATA = {
     {
       "title": "La Odisea",
       "time": "17:00",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/bheY17L6wtB0SdJn6EYyh1X5iry.jpg",
-      "summary": "Una epopeya mitológica que sigue la historia de Odiseo y su largo viaje a casa, de 10 años de duración, tras la guerra de Troya.",
-      "genres": [
-        "Aventura",
-        "Acción",
-        "Fantasía"
-      ]
-    },
-    {
-      "title": "La Odisea",
-      "time": "19:45",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/bheY17L6wtB0SdJn6EYyh1X5iry.jpg",
       "summary": "Una epopeya mitológica que sigue la historia de Odiseo y su largo viaje a casa, de 10 años de duración, tras la guerra de Troya.",
@@ -1145,7 +1133,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Spider-Man Brand New Day",
-      "time": "21:15",
+      "time": "21:20",
       "rating": 7.8,
       "poster": "https://image.tmdb.org/t/p/w342/tluwRNA7k0XfTtDkdLYKX1KOSCJ.jpg",
       "summary": "Han pasado cuatro años desde los acontecimientos de No Way Home, y Peter Parker ahora es un adulto que vive completamente solo, ha desaparecido voluntariamente de las vidas y recuerdos de quienes ama. Combatiendo el crimen en una Nueva York que ya no conoce su nombre, se ha dedicado por completo a proteger su ciudad, pero a medida que aumentan las exigencias sobre él, la presión desencadena una evolución física que amenaza su existencia, al mismo tiempo que un extraño nuevo patrón de crímenes da lugar a una de las amenazas más poderosas a las que se ha enfrentado.",
@@ -1164,6 +1152,18 @@ export const MOVIE_DATA = {
       "genres": [
         "Terror",
         "Suspense"
+      ]
+    },
+    {
+      "title": "La Patrulla Canina: La Dino Pelicula",
+      "time": "17:00",
+      "rating": 7.3,
+      "poster": "https://image.tmdb.org/t/p/w342/jfwX8QE4jJg0rWI2CIZ8tDB5eul.jpg",
+      "summary": "Cuando una fuerte tormenta deja a la patrulla canina varada en una isla inexplorada llena de dinosaurios vivos, los cachorros deben unirse a su nuevo aliado, Rex, para detener al alcalde Humdinger antes de que la codicia de este provoque una catastrófica erupción volcánica.",
+      "genres": [
+        "Aventura",
+        "Animación",
+        "Comedia"
       ]
     },
     {
@@ -1191,7 +1191,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "El Final De Oak Street",
-      "time": "19:00",
+      "time": "19:15",
       "rating": 7.2,
       "poster": "https://image.tmdb.org/t/p/w342/g9DUGw8ufetrwhCIrwq3h1NlpWO.jpg",
       "summary": "Después de que un misterioso fenómeno cósmico arranque Oak Street de su entorno suburbano y transporte a sus habitantes a un lugar desconocido, la familia Platt pronto descubre que su propia supervivencia depende de que permanezcan unidos mientras se orientan en un entorno que ya no reconocen.",
@@ -1210,6 +1210,17 @@ export const MOVIE_DATA = {
       "genres": [
         "Ciencia ficción",
         "Misterio",
+        "Suspense"
+      ]
+    },
+    {
+      "title": "El Motin",
+      "time": "21:00",
+      "rating": 7.0,
+      "poster": "https://image.tmdb.org/t/p/w342/6PwLfI2qpRZIIwN63XnNMYAqj87.jpg",
+      "summary": "Después de que su jefe, un industrial multimillonario, sea asesinado delante de él, Cole Reed se ve obligado a cargar con la culpa del crimen, lo que le obliga a huir mientras trabaja para descubrir una conspiración internacional.",
+      "genres": [
+        "Acción",
         "Suspense"
       ]
     },
@@ -1259,7 +1270,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "The Fast And The Furious  25 Aniv",
-      "time": "19:10",
+      "time": "19:15",
       "rating": 0,
       "poster": null,
       "summary": "",
