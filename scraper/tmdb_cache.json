@@ -2306,5 +2306,80 @@
     "poster": null,
     "summary": "",
     "genres": []
+  },
+  "La Constelación Del Perro": {
+    "rating": 6.9,
+    "poster": "https://image.tmdb.org/t/p/w342/vbCb1yHXtXym4V1c420MSasbyyP.jpg",
+    "summary": "En un mundo postapocalíptico, un virus aniquila a prácticamente toda la humanidad. Los supervivientes se enfrentan a unos carroñeros errantes llamados \"Segadores\". El protagonista, Hig, un piloto, sobrevivió a la gripe pero perdió a su mujer.",
+    "genres": [
+      "Ciencia ficción",
+      "Aventura",
+      "Suspense"
+    ]
+  },
+  "Una Noche Al Año": {
+    "rating": 6.9,
+    "poster": "https://image.tmdb.org/t/p/w342/6zWaYWrPXG7JBX3Tb3OI9ITWGad.jpg",
+    "summary": "Dos extraños tratan de encontrar a alguien con quien acostarse en la única noche del año en la que es legal el sexo prematrimonial.",
+    "genres": [
+      "Comedia",
+      "Romance"
+    ]
+  },
+  "El Ser Querido": {
+    "rating": 6.8,
+    "poster": "https://image.tmdb.org/t/p/w342/bFYCaNsYmj4bOoHGIoqEthRxfRv.jpg",
+    "summary": "Un aclamado director de cine y su hija, una actriz sin éxito, ruedan juntos una película tras años de distanciamiento y un pasado difícil del que ninguno de los dos ha querido hablar.",
+    "genres": [
+      "Drama"
+    ]
+  },
+  "La Constelacion Del Perro": {
+    "rating": 6.9,
+    "poster": "https://image.tmdb.org/t/p/w342/vbCb1yHXtXym4V1c420MSasbyyP.jpg",
+    "summary": "En un mundo postapocalíptico, un virus aniquila a prácticamente toda la humanidad. Los supervivientes se enfrentan a unos carroñeros errantes llamados \"Segadores\". El protagonista, Hig, un piloto, sobrevivió a la gripe pero perdió a su mujer.",
+    "genres": [
+      "Ciencia ficción",
+      "Aventura",
+      "Suspense"
+    ]
+  },
+  "Tadeo Jones Y La Lampara Maravillosa": {
+    "rating": 2.0,
+    "poster": "https://image.tmdb.org/t/p/w342/71G1b8bqa7gzP9yU7q2fgNf2t0D.jpg",
+    "summary": "Tadeo y Sara son ahora padres de Olimpia (Oli), una adorable e intrépida niña de dos años. Y Momia no lleva nada bien haber dejado de ser el centro de atención. Mientras están de vacaciones en Londres, Sara sigue la pista hacia un objeto único: la lámpara maravillosa de Las mil y una noches. Y Momia, presa de los celos, pide un deseo: viajar en el tiempo hasta el momento en que era joven y todos le querían. Tadeo y Sara tienen que unir fuerzas para evitar que Momia cambie el curso de la historia y traer al grupo (Jeff, Belzoni y Ramona incluidos) de vuelta a casa, a su época. Esta nueva aventura los llevará a cruzar el Océano Atlántico desde Perú hasta Grecia, y de allí a lo más profundo de Oriente Medio, hasta la misma cueva de Ali Babá y los cuarenta ladrones.",
+    "genres": [
+      "Animación",
+      "Comedia",
+      "Familia"
+    ]
+  },
+  "The Fast & The Furious": {
+    "rating": 7.0,
+    "poster": "https://image.tmdb.org/t/p/w342/mrdf1KTSZxsPzqrrHSSCUV3CoU8.jpg",
+    "summary": "Una misteriosa banda de delincuentes se dedica a robar camiones en plena marcha desde vehículos deportivos. La policía decide infiltrar a un hombre en el mundo de las carreras ilegales para descubrir posibles sospechosos. El joven y apuesto Brian entra en el mundo del tuning donde conoce a Dominic, rey indiscutible de este mundo y sospechoso número uno, pero todo se complica cuando se enamora de la hermana de éste.",
+    "genres": [
+      "Acción",
+      "Crimen",
+      "Suspense"
+    ]
+  },
+  "Prácticamente Magia 2": {
+    "rating": 0.0,
+    "poster": "https://image.tmdb.org/t/p/w342/tnbyrsN7cu2An3By6UDOHrq21CK.jpg",
+    "summary": "Las hermanas Owens deben enfrentarse a la oscura maldición que amenaza con desintegrar a su familia de una vez por todas.",
+    "genres": [
+      "Romance",
+      "Fantasía",
+      "Comedia"
+    ]
+  },
+  "Nct 127 5Th Tour 'Neo City : Seoul - The Redline' Live Viewing": {
+    "rating": 0.0,
+    "poster": "https://image.tmdb.org/t/p/w342/wLItpgfVeRL4VlqoaQJRQXzUmc1.jpg",
+    "summary": "NCT 127 5TH TOUR 'NEO CITY : SEOUL - THE REDLINE' in CINEMAS lleva a la gran pantalla el explosivo inicio del esperado regreso de NCT 127 a través de un evento especial de retransmisión en directo en cines de todo el mundo. Esta gira, la primera del grupo en un año y ocho meses, captura toda la magnitud, la energía y las electrizantes actuaciones de NCT 127 mientras inauguran un nuevo capítulo de NEO CITY en Seúl. \r\nRetransmitido en directo desde el KSPO DOME, el público de todo el mundo está invitado a vivir la intensidad del concierto en un entorno cinematográfico, disfrutando de cada momento del repertorio, la puesta en escena y el carisma sobre el escenario junto a fans de todo el planeta. Tanto para los NCTzens como para los seguidores del K-pop, esta experiencia cinematográfica ofrece la oportunidad de vivir juntos toda la intensidad de THE REDLINE, sin fronteras y en la pantalla más grande posible. \r\n",
+    "genres": [
+      "Música"
+    ]
   }
 }
