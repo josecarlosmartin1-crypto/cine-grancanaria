@@ -2381,5 +2381,17 @@
     "genres": [
       "Música"
     ]
+  },
+  "Harry Potter Y La Piedra Filosofal 25 Aniversario": {
+    "rating": 0,
+    "poster": null,
+    "summary": "El día en que cumple once años, Harry Potter se entera de que es hijo de dos destacados hechiceros, de los que ha heredado poderes mágicos. En la escuela Hogwarts de Magia y Hechicería, donde se educa con otros niños que también tienen poderes especiales, aprenderá todo lo necesario para ser mago.",
+    "genres": []
+  },
+  "Harry Potter Y La Piedra Filosofal 25 Aniv": {
+    "rating": 0,
+    "poster": null,
+    "summary": "",
+    "genres": []
   }
 }
