@@ -81,6 +81,16 @@ export const MOVIE_DATA = {
       ]
     },
     {
+      "title": "El Ser Querido",
+      "time": "22:05",
+      "rating": 6.8,
+      "poster": "https://image.tmdb.org/t/p/w342/bFYCaNsYmj4bOoHGIoqEthRxfRv.jpg",
+      "summary": "Un aclamado director de cine y su hija, una actriz sin éxito, ruedan juntos una película tras años de distanciamiento y un pasado difícil del que ninguno de los dos ha querido hablar.",
+      "genres": [
+        "Drama"
+      ]
+    },
+    {
       "title": "La Constelación Del Perro",
       "time": "17:00",
       "rating": 6.9,
@@ -130,7 +140,31 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Tadeo Jones Y La Lámpara Maravillosa",
+      "time": "17:10",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/71G1b8bqa7gzP9yU7q2fgNf2t0D.jpg",
+      "summary": "Tadeo y Sara son ahora padres de Olimpia (Oli), una adorable e intrépida niña de dos años. Y Momia no lleva nada bien haber dejado de ser el centro de atención. Mientras están de vacaciones en Londres, Sara sigue la pista hacia un objeto único: la lámpara maravillosa de Las mil y una noches. Y Momia, presa de los celos, pide un deseo: viajar en el tiempo hasta el momento en que era joven y todos le querían. Tadeo y Sara tienen que unir fuerzas para evitar que Momia cambie el curso de la historia y traer al grupo (Jeff, Belzoni y Ramona incluidos) de vuelta a casa, a su época. Esta nueva aventura los llevará a cruzar el Océano Atlántico desde Perú hasta Grecia, y de allí a lo más profundo de Oriente Medio, hasta la misma cueva de Ali Babá y los cuarenta ladrones.",
+      "genres": [
+        "Animación",
+        "Comedia",
+        "Familia"
+      ]
+    },
+    {
+      "title": "Tadeo Jones Y La Lámpara Maravillosa",
       "time": "18:15",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/71G1b8bqa7gzP9yU7q2fgNf2t0D.jpg",
+      "summary": "Tadeo y Sara son ahora padres de Olimpia (Oli), una adorable e intrépida niña de dos años. Y Momia no lleva nada bien haber dejado de ser el centro de atención. Mientras están de vacaciones en Londres, Sara sigue la pista hacia un objeto único: la lámpara maravillosa de Las mil y una noches. Y Momia, presa de los celos, pide un deseo: viajar en el tiempo hasta el momento en que era joven y todos le querían. Tadeo y Sara tienen que unir fuerzas para evitar que Momia cambie el curso de la historia y traer al grupo (Jeff, Belzoni y Ramona incluidos) de vuelta a casa, a su época. Esta nueva aventura los llevará a cruzar el Océano Atlántico desde Perú hasta Grecia, y de allí a lo más profundo de Oriente Medio, hasta la misma cueva de Ali Babá y los cuarenta ladrones.",
+      "genres": [
+        "Animación",
+        "Comedia",
+        "Familia"
+      ]
+    },
+    {
+      "title": "Tadeo Jones Y La Lámpara Maravillosa",
+      "time": "19:15",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/71G1b8bqa7gzP9yU7q2fgNf2t0D.jpg",
       "summary": "Tadeo y Sara son ahora padres de Olimpia (Oli), una adorable e intrépida niña de dos años. Y Momia no lleva nada bien haber dejado de ser el centro de atención. Mientras están de vacaciones en Londres, Sara sigue la pista hacia un objeto único: la lámpara maravillosa de Las mil y una noches. Y Momia, presa de los celos, pide un deseo: viajar en el tiempo hasta el momento en que era joven y todos le querían. Tadeo y Sara tienen que unir fuerzas para evitar que Momia cambie el curso de la historia y traer al grupo (Jeff, Belzoni y Ramona incluidos) de vuelta a casa, a su época. Esta nueva aventura los llevará a cruzar el Océano Atlántico desde Perú hasta Grecia, y de allí a lo más profundo de Oriente Medio, hasta la misma cueva de Ali Babá y los cuarenta ladrones.",
@@ -162,17 +196,6 @@ export const MOVIE_DATA = {
         "Animación",
         "Comedia",
         "Familia"
-      ]
-    },
-    {
-      "title": "El Motín",
-      "time": "22:05",
-      "rating": 7.0,
-      "poster": "https://image.tmdb.org/t/p/w342/6PwLfI2qpRZIIwN63XnNMYAqj87.jpg",
-      "summary": "Después de que su jefe, un industrial multimillonario, sea asesinado delante de él, Cole Reed se ve obligado a cargar con la culpa del crimen, lo que le obliga a huir mientras trabaja para descubrir una conspiración internacional.",
-      "genres": [
-        "Acción",
-        "Suspense"
       ]
     },
     {
@@ -216,6 +239,17 @@ export const MOVIE_DATA = {
       "summary": "Sexta entrega de la franquicia \"Insidious\".",
       "genres": [
         "Terror",
+        "Suspense"
+      ]
+    },
+    {
+      "title": "El Motín",
+      "time": "21:15",
+      "rating": 7.0,
+      "poster": "https://image.tmdb.org/t/p/w342/6PwLfI2qpRZIIwN63XnNMYAqj87.jpg",
+      "summary": "Después de que su jefe, un industrial multimillonario, sea asesinado delante de él, Cole Reed se ve obligado a cargar con la culpa del crimen, lo que le obliga a huir mientras trabaja para descubrir una conspiración internacional.",
+      "genres": [
+        "Acción",
         "Suspense"
       ]
     },
@@ -326,6 +360,17 @@ export const MOVIE_DATA = {
   ],
   "Cine Yelmo Las Arenas": [
     {
+      "title": "Katy Perry: The Lifetimes Tour - Live From Paris",
+      "time": "20:00",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/ulsXx67XgRupN53gZHCuzwBEA7O.jpg",
+      "summary": "Grabada en el icónico Accor Arena de París durante los conciertos con todas las entradas agotadas de la gira Lifetimes Tour en noviembre de 2025, Katy Perry: The Lifetimes Tour – Live From Paris captura uno de los mayores espectáculos en directo del pop en su mejor momento. Dirigida por el reconocido realizador de conciertos Paul Dugdale y filmada con más de 60 cámaras, la película ofrece una experiencia inmersiva que hace sentir al público como si estuviera en primera fila, mostrando toda la magnitud, la energía y el espectacular despliegue visual de la gira mundial de Katy Perry.\n\nCon un repertorio que recorre toda su trayectoria e incluye sus mayores éxitos, una puesta en escena impresionante, coreografías espectaculares y la energía del público en cada canción, la película muestra a Katy Perry en uno de los mejores momentos de su carrera. Desde los instantes más cercanos con sus fans hasta los himnos que hacen vibrar todo el recinto, cada escena está filmada con una calidad cinematográfica que transporta al espectador al centro de un concierto inolvidable.\n\nMás que una película de concierto, The Lifetimes Tour – Live From Paris es una celebración del vínculo especial entre Katy Perry y sus fans, y de la música que ha marcado a toda una generación. Emocionante, vibrante y llena de energía, es la oportunidad perfecta para disfrutar en la gran pantalla de una de las mayores estrellas del pop haciendo lo que mejor sabe hacer: conquistar el escenario. \n",
+      "genres": [
+        "Documental",
+        "Música"
+      ]
+    },
+    {
       "title": "Harry Potter Y La Piedra Filosofal 25 Aniversario",
       "time": "16:20",
       "rating": 0,
@@ -412,18 +457,6 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Tadeo Jones Y La Lámpara Maravillosa",
-      "time": "19:30",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/71G1b8bqa7gzP9yU7q2fgNf2t0D.jpg",
-      "summary": "Tadeo y Sara son ahora padres de Olimpia (Oli), una adorable e intrépida niña de dos años. Y Momia no lleva nada bien haber dejado de ser el centro de atención. Mientras están de vacaciones en Londres, Sara sigue la pista hacia un objeto único: la lámpara maravillosa de Las mil y una noches. Y Momia, presa de los celos, pide un deseo: viajar en el tiempo hasta el momento en que era joven y todos le querían. Tadeo y Sara tienen que unir fuerzas para evitar que Momia cambie el curso de la historia y traer al grupo (Jeff, Belzoni y Ramona incluidos) de vuelta a casa, a su época. Esta nueva aventura los llevará a cruzar el Océano Atlántico desde Perú hasta Grecia, y de allí a lo más profundo de Oriente Medio, hasta la misma cueva de Ali Babá y los cuarenta ladrones.",
-      "genres": [
-        "Animación",
-        "Comedia",
-        "Familia"
-      ]
-    },
-    {
-      "title": "Tadeo Jones Y La Lámpara Maravillosa",
       "time": "19:50",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/71G1b8bqa7gzP9yU7q2fgNf2t0D.jpg",
@@ -480,7 +513,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "El Ser Querido",
-      "time": "22:00",
+      "time": "22:10",
       "rating": 6.8,
       "poster": "https://image.tmdb.org/t/p/w342/bFYCaNsYmj4bOoHGIoqEthRxfRv.jpg",
       "summary": "Un aclamado director de cine y su hija, una actriz sin éxito, ruedan juntos una película tras años de distanciamiento y un pasado difícil del que ninguno de los dos ha querido hablar.",
@@ -525,8 +558,19 @@ export const MOVIE_DATA = {
       ]
     },
     {
+      "title": "El Motín",
+      "time": "19:30",
+      "rating": 7.0,
+      "poster": "https://image.tmdb.org/t/p/w342/6PwLfI2qpRZIIwN63XnNMYAqj87.jpg",
+      "summary": "Después de que su jefe, un industrial multimillonario, sea asesinado delante de él, Cole Reed se ve obligado a cargar con la culpa del crimen, lo que le obliga a huir mientras trabaja para descubrir una conspiración internacional.",
+      "genres": [
+        "Acción",
+        "Suspense"
+      ]
+    },
+    {
       "title": "Insidious: Fuera Del Más Allá",
-      "time": "17:20",
+      "time": "17:40",
       "rating": 6.5,
       "poster": "https://image.tmdb.org/t/p/w342/uEqCJh1fA9Ao9jaCL2xoROPJeUB.jpg",
       "summary": "Sexta entrega de la franquicia \"Insidious\".",
@@ -558,19 +602,8 @@ export const MOVIE_DATA = {
       ]
     },
     {
-      "title": "El Motín",
-      "time": "20:10",
-      "rating": 7.0,
-      "poster": "https://image.tmdb.org/t/p/w342/6PwLfI2qpRZIIwN63XnNMYAqj87.jpg",
-      "summary": "Después de que su jefe, un industrial multimillonario, sea asesinado delante de él, Cole Reed se ve obligado a cargar con la culpa del crimen, lo que le obliga a huir mientras trabaja para descubrir una conspiración internacional.",
-      "genres": [
-        "Acción",
-        "Suspense"
-      ]
-    },
-    {
       "title": "The Fast & The Furious 25 Aniversario",
-      "time": "22:30",
+      "time": "22:45",
       "rating": 0,
       "poster": null,
       "summary": "Una misteriosa banda de delincuentes se dedica a robar camiones en marcha desde vehículos deportivos. La policía decide infiltrar un hombre en el mundo de las carreras ilegales para descubrir posibles sospechosos. El joven y apuesto Brian entra en el mundo del tunning donde conoce a Dominic, rey indiscutible de este mundo y sospechoso número uno, pero todo se complicará cuando se enamore de su hermana. ",
@@ -686,7 +719,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Vaiana",
-      "time": "17:40",
+      "time": "17:20",
       "rating": 6.4,
       "poster": "https://image.tmdb.org/t/p/w342/wC27PIEqSthbUhaVMdYEhaTzYmo.jpg",
       "summary": "Versión de imagen real de la película de animación de 2016 'Vaiana'.",
@@ -1063,7 +1096,19 @@ export const MOVIE_DATA = {
   "Artesiete Las Terrazas": [
     {
       "title": "La Odisea",
-      "time": "17:20",
+      "time": "16:00",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/bheY17L6wtB0SdJn6EYyh1X5iry.jpg",
+      "summary": "Una epopeya mitológica que sigue la historia de Odiseo y su largo viaje a casa, de 10 años de duración, tras la guerra de Troya.",
+      "genres": [
+        "Aventura",
+        "Acción",
+        "Fantasía"
+      ]
+    },
+    {
+      "title": "La Odisea",
+      "time": "19:15",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/bheY17L6wtB0SdJn6EYyh1X5iry.jpg",
       "summary": "Una epopeya mitológica que sigue la historia de Odiseo y su largo viaje a casa, de 10 años de duración, tras la guerra de Troya.",
@@ -1075,7 +1120,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Spider-Man Brand New Day",
-      "time": "17:00",
+      "time": "15:45",
       "rating": 7.8,
       "poster": "https://image.tmdb.org/t/p/w342/tluwRNA7k0XfTtDkdLYKX1KOSCJ.jpg",
       "summary": "Han pasado cuatro años desde los acontecimientos de No Way Home, y Peter Parker ahora es un adulto que vive completamente solo, ha desaparecido voluntariamente de las vidas y recuerdos de quienes ama. Combatiendo el crimen en una Nueva York que ya no conoce su nombre, se ha dedicado por completo a proteger su ciudad, pero a medida que aumentan las exigencias sobre él, la presión desencadena una evolución física que amenaza su existencia, al mismo tiempo que un extraño nuevo patrón de crímenes da lugar a una de las amenazas más poderosas a las que se ha enfrentado.",
@@ -1087,7 +1132,19 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Spider-Man Brand New Day",
-      "time": "20:30",
+      "time": "18:20",
+      "rating": 7.8,
+      "poster": "https://image.tmdb.org/t/p/w342/tluwRNA7k0XfTtDkdLYKX1KOSCJ.jpg",
+      "summary": "Han pasado cuatro años desde los acontecimientos de No Way Home, y Peter Parker ahora es un adulto que vive completamente solo, ha desaparecido voluntariamente de las vidas y recuerdos de quienes ama. Combatiendo el crimen en una Nueva York que ya no conoce su nombre, se ha dedicado por completo a proteger su ciudad, pero a medida que aumentan las exigencias sobre él, la presión desencadena una evolución física que amenaza su existencia, al mismo tiempo que un extraño nuevo patrón de crímenes da lugar a una de las amenazas más poderosas a las que se ha enfrentado.",
+      "genres": [
+        "Ciencia ficción",
+        "Acción",
+        "Aventura"
+      ]
+    },
+    {
+      "title": "Spider-Man Brand New Day",
+      "time": "21:30",
       "rating": 7.8,
       "poster": "https://image.tmdb.org/t/p/w342/tluwRNA7k0XfTtDkdLYKX1KOSCJ.jpg",
       "summary": "Han pasado cuatro años desde los acontecimientos de No Way Home, y Peter Parker ahora es un adulto que vive completamente solo, ha desaparecido voluntariamente de las vidas y recuerdos de quienes ama. Combatiendo el crimen en una Nueva York que ya no conoce su nombre, se ha dedicado por completo a proteger su ciudad, pero a medida que aumentan las exigencias sobre él, la presión desencadena una evolución física que amenaza su existencia, al mismo tiempo que un extraño nuevo patrón de crímenes da lugar a una de las amenazas más poderosas a las que se ha enfrentado.",
@@ -1099,7 +1156,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Marsupilami",
-      "time": "17:00",
+      "time": "15:50",
       "rating": 6.4,
       "poster": "https://image.tmdb.org/t/p/w342/rJNHFa07Id2ylQgw0ttzGwpeczE.jpg",
       "summary": "Para salvar su trabajo en el zoo, David acepta una arriesgada misión: recuperar un misterioso paquete en Sudamérica. El encargo lo lleva a un crucero donde viaja con su ex, su hijo y Stéphane, un compañero torpe. Todo se descontrola cuando Stéphane lo abre por accidente y libera a un adorable bebé marsupilami que convertirá el viaje en un caos absoluto. David y su familia tendrán que estar más unidos que nunca para recuperarlo.",
@@ -1110,7 +1167,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "El Final De Oak Street",
-      "time": "19:40",
+      "time": "16:00",
       "rating": 7.2,
       "poster": "https://image.tmdb.org/t/p/w342/g9DUGw8ufetrwhCIrwq3h1NlpWO.jpg",
       "summary": "Después de que un misterioso fenómeno cósmico arranque Oak Street de su entorno suburbano y transporte a sus habitantes a un lugar desconocido, la familia Platt pronto descubre que su propia supervivencia depende de que permanezcan unidos mientras se orientan en un entorno que ya no reconocen.",
@@ -1122,7 +1179,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "El Motin",
-      "time": "21:30",
+      "time": "22:30",
       "rating": 7.0,
       "poster": "https://image.tmdb.org/t/p/w342/6PwLfI2qpRZIIwN63XnNMYAqj87.jpg",
       "summary": "Después de que su jefe, un industrial multimillonario, sea asesinado delante de él, Cole Reed se ve obligado a cargar con la culpa del crimen, lo que le obliga a huir mientras trabaja para descubrir una conspiración internacional.",
@@ -1133,18 +1190,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Insidious: Fuera Del Mas Alla",
-      "time": "16:50",
-      "rating": 6.5,
-      "poster": "https://image.tmdb.org/t/p/w342/uEqCJh1fA9Ao9jaCL2xoROPJeUB.jpg",
-      "summary": "Sexta entrega de la franquicia \"Insidious\".",
-      "genres": [
-        "Terror",
-        "Suspense"
-      ]
-    },
-    {
-      "title": "Insidious: Fuera Del Mas Alla",
-      "time": "19:00",
+      "time": "16:00",
       "rating": 6.5,
       "poster": "https://image.tmdb.org/t/p/w342/uEqCJh1fA9Ao9jaCL2xoROPJeUB.jpg",
       "summary": "Sexta entrega de la franquicia \"Insidious\".",
@@ -1165,8 +1211,19 @@ export const MOVIE_DATA = {
       ]
     },
     {
+      "title": "Insidious: Fuera Del Mas Alla",
+      "time": "22:30",
+      "rating": 6.5,
+      "poster": "https://image.tmdb.org/t/p/w342/uEqCJh1fA9Ao9jaCL2xoROPJeUB.jpg",
+      "summary": "Sexta entrega de la franquicia \"Insidious\".",
+      "genres": [
+        "Terror",
+        "Suspense"
+      ]
+    },
+    {
       "title": "El Ser Querido",
-      "time": "18:45",
+      "time": "17:40",
       "rating": 6.8,
       "poster": "https://image.tmdb.org/t/p/w342/bFYCaNsYmj4bOoHGIoqEthRxfRv.jpg",
       "summary": "Un aclamado director de cine y su hija, una actriz sin éxito, ruedan juntos una película tras años de distanciamiento y un pasado difícil del que ninguno de los dos ha querido hablar.",
@@ -1176,7 +1233,17 @@ export const MOVIE_DATA = {
     },
     {
       "title": "El Ser Querido",
-      "time": "21:15",
+      "time": "20:00",
+      "rating": 6.8,
+      "poster": "https://image.tmdb.org/t/p/w342/bFYCaNsYmj4bOoHGIoqEthRxfRv.jpg",
+      "summary": "Un aclamado director de cine y su hija, una actriz sin éxito, ruedan juntos una película tras años de distanciamiento y un pasado difícil del que ninguno de los dos ha querido hablar.",
+      "genres": [
+        "Drama"
+      ]
+    },
+    {
+      "title": "El Ser Querido",
+      "time": "22:30",
       "rating": 6.8,
       "poster": "https://image.tmdb.org/t/p/w342/bFYCaNsYmj4bOoHGIoqEthRxfRv.jpg",
       "summary": "Un aclamado director de cine y su hija, una actriz sin éxito, ruedan juntos una película tras años de distanciamiento y un pasado difícil del que ninguno de los dos ha querido hablar.",
@@ -1186,7 +1253,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "La Constelacion Del Perro",
-      "time": "17:00",
+      "time": "18:00",
       "rating": 6.9,
       "poster": "https://image.tmdb.org/t/p/w342/vbCb1yHXtXym4V1c420MSasbyyP.jpg",
       "summary": "En un mundo postapocalíptico, un virus aniquila a prácticamente toda la humanidad. Los supervivientes se enfrentan a unos carroñeros errantes llamados \"Segadores\". El protagonista, Hig, un piloto, sobrevivió a la gripe pero perdió a su mujer.",
@@ -1198,7 +1265,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "La Constelacion Del Perro",
-      "time": "19:15",
+      "time": "20:15",
       "rating": 6.9,
       "poster": "https://image.tmdb.org/t/p/w342/vbCb1yHXtXym4V1c420MSasbyyP.jpg",
       "summary": "En un mundo postapocalíptico, un virus aniquila a prácticamente toda la humanidad. Los supervivientes se enfrentan a unos carroñeros errantes llamados \"Segadores\". El protagonista, Hig, un piloto, sobrevivió a la gripe pero perdió a su mujer.",
@@ -1210,7 +1277,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "La Constelacion Del Perro",
-      "time": "21:30",
+      "time": "22:30",
       "rating": 6.9,
       "poster": "https://image.tmdb.org/t/p/w342/vbCb1yHXtXym4V1c420MSasbyyP.jpg",
       "summary": "En un mundo postapocalíptico, un virus aniquila a prácticamente toda la humanidad. Los supervivientes se enfrentan a unos carroñeros errantes llamados \"Segadores\". El protagonista, Hig, un piloto, sobrevivió a la gripe pero perdió a su mujer.",
@@ -1222,7 +1289,19 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Tadeo Jones Y La Lampara Maravillosa",
-      "time": "16:50",
+      "time": "16:00",
+      "rating": 2.0,
+      "poster": "https://image.tmdb.org/t/p/w342/71G1b8bqa7gzP9yU7q2fgNf2t0D.jpg",
+      "summary": "Tadeo y Sara son ahora padres de Olimpia (Oli), una adorable e intrépida niña de dos años. Y Momia no lleva nada bien haber dejado de ser el centro de atención. Mientras están de vacaciones en Londres, Sara sigue la pista hacia un objeto único: la lámpara maravillosa de Las mil y una noches. Y Momia, presa de los celos, pide un deseo: viajar en el tiempo hasta el momento en que era joven y todos le querían. Tadeo y Sara tienen que unir fuerzas para evitar que Momia cambie el curso de la historia y traer al grupo (Jeff, Belzoni y Ramona incluidos) de vuelta a casa, a su época. Esta nueva aventura los llevará a cruzar el Océano Atlántico desde Perú hasta Grecia, y de allí a lo más profundo de Oriente Medio, hasta la misma cueva de Ali Babá y los cuarenta ladrones.",
+      "genres": [
+        "Animación",
+        "Comedia",
+        "Familia"
+      ]
+    },
+    {
+      "title": "Tadeo Jones Y La Lampara Maravillosa",
+      "time": "17:00",
       "rating": 2.0,
       "poster": "https://image.tmdb.org/t/p/w342/71G1b8bqa7gzP9yU7q2fgNf2t0D.jpg",
       "summary": "Tadeo y Sara son ahora padres de Olimpia (Oli), una adorable e intrépida niña de dos años. Y Momia no lleva nada bien haber dejado de ser el centro de atención. Mientras están de vacaciones en Londres, Sara sigue la pista hacia un objeto único: la lámpara maravillosa de Las mil y una noches. Y Momia, presa de los celos, pide un deseo: viajar en el tiempo hasta el momento en que era joven y todos le querían. Tadeo y Sara tienen que unir fuerzas para evitar que Momia cambie el curso de la historia y traer al grupo (Jeff, Belzoni y Ramona incluidos) de vuelta a casa, a su época. Esta nueva aventura los llevará a cruzar el Océano Atlántico desde Perú hasta Grecia, y de allí a lo más profundo de Oriente Medio, hasta la misma cueva de Ali Babá y los cuarenta ladrones.",
@@ -1246,7 +1325,19 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Tadeo Jones Y La Lampara Maravillosa",
-      "time": "18:40",
+      "time": "18:50",
+      "rating": 2.0,
+      "poster": "https://image.tmdb.org/t/p/w342/71G1b8bqa7gzP9yU7q2fgNf2t0D.jpg",
+      "summary": "Tadeo y Sara son ahora padres de Olimpia (Oli), una adorable e intrépida niña de dos años. Y Momia no lleva nada bien haber dejado de ser el centro de atención. Mientras están de vacaciones en Londres, Sara sigue la pista hacia un objeto único: la lámpara maravillosa de Las mil y una noches. Y Momia, presa de los celos, pide un deseo: viajar en el tiempo hasta el momento en que era joven y todos le querían. Tadeo y Sara tienen que unir fuerzas para evitar que Momia cambie el curso de la historia y traer al grupo (Jeff, Belzoni y Ramona incluidos) de vuelta a casa, a su época. Esta nueva aventura los llevará a cruzar el Océano Atlántico desde Perú hasta Grecia, y de allí a lo más profundo de Oriente Medio, hasta la misma cueva de Ali Babá y los cuarenta ladrones.",
+      "genres": [
+        "Animación",
+        "Comedia",
+        "Familia"
+      ]
+    },
+    {
+      "title": "Tadeo Jones Y La Lampara Maravillosa",
+      "time": "19:40",
       "rating": 2.0,
       "poster": "https://image.tmdb.org/t/p/w342/71G1b8bqa7gzP9yU7q2fgNf2t0D.jpg",
       "summary": "Tadeo y Sara son ahora padres de Olimpia (Oli), una adorable e intrépida niña de dos años. Y Momia no lleva nada bien haber dejado de ser el centro de atención. Mientras están de vacaciones en Londres, Sara sigue la pista hacia un objeto único: la lámpara maravillosa de Las mil y una noches. Y Momia, presa de los celos, pide un deseo: viajar en el tiempo hasta el momento en que era joven y todos le querían. Tadeo y Sara tienen que unir fuerzas para evitar que Momia cambie el curso de la historia y traer al grupo (Jeff, Belzoni y Ramona incluidos) de vuelta a casa, a su época. Esta nueva aventura los llevará a cruzar el Océano Atlántico desde Perú hasta Grecia, y de allí a lo más profundo de Oriente Medio, hasta la misma cueva de Ali Babá y los cuarenta ladrones.",
@@ -1270,7 +1361,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Una Noche Al Año",
-      "time": "17:00",
+      "time": "16:00",
       "rating": 6.9,
       "poster": "https://image.tmdb.org/t/p/w342/6zWaYWrPXG7JBX3Tb3OI9ITWGad.jpg",
       "summary": "Dos extraños tratan de encontrar a alguien con quien acostarse en la única noche del año en la que es legal el sexo prematrimonial.",
@@ -1281,7 +1372,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Una Noche Al Año",
-      "time": "19:00",
+      "time": "18:00",
       "rating": 6.9,
       "poster": "https://image.tmdb.org/t/p/w342/6zWaYWrPXG7JBX3Tb3OI9ITWGad.jpg",
       "summary": "Dos extraños tratan de encontrar a alguien con quien acostarse en la única noche del año en la que es legal el sexo prematrimonial.",
@@ -1292,7 +1383,18 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Una Noche Al Año",
-      "time": "21:00",
+      "time": "20:00",
+      "rating": 6.9,
+      "poster": "https://image.tmdb.org/t/p/w342/6zWaYWrPXG7JBX3Tb3OI9ITWGad.jpg",
+      "summary": "Dos extraños tratan de encontrar a alguien con quien acostarse en la única noche del año en la que es legal el sexo prematrimonial.",
+      "genres": [
+        "Comedia",
+        "Romance"
+      ]
+    },
+    {
+      "title": "Una Noche Al Año",
+      "time": "22:30",
       "rating": 6.9,
       "poster": "https://image.tmdb.org/t/p/w342/6zWaYWrPXG7JBX3Tb3OI9ITWGad.jpg",
       "summary": "Dos extraños tratan de encontrar a alguien con quien acostarse en la única noche del año en la que es legal el sexo prematrimonial.",
@@ -1304,6 +1406,14 @@ export const MOVIE_DATA = {
     {
       "title": "Harry Potter Y La Piedra Filosofal 25 Aniv",
       "time": "19:45",
+      "rating": 0,
+      "poster": null,
+      "summary": "",
+      "genres": []
+    },
+    {
+      "title": "Harry Potter Y La Piedra Filosofal 25 Aniv",
+      "time": "21:50",
       "rating": 0,
       "poster": null,
       "summary": "",
