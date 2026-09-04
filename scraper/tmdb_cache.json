@@ -2402,5 +2402,47 @@
       "Documental",
       "Música"
     ]
+  },
+  "Cronos": {
+    "rating": 0.0,
+    "poster": "https://image.tmdb.org/t/p/w342/wZ6UtSmbZdOln1Fctb8HWbhpIQV.jpg",
+    "summary": "Sigue los cuatro días sucedidos a raíz de la activación de un dispositivo policial el 17 de agosto de 2017 a las 17:34, como reacción al acto terrorista de las Ramblas de Barcelona, hasta concluir con el abatimiento del último terrorista huido.",
+    "genres": [
+      "Suspense",
+      "Drama"
+    ]
+  },
+  "André Rieu 2026 Summer Concert: Viva Maastricht": {
+    "rating": 0.0,
+    "poster": "https://image.tmdb.org/t/p/w342/sl8Rs0d5dQbnCN5Cf5CCarfzlW0.jpg",
+    "summary": "Este año, André Rieu celebra un hito espectacular: el 20.º aniversario de sus icónicos conciertos de verano en la magnífica plaza Vrijthof. Grabado en vivo en su querida ciudad natal, este nuevo evento cinematográfico marca dos décadas de música y mágicas noches de verano inolvidables. ¡Viva Maastricht! es un alegre homenaje a la ciudad donde todo comenzó.\n\nAcompañado por su mundialmente famosa Johann Strauss Orchestra y un vibrante elenco de artistas, André da vida al espíritu, la cultura y la calidez de su ciudad natal en un deslumbrante nuevo concierto lleno de emoción y asombro. Desde valses atemporales hasta clásicos conmovedores, este concierto aniversario promete una velada de pasión, alegría y unión.\n\nSé parte de esta celebración histórica mientras la plaza Vrijthof se transforma una vez más en un impresionante salón de baile al aire libre… exclusivamente en cines este verano.",
+    "genres": []
+  },
+  "Jim Queen": {
+    "rating": 7.9,
+    "poster": "https://image.tmdb.org/t/p/w342/mpF0hbb9Z0SUuYSxLK2PUYImFjJ.jpg",
+    "summary": "En la escena gay parisina, Jim es el rey de Gym Queens, la comunidad más sexy y codiciada de las redes sociales. Un día, se da cuenta de que ha sido infectado por Heterosis, un extraño virus que diezma la comunidad y convierte a los gays en... ¡heterosexuales! Jim pierde su trono y es abandonado por todo su entorno. Todos menos un seguidor: Lucien, un escuálido joven virgen. Juntos, emprenden un viaje a través del Marais (el pueblo gay parisino), en busca del misterioso doctor Ragoult, que afirma haber encontrado una cura para el virus. Esta cura no sólo podría salvar a Jim, sino también evitar la extinción de la homosexualidad.",
+    "genres": [
+      "Animación",
+      "Comedia"
+    ]
+  },
+  "Dulce Sabor A Muerte": {
+    "rating": 4.7,
+    "poster": "https://image.tmdb.org/t/p/w342/uVuP2ZTYLn5hdL1aUOe4BiFD6d3.jpg",
+    "summary": "Lo que comienza siendo un verano idílico, en un pequeño y tranquilo pueblo vacacional, se convierte en una auténtica pesadilla cuando los más pequeños comienzan a mostrar instintos asesinos y deseos insaciables por acabar con todos los adultos. Son víctimas de una curiosa maldición provocada por los helados que comen que afecta a todos, menos a tres niños que tendrán que intentar escapar y salvar a todo el pueblo.",
+    "genres": [
+      "Terror",
+      "Comedia"
+    ]
+  },
+  "Black Box - Vuelo 298": {
+    "rating": 6.1,
+    "poster": "https://image.tmdb.org/t/p/w342/8udq8ixVhmGSBzcJRwCQrwBPqTF.jpg",
+    "summary": "El vuelo comercial 298 que cubre la ruta de Nueva Orleans a Seattle acaba estrellándose y convirtiéndose en el centro de un escalofriante misterio sobrenatural. El motivo del accidente se desconoce hasta que se encuentran las grabaciones entre los restos. Lo que les sucedió a los pasajeros del vuelo 298 escapa totalmente a la razón humana...",
+    "genres": [
+      "Terror",
+      "Suspense"
+    ]
   }
 }
