@@ -353,12 +353,24 @@ export const MOVIE_DATA = {
         "Fantasía",
         "Comedia"
       ]
+    },
+    {
+      "title": "Minions & Monsters",
+      "time": "15:45",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/7DUzo8Ys7BfmZpqnzIwG4qA0egl.jpg",
+      "summary": "La historia de cómo los Minions conquistaron Hollywood, se convirtieron en estrellas de cine, lo perdieron todo, desataron monstruos en el mundo y luego se unieron para intentar salvar al planeta del caos que acababan de crear.",
+      "genres": [
+        "Aventura",
+        "Animación",
+        "Comedia"
+      ]
     }
   ],
   "Cine Yelmo Las Arenas": [
     {
       "title": "Jim Queen",
-      "time": "19:40",
+      "time": "18:50",
       "rating": 7.9,
       "poster": "https://image.tmdb.org/t/p/w342/mpF0hbb9Z0SUuYSxLK2PUYImFjJ.jpg",
       "summary": "En la escena gay parisina, Jim es el rey de Gym Queens, la comunidad más sexy y codiciada de las redes sociales. Un día, se da cuenta de que ha sido infectado por Heterosis, un extraño virus que diezma la comunidad y convierte a los gays en... ¡heterosexuales! Jim pierde su trono y es abandonado por todo su entorno. Todos menos un seguidor: Lucien, un escuálido joven virgen. Juntos, emprenden un viaje a través del Marais (el pueblo gay parisino), en busca del misterioso doctor Ragoult, que afirma haber encontrado una cura para el virus. Esta cura no sólo podría salvar a Jim, sino también evitar la extinción de la homosexualidad.",
@@ -369,7 +381,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Jim Queen",
-      "time": "21:50",
+      "time": "21:00",
       "rating": 7.9,
       "poster": "https://image.tmdb.org/t/p/w342/mpF0hbb9Z0SUuYSxLK2PUYImFjJ.jpg",
       "summary": "En la escena gay parisina, Jim es el rey de Gym Queens, la comunidad más sexy y codiciada de las redes sociales. Un día, se da cuenta de que ha sido infectado por Heterosis, un extraño virus que diezma la comunidad y convierte a los gays en... ¡heterosexuales! Jim pierde su trono y es abandonado por todo su entorno. Todos menos un seguidor: Lucien, un escuálido joven virgen. Juntos, emprenden un viaje a través del Marais (el pueblo gay parisino), en busca del misterioso doctor Ragoult, que afirma haber encontrado una cura para el virus. Esta cura no sólo podría salvar a Jim, sino también evitar la extinción de la homosexualidad.",
@@ -377,14 +389,6 @@ export const MOVIE_DATA = {
         "Animación",
         "Comedia"
       ]
-    },
-    {
-      "title": "André Rieu 2026 Summer Concert: Viva Maastricht!",
-      "time": "19:00",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/sl8Rs0d5dQbnCN5Cf5CCarfzlW0.jpg",
-      "summary": "Este año, André Rieu celebra un hito espectacular: el 20.º aniversario de sus icónicos conciertos de verano en la magnífica plaza Vrijthof. Grabado en vivo en su querida ciudad natal, este nuevo evento cinematográfico marca dos décadas de música y mágicas noches de verano inolvidables. ¡Viva Maastricht! es un alegre homenaje a la ciudad donde todo comenzó.\n\nAcompañado por su mundialmente famosa Johann Strauss Orchestra y un vibrante elenco de artistas, André da vida al espíritu, la cultura y la calidez de su ciudad natal en un deslumbrante nuevo concierto lleno de emoción y asombro. Desde valses atemporales hasta clásicos conmovedores, este concierto aniversario promete una velada de pasión, alegría y unión.\n\nSé parte de esta celebración histórica mientras la plaza Vrijthof se transforma una vez más en un impresionante salón de baile al aire libre… exclusivamente en cines este verano.",
-      "genres": []
     },
     {
       "title": "Cronos",
@@ -417,6 +421,29 @@ export const MOVIE_DATA = {
       "genres": [
         "Suspense",
         "Drama"
+      ]
+    },
+    {
+      "title": "Katy Perry: The Lifetimes Tour - Live From Paris",
+      "time": "20:00",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/ulsXx67XgRupN53gZHCuzwBEA7O.jpg",
+      "summary": "Grabada en el icónico Accor Arena de París durante los conciertos con todas las entradas agotadas de la gira Lifetimes Tour en noviembre de 2025, Katy Perry: The Lifetimes Tour – Live From Paris captura uno de los mayores espectáculos en directo del pop en su mejor momento. Dirigida por el reconocido realizador de conciertos Paul Dugdale y filmada con más de 60 cámaras, la película ofrece una experiencia inmersiva que hace sentir al público como si estuviera en primera fila, mostrando toda la magnitud, la energía y el espectacular despliegue visual de la gira mundial de Katy Perry.\n\nCon un repertorio que recorre toda su trayectoria e incluye sus mayores éxitos, una puesta en escena impresionante, coreografías espectaculares y la energía del público en cada canción, la película muestra a Katy Perry en uno de los mejores momentos de su carrera. Desde los instantes más cercanos con sus fans hasta los himnos que hacen vibrar todo el recinto, cada escena está filmada con una calidad cinematográfica que transporta al espectador al centro de un concierto inolvidable.\n\nMás que una película de concierto, The Lifetimes Tour – Live From Paris es una celebración del vínculo especial entre Katy Perry y sus fans, y de la música que ha marcado a toda una generación. Emocionante, vibrante y llena de energía, es la oportunidad perfecta para disfrutar en la gran pantalla de una de las mayores estrellas del pop haciendo lo que mejor sabe hacer: conquistar el escenario. \n",
+      "genres": [
+        "Documental",
+        "Música"
+      ]
+    },
+    {
+      "title": "Tadeo Jones Y La Lámpara Maravillosa",
+      "time": "15:45",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/71G1b8bqa7gzP9yU7q2fgNf2t0D.jpg",
+      "summary": "Tadeo y Sara son ahora padres de Olimpia (Oli), una adorable e intrépida niña de dos años. Y Momia no lleva nada bien haber dejado de ser el centro de atención. Mientras están de vacaciones en Londres, Sara sigue la pista hacia un objeto único: la lámpara maravillosa de Las mil y una noches. Y Momia, presa de los celos, pide un deseo: viajar en el tiempo hasta el momento en que era joven y todos le querían. Tadeo y Sara tienen que unir fuerzas para evitar que Momia cambie el curso de la historia y traer al grupo (Jeff, Belzoni y Ramona incluidos) de vuelta a casa, a su época. Esta nueva aventura los llevará a cruzar el Océano Atlántico desde Perú hasta Grecia, y de allí a lo más profundo de Oriente Medio, hasta la misma cueva de Ali Babá y los cuarenta ladrones.",
+      "genres": [
+        "Animación",
+        "Comedia",
+        "Familia"
       ]
     },
     {
@@ -517,7 +544,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "El Ser Querido",
-      "time": "15:55",
+      "time": "16:00",
       "rating": 6.8,
       "poster": "https://image.tmdb.org/t/p/w342/bFYCaNsYmj4bOoHGIoqEthRxfRv.jpg",
       "summary": "Un aclamado director de cine y su hija, una actriz sin éxito, ruedan juntos una película tras años de distanciamiento y un pasado difícil del que ninguno de los dos ha querido hablar.",
@@ -527,7 +554,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "El Ser Querido",
-      "time": "18:50",
+      "time": "19:00",
       "rating": 6.8,
       "poster": "https://image.tmdb.org/t/p/w342/bFYCaNsYmj4bOoHGIoqEthRxfRv.jpg",
       "summary": "Un aclamado director de cine y su hija, una actriz sin éxito, ruedan juntos una película tras años de distanciamiento y un pasado difícil del que ninguno de los dos ha querido hablar.",
@@ -558,7 +585,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "El Motín",
-      "time": "22:45",
+      "time": "22:40",
       "rating": 7.0,
       "poster": "https://image.tmdb.org/t/p/w342/6PwLfI2qpRZIIwN63XnNMYAqj87.jpg",
       "summary": "Después de que su jefe, un industrial multimillonario, sea asesinado delante de él, Cole Reed se ve obligado a cargar con la culpa del crimen, lo que le obliga a huir mientras trabaja para descubrir una conspiración internacional.",
@@ -580,7 +607,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Insidious: Fuera Del Más Allá",
-      "time": "17:40",
+      "time": "17:45",
       "rating": 6.5,
       "poster": "https://image.tmdb.org/t/p/w342/uEqCJh1fA9Ao9jaCL2xoROPJeUB.jpg",
       "summary": "Sexta entrega de la franquicia \"Insidious\".",
@@ -693,7 +720,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "La Odisea",
-      "time": "16:00",
+      "time": "16:20",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/bheY17L6wtB0SdJn6EYyh1X5iry.jpg",
       "summary": "Una epopeya mitológica que sigue la historia de Odiseo y su largo viaje a casa, de 10 años de duración, tras la guerra de Troya.",
@@ -717,7 +744,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Minions & Monsters",
-      "time": "15:40",
+      "time": "15:55",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/7DUzo8Ys7BfmZpqnzIwG4qA0egl.jpg",
       "summary": "La historia de cómo los Minions conquistaron Hollywood, se convirtieron en estrellas de cine, lo perdieron todo, desataron monstruos en el mundo y luego se unieron para intentar salvar al planeta del caos que acababan de crear.",
@@ -740,6 +767,17 @@ export const MOVIE_DATA = {
     }
   ],
   "Cine Yelmo Premium Alisios": [
+    {
+      "title": "Cronos",
+      "time": "13:20",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/wZ6UtSmbZdOln1Fctb8HWbhpIQV.jpg",
+      "summary": "Sigue los cuatro días sucedidos a raíz de la activación de un dispositivo policial el 17 de agosto de 2017 a las 17:34, como reacción al acto terrorista de las Ramblas de Barcelona, hasta concluir con el abatimiento del último terrorista huido.",
+      "genres": [
+        "Suspense",
+        "Drama"
+      ]
+    },
     {
       "title": "Cronos",
       "time": "17:15",
@@ -774,22 +812,13 @@ export const MOVIE_DATA = {
       ]
     },
     {
-      "title": "André Rieu 2026 Summer Concert: Viva Maastricht!",
-      "time": "19:00",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/sl8Rs0d5dQbnCN5Cf5CCarfzlW0.jpg",
-      "summary": "Este año, André Rieu celebra un hito espectacular: el 20.º aniversario de sus icónicos conciertos de verano en la magnífica plaza Vrijthof. Grabado en vivo en su querida ciudad natal, este nuevo evento cinematográfico marca dos décadas de música y mágicas noches de verano inolvidables. ¡Viva Maastricht! es un alegre homenaje a la ciudad donde todo comenzó.\n\nAcompañado por su mundialmente famosa Johann Strauss Orchestra y un vibrante elenco de artistas, André da vida al espíritu, la cultura y la calidez de su ciudad natal en un deslumbrante nuevo concierto lleno de emoción y asombro. Desde valses atemporales hasta clásicos conmovedores, este concierto aniversario promete una velada de pasión, alegría y unión.\n\nSé parte de esta celebración histórica mientras la plaza Vrijthof se transforma una vez más en un impresionante salón de baile al aire libre… exclusivamente en cines este verano.",
-      "genres": []
-    },
-    {
-      "title": "Una Noche Al Año",
-      "time": "16:50",
-      "rating": 6.9,
-      "poster": "https://image.tmdb.org/t/p/w342/6zWaYWrPXG7JBX3Tb3OI9ITWGad.jpg",
-      "summary": "Dos extraños tratan de encontrar a alguien con quien acostarse en la única noche del año en la que es legal el sexo prematrimonial.",
+      "title": "El Ser Querido",
+      "time": "13:45",
+      "rating": 6.8,
+      "poster": "https://image.tmdb.org/t/p/w342/bFYCaNsYmj4bOoHGIoqEthRxfRv.jpg",
+      "summary": "Un aclamado director de cine y su hija, una actriz sin éxito, ruedan juntos una película tras años de distanciamiento y un pasado difícil del que ninguno de los dos ha querido hablar.",
       "genres": [
-        "Comedia",
-        "Romance"
+        "Drama"
       ]
     },
     {
@@ -800,6 +829,18 @@ export const MOVIE_DATA = {
       "summary": "Un aclamado director de cine y su hija, una actriz sin éxito, ruedan juntos una película tras años de distanciamiento y un pasado difícil del que ninguno de los dos ha querido hablar.",
       "genres": [
         "Drama"
+      ]
+    },
+    {
+      "title": "Tadeo Jones Y La Lámpara Maravillosa",
+      "time": "12:50",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/71G1b8bqa7gzP9yU7q2fgNf2t0D.jpg",
+      "summary": "Tadeo y Sara son ahora padres de Olimpia (Oli), una adorable e intrépida niña de dos años. Y Momia no lleva nada bien haber dejado de ser el centro de atención. Mientras están de vacaciones en Londres, Sara sigue la pista hacia un objeto único: la lámpara maravillosa de Las mil y una noches. Y Momia, presa de los celos, pide un deseo: viajar en el tiempo hasta el momento en que era joven y todos le querían. Tadeo y Sara tienen que unir fuerzas para evitar que Momia cambie el curso de la historia y traer al grupo (Jeff, Belzoni y Ramona incluidos) de vuelta a casa, a su época. Esta nueva aventura los llevará a cruzar el Océano Atlántico desde Perú hasta Grecia, y de allí a lo más profundo de Oriente Medio, hasta la misma cueva de Ali Babá y los cuarenta ladrones.",
+      "genres": [
+        "Animación",
+        "Comedia",
+        "Familia"
       ]
     },
     {
@@ -911,8 +952,30 @@ export const MOVIE_DATA = {
       ]
     },
     {
+      "title": "Una Noche Al Año",
+      "time": "19:15",
+      "rating": 6.9,
+      "poster": "https://image.tmdb.org/t/p/w342/6zWaYWrPXG7JBX3Tb3OI9ITWGad.jpg",
+      "summary": "Dos extraños tratan de encontrar a alguien con quien acostarse en la única noche del año en la que es legal el sexo prematrimonial.",
+      "genres": [
+        "Comedia",
+        "Romance"
+      ]
+    },
+    {
       "title": "Insidious: Fuera Del Más Allá",
-      "time": "15:45",
+      "time": "13:10",
+      "rating": 6.5,
+      "poster": "https://image.tmdb.org/t/p/w342/uEqCJh1fA9Ao9jaCL2xoROPJeUB.jpg",
+      "summary": "Sexta entrega de la franquicia \"Insidious\".",
+      "genres": [
+        "Terror",
+        "Suspense"
+      ]
+    },
+    {
+      "title": "Insidious: Fuera Del Más Allá",
+      "time": "15:30",
       "rating": 6.5,
       "poster": "https://image.tmdb.org/t/p/w342/uEqCJh1fA9Ao9jaCL2xoROPJeUB.jpg",
       "summary": "Sexta entrega de la franquicia \"Insidious\".",
@@ -967,7 +1030,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "El Motín",
-      "time": "23:00",
+      "time": "21:30",
       "rating": 7.0,
       "poster": "https://image.tmdb.org/t/p/w342/6PwLfI2qpRZIIwN63XnNMYAqj87.jpg",
       "summary": "Después de que su jefe, un industrial multimillonario, sea asesinado delante de él, Cole Reed se ve obligado a cargar con la culpa del crimen, lo que le obliga a huir mientras trabaja para descubrir una conspiración internacional.",
@@ -978,7 +1041,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "El Final De Oak Street",
-      "time": "16:00",
+      "time": "16:50",
       "rating": 7.2,
       "poster": "https://image.tmdb.org/t/p/w342/g9DUGw8ufetrwhCIrwq3h1NlpWO.jpg",
       "summary": "Después de que un misterioso fenómeno cósmico arranque Oak Street de su entorno suburbano y transporte a sus habitantes a un lugar desconocido, la familia Platt pronto descubre que su propia supervivencia depende de que permanezcan unidos mientras se orientan en un entorno que ya no reconocen.",
@@ -1026,6 +1089,18 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Spider-Man: Brand New Day",
+      "time": "19:50",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/2OKQrD5Txku6o5JQmxXrUAGKrSt.jpg",
+      "summary": "Han pasado cuatro años desde los acontecimientos de No Way Home, y Peter Parker ahora es un adulto que vive completamente solo, ha desaparecido voluntariamente de las vidas y recuerdos de quienes ama. Combatiendo el crimen en una Nueva York que ya no conoce su nombre, se ha dedicado por completo a proteger su ciudad, pero a medida que aumentan las exigencias sobre él, la presión desencadena una evolución física que amenaza su existencia, al mismo tiempo que un extraño nuevo patrón de crímenes da lugar a una de las amenazas más poderosas a las que se ha enfrentado.",
+      "genres": [
+        "Ciencia ficción",
+        "Acción",
+        "Aventura"
+      ]
+    },
+    {
+      "title": "Spider-Man: Brand New Day",
       "time": "21:50",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/2OKQrD5Txku6o5JQmxXrUAGKrSt.jpg",
@@ -1034,6 +1109,18 @@ export const MOVIE_DATA = {
         "Ciencia ficción",
         "Acción",
         "Aventura"
+      ]
+    },
+    {
+      "title": "La Odisea",
+      "time": "16:20",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/bheY17L6wtB0SdJn6EYyh1X5iry.jpg",
+      "summary": "Una epopeya mitológica que sigue la historia de Odiseo y su largo viaje a casa, de 10 años de duración, tras la guerra de Troya.",
+      "genres": [
+        "Aventura",
+        "Acción",
+        "Fantasía"
       ]
     },
     {
@@ -1061,6 +1148,18 @@ export const MOVIE_DATA = {
       ]
     },
     {
+      "title": "Vaiana",
+      "time": "15:40",
+      "rating": 6.4,
+      "poster": "https://image.tmdb.org/t/p/w342/wC27PIEqSthbUhaVMdYEhaTzYmo.jpg",
+      "summary": "Versión de imagen real de la película de animación de 2016 'Vaiana'.",
+      "genres": [
+        "Familia",
+        "Fantasía",
+        "Comedia"
+      ]
+    },
+    {
       "title": "Obsession",
       "time": "22:00",
       "rating": 7.9,
@@ -1069,6 +1168,18 @@ export const MOVIE_DATA = {
       "genres": [
         "Terror",
         "Suspense"
+      ]
+    },
+    {
+      "title": "Toy Story 5",
+      "time": "14:45",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/1yF3AztF3rQ8MZ8En8974AWo5zZ.jpg",
+      "summary": "Buzz, Woody, Jessie y el resto de la pandilla tienen un trabajo exponencialmente más difícil cuando se enfrentan a esta nueva amenaza para la hora de jugar: la tecnología.",
+      "genres": [
+        "Animación",
+        "Familia",
+        "Comedia"
       ]
     }
   ],
@@ -1339,7 +1450,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Cronos",
-      "time": "16:00",
+      "time": "15:50",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/wZ6UtSmbZdOln1Fctb8HWbhpIQV.jpg",
       "summary": "Sigue los cuatro días sucedidos a raíz de la activación de un dispositivo policial el 17 de agosto de 2017 a las 17:34, como reacción al acto terrorista de las Ramblas de Barcelona, hasta concluir con el abatimiento del último terrorista huido.",
@@ -1361,7 +1472,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Cronos",
-      "time": "20:00",
+      "time": "20:15",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/wZ6UtSmbZdOln1Fctb8HWbhpIQV.jpg",
       "summary": "Sigue los cuatro días sucedidos a raíz de la activación de un dispositivo policial el 17 de agosto de 2017 a las 17:34, como reacción al acto terrorista de las Ramblas de Barcelona, hasta concluir con el abatimiento del último terrorista huido.",
@@ -1372,7 +1483,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Cronos",
-      "time": "22:00",
+      "time": "22:30",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/wZ6UtSmbZdOln1Fctb8HWbhpIQV.jpg",
       "summary": "Sigue los cuatro días sucedidos a raíz de la activación de un dispositivo policial el 17 de agosto de 2017 a las 17:34, como reacción al acto terrorista de las Ramblas de Barcelona, hasta concluir con el abatimiento del último terrorista huido.",
