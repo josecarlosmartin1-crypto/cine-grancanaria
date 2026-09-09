@@ -2444,5 +2444,15 @@
       "Terror",
       "Suspense"
     ]
+  },
+  "Mirzapur - The Movie": {
+    "rating": 7.6,
+    "poster": "https://image.tmdb.org/t/p/w342/cdDKdCRyq6BYuNblpKUYqRPWvEg.jpg",
+    "summary": "Akhandanand Tripathi (Pankaj Tripathy), millonario exportador de alfombras, controla el bajo mundo de Mirzapur con mano de hierro. Su hijo Munna (Divyendu Sharma) es un heredero temerario, dispuesto a lo que sea con tal de quedarse con el legado paterno. Todo cambia tras un episodio violento en una boda, que cruza su destino con el de Ramakant Pandit (Rajesh Tailang), un abogado de intachable reputación, y sus hijos Guddu (Ali Fazal) y Bablu (Vikrant Massey). Se desata así una lucha feroz por el poder, la ambición y la codicia en una ciudad donde la ley no llega.",
+    "genres": [
+      "Acción",
+      "Crimen",
+      "Drama"
+    ]
   }
 }
