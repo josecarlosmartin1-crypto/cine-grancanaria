@@ -2454,5 +2454,52 @@
       "Crimen",
       "Drama"
     ]
+  },
+  "Un Plan Perfecto": {
+    "rating": 0.0,
+    "poster": "https://image.tmdb.org/t/p/w342/gkwoom0kN8CBjf7FgVQumBfBkw5.jpg",
+    "summary": "Es Navidad. Los Ibáñez son un fracaso como familia. Están arruinados, sin ilusión por la vida y su convivencia familiar es un desastre. Cuando están a punto de ser desahuciados por el banco, descubren en el sótano de su casa que alguien cavó un túnel con la idea de robar el banco de enfrente. Con la ayuda de Rufus, un veterano ladrón retirado, la familia decide completar el túnel y dar el golpe de sus vidas. Sin embargo, convivir y trabajar en equipo resultará mucho más complicado que cavar los últimos metros del túnel. Entre conflictos familiares, situaciones disparatadas y un atraco en el que todo parece salir mal, descubrirán que al final de ese túnel les espera algo mucho más importante que un botín millonario.",
+    "genres": [
+      "Comedia"
+    ]
+  },
+  "Detective Conan: El Ángel Caído De La Carretera": {
+    "rating": 7.4,
+    "poster": "https://image.tmdb.org/t/p/w342/5pEcrCTuocLsHeLKCE4zRgmmkOK.jpg",
+    "summary": "Edogawa Conan y Chihaya Hagiwara deben unirse para identificar al conductor de la misteriosa motocicleta completamente negra que causó el caos en Kanagawa.",
+    "genres": [
+      "Animación",
+      "Acción",
+      "Misterio"
+    ]
+  },
+  "Oasis: Don´T Look Back In Anger": {
+    "rating": 7.4,
+    "poster": "https://image.tmdb.org/t/p/w342/nuNfPuFZKtkrglYnz2F9weQm3Ng.jpg",
+    "summary": "Narra la gira de reunión de Liam y Noel Gallagher, \"Oasis Live ‘25\", uno de los regresos al rock más esperados. La película relata el acontecimiento musical de 2025, capturando tanto la experiencia de la banda como la de sus seguidores en todo el mundo. Esta perspectiva única incluye acceso a los ensayos, al detrás de cámaras y a los conciertos, además de las primeras entrevistas conjuntas con Noel y Liam en más de 20 años. Coincidiendo con la gira mundial de entradas agotadas de la banda, también explora el impacto emocional de este fenómeno cultural global y lo que su música significa para públicos y generaciones de todo el mundo.",
+    "genres": [
+      "Documental",
+      "Música"
+    ]
+  },
+  "El Nido": {
+    "rating": 0.0,
+    "poster": "https://image.tmdb.org/t/p/w342/ip3VExjF1sJoejq4juAZmutO6E5.jpg",
+    "summary": "Marta vive obsesionada con proteger a su familia del aterrador mundo exterior, manteniendo encerrados en su casa a su madre y a su hijo. Todo parece en orden hasta que llega Velasco, que despertará en Marta la oscuridad que esconde dentro.",
+    "genres": [
+      "Terror",
+      "Suspense",
+      "Misterio"
+    ]
+  },
+  "Practicamente Magia 2": {
+    "rating": 6.4,
+    "poster": "https://image.tmdb.org/t/p/w342/tnbyrsN7cu2An3By6UDOHrq21CK.jpg",
+    "summary": "Las hermanas Owens deben enfrentarse a la oscura maldición que amenaza con desintegrar a su familia de una vez por todas.",
+    "genres": [
+      "Romance",
+      "Fantasía",
+      "Comedia"
+    ]
   }
 }
