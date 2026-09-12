@@ -26,6 +26,16 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Un Plan Perfecto",
+      "time": "16:15",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/gkwoom0kN8CBjf7FgVQumBfBkw5.jpg",
+      "summary": "Es Navidad. Los Ibáñez son un fracaso como familia. Están arruinados, sin ilusión por la vida y su convivencia familiar es un desastre. Cuando están a punto de ser desahuciados por el banco, descubren en el sótano de su casa que alguien cavó un túnel con la idea de robar el banco de enfrente. Con la ayuda de Rufus, un veterano ladrón retirado, la familia decide completar el túnel y dar el golpe de sus vidas. Sin embargo, convivir y trabajar en equipo resultará mucho más complicado que cavar los últimos metros del túnel. Entre conflictos familiares, situaciones disparatadas y un atraco en el que todo parece salir mal, descubrirán que al final de ese túnel les espera algo mucho más importante que un botín millonario.",
+      "genres": [
+        "Comedia"
+      ]
+    },
+    {
+      "title": "Un Plan Perfecto",
       "time": "18:15",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/gkwoom0kN8CBjf7FgVQumBfBkw5.jpg",
@@ -51,6 +61,18 @@ export const MOVIE_DATA = {
       "poster": "https://image.tmdb.org/t/p/w342/gkwoom0kN8CBjf7FgVQumBfBkw5.jpg",
       "summary": "Es Navidad. Los Ibáñez son un fracaso como familia. Están arruinados, sin ilusión por la vida y su convivencia familiar es un desastre. Cuando están a punto de ser desahuciados por el banco, descubren en el sótano de su casa que alguien cavó un túnel con la idea de robar el banco de enfrente. Con la ayuda de Rufus, un veterano ladrón retirado, la familia decide completar el túnel y dar el golpe de sus vidas. Sin embargo, convivir y trabajar en equipo resultará mucho más complicado que cavar los últimos metros del túnel. Entre conflictos familiares, situaciones disparatadas y un atraco en el que todo parece salir mal, descubrirán que al final de ese túnel les espera algo mucho más importante que un botín millonario.",
       "genres": [
+        "Comedia"
+      ]
+    },
+    {
+      "title": "Prácticamente Magia 2",
+      "time": "15:50",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/tnbyrsN7cu2An3By6UDOHrq21CK.jpg",
+      "summary": "Las hermanas Owens deben enfrentarse a la oscura maldición que amenaza con desintegrar a su familia de una vez por todas.",
+      "genres": [
+        "Romance",
+        "Fantasía",
         "Comedia"
       ]
     },
@@ -126,6 +148,18 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Tadeo Jones Y La Lámpara Maravillosa",
+      "time": "16:00",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/71G1b8bqa7gzP9yU7q2fgNf2t0D.jpg",
+      "summary": "Tadeo y Sara son ahora padres de Olimpia (Oli), una adorable e intrépida niña de dos años. Y Momia no lleva nada bien haber dejado de ser el centro de atención. Mientras están de vacaciones en Londres, Sara sigue la pista hacia un objeto único: la lámpara maravillosa de Las mil y una noches. Y Momia, presa de los celos, pide un deseo: viajar en el tiempo hasta el momento en que era joven y todos le querían. Tadeo y Sara tienen que unir fuerzas para evitar que Momia cambie el curso de la historia y traer al grupo (Jeff, Belzoni y Ramona incluidos) de vuelta a casa, a su época. Esta nueva aventura los llevará a cruzar el Océano Atlántico desde Perú hasta Grecia, y de allí a lo más profundo de Oriente Medio, hasta la misma cueva de Ali Babá y los cuarenta ladrones.",
+      "genres": [
+        "Animación",
+        "Comedia",
+        "Familia"
+      ]
+    },
+    {
+      "title": "Tadeo Jones Y La Lámpara Maravillosa",
       "time": "17:00",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/71G1b8bqa7gzP9yU7q2fgNf2t0D.jpg",
@@ -173,6 +207,18 @@ export const MOVIE_DATA = {
     {
       "title": "La Constelación Del Perro",
       "time": "19:30",
+      "rating": 6.9,
+      "poster": "https://image.tmdb.org/t/p/w342/vbCb1yHXtXym4V1c420MSasbyyP.jpg",
+      "summary": "En un mundo postapocalíptico, un virus aniquila a prácticamente toda la humanidad. Los supervivientes se enfrentan a unos carroñeros errantes llamados \"Segadores\". El protagonista, Hig, un piloto, sobrevivió a la gripe pero perdió a su mujer.",
+      "genres": [
+        "Ciencia ficción",
+        "Aventura",
+        "Suspense"
+      ]
+    },
+    {
+      "title": "La Constelación Del Perro",
+      "time": "21:55",
       "rating": 6.9,
       "poster": "https://image.tmdb.org/t/p/w342/vbCb1yHXtXym4V1c420MSasbyyP.jpg",
       "summary": "En un mundo postapocalíptico, un virus aniquila a prácticamente toda la humanidad. Los supervivientes se enfrentan a unos carroñeros errantes llamados \"Segadores\". El protagonista, Hig, un piloto, sobrevivió a la gripe pero perdió a su mujer.",
@@ -250,8 +296,20 @@ export const MOVIE_DATA = {
       ]
     },
     {
+      "title": "La Patrulla Canina: La Dino Película",
+      "time": "15:45",
+      "rating": 3.5,
+      "poster": "https://image.tmdb.org/t/p/w342/jfwX8QE4jJg0rWI2CIZ8tDB5eul.jpg",
+      "summary": "Cuando una fuerte tormenta deja a la patrulla canina varada en una isla inexplorada llena de dinosaurios vivos, los cachorros deben unirse a su nuevo aliado, Rex, para detener al alcalde Humdinger antes de que la codicia de este provoque una catastrófica erupción volcánica.",
+      "genres": [
+        "Aventura",
+        "Animación",
+        "Comedia"
+      ]
+    },
+    {
       "title": "Spider-Man: Brand New Day",
-      "time": "17:30",
+      "time": "16:00",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/2OKQrD5Txku6o5JQmxXrUAGKrSt.jpg",
       "summary": "Han pasado cuatro años desde los acontecimientos de No Way Home, y Peter Parker ahora es un adulto que vive completamente solo, ha desaparecido voluntariamente de las vidas y recuerdos de quienes ama. Combatiendo el crimen en una Nueva York que ya no conoce su nombre, se ha dedicado por completo a proteger su ciudad, pero a medida que aumentan las exigencias sobre él, la presión desencadena una evolución física que amenaza su existencia, al mismo tiempo que un extraño nuevo patrón de crímenes da lugar a una de las amenazas más poderosas a las que se ha enfrentado.",
@@ -263,7 +321,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Spider-Man: Brand New Day",
-      "time": "20:30",
+      "time": "18:55",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/2OKQrD5Txku6o5JQmxXrUAGKrSt.jpg",
       "summary": "Han pasado cuatro años desde los acontecimientos de No Way Home, y Peter Parker ahora es un adulto que vive completamente solo, ha desaparecido voluntariamente de las vidas y recuerdos de quienes ama. Combatiendo el crimen en una Nueva York que ya no conoce su nombre, se ha dedicado por completo a proteger su ciudad, pero a medida que aumentan las exigencias sobre él, la presión desencadena una evolución física que amenaza su existencia, al mismo tiempo que un extraño nuevo patrón de crímenes da lugar a una de las amenazas más poderosas a las que se ha enfrentado.",
@@ -275,7 +333,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Spider-Man: Brand New Day",
-      "time": "21:55",
+      "time": "21:50",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/2OKQrD5Txku6o5JQmxXrUAGKrSt.jpg",
       "summary": "Han pasado cuatro años desde los acontecimientos de No Way Home, y Peter Parker ahora es un adulto que vive completamente solo, ha desaparecido voluntariamente de las vidas y recuerdos de quienes ama. Combatiendo el crimen en una Nueva York que ya no conoce su nombre, se ha dedicado por completo a proteger su ciudad, pero a medida que aumentan las exigencias sobre él, la presión desencadena una evolución física que amenaza su existencia, al mismo tiempo que un extraño nuevo patrón de crímenes da lugar a una de las amenazas más poderosas a las que se ha enfrentado.",
@@ -287,7 +345,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "La Odisea",
-      "time": "17:00",
+      "time": "18:20",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/bheY17L6wtB0SdJn6EYyh1X5iry.jpg",
       "summary": "Una epopeya mitológica que sigue la historia de Odiseo y su largo viaje a casa, de 10 años de duración, tras la guerra de Troya.",
@@ -299,7 +357,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "La Odisea",
-      "time": "20:20",
+      "time": "21:40",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/bheY17L6wtB0SdJn6EYyh1X5iry.jpg",
       "summary": "Una epopeya mitológica que sigue la historia de Odiseo y su largo viaje a casa, de 10 años de duración, tras la guerra de Troya.",
@@ -307,13 +365,37 @@ export const MOVIE_DATA = {
         "Aventura",
         "Acción",
         "Fantasía"
+      ]
+    },
+    {
+      "title": "Vaiana",
+      "time": "15:55",
+      "rating": 6.4,
+      "poster": "https://image.tmdb.org/t/p/w342/wC27PIEqSthbUhaVMdYEhaTzYmo.jpg",
+      "summary": "Versión de imagen real de la película de animación de 2016 'Vaiana'.",
+      "genres": [
+        "Familia",
+        "Fantasía",
+        "Comedia"
+      ]
+    },
+    {
+      "title": "Minions & Monsters",
+      "time": "16:10",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/7DUzo8Ys7BfmZpqnzIwG4qA0egl.jpg",
+      "summary": "La historia de cómo los Minions conquistaron Hollywood, se convirtieron en estrellas de cine, lo perdieron todo, desataron monstruos en el mundo y luego se unieron para intentar salvar al planeta del caos que acababan de crear.",
+      "genres": [
+        "Aventura",
+        "Animación",
+        "Comedia"
       ]
     }
   ],
   "Cine Yelmo Las Arenas": [
     {
       "title": "Un Plan Perfecto",
-      "time": "16:45",
+      "time": "16:50",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/gkwoom0kN8CBjf7FgVQumBfBkw5.jpg",
       "summary": "Es Navidad. Los Ibáñez son un fracaso como familia. Están arruinados, sin ilusión por la vida y su convivencia familiar es un desastre. Cuando están a punto de ser desahuciados por el banco, descubren en el sótano de su casa que alguien cavó un túnel con la idea de robar el banco de enfrente. Con la ayuda de Rufus, un veterano ladrón retirado, la familia decide completar el túnel y dar el golpe de sus vidas. Sin embargo, convivir y trabajar en equipo resultará mucho más complicado que cavar los últimos metros del túnel. Entre conflictos familiares, situaciones disparatadas y un atraco en el que todo parece salir mal, descubrirán que al final de ese túnel les espera algo mucho más importante que un botín millonario.",
@@ -366,6 +448,18 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Prácticamente Magia 2",
+      "time": "16:00",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/tnbyrsN7cu2An3By6UDOHrq21CK.jpg",
+      "summary": "Las hermanas Owens deben enfrentarse a la oscura maldición que amenaza con desintegrar a su familia de una vez por todas.",
+      "genres": [
+        "Romance",
+        "Fantasía",
+        "Comedia"
+      ]
+    },
+    {
+      "title": "Prácticamente Magia 2",
       "time": "17:00",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/tnbyrsN7cu2An3By6UDOHrq21CK.jpg",
@@ -402,7 +496,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Prácticamente Magia 2",
-      "time": "22:30",
+      "time": "22:35",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/tnbyrsN7cu2An3By6UDOHrq21CK.jpg",
       "summary": "Las hermanas Owens deben enfrentarse a la oscura maldición que amenaza con desintegrar a su familia de una vez por todas.",
@@ -414,7 +508,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Cronos",
-      "time": "16:50",
+      "time": "16:20",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/wZ6UtSmbZdOln1Fctb8HWbhpIQV.jpg",
       "summary": "Sigue los cuatro días sucedidos a raíz de la activación de un dispositivo policial el 17 de agosto de 2017 a las 17:34, como reacción al acto terrorista de las Ramblas de Barcelona, hasta concluir con el abatimiento del último terrorista huido.",
@@ -425,7 +519,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Una Noche Al Año",
-      "time": "22:40",
+      "time": "22:30",
       "rating": 6.9,
       "poster": "https://image.tmdb.org/t/p/w342/6zWaYWrPXG7JBX3Tb3OI9ITWGad.jpg",
       "summary": "Dos extraños tratan de encontrar a alguien con quien acostarse en la única noche del año en la que es legal el sexo prematrimonial.",
@@ -435,8 +529,56 @@ export const MOVIE_DATA = {
       ]
     },
     {
+      "title": "La Constelación Del Perro",
+      "time": "19:30",
+      "rating": 6.9,
+      "poster": "https://image.tmdb.org/t/p/w342/vbCb1yHXtXym4V1c420MSasbyyP.jpg",
+      "summary": "En un mundo postapocalíptico, un virus aniquila a prácticamente toda la humanidad. Los supervivientes se enfrentan a unos carroñeros errantes llamados \"Segadores\". El protagonista, Hig, un piloto, sobrevivió a la gripe pero perdió a su mujer.",
+      "genres": [
+        "Ciencia ficción",
+        "Aventura",
+        "Suspense"
+      ]
+    },
+    {
+      "title": "Tadeo Jones Y La Lámpara Maravillosa",
+      "time": "15:50",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/71G1b8bqa7gzP9yU7q2fgNf2t0D.jpg",
+      "summary": "Tadeo y Sara son ahora padres de Olimpia (Oli), una adorable e intrépida niña de dos años. Y Momia no lleva nada bien haber dejado de ser el centro de atención. Mientras están de vacaciones en Londres, Sara sigue la pista hacia un objeto único: la lámpara maravillosa de Las mil y una noches. Y Momia, presa de los celos, pide un deseo: viajar en el tiempo hasta el momento en que era joven y todos le querían. Tadeo y Sara tienen que unir fuerzas para evitar que Momia cambie el curso de la historia y traer al grupo (Jeff, Belzoni y Ramona incluidos) de vuelta a casa, a su época. Esta nueva aventura los llevará a cruzar el Océano Atlántico desde Perú hasta Grecia, y de allí a lo más profundo de Oriente Medio, hasta la misma cueva de Ali Babá y los cuarenta ladrones.",
+      "genres": [
+        "Animación",
+        "Comedia",
+        "Familia"
+      ]
+    },
+    {
+      "title": "Tadeo Jones Y La Lámpara Maravillosa",
+      "time": "18:00",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/71G1b8bqa7gzP9yU7q2fgNf2t0D.jpg",
+      "summary": "Tadeo y Sara son ahora padres de Olimpia (Oli), una adorable e intrépida niña de dos años. Y Momia no lleva nada bien haber dejado de ser el centro de atención. Mientras están de vacaciones en Londres, Sara sigue la pista hacia un objeto único: la lámpara maravillosa de Las mil y una noches. Y Momia, presa de los celos, pide un deseo: viajar en el tiempo hasta el momento en que era joven y todos le querían. Tadeo y Sara tienen que unir fuerzas para evitar que Momia cambie el curso de la historia y traer al grupo (Jeff, Belzoni y Ramona incluidos) de vuelta a casa, a su época. Esta nueva aventura los llevará a cruzar el Océano Atlántico desde Perú hasta Grecia, y de allí a lo más profundo de Oriente Medio, hasta la misma cueva de Ali Babá y los cuarenta ladrones.",
+      "genres": [
+        "Animación",
+        "Comedia",
+        "Familia"
+      ]
+    },
+    {
+      "title": "Tadeo Jones Y La Lámpara Maravillosa",
+      "time": "20:20",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/71G1b8bqa7gzP9yU7q2fgNf2t0D.jpg",
+      "summary": "Tadeo y Sara son ahora padres de Olimpia (Oli), una adorable e intrépida niña de dos años. Y Momia no lleva nada bien haber dejado de ser el centro de atención. Mientras están de vacaciones en Londres, Sara sigue la pista hacia un objeto único: la lámpara maravillosa de Las mil y una noches. Y Momia, presa de los celos, pide un deseo: viajar en el tiempo hasta el momento en que era joven y todos le querían. Tadeo y Sara tienen que unir fuerzas para evitar que Momia cambie el curso de la historia y traer al grupo (Jeff, Belzoni y Ramona incluidos) de vuelta a casa, a su época. Esta nueva aventura los llevará a cruzar el Océano Atlántico desde Perú hasta Grecia, y de allí a lo más profundo de Oriente Medio, hasta la misma cueva de Ali Babá y los cuarenta ladrones.",
+      "genres": [
+        "Animación",
+        "Comedia",
+        "Familia"
+      ]
+    },
+    {
       "title": "El Ser Querido",
-      "time": "17:20",
+      "time": "16:30",
       "rating": 6.8,
       "poster": "https://image.tmdb.org/t/p/w342/bFYCaNsYmj4bOoHGIoqEthRxfRv.jpg",
       "summary": "Un aclamado director de cine y su hija, una actriz sin éxito, ruedan juntos una película tras años de distanciamiento y un pasado difícil del que ninguno de los dos ha querido hablar.",
@@ -465,44 +607,8 @@ export const MOVIE_DATA = {
       ]
     },
     {
-      "title": "La Constelación Del Perro",
-      "time": "19:30",
-      "rating": 6.9,
-      "poster": "https://image.tmdb.org/t/p/w342/vbCb1yHXtXym4V1c420MSasbyyP.jpg",
-      "summary": "En un mundo postapocalíptico, un virus aniquila a prácticamente toda la humanidad. Los supervivientes se enfrentan a unos carroñeros errantes llamados \"Segadores\". El protagonista, Hig, un piloto, sobrevivió a la gripe pero perdió a su mujer.",
-      "genres": [
-        "Ciencia ficción",
-        "Aventura",
-        "Suspense"
-      ]
-    },
-    {
-      "title": "Tadeo Jones Y La Lámpara Maravillosa",
-      "time": "18:00",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/71G1b8bqa7gzP9yU7q2fgNf2t0D.jpg",
-      "summary": "Tadeo y Sara son ahora padres de Olimpia (Oli), una adorable e intrépida niña de dos años. Y Momia no lleva nada bien haber dejado de ser el centro de atención. Mientras están de vacaciones en Londres, Sara sigue la pista hacia un objeto único: la lámpara maravillosa de Las mil y una noches. Y Momia, presa de los celos, pide un deseo: viajar en el tiempo hasta el momento en que era joven y todos le querían. Tadeo y Sara tienen que unir fuerzas para evitar que Momia cambie el curso de la historia y traer al grupo (Jeff, Belzoni y Ramona incluidos) de vuelta a casa, a su época. Esta nueva aventura los llevará a cruzar el Océano Atlántico desde Perú hasta Grecia, y de allí a lo más profundo de Oriente Medio, hasta la misma cueva de Ali Babá y los cuarenta ladrones.",
-      "genres": [
-        "Animación",
-        "Comedia",
-        "Familia"
-      ]
-    },
-    {
-      "title": "Tadeo Jones Y La Lámpara Maravillosa",
-      "time": "20:20",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/71G1b8bqa7gzP9yU7q2fgNf2t0D.jpg",
-      "summary": "Tadeo y Sara son ahora padres de Olimpia (Oli), una adorable e intrépida niña de dos años. Y Momia no lleva nada bien haber dejado de ser el centro de atención. Mientras están de vacaciones en Londres, Sara sigue la pista hacia un objeto único: la lámpara maravillosa de Las mil y una noches. Y Momia, presa de los celos, pide un deseo: viajar en el tiempo hasta el momento en que era joven y todos le querían. Tadeo y Sara tienen que unir fuerzas para evitar que Momia cambie el curso de la historia y traer al grupo (Jeff, Belzoni y Ramona incluidos) de vuelta a casa, a su época. Esta nueva aventura los llevará a cruzar el Océano Atlántico desde Perú hasta Grecia, y de allí a lo más profundo de Oriente Medio, hasta la misma cueva de Ali Babá y los cuarenta ladrones.",
-      "genres": [
-        "Animación",
-        "Comedia",
-        "Familia"
-      ]
-    },
-    {
       "title": "Insidious: Fuera Del Más Allá",
-      "time": "16:55",
+      "time": "17:50",
       "rating": 6.5,
       "poster": "https://image.tmdb.org/t/p/w342/uEqCJh1fA9Ao9jaCL2xoROPJeUB.jpg",
       "summary": "Sexta entrega de la franquicia \"Insidious\".",
@@ -558,7 +664,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Spider-Man: Brand New Day",
-      "time": "17:40",
+      "time": "17:20",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/2OKQrD5Txku6o5JQmxXrUAGKrSt.jpg",
       "summary": "Han pasado cuatro años desde los acontecimientos de No Way Home, y Peter Parker ahora es un adulto que vive completamente solo, ha desaparecido voluntariamente de las vidas y recuerdos de quienes ama. Combatiendo el crimen en una Nueva York que ya no conoce su nombre, se ha dedicado por completo a proteger su ciudad, pero a medida que aumentan las exigencias sobre él, la presión desencadena una evolución física que amenaza su existencia, al mismo tiempo que un extraño nuevo patrón de crímenes da lugar a una de las amenazas más poderosas a las que se ha enfrentado.",
@@ -629,6 +735,30 @@ export const MOVIE_DATA = {
       ]
     },
     {
+      "title": "Vaiana",
+      "time": "15:45",
+      "rating": 6.4,
+      "poster": "https://image.tmdb.org/t/p/w342/wC27PIEqSthbUhaVMdYEhaTzYmo.jpg",
+      "summary": "Versión de imagen real de la película de animación de 2016 'Vaiana'.",
+      "genres": [
+        "Familia",
+        "Fantasía",
+        "Comedia"
+      ]
+    },
+    {
+      "title": "Minions & Monsters",
+      "time": "15:40",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/7DUzo8Ys7BfmZpqnzIwG4qA0egl.jpg",
+      "summary": "La historia de cómo los Minions conquistaron Hollywood, se convirtieron en estrellas de cine, lo perdieron todo, desataron monstruos en el mundo y luego se unieron para intentar salvar al planeta del caos que acababan de crear.",
+      "genres": [
+        "Aventura",
+        "Animación",
+        "Comedia"
+      ]
+    },
+    {
       "title": "Minions & Monsters",
       "time": "17:10",
       "rating": 0.0,
@@ -653,6 +783,18 @@ export const MOVIE_DATA = {
     }
   ],
   "Cine Yelmo Premium Alisios": [
+    {
+      "title": "Prácticamente Magia 2",
+      "time": "15:45",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/tnbyrsN7cu2An3By6UDOHrq21CK.jpg",
+      "summary": "Las hermanas Owens deben enfrentarse a la oscura maldición que amenaza con desintegrar a su familia de una vez por todas.",
+      "genres": [
+        "Romance",
+        "Fantasía",
+        "Comedia"
+      ]
+    },
     {
       "title": "Prácticamente Magia 2",
       "time": "17:10",
@@ -703,7 +845,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Un Plan Perfecto",
-      "time": "18:00",
+      "time": "16:30",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/gkwoom0kN8CBjf7FgVQumBfBkw5.jpg",
       "summary": "Es Navidad. Los Ibáñez son un fracaso como familia. Están arruinados, sin ilusión por la vida y su convivencia familiar es un desastre. Cuando están a punto de ser desahuciados por el banco, descubren en el sótano de su casa que alguien cavó un túnel con la idea de robar el banco de enfrente. Con la ayuda de Rufus, un veterano ladrón retirado, la familia decide completar el túnel y dar el golpe de sus vidas. Sin embargo, convivir y trabajar en equipo resultará mucho más complicado que cavar los últimos metros del túnel. Entre conflictos familiares, situaciones disparatadas y un atraco en el que todo parece salir mal, descubrirán que al final de ese túnel les espera algo mucho más importante que un botín millonario.",
@@ -713,7 +855,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Un Plan Perfecto",
-      "time": "20:10",
+      "time": "18:35",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/gkwoom0kN8CBjf7FgVQumBfBkw5.jpg",
       "summary": "Es Navidad. Los Ibáñez son un fracaso como familia. Están arruinados, sin ilusión por la vida y su convivencia familiar es un desastre. Cuando están a punto de ser desahuciados por el banco, descubren en el sótano de su casa que alguien cavó un túnel con la idea de robar el banco de enfrente. Con la ayuda de Rufus, un veterano ladrón retirado, la familia decide completar el túnel y dar el golpe de sus vidas. Sin embargo, convivir y trabajar en equipo resultará mucho más complicado que cavar los últimos metros del túnel. Entre conflictos familiares, situaciones disparatadas y un atraco en el que todo parece salir mal, descubrirán que al final de ese túnel les espera algo mucho más importante que un botín millonario.",
@@ -723,7 +865,17 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Un Plan Perfecto",
-      "time": "22:15",
+      "time": "20:40",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/gkwoom0kN8CBjf7FgVQumBfBkw5.jpg",
+      "summary": "Es Navidad. Los Ibáñez son un fracaso como familia. Están arruinados, sin ilusión por la vida y su convivencia familiar es un desastre. Cuando están a punto de ser desahuciados por el banco, descubren en el sótano de su casa que alguien cavó un túnel con la idea de robar el banco de enfrente. Con la ayuda de Rufus, un veterano ladrón retirado, la familia decide completar el túnel y dar el golpe de sus vidas. Sin embargo, convivir y trabajar en equipo resultará mucho más complicado que cavar los últimos metros del túnel. Entre conflictos familiares, situaciones disparatadas y un atraco en el que todo parece salir mal, descubrirán que al final de ese túnel les espera algo mucho más importante que un botín millonario.",
+      "genres": [
+        "Comedia"
+      ]
+    },
+    {
+      "title": "Un Plan Perfecto",
+      "time": "22:45",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/gkwoom0kN8CBjf7FgVQumBfBkw5.jpg",
       "summary": "Es Navidad. Los Ibáñez son un fracaso como familia. Están arruinados, sin ilusión por la vida y su convivencia familiar es un desastre. Cuando están a punto de ser desahuciados por el banco, descubren en el sótano de su casa que alguien cavó un túnel con la idea de robar el banco de enfrente. Con la ayuda de Rufus, un veterano ladrón retirado, la familia decide completar el túnel y dar el golpe de sus vidas. Sin embargo, convivir y trabajar en equipo resultará mucho más complicado que cavar los últimos metros del túnel. Entre conflictos familiares, situaciones disparatadas y un atraco en el que todo parece salir mal, descubrirán que al final de ese túnel les espera algo mucho más importante que un botín millonario.",
@@ -733,7 +885,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Cronos",
-      "time": "20:15",
+      "time": "20:20",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/wZ6UtSmbZdOln1Fctb8HWbhpIQV.jpg",
       "summary": "Sigue los cuatro días sucedidos a raíz de la activación de un dispositivo policial el 17 de agosto de 2017 a las 17:34, como reacción al acto terrorista de las Ramblas de Barcelona, hasta concluir con el abatimiento del último terrorista huido.",
@@ -744,7 +896,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "El Ser Querido",
-      "time": "17:00",
+      "time": "16:55",
       "rating": 6.8,
       "poster": "https://image.tmdb.org/t/p/w342/bFYCaNsYmj4bOoHGIoqEthRxfRv.jpg",
       "summary": "Un aclamado director de cine y su hija, una actriz sin éxito, ruedan juntos una película tras años de distanciamiento y un pasado difícil del que ninguno de los dos ha querido hablar.",
@@ -762,6 +914,18 @@ export const MOVIE_DATA = {
         "Ciencia ficción",
         "Aventura",
         "Suspense"
+      ]
+    },
+    {
+      "title": "Tadeo Jones Y La Lámpara Maravillosa",
+      "time": "16:15",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/71G1b8bqa7gzP9yU7q2fgNf2t0D.jpg",
+      "summary": "Tadeo y Sara son ahora padres de Olimpia (Oli), una adorable e intrépida niña de dos años. Y Momia no lleva nada bien haber dejado de ser el centro de atención. Mientras están de vacaciones en Londres, Sara sigue la pista hacia un objeto único: la lámpara maravillosa de Las mil y una noches. Y Momia, presa de los celos, pide un deseo: viajar en el tiempo hasta el momento en que era joven y todos le querían. Tadeo y Sara tienen que unir fuerzas para evitar que Momia cambie el curso de la historia y traer al grupo (Jeff, Belzoni y Ramona incluidos) de vuelta a casa, a su época. Esta nueva aventura los llevará a cruzar el Océano Atlántico desde Perú hasta Grecia, y de allí a lo más profundo de Oriente Medio, hasta la misma cueva de Ali Babá y los cuarenta ladrones.",
+      "genres": [
+        "Animación",
+        "Comedia",
+        "Familia"
       ]
     },
     {
@@ -802,7 +966,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Tadeo Jones Y La Lámpara Maravillosa",
-      "time": "20:40",
+      "time": "20:45",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/71G1b8bqa7gzP9yU7q2fgNf2t0D.jpg",
       "summary": "Tadeo y Sara son ahora padres de Olimpia (Oli), una adorable e intrépida niña de dos años. Y Momia no lleva nada bien haber dejado de ser el centro de atención. Mientras están de vacaciones en Londres, Sara sigue la pista hacia un objeto único: la lámpara maravillosa de Las mil y una noches. Y Momia, presa de los celos, pide un deseo: viajar en el tiempo hasta el momento en que era joven y todos le querían. Tadeo y Sara tienen que unir fuerzas para evitar que Momia cambie el curso de la historia y traer al grupo (Jeff, Belzoni y Ramona incluidos) de vuelta a casa, a su época. Esta nueva aventura los llevará a cruzar el Océano Atlántico desde Perú hasta Grecia, y de allí a lo más profundo de Oriente Medio, hasta la misma cueva de Ali Babá y los cuarenta ladrones.",
@@ -814,7 +978,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Tadeo Jones Y La Lámpara Maravillosa",
-      "time": "22:30",
+      "time": "22:35",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/71G1b8bqa7gzP9yU7q2fgNf2t0D.jpg",
       "summary": "Tadeo y Sara son ahora padres de Olimpia (Oli), una adorable e intrépida niña de dos años. Y Momia no lleva nada bien haber dejado de ser el centro de atención. Mientras están de vacaciones en Londres, Sara sigue la pista hacia un objeto único: la lámpara maravillosa de Las mil y una noches. Y Momia, presa de los celos, pide un deseo: viajar en el tiempo hasta el momento en que era joven y todos le querían. Tadeo y Sara tienen que unir fuerzas para evitar que Momia cambie el curso de la historia y traer al grupo (Jeff, Belzoni y Ramona incluidos) de vuelta a casa, a su época. Esta nueva aventura los llevará a cruzar el Océano Atlántico desde Perú hasta Grecia, y de allí a lo más profundo de Oriente Medio, hasta la misma cueva de Ali Babá y los cuarenta ladrones.",
@@ -826,7 +990,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Una Noche Al Año",
-      "time": "22:45",
+      "time": "22:50",
       "rating": 6.9,
       "poster": "https://image.tmdb.org/t/p/w342/6zWaYWrPXG7JBX3Tb3OI9ITWGad.jpg",
       "summary": "Dos extraños tratan de encontrar a alguien con quien acostarse en la única noche del año en la que es legal el sexo prematrimonial.",
@@ -881,7 +1045,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "El Final De Oak Street",
-      "time": "17:00",
+      "time": "16:20",
       "rating": 7.2,
       "poster": "https://image.tmdb.org/t/p/w342/g9DUGw8ufetrwhCIrwq3h1NlpWO.jpg",
       "summary": "Después de que un misterioso fenómeno cósmico arranque Oak Street de su entorno suburbano y transporte a sus habitantes a un lugar desconocido, la familia Platt pronto descubre que su propia supervivencia depende de que permanezcan unidos mientras se orientan en un entorno que ya no reconocen.",
@@ -893,7 +1057,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "La Patrulla Canina: La Dino Película",
-      "time": "18:10",
+      "time": "18:25",
       "rating": 3.5,
       "poster": "https://image.tmdb.org/t/p/w342/jfwX8QE4jJg0rWI2CIZ8tDB5eul.jpg",
       "summary": "Cuando una fuerte tormenta deja a la patrulla canina varada en una isla inexplorada llena de dinosaurios vivos, los cachorros deben unirse a su nuevo aliado, Rex, para detener al alcalde Humdinger antes de que la codicia de este provoque una catastrófica erupción volcánica.",
@@ -901,6 +1065,18 @@ export const MOVIE_DATA = {
         "Aventura",
         "Animación",
         "Comedia"
+      ]
+    },
+    {
+      "title": "Spider-Man: Brand New Day",
+      "time": "16:10",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/2OKQrD5Txku6o5JQmxXrUAGKrSt.jpg",
+      "summary": "Han pasado cuatro años desde los acontecimientos de No Way Home, y Peter Parker ahora es un adulto que vive completamente solo, ha desaparecido voluntariamente de las vidas y recuerdos de quienes ama. Combatiendo el crimen en una Nueva York que ya no conoce su nombre, se ha dedicado por completo a proteger su ciudad, pero a medida que aumentan las exigencias sobre él, la presión desencadena una evolución física que amenaza su existencia, al mismo tiempo que un extraño nuevo patrón de crímenes da lugar a una de las amenazas más poderosas a las que se ha enfrentado.",
+      "genres": [
+        "Ciencia ficción",
+        "Acción",
+        "Aventura"
       ]
     },
     {
@@ -929,7 +1105,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "La Odisea",
-      "time": "17:30",
+      "time": "18:10",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/bheY17L6wtB0SdJn6EYyh1X5iry.jpg",
       "summary": "Una epopeya mitológica que sigue la historia de Odiseo y su largo viaje a casa, de 10 años de duración, tras la guerra de Troya.",
@@ -941,7 +1117,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "La Odisea",
-      "time": "20:55",
+      "time": "21:35",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/bheY17L6wtB0SdJn6EYyh1X5iry.jpg",
       "summary": "Una epopeya mitológica que sigue la historia de Odiseo y su largo viaje a casa, de 10 años de duración, tras la guerra de Troya.",
@@ -949,6 +1125,18 @@ export const MOVIE_DATA = {
         "Aventura",
         "Acción",
         "Fantasía"
+      ]
+    },
+    {
+      "title": "Vaiana",
+      "time": "15:50",
+      "rating": 6.4,
+      "poster": "https://image.tmdb.org/t/p/w342/wC27PIEqSthbUhaVMdYEhaTzYmo.jpg",
+      "summary": "Versión de imagen real de la película de animación de 2016 'Vaiana'.",
+      "genres": [
+        "Familia",
+        "Fantasía",
+        "Comedia"
       ]
     },
     {
@@ -1077,7 +1265,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "La Constelacion Del Perro",
-      "time": "18:00",
+      "time": "22:00",
       "rating": 6.9,
       "poster": "https://image.tmdb.org/t/p/w342/vbCb1yHXtXym4V1c420MSasbyyP.jpg",
       "summary": "En un mundo postapocalíptico, un virus aniquila a prácticamente toda la humanidad. Los supervivientes se enfrentan a unos carroñeros errantes llamados \"Segadores\". El protagonista, Hig, un piloto, sobrevivió a la gripe pero perdió a su mujer.",
@@ -1089,7 +1277,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Tadeo Jones Y La Lampara Maravillosa",
-      "time": "16:00",
+      "time": "16:30",
       "rating": 2.0,
       "poster": "https://image.tmdb.org/t/p/w342/71G1b8bqa7gzP9yU7q2fgNf2t0D.jpg",
       "summary": "Tadeo y Sara son ahora padres de Olimpia (Oli), una adorable e intrépida niña de dos años. Y Momia no lleva nada bien haber dejado de ser el centro de atención. Mientras están de vacaciones en Londres, Sara sigue la pista hacia un objeto único: la lámpara maravillosa de Las mil y una noches. Y Momia, presa de los celos, pide un deseo: viajar en el tiempo hasta el momento en que era joven y todos le querían. Tadeo y Sara tienen que unir fuerzas para evitar que Momia cambie el curso de la historia y traer al grupo (Jeff, Belzoni y Ramona incluidos) de vuelta a casa, a su época. Esta nueva aventura los llevará a cruzar el Océano Atlántico desde Perú hasta Grecia, y de allí a lo más profundo de Oriente Medio, hasta la misma cueva de Ali Babá y los cuarenta ladrones.",
@@ -1101,7 +1289,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Tadeo Jones Y La Lampara Maravillosa",
-      "time": "18:00",
+      "time": "18:15",
       "rating": 2.0,
       "poster": "https://image.tmdb.org/t/p/w342/71G1b8bqa7gzP9yU7q2fgNf2t0D.jpg",
       "summary": "Tadeo y Sara son ahora padres de Olimpia (Oli), una adorable e intrépida niña de dos años. Y Momia no lleva nada bien haber dejado de ser el centro de atención. Mientras están de vacaciones en Londres, Sara sigue la pista hacia un objeto único: la lámpara maravillosa de Las mil y una noches. Y Momia, presa de los celos, pide un deseo: viajar en el tiempo hasta el momento en que era joven y todos le querían. Tadeo y Sara tienen que unir fuerzas para evitar que Momia cambie el curso de la historia y traer al grupo (Jeff, Belzoni y Ramona incluidos) de vuelta a casa, a su época. Esta nueva aventura los llevará a cruzar el Océano Atlántico desde Perú hasta Grecia, y de allí a lo más profundo de Oriente Medio, hasta la misma cueva de Ali Babá y los cuarenta ladrones.",
@@ -1147,7 +1335,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Cronos",
-      "time": "22:00",
+      "time": "18:00",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/wZ6UtSmbZdOln1Fctb8HWbhpIQV.jpg",
       "summary": "Sigue los cuatro días sucedidos a raíz de la activación de un dispositivo policial el 17 de agosto de 2017 a las 17:34, como reacción al acto terrorista de las Ramblas de Barcelona, hasta concluir con el abatimiento del último terrorista huido.",
@@ -1262,7 +1450,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Un Plan Perfecto",
-      "time": "22:00",
+      "time": "21:45",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/gkwoom0kN8CBjf7FgVQumBfBkw5.jpg",
       "summary": "Es Navidad. Los Ibáñez son un fracaso como familia. Están arruinados, sin ilusión por la vida y su convivencia familiar es un desastre. Cuando están a punto de ser desahuciados por el banco, descubren en el sótano de su casa que alguien cavó un túnel con la idea de robar el banco de enfrente. Con la ayuda de Rufus, un veterano ladrón retirado, la familia decide completar el túnel y dar el golpe de sus vidas. Sin embargo, convivir y trabajar en equipo resultará mucho más complicado que cavar los últimos metros del túnel. Entre conflictos familiares, situaciones disparatadas y un atraco en el que todo parece salir mal, descubrirán que al final de ese túnel les espera algo mucho más importante que un botín millonario.",
