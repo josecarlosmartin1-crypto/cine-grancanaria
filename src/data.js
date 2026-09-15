@@ -310,6 +310,16 @@ export const MOVIE_DATA = {
   ],
   "Cine Yelmo Las Arenas": [
     {
+      "title": "Las Corrientes (Efecto Cinema)",
+      "time": "19:00",
+      "rating": 4.8,
+      "poster": "https://image.tmdb.org/t/p/w342/7N0oFW9VpF7doqSTVD8kmGUkqI1.jpg",
+      "summary": "Durante un viaje de negocios al exterior, Lina, una diseñadora de moda argentina, salta de un puente al agua helada del río en un gesto mecánico. De regreso en Buenos Aires, decide no contárselo a nadie, pero desarrolla un miedo físico al agua que le impide realizar actividades cotidianas.",
+      "genres": [
+        "Drama"
+      ]
+    },
+    {
       "title": "Un Plan Perfecto",
       "time": "16:45",
       "rating": 0.0,
@@ -376,18 +386,6 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Prácticamente Magia 2",
-      "time": "18:50",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/tnbyrsN7cu2An3By6UDOHrq21CK.jpg",
-      "summary": "Las hermanas Owens deben enfrentarse a la oscura maldición que amenaza con desintegrar a su familia de una vez por todas.",
-      "genres": [
-        "Romance",
-        "Fantasía",
-        "Comedia"
-      ]
-    },
-    {
-      "title": "Prácticamente Magia 2",
       "time": "19:50",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/tnbyrsN7cu2An3By6UDOHrq21CK.jpg",
@@ -400,7 +398,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Prácticamente Magia 2",
-      "time": "22:35",
+      "time": "22:30",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/tnbyrsN7cu2An3By6UDOHrq21CK.jpg",
       "summary": "Las hermanas Owens deben enfrentarse a la oscura maldición que amenaza con desintegrar a su familia de una vez por todas.",
@@ -411,8 +409,19 @@ export const MOVIE_DATA = {
       ]
     },
     {
-      "title": "Cronos",
+      "title": "Jim Queen",
       "time": "16:50",
+      "rating": 7.9,
+      "poster": "https://image.tmdb.org/t/p/w342/mpF0hbb9Z0SUuYSxLK2PUYImFjJ.jpg",
+      "summary": "En la escena gay parisina, Jim es el rey de Gym Queens, la comunidad más sexy y codiciada de las redes sociales. Un día, se da cuenta de que ha sido infectado por Heterosis, un extraño virus que diezma la comunidad y convierte a los gays en... ¡heterosexuales! Jim pierde su trono y es abandonado por todo su entorno. Todos menos un seguidor: Lucien, un escuálido joven virgen. Juntos, emprenden un viaje a través del Marais (el pueblo gay parisino), en busca del misterioso doctor Ragoult, que afirma haber encontrado una cura para el virus. Esta cura no sólo podría salvar a Jim, sino también evitar la extinción de la homosexualidad.",
+      "genres": [
+        "Animación",
+        "Comedia"
+      ]
+    },
+    {
+      "title": "Cronos",
+      "time": "17:50",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/wZ6UtSmbZdOln1Fctb8HWbhpIQV.jpg",
       "summary": "Sigue los cuatro días sucedidos a raíz de la activación de un dispositivo policial el 17 de agosto de 2017 a las 17:34, como reacción al acto terrorista de las Ramblas de Barcelona, hasta concluir con el abatimiento del último terrorista huido.",
@@ -434,7 +443,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Tadeo Jones Y La Lámpara Maravillosa",
-      "time": "18:10",
+      "time": "18:00",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/71G1b8bqa7gzP9yU7q2fgNf2t0D.jpg",
       "summary": "Tadeo y Sara son ahora padres de Olimpia (Oli), una adorable e intrépida niña de dos años. Y Momia no lleva nada bien haber dejado de ser el centro de atención. Mientras están de vacaciones en Londres, Sara sigue la pista hacia un objeto único: la lámpara maravillosa de Las mil y una noches. Y Momia, presa de los celos, pide un deseo: viajar en el tiempo hasta el momento en que era joven y todos le querían. Tadeo y Sara tienen que unir fuerzas para evitar que Momia cambie el curso de la historia y traer al grupo (Jeff, Belzoni y Ramona incluidos) de vuelta a casa, a su época. Esta nueva aventura los llevará a cruzar el Océano Atlántico desde Perú hasta Grecia, y de allí a lo más profundo de Oriente Medio, hasta la misma cueva de Ali Babá y los cuarenta ladrones.",
@@ -458,7 +467,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "La Constelación Del Perro",
-      "time": "19:30",
+      "time": "20:50",
       "rating": 6.9,
       "poster": "https://image.tmdb.org/t/p/w342/vbCb1yHXtXym4V1c420MSasbyyP.jpg",
       "summary": "En un mundo postapocalíptico, un virus aniquila a prácticamente toda la humanidad. Los supervivientes se enfrentan a unos carroñeros errantes llamados \"Segadores\". El protagonista, Hig, un piloto, sobrevivió a la gripe pero perdió a su mujer.",
@@ -466,16 +475,6 @@ export const MOVIE_DATA = {
         "Ciencia ficción",
         "Aventura",
         "Suspense"
-      ]
-    },
-    {
-      "title": "El Ser Querido",
-      "time": "17:20",
-      "rating": 6.8,
-      "poster": "https://image.tmdb.org/t/p/w342/bFYCaNsYmj4bOoHGIoqEthRxfRv.jpg",
-      "summary": "Un aclamado director de cine y su hija, una actriz sin éxito, ruedan juntos una película tras años de distanciamiento y un pasado difícil del que ninguno de los dos ha querido hablar.",
-      "genres": [
-        "Drama"
       ]
     },
     {
@@ -511,17 +510,6 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Insidious: Fuera Del Más Allá",
-      "time": "20:10",
-      "rating": 6.5,
-      "poster": "https://image.tmdb.org/t/p/w342/uEqCJh1fA9Ao9jaCL2xoROPJeUB.jpg",
-      "summary": "Sexta entrega de la franquicia \"Insidious\".",
-      "genres": [
-        "Terror",
-        "Suspense"
-      ]
-    },
-    {
-      "title": "Insidious: Fuera Del Más Allá",
       "time": "22:50",
       "rating": 6.5,
       "poster": "https://image.tmdb.org/t/p/w342/uEqCJh1fA9Ao9jaCL2xoROPJeUB.jpg",
@@ -533,24 +521,12 @@ export const MOVIE_DATA = {
     },
     {
       "title": "El Motín",
-      "time": "22:00",
+      "time": "21:20",
       "rating": 7.0,
       "poster": "https://image.tmdb.org/t/p/w342/6PwLfI2qpRZIIwN63XnNMYAqj87.jpg",
       "summary": "Después de que su jefe, un industrial multimillonario, sea asesinado delante de él, Cole Reed se ve obligado a cargar con la culpa del crimen, lo que le obliga a huir mientras trabaja para descubrir una conspiración internacional.",
       "genres": [
         "Acción",
-        "Suspense"
-      ]
-    },
-    {
-      "title": "El Final De Oak Street",
-      "time": "21:40",
-      "rating": 7.2,
-      "poster": "https://image.tmdb.org/t/p/w342/g9DUGw8ufetrwhCIrwq3h1NlpWO.jpg",
-      "summary": "Después de que un misterioso fenómeno cósmico arranque Oak Street de su entorno suburbano y transporte a sus habitantes a un lugar desconocido, la familia Platt pronto descubre que su propia supervivencia depende de que permanezcan unidos mientras se orientan en un entorno que ya no reconocen.",
-      "genres": [
-        "Ciencia ficción",
-        "Misterio",
         "Suspense"
       ]
     },
@@ -1159,6 +1135,16 @@ export const MOVIE_DATA = {
     {
       "title": "Un Plan Perfecto",
       "time": "20:10",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/gkwoom0kN8CBjf7FgVQumBfBkw5.jpg",
+      "summary": "Es Navidad. Los Ibáñez son un fracaso como familia. Están arruinados, sin ilusión por la vida y su convivencia familiar es un desastre. Cuando están a punto de ser desahuciados por el banco, descubren en el sótano de su casa que alguien cavó un túnel con la idea de robar el banco de enfrente. Con la ayuda de Rufus, un veterano ladrón retirado, la familia decide completar el túnel y dar el golpe de sus vidas. Sin embargo, convivir y trabajar en equipo resultará mucho más complicado que cavar los últimos metros del túnel. Entre conflictos familiares, situaciones disparatadas y un atraco en el que todo parece salir mal, descubrirán que al final de ese túnel les espera algo mucho más importante que un botín millonario.",
+      "genres": [
+        "Comedia"
+      ]
+    },
+    {
+      "title": "Un Plan Perfecto",
+      "time": "21:30",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/gkwoom0kN8CBjf7FgVQumBfBkw5.jpg",
       "summary": "Es Navidad. Los Ibáñez son un fracaso como familia. Están arruinados, sin ilusión por la vida y su convivencia familiar es un desastre. Cuando están a punto de ser desahuciados por el banco, descubren en el sótano de su casa que alguien cavó un túnel con la idea de robar el banco de enfrente. Con la ayuda de Rufus, un veterano ladrón retirado, la familia decide completar el túnel y dar el golpe de sus vidas. Sin embargo, convivir y trabajar en equipo resultará mucho más complicado que cavar los últimos metros del túnel. Entre conflictos familiares, situaciones disparatadas y un atraco en el que todo parece salir mal, descubrirán que al final de ese túnel les espera algo mucho más importante que un botín millonario.",

@@ -2501,5 +2501,13 @@
       "Fantasía",
       "Comedia"
     ]
+  },
+  "Las Corrientes": {
+    "rating": 4.8,
+    "poster": "https://image.tmdb.org/t/p/w342/7N0oFW9VpF7doqSTVD8kmGUkqI1.jpg",
+    "summary": "Durante un viaje de negocios al exterior, Lina, una diseñadora de moda argentina, salta de un puente al agua helada del río en un gesto mecánico. De regreso en Buenos Aires, decide no contárselo a nadie, pero desarrolla un miedo físico al agua que le impide realizar actividades cotidianas.",
+    "genres": [
+      "Drama"
+    ]
   }
 }
