@@ -2509,5 +2509,72 @@
     "genres": [
       "Drama"
     ]
+  },
+  "Resident Evil": {
+    "rating": 7.8,
+    "poster": "https://image.tmdb.org/t/p/w342/3d8D5tZXiPUE2VmRjnrTNzFORBa.jpg",
+    "summary": "Película basada en la saga de videojuegos de Capcom del mismo nombre. En una reinvención totalmente nueva, el mensajero médico Bryan se ve inmerso en una carrera de acción sin descanso por la supervivencia, mientras el caos se desata a su alrededor.",
+    "genres": [
+      "Terror",
+      "Ciencia ficción",
+      "Aventura"
+    ]
+  },
+  "Coyote Vs. Acme": {
+    "rating": 7.5,
+    "poster": "https://image.tmdb.org/t/p/w342/e4P8CIoffzsyjTm9e6U87Mng2CU.jpg",
+    "summary": "Después de que todos los productos fabricados por ACME Corporation le salgan mal a Wile E. Coyote, en su persecución del Correcaminos, contrata a un abogado humano igualmente desafortunado para demandar a la empresa. Cuando el abogado de Wile E. descubre que el intimidante jefe de su antiguo bufete es el director general de ACME, se une a Wile E. para ganar el juicio contra él.",
+    "genres": [
+      "Comedia",
+      "Aventura",
+      "Familia"
+    ]
+  },
+  "Tiempo De Victoria": {
+    "rating": 7.7,
+    "poster": "https://image.tmdb.org/t/p/w342/byKFPj2xvKkqMKQ4i0Ayq6N7Z9E.jpg",
+    "summary": "Quedan 72 horas para el Día D y todo está listo salvo un elemento clave: el tiempo. El capitán James Stagg, jefe del servicio meteorológico británico, recibe el encargo de elaborar el pronóstico más trascendental de la historia. Unas condiciones climáticas adversas podrían arruinar la mayor invasión marítima de la historia, mientras que cualquier retraso podría suponer que los servicios de inteligencia alemanes descubran sus intenciones. El general Dwight D. Eisenhower deberá tomar la decisión que determine el destino de la Segunda Guerra Mundial.",
+    "genres": [
+      "Suspense",
+      "Historia",
+      "Bélica"
+    ]
+  },
+  "En La Zona Gris": {
+    "rating": 7.6,
+    "poster": "https://image.tmdb.org/t/p/w342/kQik7Yfcs3O8dCBpIUGSdXOMOnQ.jpg",
+    "summary": "Un equipo encubierto de agentes de élite viven en la sombra, tan cómodos manejando el poder y la influencia como armas automáticas y explosivos de gran potencia. Cuando un déspota roba una fortuna de mil millones de dólares, son enviados a recuperarla en lo que para cualquier otro sería una misión suicida. Lo que comienza como un atraco imposible empeora aún más y se convierte en una guerra total de estrategia, engaño y supervivencia.",
+    "genres": [
+      "Acción",
+      "Suspense"
+    ]
+  },
+  "Sagrado Corazon": {
+    "rating": 7.8,
+    "poster": "https://image.tmdb.org/t/p/w342/AnDL1kJLIQmUMGmXCAkzQTri3lJ.jpg",
+    "summary": "Una docuficción que nos sumerge en el misterio del Sagrado Corazón de Jesús y nos revela su amor personal e incondicional.",
+    "genres": [
+      "Documental",
+      "Historia",
+      "Misterio"
+    ]
+  },
+  "Coyote Vs Acme": {
+    "rating": 7.5,
+    "poster": "https://image.tmdb.org/t/p/w342/e4P8CIoffzsyjTm9e6U87Mng2CU.jpg",
+    "summary": "Después de que todos los productos fabricados por ACME Corporation le salgan mal a Wile E. Coyote, en su persecución del Correcaminos, contrata a un abogado humano igualmente desafortunado para demandar a la empresa. Cuando el abogado de Wile E. descubre que el intimidante jefe de su antiguo bufete es el director general de ACME, se une a Wile E. para ganar el juicio contra él.",
+    "genres": [
+      "Comedia",
+      "Aventura",
+      "Familia"
+    ]
+  },
+  "Mis Queridisimos Padres": {
+    "rating": 6.2,
+    "poster": "https://image.tmdb.org/t/p/w342/3skEkI2Hu7ZClhRtVoBJSYDdPYx.jpg",
+    "summary": "Alice y Vincent Gauthier convocan urgentemente a sus tres hijos. Los hermanos llegan presos del pánico, temiendo lo peor... pero la buena noticia es que ¡sus padres han ganado la lotería! El problema es que no piensan darles ni un céntimo. Saldrán a la luz secretos enterrados, tensiones tácitas y celos profundos que sacudirán a la familia hasta sus cimientos.",
+    "genres": [
+      "Comedia"
+    ]
   }
 }
