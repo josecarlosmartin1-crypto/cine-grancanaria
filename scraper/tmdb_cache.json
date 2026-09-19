@@ -2576,5 +2576,21 @@
     "genres": [
       "Comedia"
     ]
+  },
+  "La Isla Olvidada": {
+    "rating": 8.6,
+    "poster": "https://image.tmdb.org/t/p/w342/vpTdXFoZGzwnCWzkVYU7JH8teAZ.jpg",
+    "summary": "Dos amigas se quedan varadas en el místico mundo de Nakali, donde su único escape podría costarles su vida compartida de recuerdos.",
+    "genres": [
+      "Animación",
+      "Aventura",
+      "Fantasía"
+    ]
+  },
+  "20 Años Del Met En Cines: Una Celebración": {
+    "rating": 0,
+    "poster": null,
+    "summary": "Veinte años del Met en cines es una celebración de las dos décadas de esplendor escénico del Met tal y como se han vivido en las salas de cine, con lo más destacado de la colección de la compañía, que cuenta con más de 185 extraordinarias representaciones filmadas.\n\nPresentada por la famosa soprano Renée Fleming, esta presentación especial mostrará momentos inolvidables de algunas de las mayores estrellas de la ópera, seleccionados del vasto archivo de retransmisiones de la serie, con artistas tan destacados como Lise Davidsen, Natalie Dessay, Joyce DiDonato, Juan Diego Flórez, Elīna Garanča, Dmitri Hvorostovsky,  Jonas Kaufmann, Peter Mattei, Matthew Polenzani, Sondra Radvanovsky, Nadine Sierra y, por supuesto, la propia Fleming.",
+    "genres": []
   }
 }
