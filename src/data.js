@@ -1199,7 +1199,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Mis Queridisimos Padres",
-      "time": "17:00",
+      "time": "17:15",
       "rating": 6.2,
       "poster": "https://image.tmdb.org/t/p/w342/3skEkI2Hu7ZClhRtVoBJSYDdPYx.jpg",
       "summary": "Alice y Vincent Gauthier convocan urgentemente a sus tres hijos. Los hermanos llegan presos del pánico, temiendo lo peor... pero la buena noticia es que ¡sus padres han ganado la lotería! El problema es que no piensan darles ni un céntimo. Saldrán a la luz secretos enterrados, tensiones tácitas y celos profundos que sacudirán a la familia hasta sus cimientos.",
