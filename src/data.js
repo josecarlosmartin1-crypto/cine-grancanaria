@@ -1015,7 +1015,7 @@ export const MOVIE_DATA = {
   "Artesiete Las Terrazas": [
     {
       "title": "La Odisea",
-      "time": "17:00",
+      "time": "16:00",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/bheY17L6wtB0SdJn6EYyh1X5iry.jpg",
       "summary": "Una epopeya mitológica que sigue la historia de Odiseo y su largo viaje a casa, de 10 años de duración, tras la guerra de Troya.",
@@ -1027,7 +1027,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Spider-Man Brand New Day",
-      "time": "21:00",
+      "time": "22:30",
       "rating": 7.8,
       "poster": "https://image.tmdb.org/t/p/w342/tluwRNA7k0XfTtDkdLYKX1KOSCJ.jpg",
       "summary": "Han pasado cuatro años desde los acontecimientos de No Way Home, y Peter Parker ahora es un adulto que vive completamente solo, ha desaparecido voluntariamente de las vidas y recuerdos de quienes ama. Combatiendo el crimen en una Nueva York que ya no conoce su nombre, se ha dedicado por completo a proteger su ciudad, pero a medida que aumentan las exigencias sobre él, la presión desencadena una evolución física que amenaza su existencia, al mismo tiempo que un extraño nuevo patrón de crímenes da lugar a una de las amenazas más poderosas a las que se ha enfrentado.",
@@ -1039,7 +1039,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Insidious: Fuera Del Mas Alla",
-      "time": "17:00",
+      "time": "20:40",
       "rating": 6.5,
       "poster": "https://image.tmdb.org/t/p/w342/uEqCJh1fA9Ao9jaCL2xoROPJeUB.jpg",
       "summary": "Sexta entrega de la franquicia \"Insidious\".",
@@ -1050,7 +1050,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Insidious: Fuera Del Mas Alla",
-      "time": "21:30",
+      "time": "22:35",
       "rating": 6.5,
       "poster": "https://image.tmdb.org/t/p/w342/uEqCJh1fA9Ao9jaCL2xoROPJeUB.jpg",
       "summary": "Sexta entrega de la franquicia \"Insidious\".",
@@ -1061,7 +1061,17 @@ export const MOVIE_DATA = {
     },
     {
       "title": "El Ser Querido",
-      "time": "19:00",
+      "time": "15:50",
+      "rating": 6.8,
+      "poster": "https://image.tmdb.org/t/p/w342/bFYCaNsYmj4bOoHGIoqEthRxfRv.jpg",
+      "summary": "Un aclamado director de cine y su hija, una actriz sin éxito, ruedan juntos una película tras años de distanciamiento y un pasado difícil del que ninguno de los dos ha querido hablar.",
+      "genres": [
+        "Drama"
+      ]
+    },
+    {
+      "title": "El Ser Querido",
+      "time": "18:15",
       "rating": 6.8,
       "poster": "https://image.tmdb.org/t/p/w342/bFYCaNsYmj4bOoHGIoqEthRxfRv.jpg",
       "summary": "Un aclamado director de cine y su hija, una actriz sin éxito, ruedan juntos una película tras años de distanciamiento y un pasado difícil del que ninguno de los dos ha querido hablar.",
@@ -1071,7 +1081,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Tadeo Jones Y La Lampara Maravillosa",
-      "time": "17:00",
+      "time": "16:30",
       "rating": 2.0,
       "poster": "https://image.tmdb.org/t/p/w342/71G1b8bqa7gzP9yU7q2fgNf2t0D.jpg",
       "summary": "Tadeo y Sara son ahora padres de Olimpia (Oli), una adorable e intrépida niña de dos años. Y Momia no lleva nada bien haber dejado de ser el centro de atención. Mientras están de vacaciones en Londres, Sara sigue la pista hacia un objeto único: la lámpara maravillosa de Las mil y una noches. Y Momia, presa de los celos, pide un deseo: viajar en el tiempo hasta el momento en que era joven y todos le querían. Tadeo y Sara tienen que unir fuerzas para evitar que Momia cambie el curso de la historia y traer al grupo (Jeff, Belzoni y Ramona incluidos) de vuelta a casa, a su época. Esta nueva aventura los llevará a cruzar el Océano Atlántico desde Perú hasta Grecia, y de allí a lo más profundo de Oriente Medio, hasta la misma cueva de Ali Babá y los cuarenta ladrones.",
@@ -1083,7 +1093,19 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Tadeo Jones Y La Lampara Maravillosa",
-      "time": "18:45",
+      "time": "18:30",
+      "rating": 2.0,
+      "poster": "https://image.tmdb.org/t/p/w342/71G1b8bqa7gzP9yU7q2fgNf2t0D.jpg",
+      "summary": "Tadeo y Sara son ahora padres de Olimpia (Oli), una adorable e intrépida niña de dos años. Y Momia no lleva nada bien haber dejado de ser el centro de atención. Mientras están de vacaciones en Londres, Sara sigue la pista hacia un objeto único: la lámpara maravillosa de Las mil y una noches. Y Momia, presa de los celos, pide un deseo: viajar en el tiempo hasta el momento en que era joven y todos le querían. Tadeo y Sara tienen que unir fuerzas para evitar que Momia cambie el curso de la historia y traer al grupo (Jeff, Belzoni y Ramona incluidos) de vuelta a casa, a su época. Esta nueva aventura los llevará a cruzar el Océano Atlántico desde Perú hasta Grecia, y de allí a lo más profundo de Oriente Medio, hasta la misma cueva de Ali Babá y los cuarenta ladrones.",
+      "genres": [
+        "Animación",
+        "Comedia",
+        "Familia"
+      ]
+    },
+    {
+      "title": "Tadeo Jones Y La Lampara Maravillosa",
+      "time": "20:30",
       "rating": 2.0,
       "poster": "https://image.tmdb.org/t/p/w342/71G1b8bqa7gzP9yU7q2fgNf2t0D.jpg",
       "summary": "Tadeo y Sara son ahora padres de Olimpia (Oli), una adorable e intrépida niña de dos años. Y Momia no lleva nada bien haber dejado de ser el centro de atención. Mientras están de vacaciones en Londres, Sara sigue la pista hacia un objeto único: la lámpara maravillosa de Las mil y una noches. Y Momia, presa de los celos, pide un deseo: viajar en el tiempo hasta el momento en que era joven y todos le querían. Tadeo y Sara tienen que unir fuerzas para evitar que Momia cambie el curso de la historia y traer al grupo (Jeff, Belzoni y Ramona incluidos) de vuelta a casa, a su época. Esta nueva aventura los llevará a cruzar el Océano Atlántico desde Perú hasta Grecia, y de allí a lo más profundo de Oriente Medio, hasta la misma cueva de Ali Babá y los cuarenta ladrones.",
@@ -1095,7 +1117,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Practicamente Magia 2",
-      "time": "19:25",
+      "time": "18:30",
       "rating": 6.4,
       "poster": "https://image.tmdb.org/t/p/w342/tnbyrsN7cu2An3By6UDOHrq21CK.jpg",
       "summary": "Las hermanas Owens deben enfrentarse a la oscura maldición que amenaza con desintegrar a su familia de una vez por todas.",
@@ -1107,7 +1129,31 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Practicamente Magia 2",
-      "time": "21:45",
+      "time": "20:00",
+      "rating": 6.4,
+      "poster": "https://image.tmdb.org/t/p/w342/tnbyrsN7cu2An3By6UDOHrq21CK.jpg",
+      "summary": "Las hermanas Owens deben enfrentarse a la oscura maldición que amenaza con desintegrar a su familia de una vez por todas.",
+      "genres": [
+        "Romance",
+        "Fantasía",
+        "Comedia"
+      ]
+    },
+    {
+      "title": "Practicamente Magia 2",
+      "time": "21:00",
+      "rating": 6.4,
+      "poster": "https://image.tmdb.org/t/p/w342/tnbyrsN7cu2An3By6UDOHrq21CK.jpg",
+      "summary": "Las hermanas Owens deben enfrentarse a la oscura maldición que amenaza con desintegrar a su familia de una vez por todas.",
+      "genres": [
+        "Romance",
+        "Fantasía",
+        "Comedia"
+      ]
+    },
+    {
+      "title": "Practicamente Magia 2",
+      "time": "22:30",
       "rating": 6.4,
       "poster": "https://image.tmdb.org/t/p/w342/tnbyrsN7cu2An3By6UDOHrq21CK.jpg",
       "summary": "Las hermanas Owens deben enfrentarse a la oscura maldición que amenaza con desintegrar a su familia de una vez por todas.",
@@ -1119,7 +1165,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Sagrado Corazon",
-      "time": "19:00",
+      "time": "18:00",
       "rating": 7.8,
       "poster": "https://image.tmdb.org/t/p/w342/AnDL1kJLIQmUMGmXCAkzQTri3lJ.jpg",
       "summary": "Una docuficción que nos sumerge en el misterio del Sagrado Corazón de Jesús y nos revela su amor personal e incondicional.",
@@ -1131,7 +1177,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Un Plan Perfecto",
-      "time": "21:00",
+      "time": "22:00",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/gkwoom0kN8CBjf7FgVQumBfBkw5.jpg",
       "summary": "Es Navidad. Los Ibáñez son un fracaso como familia. Están arruinados, sin ilusión por la vida y su convivencia familiar es un desastre. Cuando están a punto de ser desahuciados por el banco, descubren en el sótano de su casa que alguien cavó un túnel con la idea de robar el banco de enfrente. Con la ayuda de Rufus, un veterano ladrón retirado, la familia decide completar el túnel y dar el golpe de sus vidas. Sin embargo, convivir y trabajar en equipo resultará mucho más complicado que cavar los últimos metros del túnel. Entre conflictos familiares, situaciones disparatadas y un atraco en el que todo parece salir mal, descubrirán que al final de ese túnel les espera algo mucho más importante que un botín millonario.",
@@ -1141,7 +1187,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Coyote Vs Acme",
-      "time": "17:00",
+      "time": "16:00",
       "rating": 7.5,
       "poster": "https://image.tmdb.org/t/p/w342/e4P8CIoffzsyjTm9e6U87Mng2CU.jpg",
       "summary": "Después de que todos los productos fabricados por ACME Corporation le salgan mal a Wile E. Coyote, en su persecución del Correcaminos, contrata a un abogado humano igualmente desafortunado para demandar a la empresa. Cuando el abogado de Wile E. descubre que el intimidante jefe de su antiguo bufete es el director general de ACME, se une a Wile E. para ganar el juicio contra él.",
@@ -1153,7 +1199,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Coyote Vs Acme",
-      "time": "19:00",
+      "time": "18:00",
       "rating": 7.5,
       "poster": "https://image.tmdb.org/t/p/w342/e4P8CIoffzsyjTm9e6U87Mng2CU.jpg",
       "summary": "Después de que todos los productos fabricados por ACME Corporation le salgan mal a Wile E. Coyote, en su persecución del Correcaminos, contrata a un abogado humano igualmente desafortunado para demandar a la empresa. Cuando el abogado de Wile E. descubre que el intimidante jefe de su antiguo bufete es el director general de ACME, se une a Wile E. para ganar el juicio contra él.",
@@ -1165,7 +1211,31 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Coyote Vs Acme",
-      "time": "21:00",
+      "time": "18:45",
+      "rating": 7.5,
+      "poster": "https://image.tmdb.org/t/p/w342/e4P8CIoffzsyjTm9e6U87Mng2CU.jpg",
+      "summary": "Después de que todos los productos fabricados por ACME Corporation le salgan mal a Wile E. Coyote, en su persecución del Correcaminos, contrata a un abogado humano igualmente desafortunado para demandar a la empresa. Cuando el abogado de Wile E. descubre que el intimidante jefe de su antiguo bufete es el director general de ACME, se une a Wile E. para ganar el juicio contra él.",
+      "genres": [
+        "Comedia",
+        "Aventura",
+        "Familia"
+      ]
+    },
+    {
+      "title": "Coyote Vs Acme",
+      "time": "20:00",
+      "rating": 7.5,
+      "poster": "https://image.tmdb.org/t/p/w342/e4P8CIoffzsyjTm9e6U87Mng2CU.jpg",
+      "summary": "Después de que todos los productos fabricados por ACME Corporation le salgan mal a Wile E. Coyote, en su persecución del Correcaminos, contrata a un abogado humano igualmente desafortunado para demandar a la empresa. Cuando el abogado de Wile E. descubre que el intimidante jefe de su antiguo bufete es el director general de ACME, se une a Wile E. para ganar el juicio contra él.",
+      "genres": [
+        "Comedia",
+        "Aventura",
+        "Familia"
+      ]
+    },
+    {
+      "title": "Coyote Vs Acme",
+      "time": "20:45",
       "rating": 7.5,
       "poster": "https://image.tmdb.org/t/p/w342/e4P8CIoffzsyjTm9e6U87Mng2CU.jpg",
       "summary": "Después de que todos los productos fabricados por ACME Corporation le salgan mal a Wile E. Coyote, en su persecución del Correcaminos, contrata a un abogado humano igualmente desafortunado para demandar a la empresa. Cuando el abogado de Wile E. descubre que el intimidante jefe de su antiguo bufete es el director general de ACME, se une a Wile E. para ganar el juicio contra él.",
@@ -1177,7 +1247,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "En La Zona Gris",
-      "time": "17:00",
+      "time": "16:00",
       "rating": 7.6,
       "poster": "https://image.tmdb.org/t/p/w342/kQik7Yfcs3O8dCBpIUGSdXOMOnQ.jpg",
       "summary": "Un equipo encubierto de agentes de élite viven en la sombra, tan cómodos manejando el poder y la influencia como armas automáticas y explosivos de gran potencia. Cuando un déspota roba una fortuna de mil millones de dólares, son enviados a recuperarla en lo que para cualquier otro sería una misión suicida. Lo que comienza como un atraco imposible empeora aún más y se convierte en una guerra total de estrategia, engaño y supervivencia.",
@@ -1188,7 +1258,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "En La Zona Gris",
-      "time": "20:30",
+      "time": "22:30",
       "rating": 7.6,
       "poster": "https://image.tmdb.org/t/p/w342/kQik7Yfcs3O8dCBpIUGSdXOMOnQ.jpg",
       "summary": "Un equipo encubierto de agentes de élite viven en la sombra, tan cómodos manejando el poder y la influencia como armas automáticas y explosivos de gran potencia. Cuando un déspota roba una fortuna de mil millones de dólares, son enviados a recuperarla en lo que para cualquier otro sería una misión suicida. Lo que comienza como un atraco imposible empeora aún más y se convierte en una guerra total de estrategia, engaño y supervivencia.",
@@ -1199,7 +1269,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Mis Queridisimos Padres",
-      "time": "17:15",
+      "time": "16:00",
       "rating": 6.2,
       "poster": "https://image.tmdb.org/t/p/w342/3skEkI2Hu7ZClhRtVoBJSYDdPYx.jpg",
       "summary": "Alice y Vincent Gauthier convocan urgentemente a sus tres hijos. Los hermanos llegan presos del pánico, temiendo lo peor... pero la buena noticia es que ¡sus padres han ganado la lotería! El problema es que no piensan darles ni un céntimo. Saldrán a la luz secretos enterrados, tensiones tácitas y celos profundos que sacudirán a la familia hasta sus cimientos.",
@@ -1209,7 +1279,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Mis Queridisimos Padres",
-      "time": "20:30",
+      "time": "21:00",
       "rating": 6.2,
       "poster": "https://image.tmdb.org/t/p/w342/3skEkI2Hu7ZClhRtVoBJSYDdPYx.jpg",
       "summary": "Alice y Vincent Gauthier convocan urgentemente a sus tres hijos. Los hermanos llegan presos del pánico, temiendo lo peor... pero la buena noticia es que ¡sus padres han ganado la lotería! El problema es que no piensan darles ni un céntimo. Saldrán a la luz secretos enterrados, tensiones tácitas y celos profundos que sacudirán a la familia hasta sus cimientos.",
@@ -1219,7 +1289,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Resident Evil",
-      "time": "17:00",
+      "time": "16:00",
       "rating": 7.8,
       "poster": "https://image.tmdb.org/t/p/w342/3d8D5tZXiPUE2VmRjnrTNzFORBa.jpg",
       "summary": "Película basada en la saga de videojuegos de Capcom del mismo nombre. En una reinvención totalmente nueva, el mensajero médico Bryan se ve inmerso en una carrera de acción sin descanso por la supervivencia, mientras el caos se desata a su alrededor.",
@@ -1231,7 +1301,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Resident Evil",
-      "time": "19:00",
+      "time": "18:00",
       "rating": 7.8,
       "poster": "https://image.tmdb.org/t/p/w342/3d8D5tZXiPUE2VmRjnrTNzFORBa.jpg",
       "summary": "Película basada en la saga de videojuegos de Capcom del mismo nombre. En una reinvención totalmente nueva, el mensajero médico Bryan se ve inmerso en una carrera de acción sin descanso por la supervivencia, mientras el caos se desata a su alrededor.",
@@ -1243,7 +1313,19 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Resident Evil",
-      "time": "21:00",
+      "time": "20:00",
+      "rating": 7.8,
+      "poster": "https://image.tmdb.org/t/p/w342/3d8D5tZXiPUE2VmRjnrTNzFORBa.jpg",
+      "summary": "Película basada en la saga de videojuegos de Capcom del mismo nombre. En una reinvención totalmente nueva, el mensajero médico Bryan se ve inmerso en una carrera de acción sin descanso por la supervivencia, mientras el caos se desata a su alrededor.",
+      "genres": [
+        "Terror",
+        "Ciencia ficción",
+        "Aventura"
+      ]
+    },
+    {
+      "title": "Resident Evil",
+      "time": "22:00",
       "rating": 7.8,
       "poster": "https://image.tmdb.org/t/p/w342/3d8D5tZXiPUE2VmRjnrTNzFORBa.jpg",
       "summary": "Película basada en la saga de videojuegos de Capcom del mismo nombre. En una reinvención totalmente nueva, el mensajero médico Bryan se ve inmerso en una carrera de acción sin descanso por la supervivencia, mientras el caos se desata a su alrededor.",
@@ -1255,7 +1337,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Tiempo De Victoria",
-      "time": "17:00",
+      "time": "16:00",
       "rating": 7.7,
       "poster": "https://image.tmdb.org/t/p/w342/byKFPj2xvKkqMKQ4i0Ayq6N7Z9E.jpg",
       "summary": "Quedan 72 horas para el Día D y todo está listo salvo un elemento clave: el tiempo. El capitán James Stagg, jefe del servicio meteorológico británico, recibe el encargo de elaborar el pronóstico más trascendental de la historia. Unas condiciones climáticas adversas podrían arruinar la mayor invasión marítima de la historia, mientras que cualquier retraso podría suponer que los servicios de inteligencia alemanes descubran sus intenciones. El general Dwight D. Eisenhower deberá tomar la decisión que determine el destino de la Segunda Guerra Mundial.",
@@ -1267,7 +1349,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Tiempo De Victoria",
-      "time": "19:00",
+      "time": "19:10",
       "rating": 7.7,
       "poster": "https://image.tmdb.org/t/p/w342/byKFPj2xvKkqMKQ4i0Ayq6N7Z9E.jpg",
       "summary": "Quedan 72 horas para el Día D y todo está listo salvo un elemento clave: el tiempo. El capitán James Stagg, jefe del servicio meteorológico británico, recibe el encargo de elaborar el pronóstico más trascendental de la historia. Unas condiciones climáticas adversas podrían arruinar la mayor invasión marítima de la historia, mientras que cualquier retraso podría suponer que los servicios de inteligencia alemanes descubran sus intenciones. El general Dwight D. Eisenhower deberá tomar la decisión que determine el destino de la Segunda Guerra Mundial.",
