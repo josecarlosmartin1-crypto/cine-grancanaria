@@ -2592,5 +2592,14 @@
     "poster": null,
     "summary": "Veinte años del Met en cines es una celebración de las dos décadas de esplendor escénico del Met tal y como se han vivido en las salas de cine, con lo más destacado de la colección de la compañía, que cuenta con más de 185 extraordinarias representaciones filmadas.\n\nPresentada por la famosa soprano Renée Fleming, esta presentación especial mostrará momentos inolvidables de algunas de las mayores estrellas de la ópera, seleccionados del vasto archivo de retransmisiones de la serie, con artistas tan destacados como Lise Davidsen, Natalie Dessay, Joyce DiDonato, Juan Diego Flórez, Elīna Garanča, Dmitri Hvorostovsky,  Jonas Kaufmann, Peter Mattei, Matthew Polenzani, Sondra Radvanovsky, Nadine Sierra y, por supuesto, la propia Fleming.",
     "genres": []
+  },
+  "En El Corazón De La Bestia": {
+    "rating": 7.7,
+    "poster": "https://image.tmdb.org/t/p/w342/h9Ql2vsltCOuf44c28nInxjzL2m.jpg",
+    "summary": "Tras sobrevivir a un brutal accidente aéreo, el oficial de las Fuerzas Especiales James Belmont y su perro de combate Odín intentan intentarán regresar a la civilización desde un remoto lugar en medio de los parajes salvajes de Alaska.",
+    "genres": [
+      "Aventura",
+      "Suspense"
+    ]
   }
 }
