@@ -2645,5 +2645,23 @@
       "Ciencia ficción",
       "Acción"
     ]
+  },
+  "Linkin Park: Unshatter": {
+    "rating": 10.0,
+    "poster": "https://image.tmdb.org/t/p/w342/g1Uaklgay4sHaVKq0vUgM9LyEEV.jpg",
+    "summary": "Tras siete años alejados de los escenarios y después de la devastadora pérdida de su querido compañero Chester Bennington, los miembros de LINKIN PARK intentan encontrar una nueva forma de seguir adelante. La historia que comparten y la amistad que los mantiene unidos, sumadas a la mirada renovadora de dos nuevos integrantes, despiertan una energía creativa que los impulsa a reinventarse como artistas. Desde las íntimas sesiones de estudio de 2022 hasta el lanzamiento de su explosivo álbum \"FROM ZERO\" y su concierto en São Paulo el 15 de noviembre de 2024, la película UNSHATTER recorre el regreso de la banda a través de imágenes inéditas de archivo, electrizantes actuaciones ante recintos llenos y sinceras entrevistas con sus miembros y seguidores. Un retrato íntimo, crudo y honesto de lo que significa encontrar la fuerza para empezar de nuevo.",
+    "genres": [
+      "Música",
+      "Documental"
+    ]
+  },
+  "El Amor Que Permanece": {
+    "rating": 6.3,
+    "poster": "https://image.tmdb.org/t/p/w342/4j1hblHh0DmpSdRqSQtqN8mepCU.jpg",
+    "summary": "La cosa nunca acaba de funcionar cuando Anna y Magnus, recién separados, se reúnen con sus tres hijos en la aldea rural donde viven con la madre. Asistimos al paso de las cuatro estaciones en esa relación que se desintegra, escenas de un (ex)matrimonio que se afanan en capturar momentos cotidianos, como si de esa forma quedaran a salvo del olvido en un hipotético álbum familiar.",
+    "genres": [
+      "Drama",
+      "Comedia"
+    ]
   }
 }
