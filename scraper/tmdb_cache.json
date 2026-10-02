@@ -2663,5 +2663,51 @@
       "Drama",
       "Comedia"
     ]
+  },
+  "Verity. La Sombra De Un Engaño": {
+    "rating": 6.8,
+    "poster": "https://image.tmdb.org/t/p/w342/dGSsPovyUW5XVekXcy7F2GyhTEh.jpg",
+    "summary": "Lowen Ashleigh es contratada como escritora fantasma por Jeremy Crawford para escribir las novelas de su esposa Verity, autora de bestsellers, impedida tras un accidente. Lowen descubre las inquietantes verdades de Verity mientras reside en casa de los Crawford para trabajar.",
+    "genres": [
+      "Misterio",
+      "Suspense"
+    ]
+  },
+  "Digger": {
+    "rating": 7.7,
+    "poster": "https://image.tmdb.org/t/p/w342/koqE0V2IgIPVy5o2vVkoGJvnB8b.jpg",
+    "summary": "El hombre más poderoso del mundo se embarca en una misión frenética para demostrar que es el salvador de la humanidad antes de que el desastre que ha desencadenado lo destruya todo.",
+    "genres": [
+      "Comedia",
+      "Drama"
+    ]
+  },
+  "Drishyam - The Conclusion": {
+    "rating": 10.0,
+    "poster": "https://image.tmdb.org/t/p/w342/67FsF2kpgEZ1T5Qos4adgqm9dLf.jpg",
+    "summary": "Georgekutty ya no solo defiende a su familia de amenazas externas; también los protege del peso de la propia verdad. A medida que fuerzas nuevas, mejor organizadas e implacables, se acercan, la calma que ha construido con tanto cuidado empieza a resquebrajarse. El peligro ya no viene solo de afuera: presiona su conciencia, sus relaciones y la frágil estabilidad que ha luchado por mantener. Con la presión en aumento, queda una pregunta: ¿hasta dónde llegará Georgekutty para proteger a quienes ama?",
+    "genres": [
+      "Suspense",
+      "Drama",
+      "Misterio"
+    ]
+  },
+  "Verity La Sombra De Un Engaño": {
+    "rating": 6.8,
+    "poster": "https://image.tmdb.org/t/p/w342/dGSsPovyUW5XVekXcy7F2GyhTEh.jpg",
+    "summary": "Lowen Ashleigh es contratada como escritora fantasma por Jeremy Crawford para escribir las novelas de su esposa Verity, autora de bestsellers, impedida tras un accidente. Lowen descubre las inquietantes verdades de Verity mientras reside en casa de los Crawford para trabajar.",
+    "genres": [
+      "Misterio",
+      "Suspense"
+    ]
+  },
+  "Sunny Dancer": {
+    "rating": 7.0,
+    "poster": "https://image.tmdb.org/t/p/w342/mXdejPfToSVFlEzv1QYoIh2N53e.jpg",
+    "summary": "Ivy, de 17 años y con cáncer, asiste a regañadientes a un campamento para jóvenes pacientes. Contra pronóstico, se hace amiga de un grupo peculiar y vive un verano inolvidable.",
+    "genres": [
+      "Drama",
+      "Comedia"
+    ]
   }
 }
