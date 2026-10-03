@@ -2709,5 +2709,21 @@
       "Drama",
       "Comedia"
     ]
+  },
+  "Così Fan Tutte  - Met Live 26-27": {
+    "rating": 0,
+    "poster": null,
+    "summary": "La temporada «The Met: Live in HD» continúa con la comedia satírica de Mozart sobre el amor juvenil y voluble. La puesta en escena de Phelim McDermott, calificada de «colorida e ingeniosa» (The New York Times) e inspirada en el Coney Island de los años 50, sitúa esta hilarante historia en un parque de atracciones junto al paseo marítimo, donde las dos parejas de enamorados protagonistas de la trama se ven envueltas en una sucesión de emociones fuertes —tanto en sentido figurado como literal—. La soprano Federica Lombardi y la mezzosoprano Samantha Hankey interpretan a Fiordiligi y Dorabella, junto al tenor Duke Kim y el barítono Andrey Zhilikhovsky como Ferrando y Guglielmo. El barítono bajo Gerald Finley vuelve a encarnar al cínico Don Alfonso, con la soprano Ana María Martínez como la ingeniosa criada Despina.",
+    "genres": []
+  },
+  "La Leyenda De La Ballena Cantora": {
+    "rating": 7.0,
+    "poster": "https://image.tmdb.org/t/p/w342/yIDPrKCgiG49cULhITKxeZywISe.jpg",
+    "summary": "Vincent es una ballena jorobada adolescente que se ha quedado huérfana. Hijo del último Cantor de Ballenas, que protegía los océanos con su canto mágico, vive angustiado por la pérdida de sus padres y duda de sus propias habilidades. Cuando el monstruoso Leviatán escapa de un iceberg oscuro y empieza a amenazar toda la vida marina con su tinta venenosa, Vincent debe encontrar su propio canto para detenerlo. Pero, abrumado por la inseguridad, se embarca en un peligroso viaje hacia las profundidades del mar para rescatar a sus padres del mítico Estanque Estelar, con la esperanza de que sea el padre quien derrote al Leviatán. Acompañado de Walter, un pez rémora muy quisquilloso que le hace de niñera y de Darya, una valiente orca sorda, Vincent tendrá que afrontar sus miedos y descubrir su propio canto para salvar a los océanos.",
+    "genres": [
+      "Animación",
+      "Aventura",
+      "Familia"
+    ]
   }
 }
