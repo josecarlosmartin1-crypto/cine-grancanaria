@@ -69,6 +69,39 @@ export const MOVIE_DATA = {
       ]
     },
     {
+      "title": "Digger",
+      "time": "17:00",
+      "rating": 7.7,
+      "poster": "https://image.tmdb.org/t/p/w342/koqE0V2IgIPVy5o2vVkoGJvnB8b.jpg",
+      "summary": "El hombre más poderoso del mundo se embarca en una misión frenética para demostrar que es el salvador de la humanidad antes de que el desastre que ha desencadenado lo destruya todo.",
+      "genres": [
+        "Comedia",
+        "Drama"
+      ]
+    },
+    {
+      "title": "Digger",
+      "time": "19:40",
+      "rating": 7.7,
+      "poster": "https://image.tmdb.org/t/p/w342/koqE0V2IgIPVy5o2vVkoGJvnB8b.jpg",
+      "summary": "El hombre más poderoso del mundo se embarca en una misión frenética para demostrar que es el salvador de la humanidad antes de que el desastre que ha desencadenado lo destruya todo.",
+      "genres": [
+        "Comedia",
+        "Drama"
+      ]
+    },
+    {
+      "title": "Digger",
+      "time": "22:20",
+      "rating": 7.7,
+      "poster": "https://image.tmdb.org/t/p/w342/koqE0V2IgIPVy5o2vVkoGJvnB8b.jpg",
+      "summary": "El hombre más poderoso del mundo se embarca en una misión frenética para demostrar que es el salvador de la humanidad antes de que el desastre que ha desencadenado lo destruya todo.",
+      "genres": [
+        "Comedia",
+        "Drama"
+      ]
+    },
+    {
       "title": "La Bola Negra",
       "time": "16:20",
       "rating": 0.0,
@@ -148,7 +181,40 @@ export const MOVIE_DATA = {
     },
     {
       "title": "En El Corazón De La Bestia",
+      "time": "15:50",
+      "rating": 7.7,
+      "poster": "https://image.tmdb.org/t/p/w342/h9Ql2vsltCOuf44c28nInxjzL2m.jpg",
+      "summary": "Tras sobrevivir a un brutal accidente aéreo, el oficial de las Fuerzas Especiales James Belmont y su perro de combate Odín intentan intentarán regresar a la civilización desde un remoto lugar en medio de los parajes salvajes de Alaska.",
+      "genres": [
+        "Aventura",
+        "Suspense"
+      ]
+    },
+    {
+      "title": "En El Corazón De La Bestia",
+      "time": "18:05",
+      "rating": 7.7,
+      "poster": "https://image.tmdb.org/t/p/w342/h9Ql2vsltCOuf44c28nInxjzL2m.jpg",
+      "summary": "Tras sobrevivir a un brutal accidente aéreo, el oficial de las Fuerzas Especiales James Belmont y su perro de combate Odín intentan intentarán regresar a la civilización desde un remoto lugar en medio de los parajes salvajes de Alaska.",
+      "genres": [
+        "Aventura",
+        "Suspense"
+      ]
+    },
+    {
+      "title": "En El Corazón De La Bestia",
       "time": "20:15",
+      "rating": 7.7,
+      "poster": "https://image.tmdb.org/t/p/w342/h9Ql2vsltCOuf44c28nInxjzL2m.jpg",
+      "summary": "Tras sobrevivir a un brutal accidente aéreo, el oficial de las Fuerzas Especiales James Belmont y su perro de combate Odín intentan intentarán regresar a la civilización desde un remoto lugar en medio de los parajes salvajes de Alaska.",
+      "genres": [
+        "Aventura",
+        "Suspense"
+      ]
+    },
+    {
+      "title": "En El Corazón De La Bestia",
+      "time": "22:25",
       "rating": 7.7,
       "poster": "https://image.tmdb.org/t/p/w342/h9Ql2vsltCOuf44c28nInxjzL2m.jpg",
       "summary": "Tras sobrevivir a un brutal accidente aéreo, el oficial de las Fuerzas Especiales James Belmont y su perro de combate Odín intentan intentarán regresar a la civilización desde un remoto lugar en medio de los parajes salvajes de Alaska.",
@@ -254,17 +320,6 @@ export const MOVIE_DATA = {
       ]
     },
     {
-      "title": "Insidious: Fuera Del Más Allá",
-      "time": "22:40",
-      "rating": 6.5,
-      "poster": "https://image.tmdb.org/t/p/w342/uEqCJh1fA9Ao9jaCL2xoROPJeUB.jpg",
-      "summary": "Sexta entrega de la franquicia \"Insidious\".",
-      "genres": [
-        "Terror",
-        "Suspense"
-      ]
-    },
-    {
       "title": "El Motín",
       "time": "22:45",
       "rating": 7.0,
@@ -272,6 +327,17 @@ export const MOVIE_DATA = {
       "summary": "Después de que su jefe, un industrial multimillonario, sea asesinado delante de él, Cole Reed se ve obligado a cargar con la culpa del crimen, lo que le obliga a huir mientras trabaja para descubrir una conspiración internacional.",
       "genres": [
         "Acción",
+        "Suspense"
+      ]
+    },
+    {
+      "title": "Insidious: Fuera Del Más Allá",
+      "time": "22:40",
+      "rating": 6.5,
+      "poster": "https://image.tmdb.org/t/p/w342/uEqCJh1fA9Ao9jaCL2xoROPJeUB.jpg",
+      "summary": "Sexta entrega de la franquicia \"Insidious\".",
+      "genres": [
+        "Terror",
         "Suspense"
       ]
     },
@@ -290,12 +356,48 @@ export const MOVIE_DATA = {
   ],
   "Cine Yelmo Las Arenas": [
     {
-      "title": "Così Fan Tutte (Mozart) - Met Live 26-27",
-      "time": "18:00",
-      "rating": 0,
-      "poster": null,
-      "summary": "La temporada «The Met: Live in HD» continúa con la comedia satírica de Mozart sobre el amor juvenil y voluble. La puesta en escena de Phelim McDermott, calificada de «colorida e ingeniosa» (The New York Times) e inspirada en el Coney Island de los años 50, sitúa esta hilarante historia en un parque de atracciones junto al paseo marítimo, donde las dos parejas de enamorados protagonistas de la trama se ven envueltas en una sucesión de emociones fuertes —tanto en sentido figurado como literal—. La soprano Federica Lombardi y la mezzosoprano Samantha Hankey interpretan a Fiordiligi y Dorabella, junto al tenor Duke Kim y el barítono Andrey Zhilikhovsky como Ferrando y Guglielmo. El barítono bajo Gerald Finley vuelve a encarnar al cínico Don Alfonso, con la soprano Ana María Martínez como la ingeniosa criada Despina.",
-      "genres": []
+      "title": "Verity. La Sombra De Un Engaño",
+      "time": "17:30",
+      "rating": 6.8,
+      "poster": "https://image.tmdb.org/t/p/w342/dGSsPovyUW5XVekXcy7F2GyhTEh.jpg",
+      "summary": "Lowen Ashleigh es contratada como escritora fantasma por Jeremy Crawford para escribir las novelas de su esposa Verity, autora de bestsellers, impedida tras un accidente. Lowen descubre las inquietantes verdades de Verity mientras reside en casa de los Crawford para trabajar.",
+      "genres": [
+        "Misterio",
+        "Suspense"
+      ]
+    },
+    {
+      "title": "Verity. La Sombra De Un Engaño",
+      "time": "18:50",
+      "rating": 6.8,
+      "poster": "https://image.tmdb.org/t/p/w342/dGSsPovyUW5XVekXcy7F2GyhTEh.jpg",
+      "summary": "Lowen Ashleigh es contratada como escritora fantasma por Jeremy Crawford para escribir las novelas de su esposa Verity, autora de bestsellers, impedida tras un accidente. Lowen descubre las inquietantes verdades de Verity mientras reside en casa de los Crawford para trabajar.",
+      "genres": [
+        "Misterio",
+        "Suspense"
+      ]
+    },
+    {
+      "title": "Verity. La Sombra De Un Engaño",
+      "time": "20:00",
+      "rating": 6.8,
+      "poster": "https://image.tmdb.org/t/p/w342/dGSsPovyUW5XVekXcy7F2GyhTEh.jpg",
+      "summary": "Lowen Ashleigh es contratada como escritora fantasma por Jeremy Crawford para escribir las novelas de su esposa Verity, autora de bestsellers, impedida tras un accidente. Lowen descubre las inquietantes verdades de Verity mientras reside en casa de los Crawford para trabajar.",
+      "genres": [
+        "Misterio",
+        "Suspense"
+      ]
+    },
+    {
+      "title": "Verity. La Sombra De Un Engaño",
+      "time": "22:35",
+      "rating": 6.8,
+      "poster": "https://image.tmdb.org/t/p/w342/dGSsPovyUW5XVekXcy7F2GyhTEh.jpg",
+      "summary": "Lowen Ashleigh es contratada como escritora fantasma por Jeremy Crawford para escribir las novelas de su esposa Verity, autora de bestsellers, impedida tras un accidente. Lowen descubre las inquietantes verdades de Verity mientras reside en casa de los Crawford para trabajar.",
+      "genres": [
+        "Misterio",
+        "Suspense"
+      ]
     },
     {
       "title": "Digger",
@@ -342,14 +444,15 @@ export const MOVIE_DATA = {
       ]
     },
     {
-      "title": "Linkin Park: Unshatter",
-      "time": "20:10",
+      "title": "Drishyam - The Conclusion",
+      "time": "22:00",
       "rating": 10.0,
-      "poster": "https://image.tmdb.org/t/p/w342/g1Uaklgay4sHaVKq0vUgM9LyEEV.jpg",
-      "summary": "Tras siete años alejados de los escenarios y después de la devastadora pérdida de su querido compañero Chester Bennington, los miembros de LINKIN PARK intentan encontrar una nueva forma de seguir adelante. La historia que comparten y la amistad que los mantiene unidos, sumadas a la mirada renovadora de dos nuevos integrantes, despiertan una energía creativa que los impulsa a reinventarse como artistas. Desde las íntimas sesiones de estudio de 2022 hasta el lanzamiento de su explosivo álbum \"FROM ZERO\" y su concierto en São Paulo el 15 de noviembre de 2024, la película UNSHATTER recorre el regreso de la banda a través de imágenes inéditas de archivo, electrizantes actuaciones ante recintos llenos y sinceras entrevistas con sus miembros y seguidores. Un retrato íntimo, crudo y honesto de lo que significa encontrar la fuerza para empezar de nuevo.",
+      "poster": "https://image.tmdb.org/t/p/w342/67FsF2kpgEZ1T5Qos4adgqm9dLf.jpg",
+      "summary": "Georgekutty ya no solo defiende a su familia de amenazas externas; también los protege del peso de la propia verdad. A medida que fuerzas nuevas, mejor organizadas e implacables, se acercan, la calma que ha construido con tanto cuidado empieza a resquebrajarse. El peligro ya no viene solo de afuera: presiona su conciencia, sus relaciones y la frágil estabilidad que ha luchado por mantener. Con la presión en aumento, queda una pregunta: ¿hasta dónde llegará Georgekutty para proteger a quienes ama?",
       "genres": [
-        "Música",
-        "Documental"
+        "Suspense",
+        "Drama",
+        "Misterio"
       ]
     },
     {
@@ -475,15 +578,15 @@ export const MOVIE_DATA = {
       ]
     },
     {
-      "title": "Coyote Vs. Acme",
-      "time": "18:50",
-      "rating": 7.5,
-      "poster": "https://image.tmdb.org/t/p/w342/e4P8CIoffzsyjTm9e6U87Mng2CU.jpg",
-      "summary": "Después de que todos los productos fabricados por ACME Corporation le salgan mal a Wile E. Coyote, en su persecución del Correcaminos, contrata a un abogado humano igualmente desafortunado para demandar a la empresa. Cuando el abogado de Wile E. descubre que el intimidante jefe de su antiguo bufete es el director general de ACME, se une a Wile E. para ganar el juicio contra él.",
+      "title": "La Isla Olvidada",
+      "time": "15:55",
+      "rating": 8.6,
+      "poster": "https://image.tmdb.org/t/p/w342/vpTdXFoZGzwnCWzkVYU7JH8teAZ.jpg",
+      "summary": "Dos amigas se quedan varadas en el místico mundo de Nakali, donde su único escape podría costarles su vida compartida de recuerdos.",
       "genres": [
-        "Comedia",
+        "Animación",
         "Aventura",
-        "Familia"
+        "Fantasía"
       ]
     },
     {
@@ -536,6 +639,18 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Resident Evil",
+      "time": "22:30",
+      "rating": 7.8,
+      "poster": "https://image.tmdb.org/t/p/w342/3d8D5tZXiPUE2VmRjnrTNzFORBa.jpg",
+      "summary": "Película basada en la saga de videojuegos de Capcom del mismo nombre. En una reinvención totalmente nueva, el mensajero médico Bryan se ve inmerso en una carrera de acción sin descanso por la supervivencia, mientras el caos se desata a su alrededor.",
+      "genres": [
+        "Terror",
+        "Ciencia ficción",
+        "Aventura"
+      ]
+    },
+    {
+      "title": "Resident Evil",
       "time": "22:45",
       "rating": 7.8,
       "poster": "https://image.tmdb.org/t/p/w342/3d8D5tZXiPUE2VmRjnrTNzFORBa.jpg",
@@ -547,8 +662,20 @@ export const MOVIE_DATA = {
       ]
     },
     {
+      "title": "Coyote Vs. Acme",
+      "time": "16:40",
+      "rating": 7.5,
+      "poster": "https://image.tmdb.org/t/p/w342/e4P8CIoffzsyjTm9e6U87Mng2CU.jpg",
+      "summary": "Después de que todos los productos fabricados por ACME Corporation le salgan mal a Wile E. Coyote, en su persecución del Correcaminos, contrata a un abogado humano igualmente desafortunado para demandar a la empresa. Cuando el abogado de Wile E. descubre que el intimidante jefe de su antiguo bufete es el director general de ACME, se une a Wile E. para ganar el juicio contra él.",
+      "genres": [
+        "Comedia",
+        "Aventura",
+        "Familia"
+      ]
+    },
+    {
       "title": "Prácticamente Magia 2",
-      "time": "22:35",
+      "time": "19:10",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/tnbyrsN7cu2An3By6UDOHrq21CK.jpg",
       "summary": "Las hermanas Owens deben enfrentarse a la oscura maldición que amenaza con desintegrar a su familia de una vez por todas.",
@@ -560,12 +687,24 @@ export const MOVIE_DATA = {
     },
     {
       "title": "El Ser Querido",
-      "time": "17:00",
+      "time": "18:20",
       "rating": 6.8,
       "poster": "https://image.tmdb.org/t/p/w342/bFYCaNsYmj4bOoHGIoqEthRxfRv.jpg",
       "summary": "Un aclamado director de cine y su hija, una actriz sin éxito, ruedan juntos una película tras años de distanciamiento y un pasado difícil del que ninguno de los dos ha querido hablar.",
       "genres": [
         "Drama"
+      ]
+    },
+    {
+      "title": "Tadeo Jones Y La Lámpara Maravillosa",
+      "time": "16:20",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/71G1b8bqa7gzP9yU7q2fgNf2t0D.jpg",
+      "summary": "Tadeo y Sara son ahora padres de Olimpia (Oli), una adorable e intrépida niña de dos años. Y Momia no lleva nada bien haber dejado de ser el centro de atención. Mientras están de vacaciones en Londres, Sara sigue la pista hacia un objeto único: la lámpara maravillosa de Las mil y una noches. Y Momia, presa de los celos, pide un deseo: viajar en el tiempo hasta el momento en que era joven y todos le querían. Tadeo y Sara tienen que unir fuerzas para evitar que Momia cambie el curso de la historia y traer al grupo (Jeff, Belzoni y Ramona incluidos) de vuelta a casa, a su época. Esta nueva aventura los llevará a cruzar el Océano Atlántico desde Perú hasta Grecia, y de allí a lo más profundo de Oriente Medio, hasta la misma cueva de Ali Babá y los cuarenta ladrones.",
+      "genres": [
+        "Animación",
+        "Comedia",
+        "Familia"
       ]
     },
     {
@@ -577,6 +716,18 @@ export const MOVIE_DATA = {
       "genres": [
         "Terror",
         "Suspense"
+      ]
+    },
+    {
+      "title": "La Odisea",
+      "time": "21:10",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/bheY17L6wtB0SdJn6EYyh1X5iry.jpg",
+      "summary": "Una epopeya mitológica que sigue la historia de Odiseo y su largo viaje a casa, de 10 años de duración, tras la guerra de Troya.",
+      "genres": [
+        "Aventura",
+        "Acción",
+        "Fantasía"
       ]
     },
     {
@@ -593,6 +744,17 @@ export const MOVIE_DATA = {
     }
   ],
   "Cine Yelmo Premium Alisios": [
+    {
+      "title": "Verity. La Sombra De Un Engaño",
+      "time": "15:00",
+      "rating": 6.8,
+      "poster": "https://image.tmdb.org/t/p/w342/dGSsPovyUW5XVekXcy7F2GyhTEh.jpg",
+      "summary": "Lowen Ashleigh es contratada como escritora fantasma por Jeremy Crawford para escribir las novelas de su esposa Verity, autora de bestsellers, impedida tras un accidente. Lowen descubre las inquietantes verdades de Verity mientras reside en casa de los Crawford para trabajar.",
+      "genres": [
+        "Misterio",
+        "Suspense"
+      ]
+    },
     {
       "title": "Verity. La Sombra De Un Engaño",
       "time": "17:30",
@@ -794,6 +956,18 @@ export const MOVIE_DATA = {
     },
     {
       "title": "La Isla Olvidada",
+      "time": "14:10",
+      "rating": 8.6,
+      "poster": "https://image.tmdb.org/t/p/w342/vpTdXFoZGzwnCWzkVYU7JH8teAZ.jpg",
+      "summary": "Dos amigas se quedan varadas en el místico mundo de Nakali, donde su único escape podría costarles su vida compartida de recuerdos.",
+      "genres": [
+        "Animación",
+        "Aventura",
+        "Fantasía"
+      ]
+    },
+    {
+      "title": "La Isla Olvidada",
       "time": "16:30",
       "rating": 8.6,
       "poster": "https://image.tmdb.org/t/p/w342/vpTdXFoZGzwnCWzkVYU7JH8teAZ.jpg",
@@ -950,18 +1124,6 @@ export const MOVIE_DATA = {
       ]
     },
     {
-      "title": "Resident Evil",
-      "time": "22:50",
-      "rating": 7.8,
-      "poster": "https://image.tmdb.org/t/p/w342/3d8D5tZXiPUE2VmRjnrTNzFORBa.jpg",
-      "summary": "Película basada en la saga de videojuegos de Capcom del mismo nombre. En una reinvención totalmente nueva, el mensajero médico Bryan se ve inmerso en una carrera de acción sin descanso por la supervivencia, mientras el caos se desata a su alrededor.",
-      "genres": [
-        "Terror",
-        "Ciencia ficción",
-        "Aventura"
-      ]
-    },
-    {
       "title": "La Isla Olvidada",
       "time": "15:45",
       "rating": 8.6,
@@ -998,7 +1160,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "En El Corazon De La Bestia",
-      "time": "20:00",
+      "time": "19:50",
       "rating": 8.0,
       "poster": "https://image.tmdb.org/t/p/w342/h9Ql2vsltCOuf44c28nInxjzL2m.jpg",
       "summary": "Tras sobrevivir a un brutal accidente aéreo, el oficial de las Fuerzas Especiales James Belmont y su perro de combate Odín intentan intentarán regresar a la civilización desde un remoto lugar en medio de los parajes salvajes de Alaska.",
@@ -1009,7 +1171,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "En El Corazon De La Bestia",
-      "time": "22:00",
+      "time": "21:40",
       "rating": 8.0,
       "poster": "https://image.tmdb.org/t/p/w342/h9Ql2vsltCOuf44c28nInxjzL2m.jpg",
       "summary": "Tras sobrevivir a un brutal accidente aéreo, el oficial de las Fuerzas Especiales James Belmont y su perro de combate Odín intentan intentarán regresar a la civilización desde un remoto lugar en medio de los parajes salvajes de Alaska.",
@@ -1042,7 +1204,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "La Bola Negra",
-      "time": "19:00",
+      "time": "18:50",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/4omaYktw4VYkk5Tkq7rmUsWnQa5.jpg",
       "summary": "Las vidas interconectadas de tres hombres en tres épocas distintas, tres existencias íntimamente ligadas por la sexualidad y el deseo, el dolor y la herencia.",
@@ -1064,7 +1226,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "La Bola Negra",
-      "time": "22:00",
+      "time": "21:40",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/4omaYktw4VYkk5Tkq7rmUsWnQa5.jpg",
       "summary": "Las vidas interconectadas de tres hombres en tres épocas distintas, tres existencias íntimamente ligadas por la sexualidad y el deseo, el dolor y la herencia.",
@@ -1119,17 +1281,6 @@ export const MOVIE_DATA = {
       ]
     },
     {
-      "title": "Verity La Sombra De Un Engaño",
-      "time": "22:50",
-      "rating": 6.8,
-      "poster": "https://image.tmdb.org/t/p/w342/dGSsPovyUW5XVekXcy7F2GyhTEh.jpg",
-      "summary": "Lowen Ashleigh es contratada como escritora fantasma por Jeremy Crawford para escribir las novelas de su esposa Verity, autora de bestsellers, impedida tras un accidente. Lowen descubre las inquietantes verdades de Verity mientras reside en casa de los Crawford para trabajar.",
-      "genres": [
-        "Misterio",
-        "Suspense"
-      ]
-    },
-    {
       "title": "Digger",
       "time": "16:00",
       "rating": 7.7,
@@ -1154,17 +1305,6 @@ export const MOVIE_DATA = {
     {
       "title": "Digger",
       "time": "20:00",
-      "rating": 7.7,
-      "poster": "https://image.tmdb.org/t/p/w342/koqE0V2IgIPVy5o2vVkoGJvnB8b.jpg",
-      "summary": "El hombre más poderoso del mundo se embarca en una misión frenética para demostrar que es el salvador de la humanidad antes de que el desastre que ha desencadenado lo destruya todo.",
-      "genres": [
-        "Comedia",
-        "Drama"
-      ]
-    },
-    {
-      "title": "Digger",
-      "time": "22:30",
       "rating": 7.7,
       "poster": "https://image.tmdb.org/t/p/w342/koqE0V2IgIPVy5o2vVkoGJvnB8b.jpg",
       "summary": "El hombre más poderoso del mundo se embarca en una misión frenética para demostrar que es el salvador de la humanidad antes de que el desastre que ha desencadenado lo destruya todo.",
