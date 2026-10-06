@@ -46,6 +46,17 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Digger",
+      "time": "17:00",
+      "rating": 7.7,
+      "poster": "https://image.tmdb.org/t/p/w342/koqE0V2IgIPVy5o2vVkoGJvnB8b.jpg",
+      "summary": "El hombre más poderoso del mundo se embarca en una misión frenética para demostrar que es el salvador de la humanidad antes de que el desastre que ha desencadenado lo destruya todo.",
+      "genres": [
+        "Comedia",
+        "Drama"
+      ]
+    },
+    {
+      "title": "Digger",
       "time": "19:40",
       "rating": 7.7,
       "poster": "https://image.tmdb.org/t/p/w342/koqE0V2IgIPVy5o2vVkoGJvnB8b.jpg",
@@ -167,6 +178,18 @@ export const MOVIE_DATA = {
       ]
     },
     {
+      "title": "La Isla Olvidada",
+      "time": "17:00",
+      "rating": 8.6,
+      "poster": "https://image.tmdb.org/t/p/w342/vpTdXFoZGzwnCWzkVYU7JH8teAZ.jpg",
+      "summary": "Dos amigas se quedan varadas en el místico mundo de Nakali, donde su único escape podría costarles su vida compartida de recuerdos.",
+      "genres": [
+        "Animación",
+        "Aventura",
+        "Fantasía"
+      ]
+    },
+    {
       "title": "Coyote Vs. Acme",
       "time": "18:10",
       "rating": 7.5,
@@ -192,7 +215,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Resident Evil",
-      "time": "20:00",
+      "time": "20:05",
       "rating": 7.8,
       "poster": "https://image.tmdb.org/t/p/w342/3d8D5tZXiPUE2VmRjnrTNzFORBa.jpg",
       "summary": "Película basada en la saga de videojuegos de Capcom del mismo nombre. En una reinvención totalmente nueva, el mensajero médico Bryan se ve inmerso en una carrera de acción sin descanso por la supervivencia, mientras el caos se desata a su alrededor.",
@@ -204,7 +227,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Resident Evil",
-      "time": "22:00",
+      "time": "22:05",
       "rating": 7.8,
       "poster": "https://image.tmdb.org/t/p/w342/3d8D5tZXiPUE2VmRjnrTNzFORBa.jpg",
       "summary": "Película basada en la saga de videojuegos de Capcom del mismo nombre. En una reinvención totalmente nueva, el mensajero médico Bryan se ve inmerso en una carrera de acción sin descanso por la supervivencia, mientras el caos se desata a su alrededor.",
@@ -274,6 +297,17 @@ export const MOVIE_DATA = {
     }
   ],
   "Cine Yelmo Las Arenas": [
+    {
+      "title": "Digger",
+      "time": "16:40",
+      "rating": 7.7,
+      "poster": "https://image.tmdb.org/t/p/w342/koqE0V2IgIPVy5o2vVkoGJvnB8b.jpg",
+      "summary": "El hombre más poderoso del mundo se embarca en una misión frenética para demostrar que es el salvador de la humanidad antes de que el desastre que ha desencadenado lo destruya todo.",
+      "genres": [
+        "Comedia",
+        "Drama"
+      ]
+    },
     {
       "title": "Digger",
       "time": "19:30",
@@ -398,7 +432,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "En El Corazón De La Bestia",
-      "time": "17:40",
+      "time": "18:00",
       "rating": 7.7,
       "poster": "https://image.tmdb.org/t/p/w342/h9Ql2vsltCOuf44c28nInxjzL2m.jpg",
       "summary": "Tras sobrevivir a un brutal accidente aéreo, el oficial de las Fuerzas Especiales James Belmont y su perro de combate Odín intentan intentarán regresar a la civilización desde un remoto lugar en medio de los parajes salvajes de Alaska.",
@@ -430,8 +464,20 @@ export const MOVIE_DATA = {
       ]
     },
     {
+      "title": "La Isla Olvidada",
+      "time": "16:55",
+      "rating": 8.6,
+      "poster": "https://image.tmdb.org/t/p/w342/vpTdXFoZGzwnCWzkVYU7JH8teAZ.jpg",
+      "summary": "Dos amigas se quedan varadas en el místico mundo de Nakali, donde su único escape podría costarles su vida compartida de recuerdos.",
+      "genres": [
+        "Animación",
+        "Aventura",
+        "Fantasía"
+      ]
+    },
+    {
       "title": "Resident Evil",
-      "time": "17:50",
+      "time": "16:50",
       "rating": 7.8,
       "poster": "https://image.tmdb.org/t/p/w342/3d8D5tZXiPUE2VmRjnrTNzFORBa.jpg",
       "summary": "Película basada en la saga de videojuegos de Capcom del mismo nombre. En una reinvención totalmente nueva, el mensajero médico Bryan se ve inmerso en una carrera de acción sin descanso por la supervivencia, mientras el caos se desata a su alrededor.",
@@ -475,6 +521,30 @@ export const MOVIE_DATA = {
         "Terror",
         "Ciencia ficción",
         "Aventura"
+      ]
+    },
+    {
+      "title": "Coyote Vs. Acme",
+      "time": "16:45",
+      "rating": 7.5,
+      "poster": "https://image.tmdb.org/t/p/w342/e4P8CIoffzsyjTm9e6U87Mng2CU.jpg",
+      "summary": "Después de que todos los productos fabricados por ACME Corporation le salgan mal a Wile E. Coyote, en su persecución del Correcaminos, contrata a un abogado humano igualmente desafortunado para demandar a la empresa. Cuando el abogado de Wile E. descubre que el intimidante jefe de su antiguo bufete es el director general de ACME, se une a Wile E. para ganar el juicio contra él.",
+      "genres": [
+        "Comedia",
+        "Aventura",
+        "Familia"
+      ]
+    },
+    {
+      "title": "Tiempo De Victoria",
+      "time": "17:50",
+      "rating": 7.7,
+      "poster": "https://image.tmdb.org/t/p/w342/byKFPj2xvKkqMKQ4i0Ayq6N7Z9E.jpg",
+      "summary": "Quedan 72 horas para el Día D y todo está listo salvo un elemento clave: el tiempo. El capitán James Stagg, jefe del servicio meteorológico británico, recibe el encargo de elaborar el pronóstico más trascendental de la historia. Unas condiciones climáticas adversas podrían arruinar la mayor invasión marítima de la historia, mientras que cualquier retraso podría suponer que los servicios de inteligencia alemanes descubran sus intenciones. El general Dwight D. Eisenhower deberá tomar la decisión que determine el destino de la Segunda Guerra Mundial.",
+      "genres": [
+        "Suspense",
+        "Historia",
+        "Bélica"
       ]
     },
     {
@@ -538,6 +608,17 @@ export const MOVIE_DATA = {
   "Cine Yelmo Premium Alisios": [
     {
       "title": "Verity. La Sombra De Un Engaño",
+      "time": "17:30",
+      "rating": 6.8,
+      "poster": "https://image.tmdb.org/t/p/w342/dGSsPovyUW5XVekXcy7F2GyhTEh.jpg",
+      "summary": "Lowen Ashleigh es contratada como escritora fantasma por Jeremy Crawford para escribir las novelas de su esposa Verity, autora de bestsellers, impedida tras un accidente. Lowen descubre las inquietantes verdades de Verity mientras reside en casa de los Crawford para trabajar.",
+      "genres": [
+        "Misterio",
+        "Suspense"
+      ]
+    },
+    {
+      "title": "Verity. La Sombra De Un Engaño",
       "time": "18:30",
       "rating": 6.8,
       "poster": "https://image.tmdb.org/t/p/w342/dGSsPovyUW5XVekXcy7F2GyhTEh.jpg",
@@ -567,6 +648,17 @@ export const MOVIE_DATA = {
       "genres": [
         "Misterio",
         "Suspense"
+      ]
+    },
+    {
+      "title": "Digger",
+      "time": "17:00",
+      "rating": 7.7,
+      "poster": "https://image.tmdb.org/t/p/w342/koqE0V2IgIPVy5o2vVkoGJvnB8b.jpg",
+      "summary": "El hombre más poderoso del mundo se embarca en una misión frenética para demostrar que es el salvador de la humanidad antes de que el desastre que ha desencadenado lo destruya todo.",
+      "genres": [
+        "Comedia",
+        "Drama"
       ]
     },
     {
@@ -601,6 +693,17 @@ export const MOVIE_DATA = {
         "Aventura",
         "Ciencia ficción",
         "Acción"
+      ]
+    },
+    {
+      "title": "La Bola Negra",
+      "time": "17:15",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/4omaYktw4VYkk5Tkq7rmUsWnQa5.jpg",
+      "summary": "Las vidas interconectadas de tres hombres en tres épocas distintas, tres existencias íntimamente ligadas por la sexualidad y el deseo, el dolor y la herencia.",
+      "genres": [
+        "Drama",
+        "Bélica"
       ]
     },
     {
@@ -693,15 +796,27 @@ export const MOVIE_DATA = {
       ]
     },
     {
-      "title": "Resident Evil",
-      "time": "18:00",
-      "rating": 7.8,
-      "poster": "https://image.tmdb.org/t/p/w342/3d8D5tZXiPUE2VmRjnrTNzFORBa.jpg",
-      "summary": "Película basada en la saga de videojuegos de Capcom del mismo nombre. En una reinvención totalmente nueva, el mensajero médico Bryan se ve inmerso en una carrera de acción sin descanso por la supervivencia, mientras el caos se desata a su alrededor.",
+      "title": "Coyote Vs. Acme",
+      "time": "17:10",
+      "rating": 7.5,
+      "poster": "https://image.tmdb.org/t/p/w342/e4P8CIoffzsyjTm9e6U87Mng2CU.jpg",
+      "summary": "Después de que todos los productos fabricados por ACME Corporation le salgan mal a Wile E. Coyote, en su persecución del Correcaminos, contrata a un abogado humano igualmente desafortunado para demandar a la empresa. Cuando el abogado de Wile E. descubre que el intimidante jefe de su antiguo bufete es el director general de ACME, se une a Wile E. para ganar el juicio contra él.",
       "genres": [
-        "Terror",
-        "Ciencia ficción",
-        "Aventura"
+        "Comedia",
+        "Aventura",
+        "Familia"
+      ]
+    },
+    {
+      "title": "Tiempo De Victoria",
+      "time": "17:55",
+      "rating": 7.7,
+      "poster": "https://image.tmdb.org/t/p/w342/byKFPj2xvKkqMKQ4i0Ayq6N7Z9E.jpg",
+      "summary": "Quedan 72 horas para el Día D y todo está listo salvo un elemento clave: el tiempo. El capitán James Stagg, jefe del servicio meteorológico británico, recibe el encargo de elaborar el pronóstico más trascendental de la historia. Unas condiciones climáticas adversas podrían arruinar la mayor invasión marítima de la historia, mientras que cualquier retraso podría suponer que los servicios de inteligencia alemanes descubran sus intenciones. El general Dwight D. Eisenhower deberá tomar la decisión que determine el destino de la Segunda Guerra Mundial.",
+      "genres": [
+        "Suspense",
+        "Historia",
+        "Bélica"
       ]
     },
     {
@@ -766,6 +881,30 @@ export const MOVIE_DATA = {
   ],
   "Artesiete Las Terrazas": [
     {
+      "title": "Coyote Vs Acme",
+      "time": "17:00",
+      "rating": 7.5,
+      "poster": "https://image.tmdb.org/t/p/w342/e4P8CIoffzsyjTm9e6U87Mng2CU.jpg",
+      "summary": "Después de que todos los productos fabricados por ACME Corporation le salgan mal a Wile E. Coyote, en su persecución del Correcaminos, contrata a un abogado humano igualmente desafortunado para demandar a la empresa. Cuando el abogado de Wile E. descubre que el intimidante jefe de su antiguo bufete es el director general de ACME, se une a Wile E. para ganar el juicio contra él.",
+      "genres": [
+        "Comedia",
+        "Aventura",
+        "Familia"
+      ]
+    },
+    {
+      "title": "Resident Evil",
+      "time": "17:00",
+      "rating": 7.8,
+      "poster": "https://image.tmdb.org/t/p/w342/3d8D5tZXiPUE2VmRjnrTNzFORBa.jpg",
+      "summary": "Película basada en la saga de videojuegos de Capcom del mismo nombre. En una reinvención totalmente nueva, el mensajero médico Bryan se ve inmerso en una carrera de acción sin descanso por la supervivencia, mientras el caos se desata a su alrededor.",
+      "genres": [
+        "Terror",
+        "Ciencia ficción",
+        "Aventura"
+      ]
+    },
+    {
       "title": "Resident Evil",
       "time": "21:50",
       "rating": 7.8,
@@ -775,6 +914,29 @@ export const MOVIE_DATA = {
         "Terror",
         "Ciencia ficción",
         "Aventura"
+      ]
+    },
+    {
+      "title": "La Isla Olvidada",
+      "time": "16:45",
+      "rating": 8.6,
+      "poster": "https://image.tmdb.org/t/p/w342/vpTdXFoZGzwnCWzkVYU7JH8teAZ.jpg",
+      "summary": "Dos amigas se quedan varadas en el místico mundo de Nakali, donde su único escape podría costarles su vida compartida de recuerdos.",
+      "genres": [
+        "Animación",
+        "Aventura",
+        "Fantasía"
+      ]
+    },
+    {
+      "title": "En El Corazon De La Bestia",
+      "time": "16:50",
+      "rating": 8.0,
+      "poster": "https://image.tmdb.org/t/p/w342/h9Ql2vsltCOuf44c28nInxjzL2m.jpg",
+      "summary": "Tras sobrevivir a un brutal accidente aéreo, el oficial de las Fuerzas Especiales James Belmont y su perro de combate Odín intentan intentarán regresar a la civilización desde un remoto lugar en medio de los parajes salvajes de Alaska.",
+      "genres": [
+        "Aventura",
+        "Suspense"
       ]
     },
     {
@@ -797,6 +959,17 @@ export const MOVIE_DATA = {
       "genres": [
         "Aventura",
         "Suspense"
+      ]
+    },
+    {
+      "title": "La Bola Negra",
+      "time": "16:50",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/4omaYktw4VYkk5Tkq7rmUsWnQa5.jpg",
+      "summary": "Las vidas interconectadas de tres hombres en tres épocas distintas, tres existencias íntimamente ligadas por la sexualidad y el deseo, el dolor y la herencia.",
+      "genres": [
+        "Drama",
+        "Bélica"
       ]
     },
     {
@@ -857,6 +1030,17 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Digger",
+      "time": "17:00",
+      "rating": 7.7,
+      "poster": "https://image.tmdb.org/t/p/w342/koqE0V2IgIPVy5o2vVkoGJvnB8b.jpg",
+      "summary": "El hombre más poderoso del mundo se embarca en una misión frenética para demostrar que es el salvador de la humanidad antes de que el desastre que ha desencadenado lo destruya todo.",
+      "genres": [
+        "Comedia",
+        "Drama"
+      ]
+    },
+    {
+      "title": "Digger",
       "time": "19:30",
       "rating": 7.7,
       "poster": "https://image.tmdb.org/t/p/w342/koqE0V2IgIPVy5o2vVkoGJvnB8b.jpg",
@@ -886,6 +1070,17 @@ export const MOVIE_DATA = {
       "genres": [
         "Drama",
         "Comedia"
+      ]
+    },
+    {
+      "title": "Verity La Sombra De Un Engaño",
+      "time": "16:50",
+      "rating": 6.8,
+      "poster": "https://image.tmdb.org/t/p/w342/dGSsPovyUW5XVekXcy7F2GyhTEh.jpg",
+      "summary": "Lowen Ashleigh es contratada como escritora fantasma por Jeremy Crawford para escribir las novelas de su esposa Verity, autora de bestsellers, impedida tras un accidente. Lowen descubre las inquietantes verdades de Verity mientras reside en casa de los Crawford para trabajar.",
+      "genres": [
+        "Misterio",
+        "Suspense"
       ]
     },
     {
