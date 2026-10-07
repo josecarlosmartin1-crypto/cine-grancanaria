@@ -1,6 +1,17 @@
 export const MOVIE_DATA = {
   "Cine Yelmo Vecindario": [
     {
+      "title": "Queen Budapest",
+      "time": "20:00",
+      "rating": 8.2,
+      "poster": "https://image.tmdb.org/t/p/w342/dCsCez4aVeXqMiALdWYp4LFsztI.jpg",
+      "summary": "El 27 de julio de 1986, la banda británica de rock Queen abrió nuevos caminos tocando por primera vez en Hungría, un país que todavía estaba bajo una dictadura comunista detrás del Telón de Acero. El concierto, enmarcado en el \"Magic Tour\", se celebró en el Nepstadion (hoy Estadio Ferenc Puskás) en la ciudad de Budapest ante un público de 80.000 personas. La película muestra imágenes de los eventos previos al concierto y momentos vividos por cada uno de los miembros de la banda en la ciudad de Budapest.",
+      "genres": [
+        "Música",
+        "Documental"
+      ]
+    },
+    {
       "title": "Verity. La Sombra De Un Engaño",
       "time": "17:30",
       "rating": 6.8,
@@ -190,18 +201,6 @@ export const MOVIE_DATA = {
       ]
     },
     {
-      "title": "Coyote Vs. Acme",
-      "time": "18:10",
-      "rating": 7.5,
-      "poster": "https://image.tmdb.org/t/p/w342/e4P8CIoffzsyjTm9e6U87Mng2CU.jpg",
-      "summary": "Después de que todos los productos fabricados por ACME Corporation le salgan mal a Wile E. Coyote, en su persecución del Correcaminos, contrata a un abogado humano igualmente desafortunado para demandar a la empresa. Cuando el abogado de Wile E. descubre que el intimidante jefe de su antiguo bufete es el director general de ACME, se une a Wile E. para ganar el juicio contra él.",
-      "genres": [
-        "Comedia",
-        "Aventura",
-        "Familia"
-      ]
-    },
-    {
       "title": "Resident Evil",
       "time": "18:00",
       "rating": 7.8,
@@ -238,8 +237,20 @@ export const MOVIE_DATA = {
       ]
     },
     {
+      "title": "Coyote Vs. Acme",
+      "time": "17:40",
+      "rating": 7.5,
+      "poster": "https://image.tmdb.org/t/p/w342/e4P8CIoffzsyjTm9e6U87Mng2CU.jpg",
+      "summary": "Después de que todos los productos fabricados por ACME Corporation le salgan mal a Wile E. Coyote, en su persecución del Correcaminos, contrata a un abogado humano igualmente desafortunado para demandar a la empresa. Cuando el abogado de Wile E. descubre que el intimidante jefe de su antiguo bufete es el director general de ACME, se une a Wile E. para ganar el juicio contra él.",
+      "genres": [
+        "Comedia",
+        "Aventura",
+        "Familia"
+      ]
+    },
+    {
       "title": "Prácticamente Magia 2",
-      "time": "20:30",
+      "time": "22:10",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/tnbyrsN7cu2An3By6UDOHrq21CK.jpg",
       "summary": "Las hermanas Owens deben enfrentarse a la oscura maldición que amenaza con desintegrar a su familia de una vez por todas.",
@@ -298,6 +309,17 @@ export const MOVIE_DATA = {
   ],
   "Cine Yelmo Las Arenas": [
     {
+      "title": "Queen Budapest",
+      "time": "20:00",
+      "rating": 8.2,
+      "poster": "https://image.tmdb.org/t/p/w342/dCsCez4aVeXqMiALdWYp4LFsztI.jpg",
+      "summary": "El 27 de julio de 1986, la banda británica de rock Queen abrió nuevos caminos tocando por primera vez en Hungría, un país que todavía estaba bajo una dictadura comunista detrás del Telón de Acero. El concierto, enmarcado en el \"Magic Tour\", se celebró en el Nepstadion (hoy Estadio Ferenc Puskás) en la ciudad de Budapest ante un público de 80.000 personas. La película muestra imágenes de los eventos previos al concierto y momentos vividos por cada uno de los miembros de la banda en la ciudad de Budapest.",
+      "genres": [
+        "Música",
+        "Documental"
+      ]
+    },
+    {
       "title": "Digger",
       "time": "16:40",
       "rating": 7.7,
@@ -332,7 +354,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Verity. La Sombra De Un Engaño",
-      "time": "17:30",
+      "time": "17:00",
       "rating": 6.8,
       "poster": "https://image.tmdb.org/t/p/w342/dGSsPovyUW5XVekXcy7F2GyhTEh.jpg",
       "summary": "Lowen Ashleigh es contratada como escritora fantasma por Jeremy Crawford para escribir las novelas de su esposa Verity, autora de bestsellers, impedida tras un accidente. Lowen descubre las inquietantes verdades de Verity mientras reside en casa de los Crawford para trabajar.",
@@ -343,7 +365,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Verity. La Sombra De Un Engaño",
-      "time": "20:00",
+      "time": "19:40",
       "rating": 6.8,
       "poster": "https://image.tmdb.org/t/p/w342/dGSsPovyUW5XVekXcy7F2GyhTEh.jpg",
       "summary": "Lowen Ashleigh es contratada como escritora fantasma por Jeremy Crawford para escribir las novelas de su esposa Verity, autora de bestsellers, impedida tras un accidente. Lowen descubre las inquietantes verdades de Verity mientras reside en casa de los Crawford para trabajar.",
@@ -354,7 +376,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Verity. La Sombra De Un Engaño",
-      "time": "22:35",
+      "time": "22:15",
       "rating": 6.8,
       "poster": "https://image.tmdb.org/t/p/w342/dGSsPovyUW5XVekXcy7F2GyhTEh.jpg",
       "summary": "Lowen Ashleigh es contratada como escritora fantasma por Jeremy Crawford para escribir las novelas de su esposa Verity, autora de bestsellers, impedida tras un accidente. Lowen descubre las inquietantes verdades de Verity mientras reside en casa de los Crawford para trabajar.",
@@ -489,6 +511,18 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Resident Evil",
+      "time": "17:50",
+      "rating": 7.8,
+      "poster": "https://image.tmdb.org/t/p/w342/3d8D5tZXiPUE2VmRjnrTNzFORBa.jpg",
+      "summary": "Película basada en la saga de videojuegos de Capcom del mismo nombre. En una reinvención totalmente nueva, el mensajero médico Bryan se ve inmerso en una carrera de acción sin descanso por la supervivencia, mientras el caos se desata a su alrededor.",
+      "genres": [
+        "Terror",
+        "Ciencia ficción",
+        "Aventura"
+      ]
+    },
+    {
+      "title": "Resident Evil",
       "time": "20:10",
       "rating": 7.8,
       "poster": "https://image.tmdb.org/t/p/w342/3d8D5tZXiPUE2VmRjnrTNzFORBa.jpg",
@@ -513,7 +547,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Resident Evil",
-      "time": "22:45",
+      "time": "22:50",
       "rating": 7.8,
       "poster": "https://image.tmdb.org/t/p/w342/3d8D5tZXiPUE2VmRjnrTNzFORBa.jpg",
       "summary": "Película basada en la saga de videojuegos de Capcom del mismo nombre. En una reinvención totalmente nueva, el mensajero médico Bryan se ve inmerso en una carrera de acción sin descanso por la supervivencia, mientras el caos se desata a su alrededor.",
@@ -525,7 +559,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Coyote Vs. Acme",
-      "time": "16:45",
+      "time": "17:40",
       "rating": 7.5,
       "poster": "https://image.tmdb.org/t/p/w342/e4P8CIoffzsyjTm9e6U87Mng2CU.jpg",
       "summary": "Después de que todos los productos fabricados por ACME Corporation le salgan mal a Wile E. Coyote, en su persecución del Correcaminos, contrata a un abogado humano igualmente desafortunado para demandar a la empresa. Cuando el abogado de Wile E. descubre que el intimidante jefe de su antiguo bufete es el director general de ACME, se une a Wile E. para ganar el juicio contra él.",
@@ -536,20 +570,8 @@ export const MOVIE_DATA = {
       ]
     },
     {
-      "title": "Tiempo De Victoria",
-      "time": "17:50",
-      "rating": 7.7,
-      "poster": "https://image.tmdb.org/t/p/w342/byKFPj2xvKkqMKQ4i0Ayq6N7Z9E.jpg",
-      "summary": "Quedan 72 horas para el Día D y todo está listo salvo un elemento clave: el tiempo. El capitán James Stagg, jefe del servicio meteorológico británico, recibe el encargo de elaborar el pronóstico más trascendental de la historia. Unas condiciones climáticas adversas podrían arruinar la mayor invasión marítima de la historia, mientras que cualquier retraso podría suponer que los servicios de inteligencia alemanes descubran sus intenciones. El general Dwight D. Eisenhower deberá tomar la decisión que determine el destino de la Segunda Guerra Mundial.",
-      "genres": [
-        "Suspense",
-        "Historia",
-        "Bélica"
-      ]
-    },
-    {
       "title": "Prácticamente Magia 2",
-      "time": "19:10",
+      "time": "22:10",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/tnbyrsN7cu2An3By6UDOHrq21CK.jpg",
       "summary": "Las hermanas Owens deben enfrentarse a la oscura maldición que amenaza con desintegrar a su familia de una vez por todas.",
@@ -571,25 +593,13 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Insidious: Fuera Del Más Allá",
-      "time": "22:50",
+      "time": "22:35",
       "rating": 6.5,
       "poster": "https://image.tmdb.org/t/p/w342/uEqCJh1fA9Ao9jaCL2xoROPJeUB.jpg",
       "summary": "Sexta entrega de la franquicia \"Insidious\".",
       "genres": [
         "Terror",
         "Suspense"
-      ]
-    },
-    {
-      "title": "Spider-Man: Brand New Day",
-      "time": "22:00",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/2OKQrD5Txku6o5JQmxXrUAGKrSt.jpg",
-      "summary": "Han pasado cuatro años desde los acontecimientos de No Way Home, y Peter Parker ahora es un adulto que vive completamente solo, ha desaparecido voluntariamente de las vidas y recuerdos de quienes ama. Combatiendo el crimen en una Nueva York que ya no conoce su nombre, se ha dedicado por completo a proteger su ciudad, pero a medida que aumentan las exigencias sobre él, la presión desencadena una evolución física que amenaza su existencia, al mismo tiempo que un extraño nuevo patrón de crímenes da lugar a una de las amenazas más poderosas a las que se ha enfrentado.",
-      "genres": [
-        "Ciencia ficción",
-        "Acción",
-        "Aventura"
       ]
     },
     {
@@ -808,15 +818,15 @@ export const MOVIE_DATA = {
       ]
     },
     {
-      "title": "Tiempo De Victoria",
-      "time": "17:55",
-      "rating": 7.7,
-      "poster": "https://image.tmdb.org/t/p/w342/byKFPj2xvKkqMKQ4i0Ayq6N7Z9E.jpg",
-      "summary": "Quedan 72 horas para el Día D y todo está listo salvo un elemento clave: el tiempo. El capitán James Stagg, jefe del servicio meteorológico británico, recibe el encargo de elaborar el pronóstico más trascendental de la historia. Unas condiciones climáticas adversas podrían arruinar la mayor invasión marítima de la historia, mientras que cualquier retraso podría suponer que los servicios de inteligencia alemanes descubran sus intenciones. El general Dwight D. Eisenhower deberá tomar la decisión que determine el destino de la Segunda Guerra Mundial.",
+      "title": "Resident Evil",
+      "time": "18:00",
+      "rating": 7.8,
+      "poster": "https://image.tmdb.org/t/p/w342/3d8D5tZXiPUE2VmRjnrTNzFORBa.jpg",
+      "summary": "Película basada en la saga de videojuegos de Capcom del mismo nombre. En una reinvención totalmente nueva, el mensajero médico Bryan se ve inmerso en una carrera de acción sin descanso por la supervivencia, mientras el caos se desata a su alrededor.",
       "genres": [
-        "Suspense",
-        "Historia",
-        "Bélica"
+        "Terror",
+        "Ciencia ficción",
+        "Aventura"
       ]
     },
     {
@@ -881,20 +891,8 @@ export const MOVIE_DATA = {
   ],
   "Artesiete Las Terrazas": [
     {
-      "title": "Coyote Vs Acme",
-      "time": "17:00",
-      "rating": 7.5,
-      "poster": "https://image.tmdb.org/t/p/w342/e4P8CIoffzsyjTm9e6U87Mng2CU.jpg",
-      "summary": "Después de que todos los productos fabricados por ACME Corporation le salgan mal a Wile E. Coyote, en su persecución del Correcaminos, contrata a un abogado humano igualmente desafortunado para demandar a la empresa. Cuando el abogado de Wile E. descubre que el intimidante jefe de su antiguo bufete es el director general de ACME, se une a Wile E. para ganar el juicio contra él.",
-      "genres": [
-        "Comedia",
-        "Aventura",
-        "Familia"
-      ]
-    },
-    {
       "title": "Resident Evil",
-      "time": "17:00",
+      "time": "18:00",
       "rating": 7.8,
       "poster": "https://image.tmdb.org/t/p/w342/3d8D5tZXiPUE2VmRjnrTNzFORBa.jpg",
       "summary": "Película basada en la saga de videojuegos de Capcom del mismo nombre. En una reinvención totalmente nueva, el mensajero médico Bryan se ve inmerso en una carrera de acción sin descanso por la supervivencia, mientras el caos se desata a su alrededor.",
@@ -906,7 +904,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Resident Evil",
-      "time": "21:50",
+      "time": "20:00",
       "rating": 7.8,
       "poster": "https://image.tmdb.org/t/p/w342/3d8D5tZXiPUE2VmRjnrTNzFORBa.jpg",
       "summary": "Película basada en la saga de videojuegos de Capcom del mismo nombre. En una reinvención totalmente nueva, el mensajero médico Bryan se ve inmerso en una carrera de acción sin descanso por la supervivencia, mientras el caos se desata a su alrededor.",
@@ -917,20 +915,32 @@ export const MOVIE_DATA = {
       ]
     },
     {
-      "title": "La Isla Olvidada",
-      "time": "16:45",
-      "rating": 8.6,
-      "poster": "https://image.tmdb.org/t/p/w342/vpTdXFoZGzwnCWzkVYU7JH8teAZ.jpg",
-      "summary": "Dos amigas se quedan varadas en el místico mundo de Nakali, donde su único escape podría costarles su vida compartida de recuerdos.",
+      "title": "Resident Evil",
+      "time": "22:00",
+      "rating": 7.8,
+      "poster": "https://image.tmdb.org/t/p/w342/3d8D5tZXiPUE2VmRjnrTNzFORBa.jpg",
+      "summary": "Película basada en la saga de videojuegos de Capcom del mismo nombre. En una reinvención totalmente nueva, el mensajero médico Bryan se ve inmerso en una carrera de acción sin descanso por la supervivencia, mientras el caos se desata a su alrededor.",
       "genres": [
-        "Animación",
-        "Aventura",
-        "Fantasía"
+        "Terror",
+        "Ciencia ficción",
+        "Aventura"
+      ]
+    },
+    {
+      "title": "Resident Evil",
+      "time": "22:50",
+      "rating": 7.8,
+      "poster": "https://image.tmdb.org/t/p/w342/3d8D5tZXiPUE2VmRjnrTNzFORBa.jpg",
+      "summary": "Película basada en la saga de videojuegos de Capcom del mismo nombre. En una reinvención totalmente nueva, el mensajero médico Bryan se ve inmerso en una carrera de acción sin descanso por la supervivencia, mientras el caos se desata a su alrededor.",
+      "genres": [
+        "Terror",
+        "Ciencia ficción",
+        "Aventura"
       ]
     },
     {
       "title": "En El Corazon De La Bestia",
-      "time": "16:50",
+      "time": "18:00",
       "rating": 8.0,
       "poster": "https://image.tmdb.org/t/p/w342/h9Ql2vsltCOuf44c28nInxjzL2m.jpg",
       "summary": "Tras sobrevivir a un brutal accidente aéreo, el oficial de las Fuerzas Especiales James Belmont y su perro de combate Odín intentan intentarán regresar a la civilización desde un remoto lugar en medio de los parajes salvajes de Alaska.",
@@ -941,7 +951,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "En El Corazon De La Bestia",
-      "time": "19:00",
+      "time": "20:00",
       "rating": 8.0,
       "poster": "https://image.tmdb.org/t/p/w342/h9Ql2vsltCOuf44c28nInxjzL2m.jpg",
       "summary": "Tras sobrevivir a un brutal accidente aéreo, el oficial de las Fuerzas Especiales James Belmont y su perro de combate Odín intentan intentarán regresar a la civilización desde un remoto lugar en medio de los parajes salvajes de Alaska.",
@@ -952,7 +962,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "En El Corazon De La Bestia",
-      "time": "21:00",
+      "time": "22:00",
       "rating": 8.0,
       "poster": "https://image.tmdb.org/t/p/w342/h9Ql2vsltCOuf44c28nInxjzL2m.jpg",
       "summary": "Tras sobrevivir a un brutal accidente aéreo, el oficial de las Fuerzas Especiales James Belmont y su perro de combate Odín intentan intentarán regresar a la civilización desde un remoto lugar en medio de los parajes salvajes de Alaska.",
@@ -963,7 +973,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "La Bola Negra",
-      "time": "16:50",
+      "time": "18:00",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/4omaYktw4VYkk5Tkq7rmUsWnQa5.jpg",
       "summary": "Las vidas interconectadas de tres hombres en tres épocas distintas, tres existencias íntimamente ligadas por la sexualidad y el deseo, el dolor y la herencia.",
@@ -974,7 +984,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "La Bola Negra",
-      "time": "18:45",
+      "time": "20:00",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/4omaYktw4VYkk5Tkq7rmUsWnQa5.jpg",
       "summary": "Las vidas interconectadas de tres hombres en tres épocas distintas, tres existencias íntimamente ligadas por la sexualidad y el deseo, el dolor y la herencia.",
@@ -985,29 +995,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "La Bola Negra",
-      "time": "19:00",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/4omaYktw4VYkk5Tkq7rmUsWnQa5.jpg",
-      "summary": "Las vidas interconectadas de tres hombres en tres épocas distintas, tres existencias íntimamente ligadas por la sexualidad y el deseo, el dolor y la herencia.",
-      "genres": [
-        "Drama",
-        "Bélica"
-      ]
-    },
-    {
-      "title": "La Bola Negra",
-      "time": "20:10",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/4omaYktw4VYkk5Tkq7rmUsWnQa5.jpg",
-      "summary": "Las vidas interconectadas de tres hombres en tres épocas distintas, tres existencias íntimamente ligadas por la sexualidad y el deseo, el dolor y la herencia.",
-      "genres": [
-        "Drama",
-        "Bélica"
-      ]
-    },
-    {
-      "title": "La Bola Negra",
-      "time": "21:50",
+      "time": "21:15",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/4omaYktw4VYkk5Tkq7rmUsWnQa5.jpg",
       "summary": "Las vidas interconectadas de tres hombres en tres épocas distintas, tres existencias íntimamente ligadas por la sexualidad y el deseo, el dolor y la herencia.",
@@ -1018,7 +1006,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Vengadores: Endgame",
-      "time": "18:40",
+      "time": "20:00",
       "rating": 8.2,
       "poster": "https://image.tmdb.org/t/p/w342/br6krBFpaYmCSglLBWRuhui7tPc.jpg",
       "summary": "Tras el chasquido de Thanos que eliminó a la mitad de la vida en el universo, los Vengadores supervivientes quedan devastados y divididos. Cinco años después, una inesperada oportunidad les permite intentar revertir la catástrofe. Reuniéndose una vez más, los héroes emprenden una misión extrema que los obliga a viajar al pasado, enfrentarse a sus propias pérdidas y hacer sacrificios definitivos para restaurar el equilibrio del universo.",
@@ -1029,41 +1017,8 @@ export const MOVIE_DATA = {
       ]
     },
     {
-      "title": "Digger",
-      "time": "17:00",
-      "rating": 7.7,
-      "poster": "https://image.tmdb.org/t/p/w342/koqE0V2IgIPVy5o2vVkoGJvnB8b.jpg",
-      "summary": "El hombre más poderoso del mundo se embarca en una misión frenética para demostrar que es el salvador de la humanidad antes de que el desastre que ha desencadenado lo destruya todo.",
-      "genres": [
-        "Comedia",
-        "Drama"
-      ]
-    },
-    {
-      "title": "Digger",
-      "time": "19:30",
-      "rating": 7.7,
-      "poster": "https://image.tmdb.org/t/p/w342/koqE0V2IgIPVy5o2vVkoGJvnB8b.jpg",
-      "summary": "El hombre más poderoso del mundo se embarca en una misión frenética para demostrar que es el salvador de la humanidad antes de que el desastre que ha desencadenado lo destruya todo.",
-      "genres": [
-        "Comedia",
-        "Drama"
-      ]
-    },
-    {
-      "title": "Digger",
-      "time": "21:00",
-      "rating": 7.7,
-      "poster": "https://image.tmdb.org/t/p/w342/koqE0V2IgIPVy5o2vVkoGJvnB8b.jpg",
-      "summary": "El hombre más poderoso del mundo se embarca en una misión frenética para demostrar que es el salvador de la humanidad antes de que el desastre que ha desencadenado lo destruya todo.",
-      "genres": [
-        "Comedia",
-        "Drama"
-      ]
-    },
-    {
       "title": "Sunny Dancer",
-      "time": "21:40",
+      "time": "21:10",
       "rating": 7.0,
       "poster": "https://image.tmdb.org/t/p/w342/mXdejPfToSVFlEzv1QYoIh2N53e.jpg",
       "summary": "Ivy, de 17 años y con cáncer, asiste a regañadientes a un campamento para jóvenes pacientes. Contra pronóstico, se hace amiga de un grupo peculiar y vive un verano inolvidable.",
@@ -1074,7 +1029,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Verity La Sombra De Un Engaño",
-      "time": "16:50",
+      "time": "17:00",
       "rating": 6.8,
       "poster": "https://image.tmdb.org/t/p/w342/dGSsPovyUW5XVekXcy7F2GyhTEh.jpg",
       "summary": "Lowen Ashleigh es contratada como escritora fantasma por Jeremy Crawford para escribir las novelas de su esposa Verity, autora de bestsellers, impedida tras un accidente. Lowen descubre las inquietantes verdades de Verity mientras reside en casa de los Crawford para trabajar.",
@@ -1085,7 +1040,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Verity La Sombra De Un Engaño",
-      "time": "18:45",
+      "time": "19:15",
       "rating": 6.8,
       "poster": "https://image.tmdb.org/t/p/w342/dGSsPovyUW5XVekXcy7F2GyhTEh.jpg",
       "summary": "Lowen Ashleigh es contratada como escritora fantasma por Jeremy Crawford para escribir las novelas de su esposa Verity, autora de bestsellers, impedida tras un accidente. Lowen descubre las inquietantes verdades de Verity mientras reside en casa de los Crawford para trabajar.",
@@ -1096,13 +1051,24 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Verity La Sombra De Un Engaño",
-      "time": "21:45",
+      "time": "21:30",
       "rating": 6.8,
       "poster": "https://image.tmdb.org/t/p/w342/dGSsPovyUW5XVekXcy7F2GyhTEh.jpg",
       "summary": "Lowen Ashleigh es contratada como escritora fantasma por Jeremy Crawford para escribir las novelas de su esposa Verity, autora de bestsellers, impedida tras un accidente. Lowen descubre las inquietantes verdades de Verity mientras reside en casa de los Crawford para trabajar.",
       "genres": [
         "Misterio",
         "Suspense"
+      ]
+    },
+    {
+      "title": "Queen Budapest",
+      "time": "19:00",
+      "rating": 8.2,
+      "poster": "https://image.tmdb.org/t/p/w342/dCsCez4aVeXqMiALdWYp4LFsztI.jpg",
+      "summary": "El 27 de julio de 1986, la banda británica de rock Queen abrió nuevos caminos tocando por primera vez en Hungría, un país que todavía estaba bajo una dictadura comunista detrás del Telón de Acero. El concierto, enmarcado en el \"Magic Tour\", se celebró en el Nepstadion (hoy Estadio Ferenc Puskás) en la ciudad de Budapest ante un público de 80.000 personas. La película muestra imágenes de los eventos previos al concierto y momentos vividos por cada uno de los miembros de la banda en la ciudad de Budapest.",
+      "genres": [
+        "Música",
+        "Documental"
       ]
     }
   ],
