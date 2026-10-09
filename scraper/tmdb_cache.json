@@ -2740,5 +2740,60 @@
     "poster": null,
     "summary": "Manon Lescaut, de Giacomo Puccini (1858-1924), que inaugura la temporada, vuelve al Real después de 102 años, en una coproducción con la Ópera de Colonia (2025) con dirección musical del gran especialista en repertorio lírico italiano, Nicola Luisotti, y puesta en escena de Carlos Wagner. En su propuesta dramatúrgica la trágica vida de Manon Lescaut transcurre en un espacio giratorio presidido por la estructura circular de un tiovivo, que se transforma en un bar, una cárcel y en un camino de eterno retorno que aprisiona a la protagonista. Darán vida a los personajes principales Sondra Radvanovsky, Michael Fabiano, Lucas Meachem, Pietro Spagnoli y Alejandro del Cerro, que actuarán junto al Coro y Orquesta Titulares del Teatro Real.",
     "genres": []
+  },
+  "El Precio De La Red": {
+    "rating": 7.8,
+    "poster": "https://image.tmdb.org/t/p/w342/xT7yxocpGjqzalCUTr9IFDf8Oyb.jpg",
+    "summary": "Explora las prácticas internas de Facebook, la difusión de información falsa, el impacto en la salud mental de los adolescentes y la conexión con los eventos del 6 de enero en el Capitolio.",
+    "genres": [
+      "Drama",
+      "Suspense"
+    ]
+  },
+  "Mascotas Al Rescate": {
+    "rating": 7.2,
+    "poster": "https://image.tmdb.org/t/p/w342/dJZRImFs3jdMV1I2OzgjGz1rZv9.jpg",
+    "summary": "En un tren que está a punto de salir de la estación, suena la alarma que obliga a todos los pasajeros a bajarse. Pero entonces el tren arranca de manera improvista, llevándose a bordo los viajeros que no han tenido tiempo de bajar: los animales de compañía. Asombrados, estos descubren que el tren está bajo el control de Hans, un tejón manipulador y rencoroso, que se quiere vengar de Rex, el perro policía que le puso entre rejas hace años. Como los servicios de rescate no consiguen intervenir en el trayecto montañoso del tren, que circula a toda velocidad, los animales de compañía solo pueden contar con Falcon, un mapache un poco tramposo que hará todo lo posible para salvarles.",
+    "genres": [
+      "Animación",
+      "Comedia",
+      "Aventura"
+    ]
+  },
+  "La Otra Madre": {
+    "rating": 7.5,
+    "poster": "https://image.tmdb.org/t/p/w342/vsde9OnhjFMlJz8Wi6Z6drZ7GG5.jpg",
+    "summary": "Una joven llamada Bela entabla una relación con una entidad siniestra que habita en su casa y que guarda un parecido asombroso con su propia madre.",
+    "genres": [
+      "Terror"
+    ]
+  },
+  "Doraemon: Aventuras En El Mundo Del Arte": {
+    "rating": 8.1,
+    "poster": "https://image.tmdb.org/t/p/w342/lApPtVlqf6Q7oJxMXHMpss674Z4.jpg",
+    "summary": "44.ª película de la serie Doraemon the Movie. La historia se desarrolla en el magnífico mundo medieval europeo representado en las imágenes. ¡Doraemon y sus amigos se sumergen en el «mundo de las imágenes» y viven una gran aventura en esta historia completamente original!",
+    "genres": [
+      "Aventura",
+      "Animación",
+      "Familia"
+    ]
+  },
+  "Naza": {
+    "rating": 8.1,
+    "poster": "https://image.tmdb.org/t/p/w342/urM4MnCGIsCxowqDnwExSUtVKAg.jpg",
+    "summary": "Rodada por la noche en los tejados de Tel Aviv, la película revela con todo detalle los mecanismos que hay detrás del asesinato en masa y deliberado de civiles palestinos en Gaza por parte de las tropas de Israel. Naza es la palabra utilizada por el ejército israelí para denominar a las víctimas civiles como 'daños colaterales'. Documental de parte del equipo de 'No Man's Land', producido por el cineasta Jonathan Glazer y su productor James Wilson, ambos responsables de 'La zona de interés'.",
+    "genres": [
+      "Documental"
+    ]
+  },
+  "El Arbol Muy Muy Lejano": {
+    "rating": 6.7,
+    "poster": "https://image.tmdb.org/t/p/w342/fpW5GntifGxAG7Js99Wdhq9K0s5.jpg",
+    "summary": "Polly, Tim, y sus tres hijos son una familia moderna que se ve obligada a mudarse a la remota campiña inglesa. Poco después de su llegada, los niños descubren un árbol mágico y a sus extraordinarios y excéntricos habitantes.",
+    "genres": [
+      "Aventura",
+      "Familia",
+      "Fantasía"
+    ]
   }
 }
