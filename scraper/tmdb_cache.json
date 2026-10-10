@@ -2795,5 +2795,15 @@
       "Familia",
       "Fantasía"
     ]
+  },
+  "Doraemon  Aventuras En El Mundo Del Arte": {
+    "rating": 8.1,
+    "poster": "https://image.tmdb.org/t/p/w342/lApPtVlqf6Q7oJxMXHMpss674Z4.jpg",
+    "summary": "44.ª película de la serie Doraemon the Movie. La historia se desarrolla en el magnífico mundo medieval europeo representado en las imágenes. ¡Doraemon y sus amigos se sumergen en el «mundo de las imágenes» y viven una gran aventura en esta historia completamente original!",
+    "genres": [
+      "Aventura",
+      "Animación",
+      "Familia"
+    ]
   }
 }
