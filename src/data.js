@@ -110,13 +110,12 @@ export const MOVIE_DATA = {
       ]
     },
     {
-      "title": "Queen Budapest",
-      "time": "20:00",
-      "rating": 8.2,
-      "poster": "https://image.tmdb.org/t/p/w342/dCsCez4aVeXqMiALdWYp4LFsztI.jpg",
-      "summary": "El 27 de julio de 1986, la banda británica de rock Queen abrió nuevos caminos tocando por primera vez en Hungría, un país que todavía estaba bajo una dictadura comunista detrás del Telón de Acero. El concierto, enmarcado en el \"Magic Tour\", se celebró en el Nepstadion (hoy Estadio Ferenc Puskás) en la ciudad de Budapest ante un público de 80.000 personas. La película muestra imágenes de los eventos previos al concierto y momentos vividos por cada uno de los miembros de la banda en la ciudad de Budapest.",
+      "title": "Naza",
+      "time": "19:40",
+      "rating": 8.1,
+      "poster": "https://image.tmdb.org/t/p/w342/urM4MnCGIsCxowqDnwExSUtVKAg.jpg",
+      "summary": "Rodada por la noche en los tejados de Tel Aviv, la película revela con todo detalle los mecanismos que hay detrás del asesinato en masa y deliberado de civiles palestinos en Gaza por parte de las tropas de Israel. Naza es la palabra utilizada por el ejército israelí para denominar a las víctimas civiles como 'daños colaterales'. Documental de parte del equipo de 'No Man's Land', producido por el cineasta Jonathan Glazer y su productor James Wilson, ambos responsables de 'La zona de interés'.",
       "genres": [
-        "Música",
         "Documental"
       ]
     },
@@ -163,18 +162,6 @@ export const MOVIE_DATA = {
         "Suspense",
         "Drama",
         "Misterio"
-      ]
-    },
-    {
-      "title": "La Leyenda De La Ballena Cantora",
-      "time": "15:45",
-      "rating": 7.0,
-      "poster": "https://image.tmdb.org/t/p/w342/yIDPrKCgiG49cULhITKxeZywISe.jpg",
-      "summary": "Vincent es una ballena jorobada adolescente que se ha quedado huérfana. Hijo del último Cantor de Ballenas, que protegía los océanos con su canto mágico, vive angustiado por la pérdida de sus padres y duda de sus propias habilidades. Cuando el monstruoso Leviatán escapa de un iceberg oscuro y empieza a amenazar toda la vida marina con su tinta venenosa, Vincent debe encontrar su propio canto para detenerlo. Pero, abrumado por la inseguridad, se embarca en un peligroso viaje hacia las profundidades del mar para rescatar a sus padres del mítico Estanque Estelar, con la esperanza de que sea el padre quien derrote al Leviatán. Acompañado de Walter, un pez rémora muy quisquilloso que le hace de niñera y de Darya, una valiente orca sorda, Vincent tendrá que afrontar sus miedos y descubrir su propio canto para salvar a los océanos.",
-      "genres": [
-        "Animación",
-        "Aventura",
-        "Familia"
       ]
     },
     {
@@ -241,6 +228,18 @@ export const MOVIE_DATA = {
       "genres": [
         "Drama",
         "Bélica"
+      ]
+    },
+    {
+      "title": "Vengadores: Endgame Encore",
+      "time": "21:30",
+      "rating": 8.2,
+      "poster": "https://image.tmdb.org/t/p/w342/br6krBFpaYmCSglLBWRuhui7tPc.jpg",
+      "summary": "Tras el chasquido de Thanos que eliminó a la mitad de la vida en el universo, los Vengadores supervivientes quedan devastados y divididos. Cinco años después, una inesperada oportunidad les permite intentar revertir la catástrofe. Reuniéndose una vez más, los héroes emprenden una misión extrema que los obliga a viajar al pasado, enfrentarse a sus propias pérdidas y hacer sacrificios definitivos para restaurar el equilibrio del universo.",
+      "genres": [
+        "Aventura",
+        "Ciencia ficción",
+        "Acción"
       ]
     },
     {
@@ -325,18 +324,6 @@ export const MOVIE_DATA = {
       ]
     },
     {
-      "title": "Resident Evil",
-      "time": "22:15",
-      "rating": 7.8,
-      "poster": "https://image.tmdb.org/t/p/w342/3d8D5tZXiPUE2VmRjnrTNzFORBa.jpg",
-      "summary": "Película basada en la saga de videojuegos de Capcom del mismo nombre. En una reinvención totalmente nueva, el mensajero médico Bryan se ve inmerso en una carrera de acción sin descanso por la supervivencia, mientras el caos se desata a su alrededor.",
-      "genres": [
-        "Terror",
-        "Ciencia ficción",
-        "Aventura"
-      ]
-    },
-    {
       "title": "Tadeo Jones Y La Lámpara Maravillosa",
       "time": "16:05",
       "rating": 0.0,
@@ -357,18 +344,6 @@ export const MOVIE_DATA = {
       "genres": [
         "Terror",
         "Suspense"
-      ]
-    },
-    {
-      "title": "Hoppers",
-      "time": "16:00",
-      "rating": 7.6,
-      "poster": "https://image.tmdb.org/t/p/w342/4Z0E1W7YvQ0aVtgj7KKtktb9ukd.jpg",
-      "summary": "Una amante de los animales aprovecha la oportunidad de utilizar una tecnología que coloca su conciencia en un castor robótico, descubriendo misterios dentro del mundo animal que van más allá de lo que podría haber imaginado.",
-      "genres": [
-        "Animación",
-        "Familia",
-        "Ciencia ficción"
       ]
     }
   ],
@@ -395,7 +370,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "La Otra Madre",
-      "time": "17:40",
+      "time": "18:00",
       "rating": 7.5,
       "poster": "https://image.tmdb.org/t/p/w342/vsde9OnhjFMlJz8Wi6Z6drZ7GG5.jpg",
       "summary": "Una joven llamada Bela entabla una relación con una entidad siniestra que habita en su casa y que guarda un parecido asombroso con su propia madre.",
@@ -446,13 +421,15 @@ export const MOVIE_DATA = {
       ]
     },
     {
-      "title": "Naza",
+      "title": "Mascotas Al Rescate",
       "time": "17:50",
-      "rating": 8.1,
-      "poster": "https://image.tmdb.org/t/p/w342/urM4MnCGIsCxowqDnwExSUtVKAg.jpg",
-      "summary": "Rodada por la noche en los tejados de Tel Aviv, la película revela con todo detalle los mecanismos que hay detrás del asesinato en masa y deliberado de civiles palestinos en Gaza por parte de las tropas de Israel. Naza es la palabra utilizada por el ejército israelí para denominar a las víctimas civiles como 'daños colaterales'. Documental de parte del equipo de 'No Man's Land', producido por el cineasta Jonathan Glazer y su productor James Wilson, ambos responsables de 'La zona de interés'.",
+      "rating": 7.2,
+      "poster": "https://image.tmdb.org/t/p/w342/dJZRImFs3jdMV1I2OzgjGz1rZv9.jpg",
+      "summary": "En un tren que está a punto de salir de la estación, suena la alarma que obliga a todos los pasajeros a bajarse. Pero entonces el tren arranca de manera improvista, llevándose a bordo los viajeros que no han tenido tiempo de bajar: los animales de compañía. Asombrados, estos descubren que el tren está bajo el control de Hans, un tejón manipulador y rencoroso, que se quiere vengar de Rex, el perro policía que le puso entre rejas hace años. Como los servicios de rescate no consiguen intervenir en el trayecto montañoso del tren, que circula a toda velocidad, los animales de compañía solo pueden contar con Falcon, un mapache un poco tramposo que hará todo lo posible para salvarles.",
       "genres": [
-        "Documental"
+        "Animación",
+        "Comedia",
+        "Aventura"
       ]
     },
     {
@@ -489,13 +466,12 @@ export const MOVIE_DATA = {
       ]
     },
     {
-      "title": "Queen Budapest",
-      "time": "20:00",
-      "rating": 8.2,
-      "poster": "https://image.tmdb.org/t/p/w342/dCsCez4aVeXqMiALdWYp4LFsztI.jpg",
-      "summary": "El 27 de julio de 1986, la banda británica de rock Queen abrió nuevos caminos tocando por primera vez en Hungría, un país que todavía estaba bajo una dictadura comunista detrás del Telón de Acero. El concierto, enmarcado en el \"Magic Tour\", se celebró en el Nepstadion (hoy Estadio Ferenc Puskás) en la ciudad de Budapest ante un público de 80.000 personas. La película muestra imágenes de los eventos previos al concierto y momentos vividos por cada uno de los miembros de la banda en la ciudad de Budapest.",
+      "title": "Naza",
+      "time": "20:10",
+      "rating": 8.1,
+      "poster": "https://image.tmdb.org/t/p/w342/urM4MnCGIsCxowqDnwExSUtVKAg.jpg",
+      "summary": "Rodada por la noche en los tejados de Tel Aviv, la película revela con todo detalle los mecanismos que hay detrás del asesinato en masa y deliberado de civiles palestinos en Gaza por parte de las tropas de Israel. Naza es la palabra utilizada por el ejército israelí para denominar a las víctimas civiles como 'daños colaterales'. Documental de parte del equipo de 'No Man's Land', producido por el cineasta Jonathan Glazer y su productor James Wilson, ambos responsables de 'La zona de interés'.",
       "genres": [
-        "Música",
         "Documental"
       ]
     },
@@ -623,7 +599,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "En El Corazón De La Bestia",
-      "time": "18:00",
+      "time": "17:40",
       "rating": 7.7,
       "poster": "https://image.tmdb.org/t/p/w342/h9Ql2vsltCOuf44c28nInxjzL2m.jpg",
       "summary": "Tras sobrevivir a un brutal accidente aéreo, el oficial de las Fuerzas Especiales James Belmont y su perro de combate Odín intentan intentarán regresar a la civilización desde un remoto lugar en medio de los parajes salvajes de Alaska.",
@@ -747,18 +723,6 @@ export const MOVIE_DATA = {
         "Aventura",
         "Acción",
         "Fantasía"
-      ]
-    },
-    {
-      "title": "Hoppers",
-      "time": "15:55",
-      "rating": 7.6,
-      "poster": "https://image.tmdb.org/t/p/w342/4Z0E1W7YvQ0aVtgj7KKtktb9ukd.jpg",
-      "summary": "Una amante de los animales aprovecha la oportunidad de utilizar una tecnología que coloca su conciencia en un castor robótico, descubriendo misterios dentro del mundo animal que van más allá de lo que podría haber imaginado.",
-      "genres": [
-        "Animación",
-        "Familia",
-        "Ciencia ficción"
       ]
     }
   ],
@@ -1097,18 +1061,6 @@ export const MOVIE_DATA = {
         "Acción",
         "Aventura"
       ]
-    },
-    {
-      "title": "Hoppers",
-      "time": "16:00",
-      "rating": 7.6,
-      "poster": "https://image.tmdb.org/t/p/w342/4Z0E1W7YvQ0aVtgj7KKtktb9ukd.jpg",
-      "summary": "Una amante de los animales aprovecha la oportunidad de utilizar una tecnología que coloca su conciencia en un castor robótico, descubriendo misterios dentro del mundo animal que van más allá de lo que podría haber imaginado.",
-      "genres": [
-        "Animación",
-        "Familia",
-        "Ciencia ficción"
-      ]
     }
   ],
   "Artesiete Las Terrazas": [
@@ -1239,17 +1191,6 @@ export const MOVIE_DATA = {
       ]
     },
     {
-      "title": "Digger",
-      "time": "16:00",
-      "rating": 7.7,
-      "poster": "https://image.tmdb.org/t/p/w342/koqE0V2IgIPVy5o2vVkoGJvnB8b.jpg",
-      "summary": "El hombre más poderoso del mundo se embarca en una misión frenética para demostrar que es el salvador de la humanidad antes de que el desastre que ha desencadenado lo destruya todo.",
-      "genres": [
-        "Comedia",
-        "Drama"
-      ]
-    },
-    {
       "title": "Verity La Sombra De Un Engaño",
       "time": "18:10",
       "rating": 6.8,
@@ -1283,17 +1224,6 @@ export const MOVIE_DATA = {
       ]
     },
     {
-      "title": "Queen Budapest",
-      "time": "16:00",
-      "rating": 8.2,
-      "poster": "https://image.tmdb.org/t/p/w342/dCsCez4aVeXqMiALdWYp4LFsztI.jpg",
-      "summary": "El 27 de julio de 1986, la banda británica de rock Queen abrió nuevos caminos tocando por primera vez en Hungría, un país que todavía estaba bajo una dictadura comunista detrás del Telón de Acero. El concierto, enmarcado en el \"Magic Tour\", se celebró en el Nepstadion (hoy Estadio Ferenc Puskás) en la ciudad de Budapest ante un público de 80.000 personas. La película muestra imágenes de los eventos previos al concierto y momentos vividos por cada uno de los miembros de la banda en la ciudad de Budapest.",
-      "genres": [
-        "Música",
-        "Documental"
-      ]
-    },
-    {
       "title": "Doraemon  Aventuras En El Mundo Del Arte",
       "time": "16:00",
       "rating": 8.1,
@@ -1303,6 +1233,18 @@ export const MOVIE_DATA = {
         "Aventura",
         "Animación",
         "Familia"
+      ]
+    },
+    {
+      "title": "El Arbol Muy Muy Lejano",
+      "time": "16:00",
+      "rating": 6.7,
+      "poster": "https://image.tmdb.org/t/p/w342/fpW5GntifGxAG7Js99Wdhq9K0s5.jpg",
+      "summary": "Polly, Tim, y sus tres hijos son una familia moderna que se ve obligada a mudarse a la remota campiña inglesa. Poco después de su llegada, los niños descubren un árbol mágico y a sus extraordinarios y excéntricos habitantes.",
+      "genres": [
+        "Aventura",
+        "Familia",
+        "Fantasía"
       ]
     },
     {
