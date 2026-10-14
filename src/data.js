@@ -1,6 +1,29 @@
 export const MOVIE_DATA = {
   "Cine Yelmo Vecindario": [
     {
+      "title": "Always Lalisa",
+      "time": "20:00",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/pOZnrUX1UMblLiqq9ZtZUde3cQV.jpg",
+      "summary": "Always Lalisa es un documental de larga duración que sigue a la superestrella mundial LISA durante un año transformador lejos de Blackpink, el fenómeno del K-pop que la convirtió en una de las artistas más reconocidas del mundo. Mientras el grupo se toma un descanso, LISA se lanza al primer capítulo de verdad de su carrera solista, enfrentándose a la pregunta de quién es ella más allá de Blackpink.\n\nLa película sigue a LISA mientras escribe, graba y lanza su primer álbum solista, Alter Ego, hace su debut como actriz en la tercera temporada de The White Lotus y se prepara para su primera gran presentación solista en el Festival de Música de Coachella de 2025. LISA, que nació y creció en Tailandia, se fue de casa a los catorce años para recibir capacitación en el exigente sistema del K-pop de Corea del Sur, y finalmente alcanzó el estrellato mundial. Pero abrirse camino por su cuenta, sobre todo en el mercado musical occidental, conlleva nuevas presiones, un escrutinio implacable y el reto de redefinirse a sí misma según sus propios términos.\n\nÍntima, emotiva y reveladora, Always Lalisa muestra a una artista en una encrucijada, documentando un año de riesgos, reinvención y autodescubrimiento mientras LISA empieza a definir no solo su próximo capítulo, sino también la mujer y la artista en la que quiere convertirse.",
+      "genres": [
+        "Documental",
+        "Música"
+      ]
+    },
+    {
+      "title": "Doraemon: Aventuras En El Mundo Del Arte",
+      "time": "17:40",
+      "rating": 8.1,
+      "poster": "https://image.tmdb.org/t/p/w342/lApPtVlqf6Q7oJxMXHMpss674Z4.jpg",
+      "summary": "44.ª película de la serie Doraemon the Movie. La historia se desarrolla en el magnífico mundo medieval europeo representado en las imágenes. ¡Doraemon y sus amigos se sumergen en el «mundo de las imágenes» y viven una gran aventura en esta historia completamente original!",
+      "genres": [
+        "Aventura",
+        "Animación",
+        "Familia"
+      ]
+    },
+    {
       "title": "El Precio De La Red",
       "time": "17:30",
       "rating": 7.8,
@@ -87,29 +110,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Digger",
-      "time": "17:00",
-      "rating": 7.7,
-      "poster": "https://image.tmdb.org/t/p/w342/koqE0V2IgIPVy5o2vVkoGJvnB8b.jpg",
-      "summary": "El hombre más poderoso del mundo se embarca en una misión frenética para demostrar que es el salvador de la humanidad antes de que el desastre que ha desencadenado lo destruya todo.",
-      "genres": [
-        "Comedia",
-        "Drama"
-      ]
-    },
-    {
-      "title": "Digger",
-      "time": "19:45",
-      "rating": 7.7,
-      "poster": "https://image.tmdb.org/t/p/w342/koqE0V2IgIPVy5o2vVkoGJvnB8b.jpg",
-      "summary": "El hombre más poderoso del mundo se embarca en una misión frenética para demostrar que es el salvador de la humanidad antes de que el desastre que ha desencadenado lo destruya todo.",
-      "genres": [
-        "Comedia",
-        "Drama"
-      ]
-    },
-    {
-      "title": "Digger",
-      "time": "22:20",
+      "time": "22:15",
       "rating": 7.7,
       "poster": "https://image.tmdb.org/t/p/w342/koqE0V2IgIPVy5o2vVkoGJvnB8b.jpg",
       "summary": "El hombre más poderoso del mundo se embarca en una misión frenética para demostrar que es el salvador de la humanidad antes de que el desastre que ha desencadenado lo destruya todo.",
@@ -313,8 +314,20 @@ export const MOVIE_DATA = {
   ],
   "Cine Yelmo Las Arenas": [
     {
-      "title": "La Otra Madre",
+      "title": "Mascotas Al Rescate",
       "time": "16:45",
+      "rating": 7.2,
+      "poster": "https://image.tmdb.org/t/p/w342/dJZRImFs3jdMV1I2OzgjGz1rZv9.jpg",
+      "summary": "En un tren que está a punto de salir de la estación, suena la alarma que obliga a todos los pasajeros a bajarse. Pero entonces el tren arranca de manera improvista, llevándose a bordo los viajeros que no han tenido tiempo de bajar: los animales de compañía. Asombrados, estos descubren que el tren está bajo el control de Hans, un tejón manipulador y rencoroso, que se quiere vengar de Rex, el perro policía que le puso entre rejas hace años. Como los servicios de rescate no consiguen intervenir en el trayecto montañoso del tren, que circula a toda velocidad, los animales de compañía solo pueden contar con Falcon, un mapache un poco tramposo que hará todo lo posible para salvarles.",
+      "genres": [
+        "Animación",
+        "Comedia",
+        "Aventura"
+      ]
+    },
+    {
+      "title": "La Otra Madre",
+      "time": "17:00",
       "rating": 7.5,
       "poster": "https://image.tmdb.org/t/p/w342/vsde9OnhjFMlJz8Wi6Z6drZ7GG5.jpg",
       "summary": "Una joven llamada Bela entabla una relación con una entidad siniestra que habita en su casa y que guarda un parecido asombroso con su propia madre.",
@@ -324,7 +337,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "La Otra Madre",
-      "time": "17:00",
+      "time": "18:00",
       "rating": 7.5,
       "poster": "https://image.tmdb.org/t/p/w342/vsde9OnhjFMlJz8Wi6Z6drZ7GG5.jpg",
       "summary": "Una joven llamada Bela entabla una relación con una entidad siniestra que habita en su casa y que guarda un parecido asombroso con su propia madre.",
@@ -363,6 +376,16 @@ export const MOVIE_DATA = {
       ]
     },
     {
+      "title": "Naza",
+      "time": "17:00",
+      "rating": 8.1,
+      "poster": "https://image.tmdb.org/t/p/w342/urM4MnCGIsCxowqDnwExSUtVKAg.jpg",
+      "summary": "Rodada por la noche en los tejados de Tel Aviv, la película revela con todo detalle los mecanismos que hay detrás del asesinato en masa y deliberado de civiles palestinos en Gaza por parte de las tropas de Israel. Naza es la palabra utilizada por el ejército israelí para denominar a las víctimas civiles como 'daños colaterales'. Documental de parte del equipo de 'No Man's Land', producido por el cineasta Jonathan Glazer y su productor James Wilson, ambos responsables de 'La zona de interés'.",
+      "genres": [
+        "Documental"
+      ]
+    },
+    {
       "title": "El Precio De La Red",
       "time": "16:50",
       "rating": 7.8,
@@ -396,28 +419,6 @@ export const MOVIE_DATA = {
       ]
     },
     {
-      "title": "Mascotas Al Rescate",
-      "time": "18:00",
-      "rating": 7.2,
-      "poster": "https://image.tmdb.org/t/p/w342/dJZRImFs3jdMV1I2OzgjGz1rZv9.jpg",
-      "summary": "En un tren que está a punto de salir de la estación, suena la alarma que obliga a todos los pasajeros a bajarse. Pero entonces el tren arranca de manera improvista, llevándose a bordo los viajeros que no han tenido tiempo de bajar: los animales de compañía. Asombrados, estos descubren que el tren está bajo el control de Hans, un tejón manipulador y rencoroso, que se quiere vengar de Rex, el perro policía que le puso entre rejas hace años. Como los servicios de rescate no consiguen intervenir en el trayecto montañoso del tren, que circula a toda velocidad, los animales de compañía solo pueden contar con Falcon, un mapache un poco tramposo que hará todo lo posible para salvarles.",
-      "genres": [
-        "Animación",
-        "Comedia",
-        "Aventura"
-      ]
-    },
-    {
-      "title": "Naza",
-      "time": "20:10",
-      "rating": 8.1,
-      "poster": "https://image.tmdb.org/t/p/w342/urM4MnCGIsCxowqDnwExSUtVKAg.jpg",
-      "summary": "Rodada por la noche en los tejados de Tel Aviv, la película revela con todo detalle los mecanismos que hay detrás del asesinato en masa y deliberado de civiles palestinos en Gaza por parte de las tropas de Israel. Naza es la palabra utilizada por el ejército israelí para denominar a las víctimas civiles como 'daños colaterales'. Documental de parte del equipo de 'No Man's Land', producido por el cineasta Jonathan Glazer y su productor James Wilson, ambos responsables de 'La zona de interés'.",
-      "genres": [
-        "Documental"
-      ]
-    },
-    {
       "title": "Digger",
       "time": "18:50",
       "rating": 7.7,
@@ -430,7 +431,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Verity. La Sombra De Un Engaño",
-      "time": "19:00",
+      "time": "18:40",
       "rating": 6.8,
       "poster": "https://image.tmdb.org/t/p/w342/dGSsPovyUW5XVekXcy7F2GyhTEh.jpg",
       "summary": "Lowen Ashleigh es contratada como escritora fantasma por Jeremy Crawford para escribir las novelas de su esposa Verity, autora de bestsellers, impedida tras un accidente. Lowen descubre las inquietantes verdades de Verity mientras reside en casa de los Crawford para trabajar.",
@@ -441,7 +442,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Verity. La Sombra De Un Engaño",
-      "time": "21:30",
+      "time": "21:10",
       "rating": 6.8,
       "poster": "https://image.tmdb.org/t/p/w342/dGSsPovyUW5XVekXcy7F2GyhTEh.jpg",
       "summary": "Lowen Ashleigh es contratada como escritora fantasma por Jeremy Crawford para escribir las novelas de su esposa Verity, autora de bestsellers, impedida tras un accidente. Lowen descubre las inquietantes verdades de Verity mientras reside en casa de los Crawford para trabajar.",
@@ -600,7 +601,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Prácticamente Magia 2",
-      "time": "22:10",
+      "time": "22:00",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/tnbyrsN7cu2An3By6UDOHrq21CK.jpg",
       "summary": "Las hermanas Owens deben enfrentarse a la oscura maldición que amenaza con desintegrar a su familia de una vez por todas.",
@@ -608,16 +609,6 @@ export const MOVIE_DATA = {
         "Romance",
         "Fantasía",
         "Comedia"
-      ]
-    },
-    {
-      "title": "El Ser Querido",
-      "time": "17:20",
-      "rating": 6.8,
-      "poster": "https://image.tmdb.org/t/p/w342/bFYCaNsYmj4bOoHGIoqEthRxfRv.jpg",
-      "summary": "Un aclamado director de cine y su hija, una actriz sin éxito, ruedan juntos una película tras años de distanciamiento y un pasado difícil del que ninguno de los dos ha querido hablar.",
-      "genres": [
-        "Drama"
       ]
     },
     {
@@ -629,6 +620,16 @@ export const MOVIE_DATA = {
       "genres": [
         "Terror",
         "Suspense"
+      ]
+    },
+    {
+      "title": "Vivir La Tierra (Efecto Cinema)",
+      "time": "19:00",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/ujuSAqvmrhh77SIIg6hWnHJWivv.jpg",
+      "summary": "Un acercamiento sensorial a un territorio tan cercano como extraño: las quintas productoras de alimentos que circundan a las grandes ciudades. Este documental presenta a Javier Paniagua y su familia habitando un entramado de tareas, problemas y elecciones de especial alcance: el compromiso de producir alimentos sanos para su comunidad, en primera persona. Ubicada en El Pato, Berazategui, la quinta de Javier es parte del mayor cinturón hortícola de Argentina. A pesar de las dificultades para acceder a la tierra y la tecnología, este territorio es también el escenario donde miles de familias eligen una vida en convivencia con la naturaleza.",
+      "genres": [
+        "Documental"
       ]
     },
     {
@@ -676,6 +677,16 @@ export const MOVIE_DATA = {
       "genres": [
         "Drama",
         "Suspense"
+      ]
+    },
+    {
+      "title": "Naza",
+      "time": "20:35",
+      "rating": 8.1,
+      "poster": "https://image.tmdb.org/t/p/w342/urM4MnCGIsCxowqDnwExSUtVKAg.jpg",
+      "summary": "Rodada por la noche en los tejados de Tel Aviv, la película revela con todo detalle los mecanismos que hay detrás del asesinato en masa y deliberado de civiles palestinos en Gaza por parte de las tropas de Israel. Naza es la palabra utilizada por el ejército israelí para denominar a las víctimas civiles como 'daños colaterales'. Documental de parte del equipo de 'No Man's Land', producido por el cineasta Jonathan Glazer y su productor James Wilson, ambos responsables de 'La zona de interés'.",
+      "genres": [
+        "Documental"
       ]
     },
     {
@@ -798,7 +809,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "En El Corazón De La Bestia",
-      "time": "17:05",
+      "time": "17:55",
       "rating": 7.7,
       "poster": "https://image.tmdb.org/t/p/w342/h9Ql2vsltCOuf44c28nInxjzL2m.jpg",
       "summary": "Tras sobrevivir a un brutal accidente aéreo, el oficial de las Fuerzas Especiales James Belmont y su perro de combate Odín intentan intentarán regresar a la civilización desde un remoto lugar en medio de los parajes salvajes de Alaska.",
@@ -830,20 +841,20 @@ export const MOVIE_DATA = {
       ]
     },
     {
-      "title": "Resident Evil",
-      "time": "18:20",
-      "rating": 7.8,
-      "poster": "https://image.tmdb.org/t/p/w342/3d8D5tZXiPUE2VmRjnrTNzFORBa.jpg",
-      "summary": "Película basada en la saga de videojuegos de Capcom del mismo nombre. En una reinvención totalmente nueva, el mensajero médico Bryan se ve inmerso en una carrera de acción sin descanso por la supervivencia, mientras el caos se desata a su alrededor.",
+      "title": "Coyote Vs. Acme",
+      "time": "17:20",
+      "rating": 7.5,
+      "poster": "https://image.tmdb.org/t/p/w342/e4P8CIoffzsyjTm9e6U87Mng2CU.jpg",
+      "summary": "Después de que todos los productos fabricados por ACME Corporation le salgan mal a Wile E. Coyote, en su persecución del Correcaminos, contrata a un abogado humano igualmente desafortunado para demandar a la empresa. Cuando el abogado de Wile E. descubre que el intimidante jefe de su antiguo bufete es el director general de ACME, se une a Wile E. para ganar el juicio contra él.",
       "genres": [
-        "Terror",
-        "Ciencia ficción",
-        "Aventura"
+        "Comedia",
+        "Aventura",
+        "Familia"
       ]
     },
     {
       "title": "Resident Evil",
-      "time": "20:35",
+      "time": "18:20",
       "rating": 7.8,
       "poster": "https://image.tmdb.org/t/p/w342/3d8D5tZXiPUE2VmRjnrTNzFORBa.jpg",
       "summary": "Película basada en la saga de videojuegos de Capcom del mismo nombre. En una reinvención totalmente nueva, el mensajero médico Bryan se ve inmerso en una carrera de acción sin descanso por la supervivencia, mientras el caos se desata a su alrededor.",
@@ -863,18 +874,6 @@ export const MOVIE_DATA = {
         "Terror",
         "Ciencia ficción",
         "Aventura"
-      ]
-    },
-    {
-      "title": "Prácticamente Magia 2",
-      "time": "17:30",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/tnbyrsN7cu2An3By6UDOHrq21CK.jpg",
-      "summary": "Las hermanas Owens deben enfrentarse a la oscura maldición que amenaza con desintegrar a su familia de una vez por todas.",
-      "genres": [
-        "Romance",
-        "Fantasía",
-        "Comedia"
       ]
     },
     {
@@ -903,8 +902,20 @@ export const MOVIE_DATA = {
   ],
   "Artesiete Las Terrazas": [
     {
+      "title": "Coyote Vs Acme",
+      "time": "16:00",
+      "rating": 7.5,
+      "poster": "https://image.tmdb.org/t/p/w342/e4P8CIoffzsyjTm9e6U87Mng2CU.jpg",
+      "summary": "Después de que todos los productos fabricados por ACME Corporation le salgan mal a Wile E. Coyote, en su persecución del Correcaminos, contrata a un abogado humano igualmente desafortunado para demandar a la empresa. Cuando el abogado de Wile E. descubre que el intimidante jefe de su antiguo bufete es el director general de ACME, se une a Wile E. para ganar el juicio contra él.",
+      "genres": [
+        "Comedia",
+        "Aventura",
+        "Familia"
+      ]
+    },
+    {
       "title": "Resident Evil",
-      "time": "19:00",
+      "time": "18:00",
       "rating": 7.8,
       "poster": "https://image.tmdb.org/t/p/w342/3d8D5tZXiPUE2VmRjnrTNzFORBa.jpg",
       "summary": "Película basada en la saga de videojuegos de Capcom del mismo nombre. En una reinvención totalmente nueva, el mensajero médico Bryan se ve inmerso en una carrera de acción sin descanso por la supervivencia, mientras el caos se desata a su alrededor.",
@@ -916,7 +927,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Resident Evil",
-      "time": "21:00",
+      "time": "20:00",
       "rating": 7.8,
       "poster": "https://image.tmdb.org/t/p/w342/3d8D5tZXiPUE2VmRjnrTNzFORBa.jpg",
       "summary": "Película basada en la saga de videojuegos de Capcom del mismo nombre. En una reinvención totalmente nueva, el mensajero médico Bryan se ve inmerso en una carrera de acción sin descanso por la supervivencia, mientras el caos se desata a su alrededor.",
@@ -927,8 +938,32 @@ export const MOVIE_DATA = {
       ]
     },
     {
+      "title": "Resident Evil",
+      "time": "22:00",
+      "rating": 7.8,
+      "poster": "https://image.tmdb.org/t/p/w342/3d8D5tZXiPUE2VmRjnrTNzFORBa.jpg",
+      "summary": "Película basada en la saga de videojuegos de Capcom del mismo nombre. En una reinvención totalmente nueva, el mensajero médico Bryan se ve inmerso en una carrera de acción sin descanso por la supervivencia, mientras el caos se desata a su alrededor.",
+      "genres": [
+        "Terror",
+        "Ciencia ficción",
+        "Aventura"
+      ]
+    },
+    {
+      "title": "La Isla Olvidada",
+      "time": "16:00",
+      "rating": 8.6,
+      "poster": "https://image.tmdb.org/t/p/w342/vpTdXFoZGzwnCWzkVYU7JH8teAZ.jpg",
+      "summary": "Dos amigas se quedan varadas en el místico mundo de Nakali, donde su único escape podría costarles su vida compartida de recuerdos.",
+      "genres": [
+        "Animación",
+        "Aventura",
+        "Fantasía"
+      ]
+    },
+    {
       "title": "En El Corazon De La Bestia",
-      "time": "19:00",
+      "time": "18:00",
       "rating": 8.0,
       "poster": "https://image.tmdb.org/t/p/w342/h9Ql2vsltCOuf44c28nInxjzL2m.jpg",
       "summary": "Tras sobrevivir a un brutal accidente aéreo, el oficial de las Fuerzas Especiales James Belmont y su perro de combate Odín intentan intentarán regresar a la civilización desde un remoto lugar en medio de los parajes salvajes de Alaska.",
@@ -939,13 +974,46 @@ export const MOVIE_DATA = {
     },
     {
       "title": "En El Corazon De La Bestia",
-      "time": "21:00",
+      "time": "20:00",
       "rating": 8.0,
       "poster": "https://image.tmdb.org/t/p/w342/h9Ql2vsltCOuf44c28nInxjzL2m.jpg",
       "summary": "Tras sobrevivir a un brutal accidente aéreo, el oficial de las Fuerzas Especiales James Belmont y su perro de combate Odín intentan intentarán regresar a la civilización desde un remoto lugar en medio de los parajes salvajes de Alaska.",
       "genres": [
         "Aventura",
         "Suspense"
+      ]
+    },
+    {
+      "title": "En El Corazon De La Bestia",
+      "time": "22:00",
+      "rating": 8.0,
+      "poster": "https://image.tmdb.org/t/p/w342/h9Ql2vsltCOuf44c28nInxjzL2m.jpg",
+      "summary": "Tras sobrevivir a un brutal accidente aéreo, el oficial de las Fuerzas Especiales James Belmont y su perro de combate Odín intentan intentarán regresar a la civilización desde un remoto lugar en medio de los parajes salvajes de Alaska.",
+      "genres": [
+        "Aventura",
+        "Suspense"
+      ]
+    },
+    {
+      "title": "La Bola Negra",
+      "time": "17:00",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/4omaYktw4VYkk5Tkq7rmUsWnQa5.jpg",
+      "summary": "Las vidas interconectadas de tres hombres en tres épocas distintas, tres existencias íntimamente ligadas por la sexualidad y el deseo, el dolor y la herencia.",
+      "genres": [
+        "Drama",
+        "Bélica"
+      ]
+    },
+    {
+      "title": "La Bola Negra",
+      "time": "17:50",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/4omaYktw4VYkk5Tkq7rmUsWnQa5.jpg",
+      "summary": "Las vidas interconectadas de tres hombres en tres épocas distintas, tres existencias íntimamente ligadas por la sexualidad y el deseo, el dolor y la herencia.",
+      "genres": [
+        "Drama",
+        "Bélica"
       ]
     },
     {
@@ -961,13 +1029,46 @@ export const MOVIE_DATA = {
     },
     {
       "title": "La Bola Negra",
-      "time": "21:00",
+      "time": "20:50",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/4omaYktw4VYkk5Tkq7rmUsWnQa5.jpg",
       "summary": "Las vidas interconectadas de tres hombres en tres épocas distintas, tres existencias íntimamente ligadas por la sexualidad y el deseo, el dolor y la herencia.",
       "genres": [
         "Drama",
         "Bélica"
+      ]
+    },
+    {
+      "title": "La Bola Negra",
+      "time": "21:20",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/4omaYktw4VYkk5Tkq7rmUsWnQa5.jpg",
+      "summary": "Las vidas interconectadas de tres hombres en tres épocas distintas, tres existencias íntimamente ligadas por la sexualidad y el deseo, el dolor y la herencia.",
+      "genres": [
+        "Drama",
+        "Bélica"
+      ]
+    },
+    {
+      "title": "Digger",
+      "time": "15:50",
+      "rating": 7.7,
+      "poster": "https://image.tmdb.org/t/p/w342/koqE0V2IgIPVy5o2vVkoGJvnB8b.jpg",
+      "summary": "El hombre más poderoso del mundo se embarca en una misión frenética para demostrar que es el salvador de la humanidad antes de que el desastre que ha desencadenado lo destruya todo.",
+      "genres": [
+        "Comedia",
+        "Drama"
+      ]
+    },
+    {
+      "title": "Verity La Sombra De Un Engaño",
+      "time": "18:10",
+      "rating": 6.8,
+      "poster": "https://image.tmdb.org/t/p/w342/dGSsPovyUW5XVekXcy7F2GyhTEh.jpg",
+      "summary": "Lowen Ashleigh es contratada como escritora fantasma por Jeremy Crawford para escribir las novelas de su esposa Verity, autora de bestsellers, impedida tras un accidente. Lowen descubre las inquietantes verdades de Verity mientras reside en casa de los Crawford para trabajar.",
+      "genres": [
+        "Misterio",
+        "Suspense"
       ]
     },
     {
@@ -983,7 +1084,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Verity La Sombra De Un Engaño",
-      "time": "21:00",
+      "time": "22:00",
       "rating": 6.8,
       "poster": "https://image.tmdb.org/t/p/w342/dGSsPovyUW5XVekXcy7F2GyhTEh.jpg",
       "summary": "Lowen Ashleigh es contratada como escritora fantasma por Jeremy Crawford para escribir las novelas de su esposa Verity, autora de bestsellers, impedida tras un accidente. Lowen descubre las inquietantes verdades de Verity mientras reside en casa de los Crawford para trabajar.",
@@ -993,8 +1094,32 @@ export const MOVIE_DATA = {
       ]
     },
     {
+      "title": "Doraemon  Aventuras En El Mundo Del Arte",
+      "time": "16:00",
+      "rating": 8.1,
+      "poster": "https://image.tmdb.org/t/p/w342/lApPtVlqf6Q7oJxMXHMpss674Z4.jpg",
+      "summary": "44.ª película de la serie Doraemon the Movie. La historia se desarrolla en el magnífico mundo medieval europeo representado en las imágenes. ¡Doraemon y sus amigos se sumergen en el «mundo de las imágenes» y viven una gran aventura en esta historia completamente original!",
+      "genres": [
+        "Aventura",
+        "Animación",
+        "Familia"
+      ]
+    },
+    {
       "title": "El Arbol Muy Muy Lejano",
-      "time": "19:00",
+      "time": "16:00",
+      "rating": 6.7,
+      "poster": "https://image.tmdb.org/t/p/w342/fpW5GntifGxAG7Js99Wdhq9K0s5.jpg",
+      "summary": "Polly, Tim, y sus tres hijos son una familia moderna que se ve obligada a mudarse a la remota campiña inglesa. Poco después de su llegada, los niños descubren un árbol mágico y a sus extraordinarios y excéntricos habitantes.",
+      "genres": [
+        "Aventura",
+        "Familia",
+        "Fantasía"
+      ]
+    },
+    {
+      "title": "El Arbol Muy Muy Lejano",
+      "time": "18:00",
       "rating": 6.7,
       "poster": "https://image.tmdb.org/t/p/w342/fpW5GntifGxAG7Js99Wdhq9K0s5.jpg",
       "summary": "Polly, Tim, y sus tres hijos son una familia moderna que se ve obligada a mudarse a la remota campiña inglesa. Poco después de su llegada, los niños descubren un árbol mágico y a sus extraordinarios y excéntricos habitantes.",
@@ -1006,7 +1131,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "El Precio De La Red",
-      "time": "21:00",
+      "time": "19:45",
       "rating": 7.8,
       "poster": "https://image.tmdb.org/t/p/w342/xT7yxocpGjqzalCUTr9IFDf8Oyb.jpg",
       "summary": "Explora las prácticas internas de Facebook, la difusión de información falsa, el impacto en la salud mental de los adolescentes y la conexión con los eventos del 6 de enero en el Capitolio.",
@@ -1017,7 +1142,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "La Otra Madre",
-      "time": "19:00",
+      "time": "17:30",
       "rating": 7.5,
       "poster": "https://image.tmdb.org/t/p/w342/vsde9OnhjFMlJz8Wi6Z6drZ7GG5.jpg",
       "summary": "Una joven llamada Bela entabla una relación con una entidad siniestra que habita en su casa y que guarda un parecido asombroso con su propia madre.",
@@ -1027,12 +1152,34 @@ export const MOVIE_DATA = {
     },
     {
       "title": "La Otra Madre",
-      "time": "21:30",
+      "time": "20:15",
       "rating": 7.5,
       "poster": "https://image.tmdb.org/t/p/w342/vsde9OnhjFMlJz8Wi6Z6drZ7GG5.jpg",
       "summary": "Una joven llamada Bela entabla una relación con una entidad siniestra que habita en su casa y que guarda un parecido asombroso con su propia madre.",
       "genres": [
         "Terror"
+      ]
+    },
+    {
+      "title": "La Otra Madre",
+      "time": "22:00",
+      "rating": 7.5,
+      "poster": "https://image.tmdb.org/t/p/w342/vsde9OnhjFMlJz8Wi6Z6drZ7GG5.jpg",
+      "summary": "Una joven llamada Bela entabla una relación con una entidad siniestra que habita en su casa y que guarda un parecido asombroso con su propia madre.",
+      "genres": [
+        "Terror"
+      ]
+    },
+    {
+      "title": "Mascotas Al Rescate",
+      "time": "15:50",
+      "rating": 7.2,
+      "poster": "https://image.tmdb.org/t/p/w342/dJZRImFs3jdMV1I2OzgjGz1rZv9.jpg",
+      "summary": "En un tren que está a punto de salir de la estación, suena la alarma que obliga a todos los pasajeros a bajarse. Pero entonces el tren arranca de manera improvista, llevándose a bordo los viajeros que no han tenido tiempo de bajar: los animales de compañía. Asombrados, estos descubren que el tren está bajo el control de Hans, un tejón manipulador y rencoroso, que se quiere vengar de Rex, el perro policía que le puso entre rejas hace años. Como los servicios de rescate no consiguen intervenir en el trayecto montañoso del tren, que circula a toda velocidad, los animales de compañía solo pueden contar con Falcon, un mapache un poco tramposo que hará todo lo posible para salvarles.",
+      "genres": [
+        "Animación",
+        "Comedia",
+        "Aventura"
       ]
     }
   ],

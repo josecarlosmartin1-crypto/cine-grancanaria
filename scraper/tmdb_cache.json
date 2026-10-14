@@ -2814,5 +2814,13 @@
       "Documental",
       "Música"
     ]
+  },
+  "Vivir La Tierra": {
+    "rating": 0.0,
+    "poster": "https://image.tmdb.org/t/p/w342/ujuSAqvmrhh77SIIg6hWnHJWivv.jpg",
+    "summary": "Un acercamiento sensorial a un territorio tan cercano como extraño: las quintas productoras de alimentos que circundan a las grandes ciudades. Este documental presenta a Javier Paniagua y su familia habitando un entramado de tareas, problemas y elecciones de especial alcance: el compromiso de producir alimentos sanos para su comunidad, en primera persona. Ubicada en El Pato, Berazategui, la quinta de Javier es parte del mayor cinturón hortícola de Argentina. A pesar de las dificultades para acceder a la tierra y la tecnología, este territorio es también el escenario donde miles de familias eligen una vida en convivencia con la naturaleza.",
+    "genres": [
+      "Documental"
+    ]
   }
 }
