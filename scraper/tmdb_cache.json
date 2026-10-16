@@ -2822,5 +2822,63 @@
     "genres": [
       "Documental"
     ]
+  },
+  "Whalefall": {
+    "rating": 7.6,
+    "poster": "https://image.tmdb.org/t/p/w342/jmGVSLOrH9IxtcffbldrEHX4IfB.jpg",
+    "summary": "Tras la muerte de su padre, Jay Gardiner se sumerge en la costa central de California en busca de sus restos, pero es tragado por una ballena. Atrapado en su interior con solo una hora de oxígeno restante, Jay se da cuenta de que las lecciones que su padre le enseñó pueden ser la clave para escapar.",
+    "genres": [
+      "Suspense"
+    ]
+  },
+  "Street Fighter": {
+    "rating": 6.5,
+    "poster": "https://image.tmdb.org/t/p/w342/2kdEEUkbkJe08kTDMCUbBrZ71Aw.jpg",
+    "summary": "En 1993, los distanciados luchadores callejeros Ryu y Ken Masters se ven arrastrados de nuevo al combate cuando la misteriosa Chun-Li los recluta para el próximo Torneo World Warrior: un enfrentamiento brutal de puños, destino y furia. Sin embargo, tras esta gran batalla se esconde una conspiración mortal que los obliga a enfrentarse tanto entre sí como a los demonios de su pasado. Y si no lo logran... ¡será el fin de la partida!",
+    "genres": [
+      "Acción",
+      "Fantasía"
+    ]
+  },
+  "Cars 20º Aniversario": {
+    "rating": 0,
+    "poster": null,
+    "summary": "Sorprendido por una nueva generación de corredores ultrarrápidos, el legendario Rayo McQueen (voz de Owen Wilson) queda relegado repentinamente del deporte que tanto ama. Para retomar su carrera, va a necesitar la ayuda de una joven mecánica de carreras, Cruz Ramírez, que tiene su propio plan para ganar, además de la inspiración del fallecido Fabuloso Hudson Hornet y un par de giros inesperados. ¡Y para probar que el nº95 no está ni mucho menos acabado, el campeón tendrá que poner a prueba su valía en el gran circuito de la Copa Piston!",
+    "genres": []
+  },
+  "La Invitación.": {
+    "rating": 7.2,
+    "poster": "https://image.tmdb.org/t/p/w342/21JnfyCARiRkms9AZHtTXiZKbIj.jpg",
+    "summary": "Una pareja invita a los vecinos a su casa, lo que desencadena una velada llena de giros inesperados, revelando emociones profundamente reprimidas y una sexualidad inexplorada en esta historia que explora las complejidades de las relaciones de hoy en día.",
+    "genres": [
+      "Comedia",
+      "Drama",
+      "Romance"
+    ]
+  },
+  "La Maleta": {
+    "rating": 0.0,
+    "poster": "https://image.tmdb.org/t/p/w342/Ap0WExOWEL4DMcRKsAoDehi05J6.jpg",
+    "summary": "Laura y Nacho se han conocido en un vuelo, pero una vez que recojan sus maletas, su breve encuentro habrá terminado. Laura no quiere eso, así que propone un juego: si la primera maleta que sale es la de ella, esa misma noche tendrán una cita. Nacho acepta y, para salirse con la suya, ella coge la primera maleta que ve… sin saber que pertenece a unos terroristas.",
+    "genres": [
+      "Comedia",
+      "Acción"
+    ]
+  },
+  "Cars 20 Aniversario": {
+    "rating": 0,
+    "poster": null,
+    "summary": "",
+    "genres": []
+  },
+  "La Invitacion": {
+    "rating": 7.2,
+    "poster": "https://image.tmdb.org/t/p/w342/21JnfyCARiRkms9AZHtTXiZKbIj.jpg",
+    "summary": "Una pareja invita a los vecinos a su casa, lo que desencadena una velada llena de giros inesperados, revelando emociones profundamente reprimidas y una sexualidad inexplorada en esta historia que explora las complejidades de las relaciones de hoy en día.",
+    "genres": [
+      "Comedia",
+      "Drama",
+      "Romance"
+    ]
   }
 }
