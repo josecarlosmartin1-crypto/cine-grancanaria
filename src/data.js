@@ -13,7 +13,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "La Maleta",
-      "time": "20:15",
+      "time": "20:20",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/Ap0WExOWEL4DMcRKsAoDehi05J6.jpg",
       "summary": "Laura y Nacho se han conocido en un vuelo, pero una vez que recojan sus maletas, su breve encuentro habrá terminado. Laura no quiere eso, así que propone un juego: si la primera maleta que sale es la de ella, esa misma noche tendrán una cita. Nacho acepta y, para salirse con la suya, ella coge la primera maleta que ve… sin saber que pertenece a unos terroristas.",
@@ -163,14 +163,14 @@ export const MOVIE_DATA = {
       ]
     },
     {
-      "title": "El Precio De La Red",
+      "title": "Digger",
       "time": "21:40",
-      "rating": 7.8,
-      "poster": "https://image.tmdb.org/t/p/w342/xT7yxocpGjqzalCUTr9IFDf8Oyb.jpg",
-      "summary": "Explora las prácticas internas de Facebook, la difusión de información falsa, el impacto en la salud mental de los adolescentes y la conexión con los eventos del 6 de enero en el Capitolio.",
+      "rating": 7.7,
+      "poster": "https://image.tmdb.org/t/p/w342/koqE0V2IgIPVy5o2vVkoGJvnB8b.jpg",
+      "summary": "El hombre más poderoso del mundo se embarca en una misión frenética para demostrar que es el salvador de la humanidad antes de que el desastre que ha desencadenado lo destruya todo.",
       "genres": [
-        "Drama",
-        "Suspense"
+        "Comedia",
+        "Drama"
       ]
     },
     {
@@ -240,18 +240,6 @@ export const MOVIE_DATA = {
       ]
     },
     {
-      "title": "Vengadores: Endgame Encore",
-      "time": "20:30",
-      "rating": 8.2,
-      "poster": "https://image.tmdb.org/t/p/w342/br6krBFpaYmCSglLBWRuhui7tPc.jpg",
-      "summary": "Tras el chasquido de Thanos que eliminó a la mitad de la vida en el universo, los Vengadores supervivientes quedan devastados y divididos. Cinco años después, una inesperada oportunidad les permite intentar revertir la catástrofe. Reuniéndose una vez más, los héroes emprenden una misión extrema que los obliga a viajar al pasado, enfrentarse a sus propias pérdidas y hacer sacrificios definitivos para restaurar el equilibrio del universo.",
-      "genres": [
-        "Aventura",
-        "Ciencia ficción",
-        "Acción"
-      ]
-    },
-    {
       "title": "En El Corazón De La Bestia",
       "time": "17:20",
       "rating": 7.7,
@@ -296,6 +284,18 @@ export const MOVIE_DATA = {
         "Ciencia ficción",
         "Aventura"
       ]
+    },
+    {
+      "title": "La Odisea",
+      "time": "20:30",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/bheY17L6wtB0SdJn6EYyh1X5iry.jpg",
+      "summary": "Una epopeya mitológica que sigue la historia de Odiseo y su largo viaje a casa, de 10 años de duración, tras la guerra de Troya.",
+      "genres": [
+        "Aventura",
+        "Acción",
+        "Fantasía"
+      ]
     }
   ],
   "Cine Yelmo Las Arenas": [
@@ -332,6 +332,17 @@ export const MOVIE_DATA = {
     {
       "title": "Street Fighter",
       "time": "20:00",
+      "rating": 6.5,
+      "poster": "https://image.tmdb.org/t/p/w342/2kdEEUkbkJe08kTDMCUbBrZ71Aw.jpg",
+      "summary": "En 1993, los distanciados luchadores callejeros Ryu y Ken Masters se ven arrastrados de nuevo al combate cuando la misteriosa Chun-Li los recluta para el próximo Torneo World Warrior: un enfrentamiento brutal de puños, destino y furia. Sin embargo, tras esta gran batalla se esconde una conspiración mortal que los obliga a enfrentarse tanto entre sí como a los demonios de su pasado. Y si no lo logran... ¡será el fin de la partida!",
+      "genres": [
+        "Acción",
+        "Fantasía"
+      ]
+    },
+    {
+      "title": "Street Fighter",
+      "time": "22:40",
       "rating": 6.5,
       "poster": "https://image.tmdb.org/t/p/w342/2kdEEUkbkJe08kTDMCUbBrZ71Aw.jpg",
       "summary": "En 1993, los distanciados luchadores callejeros Ryu y Ken Masters se ven arrastrados de nuevo al combate cuando la misteriosa Chun-Li los recluta para el próximo Torneo World Warrior: un enfrentamiento brutal de puños, destino y furia. Sin embargo, tras esta gran batalla se esconde una conspiración mortal que los obliga a enfrentarse tanto entre sí como a los demonios de su pasado. Y si no lo logran... ¡será el fin de la partida!",
@@ -394,7 +405,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "La Invitación.",
-      "time": "22:20",
+      "time": "19:40",
       "rating": 7.2,
       "poster": "https://image.tmdb.org/t/p/w342/21JnfyCARiRkms9AZHtTXiZKbIj.jpg",
       "summary": "Una pareja invita a los vecinos a su casa, lo que desencadena una velada llena de giros inesperados, revelando emociones profundamente reprimidas y una sexualidad inexplorada en esta historia que explora las complejidades de las relaciones de hoy en día.",
@@ -405,14 +416,15 @@ export const MOVIE_DATA = {
       ]
     },
     {
-      "title": "La Maleta",
-      "time": "16:20",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/Ap0WExOWEL4DMcRKsAoDehi05J6.jpg",
-      "summary": "Laura y Nacho se han conocido en un vuelo, pero una vez que recojan sus maletas, su breve encuentro habrá terminado. Laura no quiere eso, así que propone un juego: si la primera maleta que sale es la de ella, esa misma noche tendrán una cita. Nacho acepta y, para salirse con la suya, ella coge la primera maleta que ve… sin saber que pertenece a unos terroristas.",
+      "title": "La Invitación.",
+      "time": "22:20",
+      "rating": 7.2,
+      "poster": "https://image.tmdb.org/t/p/w342/21JnfyCARiRkms9AZHtTXiZKbIj.jpg",
+      "summary": "Una pareja invita a los vecinos a su casa, lo que desencadena una velada llena de giros inesperados, revelando emociones profundamente reprimidas y una sexualidad inexplorada en esta historia que explora las complejidades de las relaciones de hoy en día.",
       "genres": [
         "Comedia",
-        "Acción"
+        "Drama",
+        "Romance"
       ]
     },
     {
@@ -439,7 +451,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Naza",
-      "time": "15:50",
+      "time": "15:55",
       "rating": 8.1,
       "poster": "https://image.tmdb.org/t/p/w342/urM4MnCGIsCxowqDnwExSUtVKAg.jpg",
       "summary": "Rodada por la noche en los tejados de Tel Aviv, la película revela con todo detalle los mecanismos que hay detrás del asesinato en masa y deliberado de civiles palestinos en Gaza por parte de las tropas de Israel. Naza es la palabra utilizada por el ejército israelí para denominar a las víctimas civiles como 'daños colaterales'. Documental de parte del equipo de 'No Man's Land', producido por el cineasta Jonathan Glazer y su productor James Wilson, ambos responsables de 'La zona de interés'.",
@@ -488,17 +500,6 @@ export const MOVIE_DATA = {
       ]
     },
     {
-      "title": "El Precio De La Red",
-      "time": "16:00",
-      "rating": 7.8,
-      "poster": "https://image.tmdb.org/t/p/w342/xT7yxocpGjqzalCUTr9IFDf8Oyb.jpg",
-      "summary": "Explora las prácticas internas de Facebook, la difusión de información falsa, el impacto en la salud mental de los adolescentes y la conexión con los eventos del 6 de enero en el Capitolio.",
-      "genres": [
-        "Drama",
-        "Suspense"
-      ]
-    },
-    {
       "title": "Verity. La Sombra De Un Engaño",
       "time": "17:50",
       "rating": 6.8,
@@ -507,17 +508,6 @@ export const MOVIE_DATA = {
       "genres": [
         "Misterio",
         "Suspense"
-      ]
-    },
-    {
-      "title": "Digger",
-      "time": "21:00",
-      "rating": 7.7,
-      "poster": "https://image.tmdb.org/t/p/w342/koqE0V2IgIPVy5o2vVkoGJvnB8b.jpg",
-      "summary": "El hombre más poderoso del mundo se embarca en una misión frenética para demostrar que es el salvador de la humanidad antes de que el desastre que ha desencadenado lo destruya todo.",
-      "genres": [
-        "Comedia",
-        "Drama"
       ]
     },
     {
@@ -600,7 +590,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "En El Corazón De La Bestia",
-      "time": "19:30",
+      "time": "16:25",
       "rating": 7.7,
       "poster": "https://image.tmdb.org/t/p/w342/h9Ql2vsltCOuf44c28nInxjzL2m.jpg",
       "summary": "Tras sobrevivir a un brutal accidente aéreo, el oficial de las Fuerzas Especiales James Belmont y su perro de combate Odín intentan intentarán regresar a la civilización desde un remoto lugar en medio de los parajes salvajes de Alaska.",
@@ -645,15 +635,13 @@ export const MOVIE_DATA = {
       ]
     },
     {
-      "title": "Resident Evil",
-      "time": "22:40",
-      "rating": 7.8,
-      "poster": "https://image.tmdb.org/t/p/w342/3d8D5tZXiPUE2VmRjnrTNzFORBa.jpg",
-      "summary": "Película basada en la saga de videojuegos de Capcom del mismo nombre. En una reinvención totalmente nueva, el mensajero médico Bryan se ve inmerso en una carrera de acción sin descanso por la supervivencia, mientras el caos se desata a su alrededor.",
+      "title": "El Ser Querido",
+      "time": "15:50",
+      "rating": 6.8,
+      "poster": "https://image.tmdb.org/t/p/w342/bFYCaNsYmj4bOoHGIoqEthRxfRv.jpg",
+      "summary": "Un aclamado director de cine y su hija, una actriz sin éxito, ruedan juntos una película tras años de distanciamiento y un pasado difícil del que ninguno de los dos ha querido hablar.",
       "genres": [
-        "Terror",
-        "Ciencia ficción",
-        "Aventura"
+        "Drama"
       ]
     },
     {
@@ -665,6 +653,18 @@ export const MOVIE_DATA = {
       "genres": [
         "Terror",
         "Suspense"
+      ]
+    },
+    {
+      "title": "La Odisea",
+      "time": "21:00",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/bheY17L6wtB0SdJn6EYyh1X5iry.jpg",
+      "summary": "Una epopeya mitológica que sigue la historia de Odiseo y su largo viaje a casa, de 10 años de duración, tras la guerra de Troya.",
+      "genres": [
+        "Aventura",
+        "Acción",
+        "Fantasía"
       ]
     }
   ],
@@ -856,6 +856,16 @@ export const MOVIE_DATA = {
       ]
     },
     {
+      "title": "Naza",
+      "time": "16:10",
+      "rating": 8.1,
+      "poster": "https://image.tmdb.org/t/p/w342/urM4MnCGIsCxowqDnwExSUtVKAg.jpg",
+      "summary": "Rodada por la noche en los tejados de Tel Aviv, la película revela con todo detalle los mecanismos que hay detrás del asesinato en masa y deliberado de civiles palestinos en Gaza por parte de las tropas de Israel. Naza es la palabra utilizada por el ejército israelí para denominar a las víctimas civiles como 'daños colaterales'. Documental de parte del equipo de 'No Man's Land', producido por el cineasta Jonathan Glazer y su productor James Wilson, ambos responsables de 'La zona de interés'.",
+      "genres": [
+        "Documental"
+      ]
+    },
+    {
       "title": "Verity. La Sombra De Un Engaño",
       "time": "18:25",
       "rating": 6.8,
@@ -868,7 +878,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "La Bola Negra",
-      "time": "15:55",
+      "time": "16:00",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/4omaYktw4VYkk5Tkq7rmUsWnQa5.jpg",
       "summary": "Las vidas interconectadas de tres hombres en tres épocas distintas, tres existencias íntimamente ligadas por la sexualidad y el deseo, el dolor y la herencia.",
@@ -944,18 +954,6 @@ export const MOVIE_DATA = {
       ]
     },
     {
-      "title": "La Isla Olvidada",
-      "time": "16:10",
-      "rating": 8.6,
-      "poster": "https://image.tmdb.org/t/p/w342/vpTdXFoZGzwnCWzkVYU7JH8teAZ.jpg",
-      "summary": "Dos amigas se quedan varadas en el místico mundo de Nakali, donde su único escape podría costarles su vida compartida de recuerdos.",
-      "genres": [
-        "Animación",
-        "Aventura",
-        "Fantasía"
-      ]
-    },
-    {
       "title": "Coyote Vs. Acme",
       "time": "15:45",
       "rating": 7.5,
@@ -1003,15 +1001,15 @@ export const MOVIE_DATA = {
       ]
     },
     {
-      "title": "Spider-Man: Brand New Day",
+      "title": "La Odisea",
       "time": "21:00",
       "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/2OKQrD5Txku6o5JQmxXrUAGKrSt.jpg",
-      "summary": "Han pasado cuatro años desde los acontecimientos de No Way Home, y Peter Parker ahora es un adulto que vive completamente solo, ha desaparecido voluntariamente de las vidas y recuerdos de quienes ama. Combatiendo el crimen en una Nueva York que ya no conoce su nombre, se ha dedicado por completo a proteger su ciudad, pero a medida que aumentan las exigencias sobre él, la presión desencadena una evolución física que amenaza su existencia, al mismo tiempo que un extraño nuevo patrón de crímenes da lugar a una de las amenazas más poderosas a las que se ha enfrentado.",
+      "poster": "https://image.tmdb.org/t/p/w342/bheY17L6wtB0SdJn6EYyh1X5iry.jpg",
+      "summary": "Una epopeya mitológica que sigue la historia de Odiseo y su largo viaje a casa, de 10 años de duración, tras la guerra de Troya.",
       "genres": [
-        "Ciencia ficción",
+        "Aventura",
         "Acción",
-        "Aventura"
+        "Fantasía"
       ]
     }
   ],
@@ -1052,6 +1050,17 @@ export const MOVIE_DATA = {
     },
     {
       "title": "La Bola Negra",
+      "time": "16:00",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/4omaYktw4VYkk5Tkq7rmUsWnQa5.jpg",
+      "summary": "Las vidas interconectadas de tres hombres en tres épocas distintas, tres existencias íntimamente ligadas por la sexualidad y el deseo, el dolor y la herencia.",
+      "genres": [
+        "Drama",
+        "Bélica"
+      ]
+    },
+    {
+      "title": "La Bola Negra",
       "time": "19:00",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/4omaYktw4VYkk5Tkq7rmUsWnQa5.jpg",
@@ -1074,6 +1083,17 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Verity La Sombra De Un Engaño",
+      "time": "15:50",
+      "rating": 6.8,
+      "poster": "https://image.tmdb.org/t/p/w342/dGSsPovyUW5XVekXcy7F2GyhTEh.jpg",
+      "summary": "Lowen Ashleigh es contratada como escritora fantasma por Jeremy Crawford para escribir las novelas de su esposa Verity, autora de bestsellers, impedida tras un accidente. Lowen descubre las inquietantes verdades de Verity mientras reside en casa de los Crawford para trabajar.",
+      "genres": [
+        "Misterio",
+        "Suspense"
+      ]
+    },
+    {
+      "title": "Verity La Sombra De Un Engaño",
       "time": "18:05",
       "rating": 6.8,
       "poster": "https://image.tmdb.org/t/p/w342/dGSsPovyUW5XVekXcy7F2GyhTEh.jpg",
@@ -1081,6 +1101,18 @@ export const MOVIE_DATA = {
       "genres": [
         "Misterio",
         "Suspense"
+      ]
+    },
+    {
+      "title": "El Arbol Muy Muy Lejano",
+      "time": "15:50",
+      "rating": 6.7,
+      "poster": "https://image.tmdb.org/t/p/w342/fpW5GntifGxAG7Js99Wdhq9K0s5.jpg",
+      "summary": "Polly, Tim, y sus tres hijos son una familia moderna que se ve obligada a mudarse a la remota campiña inglesa. Poco después de su llegada, los niños descubren un árbol mágico y a sus extraordinarios y excéntricos habitantes.",
+      "genres": [
+        "Aventura",
+        "Familia",
+        "Fantasía"
       ]
     },
     {
@@ -1113,6 +1145,18 @@ export const MOVIE_DATA = {
         "Animación",
         "Comedia",
         "Aventura"
+      ]
+    },
+    {
+      "title": "La Invitacion",
+      "time": "16:00",
+      "rating": 7.2,
+      "poster": "https://image.tmdb.org/t/p/w342/21JnfyCARiRkms9AZHtTXiZKbIj.jpg",
+      "summary": "Una pareja invita a los vecinos a su casa, lo que desencadena una velada llena de giros inesperados, revelando emociones profundamente reprimidas y una sexualidad inexplorada en esta historia que explora las complejidades de las relaciones de hoy en día.",
+      "genres": [
+        "Comedia",
+        "Drama",
+        "Romance"
       ]
     },
     {
@@ -1186,17 +1230,6 @@ export const MOVIE_DATA = {
     {
       "title": "Street Fighter",
       "time": "19:30",
-      "rating": 6.5,
-      "poster": "https://image.tmdb.org/t/p/w342/2kdEEUkbkJe08kTDMCUbBrZ71Aw.jpg",
-      "summary": "En 1993, los distanciados luchadores callejeros Ryu y Ken Masters se ven arrastrados de nuevo al combate cuando la misteriosa Chun-Li los recluta para el próximo Torneo World Warrior: un enfrentamiento brutal de puños, destino y furia. Sin embargo, tras esta gran batalla se esconde una conspiración mortal que los obliga a enfrentarse tanto entre sí como a los demonios de su pasado. Y si no lo logran... ¡será el fin de la partida!",
-      "genres": [
-        "Acción",
-        "Fantasía"
-      ]
-    },
-    {
-      "title": "Street Fighter",
-      "time": "22:00",
       "rating": 6.5,
       "poster": "https://image.tmdb.org/t/p/w342/2kdEEUkbkJe08kTDMCUbBrZ71Aw.jpg",
       "summary": "En 1993, los distanciados luchadores callejeros Ryu y Ken Masters se ven arrastrados de nuevo al combate cuando la misteriosa Chun-Li los recluta para el próximo Torneo World Warrior: un enfrentamiento brutal de puños, destino y furia. Sin embargo, tras esta gran batalla se esconde una conspiración mortal que los obliga a enfrentarse tanto entre sí como a los demonios de su pasado. Y si no lo logran... ¡será el fin de la partida!",
