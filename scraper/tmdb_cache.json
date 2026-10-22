@@ -2886,5 +2886,33 @@
     "poster": null,
     "summary": "Dos de los artistas más extraordinarios de la ópera regresan a «The Met: Live in HD» para interpretar la apasionante versión de Verdi de la inmortal historia shakespeariana sobre una pareja intrigante decidida a hacerse con el poder a cualquier precio. El barítono Quinn Kelsey encarna al rey escocés atormentado por los fantasmas de su sangriento ascenso al trono, junto a la soprano Lise Davidsen en el papel de la ambiciosa Lady Macbeth, cuya ruinosa ambición los condena a ambos. El director musical del Met, Yannick Nézet-Séguin, se pone al frente de la orquesta en una penetrante producción de Louisa Proske. Completan el reparto estelar el tenor Freddie De Tommaso como Macduff y el barítono bajo Ryan Speedo Green como Banquo.",
     "genres": []
+  },
+  "Clayface": {
+    "rating": 7.2,
+    "poster": "https://image.tmdb.org/t/p/w342/6ihSDJlBNcvoTWzSA0jonZyOXTs.jpg",
+    "summary": "Una criatura cambiante hecha de arcilla mágica acecha Ciudad Gótica, alternando entre villano y aliado de Batman. Varias figuras trágicas han asumido el manto de Cara de Barro a lo largo de los años.",
+    "genres": [
+      "Terror",
+      "Suspense",
+      "Ciencia ficción"
+    ]
+  },
+  "Leones En Invierno": {
+    "rating": 0.0,
+    "poster": "https://image.tmdb.org/t/p/w342/ozr5OyKt1whnfuLei2viZsS38Kp.jpg",
+    "summary": "La pérdida inesperada de una hija nos llevará a la diferente gestión del duelo de cada uno de sus progenitores y nos desvelará como, en ese dolor inmenso, nuestro padre protagonista se quiebra dejando en libertad el león que lleva dentro y que creyó tener firmemente enjaulado en su pasado.  Las ansías de encontrar la verdad y de hacer justicia a su manera, le llevarán a una trama de corrupción, poder y crimen organizado y mientras el responsable de la muerte de su hija luchará por ocultar la verdad, el padre de la víctima  irá cruzando líneas rojas, adentrándose en un camino que no tiene retorno y es que hay algo más peligroso que un padre defendiendo a sus hijos y es un padre que ya no tiene hijos a los que defender.",
+    "genres": [
+      "Acción",
+      "Suspense"
+    ]
+  },
+  "Arriba Tutto": {
+    "rating": 0.0,
+    "poster": "https://image.tmdb.org/t/p/w342/cO5d1CHpb1ravVNqHQmJr7NLcTN.jpg",
+    "summary": "1905. La feliz infancia de Michi, un niño de siete años, finaliza bruscamente con la violenta muerte de su padre, un artista ambulante que ha enseñado al pequeño a ver la magia y el humor en cada rincón de la vida. Pasados los años, Michi se ha convertido en un hombre amargado, violento y consumido por el rencor. Una asombrosa aparición y el reencuentro con Conchita, su amor de la niñez, le ayudará a recuperar el paraíso perdido y la transgresora visión del mundo que le inculcó su padre.",
+    "genres": [
+      "Comedia",
+      "Drama"
+    ]
   }
 }
