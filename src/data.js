@@ -1,1139 +1,22 @@
 export const MOVIE_DATA = {
-  "Cine Yelmo Vecindario": [
-    {
-      "title": "Leones En Invierno",
-      "time": "22:40",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/ozr5OyKt1whnfuLei2viZsS38Kp.jpg",
-      "summary": "La pérdida inesperada de una hija nos llevará a la diferente gestión del duelo de cada uno de sus progenitores y nos desvelará como, en ese dolor inmenso, nuestro padre protagonista se quiebra dejando en libertad el león que lleva dentro y que creyó tener firmemente enjaulado en su pasado.  Las ansías de encontrar la verdad y de hacer justicia a su manera, le llevarán a una trama de corrupción, poder y crimen organizado y mientras el responsable de la muerte de su hija luchará por ocultar la verdad, el padre de la víctima  irá cruzando líneas rojas, adentrándose en un camino que no tiene retorno y es que hay algo más peligroso que un padre defendiendo a sus hijos y es un padre que ya no tiene hijos a los que defender.",
-      "genres": [
-        "Acción",
-        "Suspense"
-      ]
-    },
-    {
-      "title": "Clayface",
-      "time": "16:00",
-      "rating": 7.2,
-      "poster": "https://image.tmdb.org/t/p/w342/6ihSDJlBNcvoTWzSA0jonZyOXTs.jpg",
-      "summary": "Una criatura cambiante hecha de arcilla mágica acecha Ciudad Gótica, alternando entre villano y aliado de Batman. Varias figuras trágicas han asumido el manto de Cara de Barro a lo largo de los años.",
-      "genres": [
-        "Terror",
-        "Suspense",
-        "Ciencia ficción"
-      ]
-    },
-    {
-      "title": "Clayface",
-      "time": "18:15",
-      "rating": 7.2,
-      "poster": "https://image.tmdb.org/t/p/w342/6ihSDJlBNcvoTWzSA0jonZyOXTs.jpg",
-      "summary": "Una criatura cambiante hecha de arcilla mágica acecha Ciudad Gótica, alternando entre villano y aliado de Batman. Varias figuras trágicas han asumido el manto de Cara de Barro a lo largo de los años.",
-      "genres": [
-        "Terror",
-        "Suspense",
-        "Ciencia ficción"
-      ]
-    },
-    {
-      "title": "Clayface",
-      "time": "20:30",
-      "rating": 7.2,
-      "poster": "https://image.tmdb.org/t/p/w342/6ihSDJlBNcvoTWzSA0jonZyOXTs.jpg",
-      "summary": "Una criatura cambiante hecha de arcilla mágica acecha Ciudad Gótica, alternando entre villano y aliado de Batman. Varias figuras trágicas han asumido el manto de Cara de Barro a lo largo de los años.",
-      "genres": [
-        "Terror",
-        "Suspense",
-        "Ciencia ficción"
-      ]
-    },
-    {
-      "title": "Clayface",
-      "time": "22:45",
-      "rating": 7.2,
-      "poster": "https://image.tmdb.org/t/p/w342/6ihSDJlBNcvoTWzSA0jonZyOXTs.jpg",
-      "summary": "Una criatura cambiante hecha de arcilla mágica acecha Ciudad Gótica, alternando entre villano y aliado de Batman. Varias figuras trágicas han asumido el manto de Cara de Barro a lo largo de los años.",
-      "genres": [
-        "Terror",
-        "Suspense",
-        "Ciencia ficción"
-      ]
-    },
-    {
-      "title": "La Maleta",
-      "time": "15:45",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/Ap0WExOWEL4DMcRKsAoDehi05J6.jpg",
-      "summary": "Laura y Nacho se han conocido en un vuelo, pero una vez que recojan sus maletas, su breve encuentro habrá terminado. Laura no quiere eso, así que propone un juego: si la primera maleta que sale es la de ella, esa misma noche tendrán una cita. Nacho acepta y, para salirse con la suya, ella coge la primera maleta que ve… sin saber que pertenece a unos terroristas.",
-      "genres": [
-        "Comedia",
-        "Acción"
-      ]
-    },
-    {
-      "title": "La Maleta",
-      "time": "18:00",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/Ap0WExOWEL4DMcRKsAoDehi05J6.jpg",
-      "summary": "Laura y Nacho se han conocido en un vuelo, pero una vez que recojan sus maletas, su breve encuentro habrá terminado. Laura no quiere eso, así que propone un juego: si la primera maleta que sale es la de ella, esa misma noche tendrán una cita. Nacho acepta y, para salirse con la suya, ella coge la primera maleta que ve… sin saber que pertenece a unos terroristas.",
-      "genres": [
-        "Comedia",
-        "Acción"
-      ]
-    },
-    {
-      "title": "La Maleta",
-      "time": "20:20",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/Ap0WExOWEL4DMcRKsAoDehi05J6.jpg",
-      "summary": "Laura y Nacho se han conocido en un vuelo, pero una vez que recojan sus maletas, su breve encuentro habrá terminado. Laura no quiere eso, así que propone un juego: si la primera maleta que sale es la de ella, esa misma noche tendrán una cita. Nacho acepta y, para salirse con la suya, ella coge la primera maleta que ve… sin saber que pertenece a unos terroristas.",
-      "genres": [
-        "Comedia",
-        "Acción"
-      ]
-    },
-    {
-      "title": "La Maleta",
-      "time": "22:35",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/Ap0WExOWEL4DMcRKsAoDehi05J6.jpg",
-      "summary": "Laura y Nacho se han conocido en un vuelo, pero una vez que recojan sus maletas, su breve encuentro habrá terminado. Laura no quiere eso, así que propone un juego: si la primera maleta que sale es la de ella, esa misma noche tendrán una cita. Nacho acepta y, para salirse con la suya, ella coge la primera maleta que ve… sin saber que pertenece a unos terroristas.",
-      "genres": [
-        "Comedia",
-        "Acción"
-      ]
-    },
-    {
-      "title": "Street Fighter",
-      "time": "17:30",
-      "rating": 6.5,
-      "poster": "https://image.tmdb.org/t/p/w342/2kdEEUkbkJe08kTDMCUbBrZ71Aw.jpg",
-      "summary": "En 1993, los distanciados luchadores callejeros Ryu y Ken Masters se ven arrastrados de nuevo al combate cuando la misteriosa Chun-Li los recluta para el próximo Torneo World Warrior: un enfrentamiento brutal de puños, destino y furia. Sin embargo, tras esta gran batalla se esconde una conspiración mortal que los obliga a enfrentarse tanto entre sí como a los demonios de su pasado. Y si no lo logran... ¡será el fin de la partida!",
-      "genres": [
-        "Acción",
-        "Fantasía"
-      ]
-    },
-    {
-      "title": "Street Fighter",
-      "time": "20:00",
-      "rating": 6.5,
-      "poster": "https://image.tmdb.org/t/p/w342/2kdEEUkbkJe08kTDMCUbBrZ71Aw.jpg",
-      "summary": "En 1993, los distanciados luchadores callejeros Ryu y Ken Masters se ven arrastrados de nuevo al combate cuando la misteriosa Chun-Li los recluta para el próximo Torneo World Warrior: un enfrentamiento brutal de puños, destino y furia. Sin embargo, tras esta gran batalla se esconde una conspiración mortal que los obliga a enfrentarse tanto entre sí como a los demonios de su pasado. Y si no lo logran... ¡será el fin de la partida!",
-      "genres": [
-        "Acción",
-        "Fantasía"
-      ]
-    },
-    {
-      "title": "Street Fighter",
-      "time": "22:30",
-      "rating": 6.5,
-      "poster": "https://image.tmdb.org/t/p/w342/2kdEEUkbkJe08kTDMCUbBrZ71Aw.jpg",
-      "summary": "En 1993, los distanciados luchadores callejeros Ryu y Ken Masters se ven arrastrados de nuevo al combate cuando la misteriosa Chun-Li los recluta para el próximo Torneo World Warrior: un enfrentamiento brutal de puños, destino y furia. Sin embargo, tras esta gran batalla se esconde una conspiración mortal que los obliga a enfrentarse tanto entre sí como a los demonios de su pasado. Y si no lo logran... ¡será el fin de la partida!",
-      "genres": [
-        "Acción",
-        "Fantasía"
-      ]
-    },
-    {
-      "title": "La Invitación.",
-      "time": "18:10",
-      "rating": 7.2,
-      "poster": "https://image.tmdb.org/t/p/w342/21JnfyCARiRkms9AZHtTXiZKbIj.jpg",
-      "summary": "Una pareja invita a los vecinos a su casa, lo que desencadena una velada llena de giros inesperados, revelando emociones profundamente reprimidas y una sexualidad inexplorada en esta historia que explora las complejidades de las relaciones de hoy en día.",
-      "genres": [
-        "Comedia",
-        "Drama",
-        "Romance"
-      ]
-    },
-    {
-      "title": "La Invitación.",
-      "time": "20:25",
-      "rating": 7.2,
-      "poster": "https://image.tmdb.org/t/p/w342/21JnfyCARiRkms9AZHtTXiZKbIj.jpg",
-      "summary": "Una pareja invita a los vecinos a su casa, lo que desencadena una velada llena de giros inesperados, revelando emociones profundamente reprimidas y una sexualidad inexplorada en esta historia que explora las complejidades de las relaciones de hoy en día.",
-      "genres": [
-        "Comedia",
-        "Drama",
-        "Romance"
-      ]
-    },
-    {
-      "title": "Cars 20º Aniversario",
-      "time": "15:45",
-      "rating": 0,
-      "poster": null,
-      "summary": "Sorprendido por una nueva generación de corredores ultrarrápidos, el legendario Rayo McQueen (voz de Owen Wilson) queda relegado repentinamente del deporte que tanto ama. Para retomar su carrera, va a necesitar la ayuda de una joven mecánica de carreras, Cruz Ramírez, que tiene su propio plan para ganar, además de la inspiración del fallecido Fabuloso Hudson Hornet y un par de giros inesperados. ¡Y para probar que el nº95 no está ni mucho menos acabado, el campeón tendrá que poner a prueba su valía en el gran circuito de la Copa Piston!",
-      "genres": []
-    },
-    {
-      "title": "Whalefall",
-      "time": "15:50",
-      "rating": 7.6,
-      "poster": "https://image.tmdb.org/t/p/w342/jmGVSLOrH9IxtcffbldrEHX4IfB.jpg",
-      "summary": "Tras la muerte de su padre, Jay Gardiner se sumerge en la costa central de California en busca de sus restos, pero es tragado por una ballena. Atrapado en su interior con solo una hora de oxígeno restante, Jay se da cuenta de que las lecciones que su padre le enseñó pueden ser la clave para escapar.",
-      "genres": [
-        "Suspense"
-      ]
-    },
-    {
-      "title": "Whalefall",
-      "time": "18:05",
-      "rating": 7.6,
-      "poster": "https://image.tmdb.org/t/p/w342/jmGVSLOrH9IxtcffbldrEHX4IfB.jpg",
-      "summary": "Tras la muerte de su padre, Jay Gardiner se sumerge en la costa central de California en busca de sus restos, pero es tragado por una ballena. Atrapado en su interior con solo una hora de oxígeno restante, Jay se da cuenta de que las lecciones que su padre le enseñó pueden ser la clave para escapar.",
-      "genres": [
-        "Suspense"
-      ]
-    },
-    {
-      "title": "Whalefall",
-      "time": "20:20",
-      "rating": 7.6,
-      "poster": "https://image.tmdb.org/t/p/w342/jmGVSLOrH9IxtcffbldrEHX4IfB.jpg",
-      "summary": "Tras la muerte de su padre, Jay Gardiner se sumerge en la costa central de California en busca de sus restos, pero es tragado por una ballena. Atrapado en su interior con solo una hora de oxígeno restante, Jay se da cuenta de que las lecciones que su padre le enseñó pueden ser la clave para escapar.",
-      "genres": [
-        "Suspense"
-      ]
-    },
-    {
-      "title": "Whalefall",
-      "time": "22:35",
-      "rating": 7.6,
-      "poster": "https://image.tmdb.org/t/p/w342/jmGVSLOrH9IxtcffbldrEHX4IfB.jpg",
-      "summary": "Tras la muerte de su padre, Jay Gardiner se sumerge en la costa central de California en busca de sus restos, pero es tragado por una ballena. Atrapado en su interior con solo una hora de oxígeno restante, Jay se da cuenta de que las lecciones que su padre le enseñó pueden ser la clave para escapar.",
-      "genres": [
-        "Suspense"
-      ]
-    },
-    {
-      "title": "La Otra Madre",
-      "time": "16:10",
-      "rating": 7.5,
-      "poster": "https://image.tmdb.org/t/p/w342/vsde9OnhjFMlJz8Wi6Z6drZ7GG5.jpg",
-      "summary": "Una joven llamada Bela entabla una relación con una entidad siniestra que habita en su casa y que guarda un parecido asombroso con su propia madre.",
-      "genres": [
-        "Terror"
-      ]
-    },
-    {
-      "title": "La Otra Madre",
-      "time": "18:10",
-      "rating": 7.5,
-      "poster": "https://image.tmdb.org/t/p/w342/vsde9OnhjFMlJz8Wi6Z6drZ7GG5.jpg",
-      "summary": "Una joven llamada Bela entabla una relación con una entidad siniestra que habita en su casa y que guarda un parecido asombroso con su propia madre.",
-      "genres": [
-        "Terror"
-      ]
-    },
-    {
-      "title": "La Otra Madre",
-      "time": "20:10",
-      "rating": 7.5,
-      "poster": "https://image.tmdb.org/t/p/w342/vsde9OnhjFMlJz8Wi6Z6drZ7GG5.jpg",
-      "summary": "Una joven llamada Bela entabla una relación con una entidad siniestra que habita en su casa y que guarda un parecido asombroso con su propia madre.",
-      "genres": [
-        "Terror"
-      ]
-    },
-    {
-      "title": "La Otra Madre",
-      "time": "22:15",
-      "rating": 7.5,
-      "poster": "https://image.tmdb.org/t/p/w342/vsde9OnhjFMlJz8Wi6Z6drZ7GG5.jpg",
-      "summary": "Una joven llamada Bela entabla una relación con una entidad siniestra que habita en su casa y que guarda un parecido asombroso con su propia madre.",
-      "genres": [
-        "Terror"
-      ]
-    },
-    {
-      "title": "Verity. La Sombra De Un Engaño",
-      "time": "18:10",
-      "rating": 6.8,
-      "poster": "https://image.tmdb.org/t/p/w342/dGSsPovyUW5XVekXcy7F2GyhTEh.jpg",
-      "summary": "Lowen Ashleigh es contratada como escritora fantasma por Jeremy Crawford para escribir las novelas de su esposa Verity, autora de bestsellers, impedida tras un accidente. Lowen descubre las inquietantes verdades de Verity mientras reside en casa de los Crawford para trabajar.",
-      "genres": [
-        "Misterio",
-        "Suspense"
-      ]
-    },
-    {
-      "title": "La Bola Negra",
-      "time": "17:15",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/4omaYktw4VYkk5Tkq7rmUsWnQa5.jpg",
-      "summary": "Las vidas interconectadas de tres hombres en tres épocas distintas, tres existencias íntimamente ligadas por la sexualidad y el deseo, el dolor y la herencia.",
-      "genres": [
-        "Drama",
-        "Bélica"
-      ]
-    },
-    {
-      "title": "La Bola Negra",
-      "time": "18:35",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/4omaYktw4VYkk5Tkq7rmUsWnQa5.jpg",
-      "summary": "Las vidas interconectadas de tres hombres en tres épocas distintas, tres existencias íntimamente ligadas por la sexualidad y el deseo, el dolor y la herencia.",
-      "genres": [
-        "Drama",
-        "Bélica"
-      ]
-    },
-    {
-      "title": "La Bola Negra",
-      "time": "20:25",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/4omaYktw4VYkk5Tkq7rmUsWnQa5.jpg",
-      "summary": "Las vidas interconectadas de tres hombres en tres épocas distintas, tres existencias íntimamente ligadas por la sexualidad y el deseo, el dolor y la herencia.",
-      "genres": [
-        "Drama",
-        "Bélica"
-      ]
-    },
-    {
-      "title": "La Bola Negra",
-      "time": "21:45",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/4omaYktw4VYkk5Tkq7rmUsWnQa5.jpg",
-      "summary": "Las vidas interconectadas de tres hombres en tres épocas distintas, tres existencias íntimamente ligadas por la sexualidad y el deseo, el dolor y la herencia.",
-      "genres": [
-        "Drama",
-        "Bélica"
-      ]
-    },
-    {
-      "title": "En El Corazón De La Bestia",
-      "time": "18:05",
-      "rating": 7.7,
-      "poster": "https://image.tmdb.org/t/p/w342/h9Ql2vsltCOuf44c28nInxjzL2m.jpg",
-      "summary": "Tras sobrevivir a un brutal accidente aéreo, el oficial de las Fuerzas Especiales James Belmont y su perro de combate Odín intentan intentarán regresar a la civilización desde un remoto lugar en medio de los parajes salvajes de Alaska.",
-      "genres": [
-        "Aventura",
-        "Suspense"
-      ]
-    },
-    {
-      "title": "En El Corazón De La Bestia",
-      "time": "20:15",
-      "rating": 7.7,
-      "poster": "https://image.tmdb.org/t/p/w342/h9Ql2vsltCOuf44c28nInxjzL2m.jpg",
-      "summary": "Tras sobrevivir a un brutal accidente aéreo, el oficial de las Fuerzas Especiales James Belmont y su perro de combate Odín intentan intentarán regresar a la civilización desde un remoto lugar en medio de los parajes salvajes de Alaska.",
-      "genres": [
-        "Aventura",
-        "Suspense"
-      ]
-    },
-    {
-      "title": "En El Corazón De La Bestia",
-      "time": "22:25",
-      "rating": 7.7,
-      "poster": "https://image.tmdb.org/t/p/w342/h9Ql2vsltCOuf44c28nInxjzL2m.jpg",
-      "summary": "Tras sobrevivir a un brutal accidente aéreo, el oficial de las Fuerzas Especiales James Belmont y su perro de combate Odín intentan intentarán regresar a la civilización desde un remoto lugar en medio de los parajes salvajes de Alaska.",
-      "genres": [
-        "Aventura",
-        "Suspense"
-      ]
-    },
-    {
-      "title": "La Isla Olvidada",
-      "time": "16:15",
-      "rating": 8.6,
-      "poster": "https://image.tmdb.org/t/p/w342/vpTdXFoZGzwnCWzkVYU7JH8teAZ.jpg",
-      "summary": "Dos amigas se quedan varadas en el místico mundo de Nakali, donde su único escape podría costarles su vida compartida de recuerdos.",
-      "genres": [
-        "Animación",
-        "Aventura",
-        "Fantasía"
-      ]
-    },
-    {
-      "title": "Coyote Vs. Acme",
-      "time": "15:55",
-      "rating": 7.5,
-      "poster": "https://image.tmdb.org/t/p/w342/e4P8CIoffzsyjTm9e6U87Mng2CU.jpg",
-      "summary": "Después de que todos los productos fabricados por ACME Corporation le salgan mal a Wile E. Coyote, en su persecución del Correcaminos, contrata a un abogado humano igualmente desafortunado para demandar a la empresa. Cuando el abogado de Wile E. descubre que el intimidante jefe de su antiguo bufete es el director general de ACME, se une a Wile E. para ganar el juicio contra él.",
-      "genres": [
-        "Comedia",
-        "Aventura",
-        "Familia"
-      ]
-    },
-    {
-      "title": "Tadeo Jones Y La Lámpara Maravillosa",
-      "time": "16:10",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/71G1b8bqa7gzP9yU7q2fgNf2t0D.jpg",
-      "summary": "Tadeo y Sara son ahora padres de Olimpia (Oli), una adorable e intrépida niña de dos años. Y Momia no lleva nada bien haber dejado de ser el centro de atención. Mientras están de vacaciones en Londres, Sara sigue la pista hacia un objeto único: la lámpara maravillosa de Las mil y una noches. Y Momia, presa de los celos, pide un deseo: viajar en el tiempo hasta el momento en que era joven y todos le querían. Tadeo y Sara tienen que unir fuerzas para evitar que Momia cambie el curso de la historia y traer al grupo (Jeff, Belzoni y Ramona incluidos) de vuelta a casa, a su época. Esta nueva aventura los llevará a cruzar el Océano Atlántico desde Perú hasta Grecia, y de allí a lo más profundo de Oriente Medio, hasta la misma cueva de Ali Babá y los cuarenta ladrones.",
-      "genres": [
-        "Animación",
-        "Comedia",
-        "Familia"
-      ]
-    },
-    {
-      "title": "Spider-Man: Brand New Day",
-      "time": "20:35",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/2OKQrD5Txku6o5JQmxXrUAGKrSt.jpg",
-      "summary": "Han pasado cuatro años desde los acontecimientos de No Way Home, y Peter Parker ahora es un adulto que vive completamente solo, ha desaparecido voluntariamente de las vidas y recuerdos de quienes ama. Combatiendo el crimen en una Nueva York que ya no conoce su nombre, se ha dedicado por completo a proteger su ciudad, pero a medida que aumentan las exigencias sobre él, la presión desencadena una evolución física que amenaza su existencia, al mismo tiempo que un extraño nuevo patrón de crímenes da lugar a una de las amenazas más poderosas a las que se ha enfrentado.",
-      "genres": [
-        "Ciencia ficción",
-        "Acción",
-        "Aventura"
-      ]
-    }
-  ],
-  "Cine Yelmo Las Arenas": [
-    {
-      "title": "Clayface",
-      "time": "16:15",
-      "rating": 7.2,
-      "poster": "https://image.tmdb.org/t/p/w342/6ihSDJlBNcvoTWzSA0jonZyOXTs.jpg",
-      "summary": "Una criatura cambiante hecha de arcilla mágica acecha Ciudad Gótica, alternando entre villano y aliado de Batman. Varias figuras trágicas han asumido el manto de Cara de Barro a lo largo de los años.",
-      "genres": [
-        "Terror",
-        "Suspense",
-        "Ciencia ficción"
-      ]
-    },
-    {
-      "title": "Clayface",
-      "time": "19:10",
-      "rating": 7.2,
-      "poster": "https://image.tmdb.org/t/p/w342/6ihSDJlBNcvoTWzSA0jonZyOXTs.jpg",
-      "summary": "Una criatura cambiante hecha de arcilla mágica acecha Ciudad Gótica, alternando entre villano y aliado de Batman. Varias figuras trágicas han asumido el manto de Cara de Barro a lo largo de los años.",
-      "genres": [
-        "Terror",
-        "Suspense",
-        "Ciencia ficción"
-      ]
-    },
-    {
-      "title": "Clayface",
-      "time": "21:50",
-      "rating": 7.2,
-      "poster": "https://image.tmdb.org/t/p/w342/6ihSDJlBNcvoTWzSA0jonZyOXTs.jpg",
-      "summary": "Una criatura cambiante hecha de arcilla mágica acecha Ciudad Gótica, alternando entre villano y aliado de Batman. Varias figuras trágicas han asumido el manto de Cara de Barro a lo largo de los años.",
-      "genres": [
-        "Terror",
-        "Suspense",
-        "Ciencia ficción"
-      ]
-    },
-    {
-      "title": "Leones En Invierno",
-      "time": "22:20",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/ozr5OyKt1whnfuLei2viZsS38Kp.jpg",
-      "summary": "La pérdida inesperada de una hija nos llevará a la diferente gestión del duelo de cada uno de sus progenitores y nos desvelará como, en ese dolor inmenso, nuestro padre protagonista se quiebra dejando en libertad el león que lleva dentro y que creyó tener firmemente enjaulado en su pasado.  Las ansías de encontrar la verdad y de hacer justicia a su manera, le llevarán a una trama de corrupción, poder y crimen organizado y mientras el responsable de la muerte de su hija luchará por ocultar la verdad, el padre de la víctima  irá cruzando líneas rojas, adentrándose en un camino que no tiene retorno y es que hay algo más peligroso que un padre defendiendo a sus hijos y es un padre que ya no tiene hijos a los que defender.",
-      "genres": [
-        "Acción",
-        "Suspense"
-      ]
-    },
-    {
-      "title": "Cars 20º Aniversario",
-      "time": "19:00",
-      "rating": 0,
-      "poster": null,
-      "summary": "Sorprendido por una nueva generación de corredores ultrarrápidos, el legendario Rayo McQueen (voz de Owen Wilson) queda relegado repentinamente del deporte que tanto ama. Para retomar su carrera, va a necesitar la ayuda de una joven mecánica de carreras, Cruz Ramírez, que tiene su propio plan para ganar, además de la inspiración del fallecido Fabuloso Hudson Hornet y un par de giros inesperados. ¡Y para probar que el nº95 no está ni mucho menos acabado, el campeón tendrá que poner a prueba su valía en el gran circuito de la Copa Piston!",
-      "genres": []
-    },
-    {
-      "title": "Street Fighter",
-      "time": "16:40",
-      "rating": 6.5,
-      "poster": "https://image.tmdb.org/t/p/w342/2kdEEUkbkJe08kTDMCUbBrZ71Aw.jpg",
-      "summary": "En 1993, los distanciados luchadores callejeros Ryu y Ken Masters se ven arrastrados de nuevo al combate cuando la misteriosa Chun-Li los recluta para el próximo Torneo World Warrior: un enfrentamiento brutal de puños, destino y furia. Sin embargo, tras esta gran batalla se esconde una conspiración mortal que los obliga a enfrentarse tanto entre sí como a los demonios de su pasado. Y si no lo logran... ¡será el fin de la partida!",
-      "genres": [
-        "Acción",
-        "Fantasía"
-      ]
-    },
-    {
-      "title": "Street Fighter",
-      "time": "17:20",
-      "rating": 6.5,
-      "poster": "https://image.tmdb.org/t/p/w342/2kdEEUkbkJe08kTDMCUbBrZ71Aw.jpg",
-      "summary": "En 1993, los distanciados luchadores callejeros Ryu y Ken Masters se ven arrastrados de nuevo al combate cuando la misteriosa Chun-Li los recluta para el próximo Torneo World Warrior: un enfrentamiento brutal de puños, destino y furia. Sin embargo, tras esta gran batalla se esconde una conspiración mortal que los obliga a enfrentarse tanto entre sí como a los demonios de su pasado. Y si no lo logran... ¡será el fin de la partida!",
-      "genres": [
-        "Acción",
-        "Fantasía"
-      ]
-    },
-    {
-      "title": "Street Fighter",
-      "time": "20:00",
-      "rating": 6.5,
-      "poster": "https://image.tmdb.org/t/p/w342/2kdEEUkbkJe08kTDMCUbBrZ71Aw.jpg",
-      "summary": "En 1993, los distanciados luchadores callejeros Ryu y Ken Masters se ven arrastrados de nuevo al combate cuando la misteriosa Chun-Li los recluta para el próximo Torneo World Warrior: un enfrentamiento brutal de puños, destino y furia. Sin embargo, tras esta gran batalla se esconde una conspiración mortal que los obliga a enfrentarse tanto entre sí como a los demonios de su pasado. Y si no lo logran... ¡será el fin de la partida!",
-      "genres": [
-        "Acción",
-        "Fantasía"
-      ]
-    },
-    {
-      "title": "Street Fighter",
-      "time": "22:40",
-      "rating": 6.5,
-      "poster": "https://image.tmdb.org/t/p/w342/2kdEEUkbkJe08kTDMCUbBrZ71Aw.jpg",
-      "summary": "En 1993, los distanciados luchadores callejeros Ryu y Ken Masters se ven arrastrados de nuevo al combate cuando la misteriosa Chun-Li los recluta para el próximo Torneo World Warrior: un enfrentamiento brutal de puños, destino y furia. Sin embargo, tras esta gran batalla se esconde una conspiración mortal que los obliga a enfrentarse tanto entre sí como a los demonios de su pasado. Y si no lo logran... ¡será el fin de la partida!",
-      "genres": [
-        "Acción",
-        "Fantasía"
-      ]
-    },
-    {
-      "title": "Whalefall",
-      "time": "15:40",
-      "rating": 7.6,
-      "poster": "https://image.tmdb.org/t/p/w342/jmGVSLOrH9IxtcffbldrEHX4IfB.jpg",
-      "summary": "Tras la muerte de su padre, Jay Gardiner se sumerge en la costa central de California en busca de sus restos, pero es tragado por una ballena. Atrapado en su interior con solo una hora de oxígeno restante, Jay se da cuenta de que las lecciones que su padre le enseñó pueden ser la clave para escapar.",
-      "genres": [
-        "Suspense"
-      ]
-    },
-    {
-      "title": "Whalefall",
-      "time": "18:00",
-      "rating": 7.6,
-      "poster": "https://image.tmdb.org/t/p/w342/jmGVSLOrH9IxtcffbldrEHX4IfB.jpg",
-      "summary": "Tras la muerte de su padre, Jay Gardiner se sumerge en la costa central de California en busca de sus restos, pero es tragado por una ballena. Atrapado en su interior con solo una hora de oxígeno restante, Jay se da cuenta de que las lecciones que su padre le enseñó pueden ser la clave para escapar.",
-      "genres": [
-        "Suspense"
-      ]
-    },
-    {
-      "title": "Whalefall",
-      "time": "20:30",
-      "rating": 7.6,
-      "poster": "https://image.tmdb.org/t/p/w342/jmGVSLOrH9IxtcffbldrEHX4IfB.jpg",
-      "summary": "Tras la muerte de su padre, Jay Gardiner se sumerge en la costa central de California en busca de sus restos, pero es tragado por una ballena. Atrapado en su interior con solo una hora de oxígeno restante, Jay se da cuenta de que las lecciones que su padre le enseñó pueden ser la clave para escapar.",
-      "genres": [
-        "Suspense"
-      ]
-    },
-    {
-      "title": "Whalefall",
-      "time": "22:50",
-      "rating": 7.6,
-      "poster": "https://image.tmdb.org/t/p/w342/jmGVSLOrH9IxtcffbldrEHX4IfB.jpg",
-      "summary": "Tras la muerte de su padre, Jay Gardiner se sumerge en la costa central de California en busca de sus restos, pero es tragado por una ballena. Atrapado en su interior con solo una hora de oxígeno restante, Jay se da cuenta de que las lecciones que su padre le enseñó pueden ser la clave para escapar.",
-      "genres": [
-        "Suspense"
-      ]
-    },
-    {
-      "title": "La Invitación.",
-      "time": "16:50",
-      "rating": 7.2,
-      "poster": "https://image.tmdb.org/t/p/w342/21JnfyCARiRkms9AZHtTXiZKbIj.jpg",
-      "summary": "Una pareja invita a los vecinos a su casa, lo que desencadena una velada llena de giros inesperados, revelando emociones profundamente reprimidas y una sexualidad inexplorada en esta historia que explora las complejidades de las relaciones de hoy en día.",
-      "genres": [
-        "Comedia",
-        "Drama",
-        "Romance"
-      ]
-    },
-    {
-      "title": "La Maleta",
-      "time": "16:20",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/Ap0WExOWEL4DMcRKsAoDehi05J6.jpg",
-      "summary": "Laura y Nacho se han conocido en un vuelo, pero una vez que recojan sus maletas, su breve encuentro habrá terminado. Laura no quiere eso, así que propone un juego: si la primera maleta que sale es la de ella, esa misma noche tendrán una cita. Nacho acepta y, para salirse con la suya, ella coge la primera maleta que ve… sin saber que pertenece a unos terroristas.",
-      "genres": [
-        "Comedia",
-        "Acción"
-      ]
-    },
-    {
-      "title": "La Maleta",
-      "time": "18:50",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/Ap0WExOWEL4DMcRKsAoDehi05J6.jpg",
-      "summary": "Laura y Nacho se han conocido en un vuelo, pero una vez que recojan sus maletas, su breve encuentro habrá terminado. Laura no quiere eso, así que propone un juego: si la primera maleta que sale es la de ella, esa misma noche tendrán una cita. Nacho acepta y, para salirse con la suya, ella coge la primera maleta que ve… sin saber que pertenece a unos terroristas.",
-      "genres": [
-        "Comedia",
-        "Acción"
-      ]
-    },
-    {
-      "title": "La Maleta",
-      "time": "21:20",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/Ap0WExOWEL4DMcRKsAoDehi05J6.jpg",
-      "summary": "Laura y Nacho se han conocido en un vuelo, pero una vez que recojan sus maletas, su breve encuentro habrá terminado. Laura no quiere eso, así que propone un juego: si la primera maleta que sale es la de ella, esa misma noche tendrán una cita. Nacho acepta y, para salirse con la suya, ella coge la primera maleta que ve… sin saber que pertenece a unos terroristas.",
-      "genres": [
-        "Comedia",
-        "Acción"
-      ]
-    },
-    {
-      "title": "La Otra Madre",
-      "time": "18:10",
-      "rating": 7.5,
-      "poster": "https://image.tmdb.org/t/p/w342/vsde9OnhjFMlJz8Wi6Z6drZ7GG5.jpg",
-      "summary": "Una joven llamada Bela entabla una relación con una entidad siniestra que habita en su casa y que guarda un parecido asombroso con su propia madre.",
-      "genres": [
-        "Terror"
-      ]
-    },
-    {
-      "title": "La Otra Madre",
-      "time": "19:20",
-      "rating": 7.5,
-      "poster": "https://image.tmdb.org/t/p/w342/vsde9OnhjFMlJz8Wi6Z6drZ7GG5.jpg",
-      "summary": "Una joven llamada Bela entabla una relación con una entidad siniestra que habita en su casa y que guarda un parecido asombroso con su propia madre.",
-      "genres": [
-        "Terror"
-      ]
-    },
-    {
-      "title": "La Otra Madre",
-      "time": "20:20",
-      "rating": 7.5,
-      "poster": "https://image.tmdb.org/t/p/w342/vsde9OnhjFMlJz8Wi6Z6drZ7GG5.jpg",
-      "summary": "Una joven llamada Bela entabla una relación con una entidad siniestra que habita en su casa y que guarda un parecido asombroso con su propia madre.",
-      "genres": [
-        "Terror"
-      ]
-    },
-    {
-      "title": "La Otra Madre",
-      "time": "22:30",
-      "rating": 7.5,
-      "poster": "https://image.tmdb.org/t/p/w342/vsde9OnhjFMlJz8Wi6Z6drZ7GG5.jpg",
-      "summary": "Una joven llamada Bela entabla una relación con una entidad siniestra que habita en su casa y que guarda un parecido asombroso con su propia madre.",
-      "genres": [
-        "Terror"
-      ]
-    },
-    {
-      "title": "La Bola Negra",
-      "time": "16:10",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/4omaYktw4VYkk5Tkq7rmUsWnQa5.jpg",
-      "summary": "Las vidas interconectadas de tres hombres en tres épocas distintas, tres existencias íntimamente ligadas por la sexualidad y el deseo, el dolor y la herencia.",
-      "genres": [
-        "Drama",
-        "Bélica"
-      ]
-    },
-    {
-      "title": "La Bola Negra",
-      "time": "17:30",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/4omaYktw4VYkk5Tkq7rmUsWnQa5.jpg",
-      "summary": "Las vidas interconectadas de tres hombres en tres épocas distintas, tres existencias íntimamente ligadas por la sexualidad y el deseo, el dolor y la herencia.",
-      "genres": [
-        "Drama",
-        "Bélica"
-      ]
-    },
-    {
-      "title": "La Bola Negra",
-      "time": "18:40",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/4omaYktw4VYkk5Tkq7rmUsWnQa5.jpg",
-      "summary": "Las vidas interconectadas de tres hombres en tres épocas distintas, tres existencias íntimamente ligadas por la sexualidad y el deseo, el dolor y la herencia.",
-      "genres": [
-        "Drama",
-        "Bélica"
-      ]
-    },
-    {
-      "title": "La Bola Negra",
-      "time": "19:30",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/4omaYktw4VYkk5Tkq7rmUsWnQa5.jpg",
-      "summary": "Las vidas interconectadas de tres hombres en tres épocas distintas, tres existencias íntimamente ligadas por la sexualidad y el deseo, el dolor y la herencia.",
-      "genres": [
-        "Drama",
-        "Bélica"
-      ]
-    },
-    {
-      "title": "La Bola Negra",
-      "time": "20:50",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/4omaYktw4VYkk5Tkq7rmUsWnQa5.jpg",
-      "summary": "Las vidas interconectadas de tres hombres en tres épocas distintas, tres existencias íntimamente ligadas por la sexualidad y el deseo, el dolor y la herencia.",
-      "genres": [
-        "Drama",
-        "Bélica"
-      ]
-    },
-    {
-      "title": "La Bola Negra",
-      "time": "22:00",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/4omaYktw4VYkk5Tkq7rmUsWnQa5.jpg",
-      "summary": "Las vidas interconectadas de tres hombres en tres épocas distintas, tres existencias íntimamente ligadas por la sexualidad y el deseo, el dolor y la herencia.",
-      "genres": [
-        "Drama",
-        "Bélica"
-      ]
-    },
-    {
-      "title": "Vengadores: Endgame Encore (Infinity Vision)",
-      "time": "21:30",
-      "rating": 8.2,
-      "poster": "https://image.tmdb.org/t/p/w342/br6krBFpaYmCSglLBWRuhui7tPc.jpg",
-      "summary": "Tras el chasquido de Thanos que eliminó a la mitad de la vida en el universo, los Vengadores supervivientes quedan devastados y divididos. Cinco años después, una inesperada oportunidad les permite intentar revertir la catástrofe. Reuniéndose una vez más, los héroes emprenden una misión extrema que los obliga a viajar al pasado, enfrentarse a sus propias pérdidas y hacer sacrificios definitivos para restaurar el equilibrio del universo.",
-      "genres": [
-        "Aventura",
-        "Ciencia ficción",
-        "Acción"
-      ]
-    },
-    {
-      "title": "En El Corazón De La Bestia",
-      "time": "19:40",
-      "rating": 7.7,
-      "poster": "https://image.tmdb.org/t/p/w342/h9Ql2vsltCOuf44c28nInxjzL2m.jpg",
-      "summary": "Tras sobrevivir a un brutal accidente aéreo, el oficial de las Fuerzas Especiales James Belmont y su perro de combate Odín intentan intentarán regresar a la civilización desde un remoto lugar en medio de los parajes salvajes de Alaska.",
-      "genres": [
-        "Aventura",
-        "Suspense"
-      ]
-    },
-    {
-      "title": "En El Corazón De La Bestia",
-      "time": "21:40",
-      "rating": 7.7,
-      "poster": "https://image.tmdb.org/t/p/w342/h9Ql2vsltCOuf44c28nInxjzL2m.jpg",
-      "summary": "Tras sobrevivir a un brutal accidente aéreo, el oficial de las Fuerzas Especiales James Belmont y su perro de combate Odín intentan intentarán regresar a la civilización desde un remoto lugar en medio de los parajes salvajes de Alaska.",
-      "genres": [
-        "Aventura",
-        "Suspense"
-      ]
-    },
-    {
-      "title": "La Isla Olvidada",
-      "time": "15:45",
-      "rating": 8.6,
-      "poster": "https://image.tmdb.org/t/p/w342/vpTdXFoZGzwnCWzkVYU7JH8teAZ.jpg",
-      "summary": "Dos amigas se quedan varadas en el místico mundo de Nakali, donde su único escape podría costarles su vida compartida de recuerdos.",
-      "genres": [
-        "Animación",
-        "Aventura",
-        "Fantasía"
-      ]
-    },
-    {
-      "title": "Coyote Vs. Acme",
-      "time": "16:30",
-      "rating": 7.5,
-      "poster": "https://image.tmdb.org/t/p/w342/e4P8CIoffzsyjTm9e6U87Mng2CU.jpg",
-      "summary": "Después de que todos los productos fabricados por ACME Corporation le salgan mal a Wile E. Coyote, en su persecución del Correcaminos, contrata a un abogado humano igualmente desafortunado para demandar a la empresa. Cuando el abogado de Wile E. descubre que el intimidante jefe de su antiguo bufete es el director general de ACME, se une a Wile E. para ganar el juicio contra él.",
-      "genres": [
-        "Comedia",
-        "Aventura",
-        "Familia"
-      ]
-    },
-    {
-      "title": "El Ser Querido",
-      "time": "15:50",
-      "rating": 6.8,
-      "poster": "https://image.tmdb.org/t/p/w342/bFYCaNsYmj4bOoHGIoqEthRxfRv.jpg",
-      "summary": "Un aclamado director de cine y su hija, una actriz sin éxito, ruedan juntos una película tras años de distanciamiento y un pasado difícil del que ninguno de los dos ha querido hablar.",
-      "genres": [
-        "Drama"
-      ]
-    },
-    {
-      "title": "Insidious: Fuera Del Más Allá",
-      "time": "22:45",
-      "rating": 6.5,
-      "poster": "https://image.tmdb.org/t/p/w342/uEqCJh1fA9Ao9jaCL2xoROPJeUB.jpg",
-      "summary": "Sexta entrega de la franquicia \"Insidious\".",
-      "genres": [
-        "Terror",
-        "Suspense"
-      ]
-    }
-  ],
-  "Cine Yelmo Premium Alisios": [
-    {
-      "title": "Clayface",
-      "time": "15:55",
-      "rating": 7.2,
-      "poster": "https://image.tmdb.org/t/p/w342/6ihSDJlBNcvoTWzSA0jonZyOXTs.jpg",
-      "summary": "Una criatura cambiante hecha de arcilla mágica acecha Ciudad Gótica, alternando entre villano y aliado de Batman. Varias figuras trágicas han asumido el manto de Cara de Barro a lo largo de los años.",
-      "genres": [
-        "Terror",
-        "Suspense",
-        "Ciencia ficción"
-      ]
-    },
-    {
-      "title": "Clayface",
-      "time": "18:15",
-      "rating": 7.2,
-      "poster": "https://image.tmdb.org/t/p/w342/6ihSDJlBNcvoTWzSA0jonZyOXTs.jpg",
-      "summary": "Una criatura cambiante hecha de arcilla mágica acecha Ciudad Gótica, alternando entre villano y aliado de Batman. Varias figuras trágicas han asumido el manto de Cara de Barro a lo largo de los años.",
-      "genres": [
-        "Terror",
-        "Suspense",
-        "Ciencia ficción"
-      ]
-    },
-    {
-      "title": "Clayface",
-      "time": "20:35",
-      "rating": 7.2,
-      "poster": "https://image.tmdb.org/t/p/w342/6ihSDJlBNcvoTWzSA0jonZyOXTs.jpg",
-      "summary": "Una criatura cambiante hecha de arcilla mágica acecha Ciudad Gótica, alternando entre villano y aliado de Batman. Varias figuras trágicas han asumido el manto de Cara de Barro a lo largo de los años.",
-      "genres": [
-        "Terror",
-        "Suspense",
-        "Ciencia ficción"
-      ]
-    },
-    {
-      "title": "Clayface",
-      "time": "22:50",
-      "rating": 7.2,
-      "poster": "https://image.tmdb.org/t/p/w342/6ihSDJlBNcvoTWzSA0jonZyOXTs.jpg",
-      "summary": "Una criatura cambiante hecha de arcilla mágica acecha Ciudad Gótica, alternando entre villano y aliado de Batman. Varias figuras trágicas han asumido el manto de Cara de Barro a lo largo de los años.",
-      "genres": [
-        "Terror",
-        "Suspense",
-        "Ciencia ficción"
-      ]
-    },
-    {
-      "title": "Whalefall",
-      "time": "15:50",
-      "rating": 7.6,
-      "poster": "https://image.tmdb.org/t/p/w342/jmGVSLOrH9IxtcffbldrEHX4IfB.jpg",
-      "summary": "Tras la muerte de su padre, Jay Gardiner se sumerge en la costa central de California en busca de sus restos, pero es tragado por una ballena. Atrapado en su interior con solo una hora de oxígeno restante, Jay se da cuenta de que las lecciones que su padre le enseñó pueden ser la clave para escapar.",
-      "genres": [
-        "Suspense"
-      ]
-    },
-    {
-      "title": "Whalefall",
-      "time": "18:05",
-      "rating": 7.6,
-      "poster": "https://image.tmdb.org/t/p/w342/jmGVSLOrH9IxtcffbldrEHX4IfB.jpg",
-      "summary": "Tras la muerte de su padre, Jay Gardiner se sumerge en la costa central de California en busca de sus restos, pero es tragado por una ballena. Atrapado en su interior con solo una hora de oxígeno restante, Jay se da cuenta de que las lecciones que su padre le enseñó pueden ser la clave para escapar.",
-      "genres": [
-        "Suspense"
-      ]
-    },
-    {
-      "title": "Whalefall",
-      "time": "20:25",
-      "rating": 7.6,
-      "poster": "https://image.tmdb.org/t/p/w342/jmGVSLOrH9IxtcffbldrEHX4IfB.jpg",
-      "summary": "Tras la muerte de su padre, Jay Gardiner se sumerge en la costa central de California en busca de sus restos, pero es tragado por una ballena. Atrapado en su interior con solo una hora de oxígeno restante, Jay se da cuenta de que las lecciones que su padre le enseñó pueden ser la clave para escapar.",
-      "genres": [
-        "Suspense"
-      ]
-    },
-    {
-      "title": "Whalefall",
-      "time": "22:45",
-      "rating": 7.6,
-      "poster": "https://image.tmdb.org/t/p/w342/jmGVSLOrH9IxtcffbldrEHX4IfB.jpg",
-      "summary": "Tras la muerte de su padre, Jay Gardiner se sumerge en la costa central de California en busca de sus restos, pero es tragado por una ballena. Atrapado en su interior con solo una hora de oxígeno restante, Jay se da cuenta de que las lecciones que su padre le enseñó pueden ser la clave para escapar.",
-      "genres": [
-        "Suspense"
-      ]
-    },
-    {
-      "title": "Street Fighter",
-      "time": "17:30",
-      "rating": 6.5,
-      "poster": "https://image.tmdb.org/t/p/w342/2kdEEUkbkJe08kTDMCUbBrZ71Aw.jpg",
-      "summary": "En 1993, los distanciados luchadores callejeros Ryu y Ken Masters se ven arrastrados de nuevo al combate cuando la misteriosa Chun-Li los recluta para el próximo Torneo World Warrior: un enfrentamiento brutal de puños, destino y furia. Sin embargo, tras esta gran batalla se esconde una conspiración mortal que los obliga a enfrentarse tanto entre sí como a los demonios de su pasado. Y si no lo logran... ¡será el fin de la partida!",
-      "genres": [
-        "Acción",
-        "Fantasía"
-      ]
-    },
-    {
-      "title": "Street Fighter",
-      "time": "20:00",
-      "rating": 6.5,
-      "poster": "https://image.tmdb.org/t/p/w342/2kdEEUkbkJe08kTDMCUbBrZ71Aw.jpg",
-      "summary": "En 1993, los distanciados luchadores callejeros Ryu y Ken Masters se ven arrastrados de nuevo al combate cuando la misteriosa Chun-Li los recluta para el próximo Torneo World Warrior: un enfrentamiento brutal de puños, destino y furia. Sin embargo, tras esta gran batalla se esconde una conspiración mortal que los obliga a enfrentarse tanto entre sí como a los demonios de su pasado. Y si no lo logran... ¡será el fin de la partida!",
-      "genres": [
-        "Acción",
-        "Fantasía"
-      ]
-    },
-    {
-      "title": "Street Fighter",
-      "time": "22:30",
-      "rating": 6.5,
-      "poster": "https://image.tmdb.org/t/p/w342/2kdEEUkbkJe08kTDMCUbBrZ71Aw.jpg",
-      "summary": "En 1993, los distanciados luchadores callejeros Ryu y Ken Masters se ven arrastrados de nuevo al combate cuando la misteriosa Chun-Li los recluta para el próximo Torneo World Warrior: un enfrentamiento brutal de puños, destino y furia. Sin embargo, tras esta gran batalla se esconde una conspiración mortal que los obliga a enfrentarse tanto entre sí como a los demonios de su pasado. Y si no lo logran... ¡será el fin de la partida!",
-      "genres": [
-        "Acción",
-        "Fantasía"
-      ]
-    },
-    {
-      "title": "Cars 20º Aniversario",
-      "time": "18:00",
-      "rating": 0,
-      "poster": null,
-      "summary": "Sorprendido por una nueva generación de corredores ultrarrápidos, el legendario Rayo McQueen (voz de Owen Wilson) queda relegado repentinamente del deporte que tanto ama. Para retomar su carrera, va a necesitar la ayuda de una joven mecánica de carreras, Cruz Ramírez, que tiene su propio plan para ganar, además de la inspiración del fallecido Fabuloso Hudson Hornet y un par de giros inesperados. ¡Y para probar que el nº95 no está ni mucho menos acabado, el campeón tendrá que poner a prueba su valía en el gran circuito de la Copa Piston!",
-      "genres": []
-    },
-    {
-      "title": "Cars 20º Aniversario",
-      "time": "20:45",
-      "rating": 0,
-      "poster": null,
-      "summary": "Sorprendido por una nueva generación de corredores ultrarrápidos, el legendario Rayo McQueen (voz de Owen Wilson) queda relegado repentinamente del deporte que tanto ama. Para retomar su carrera, va a necesitar la ayuda de una joven mecánica de carreras, Cruz Ramírez, que tiene su propio plan para ganar, además de la inspiración del fallecido Fabuloso Hudson Hornet y un par de giros inesperados. ¡Y para probar que el nº95 no está ni mucho menos acabado, el campeón tendrá que poner a prueba su valía en el gran circuito de la Copa Piston!",
-      "genres": []
-    },
-    {
-      "title": "La Maleta",
-      "time": "15:45",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/Ap0WExOWEL4DMcRKsAoDehi05J6.jpg",
-      "summary": "Laura y Nacho se han conocido en un vuelo, pero una vez que recojan sus maletas, su breve encuentro habrá terminado. Laura no quiere eso, así que propone un juego: si la primera maleta que sale es la de ella, esa misma noche tendrán una cita. Nacho acepta y, para salirse con la suya, ella coge la primera maleta que ve… sin saber que pertenece a unos terroristas.",
-      "genres": [
-        "Comedia",
-        "Acción"
-      ]
-    },
-    {
-      "title": "La Maleta",
-      "time": "20:20",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/Ap0WExOWEL4DMcRKsAoDehi05J6.jpg",
-      "summary": "Laura y Nacho se han conocido en un vuelo, pero una vez que recojan sus maletas, su breve encuentro habrá terminado. Laura no quiere eso, así que propone un juego: si la primera maleta que sale es la de ella, esa misma noche tendrán una cita. Nacho acepta y, para salirse con la suya, ella coge la primera maleta que ve… sin saber que pertenece a unos terroristas.",
-      "genres": [
-        "Comedia",
-        "Acción"
-      ]
-    },
-    {
-      "title": "La Invitación.",
-      "time": "18:00",
-      "rating": 7.2,
-      "poster": "https://image.tmdb.org/t/p/w342/21JnfyCARiRkms9AZHtTXiZKbIj.jpg",
-      "summary": "Una pareja invita a los vecinos a su casa, lo que desencadena una velada llena de giros inesperados, revelando emociones profundamente reprimidas y una sexualidad inexplorada en esta historia que explora las complejidades de las relaciones de hoy en día.",
-      "genres": [
-        "Comedia",
-        "Drama",
-        "Romance"
-      ]
-    },
-    {
-      "title": "La Invitación.",
-      "time": "22:40",
-      "rating": 7.2,
-      "poster": "https://image.tmdb.org/t/p/w342/21JnfyCARiRkms9AZHtTXiZKbIj.jpg",
-      "summary": "Una pareja invita a los vecinos a su casa, lo que desencadena una velada llena de giros inesperados, revelando emociones profundamente reprimidas y una sexualidad inexplorada en esta historia que explora las complejidades de las relaciones de hoy en día.",
-      "genres": [
-        "Comedia",
-        "Drama",
-        "Romance"
-      ]
-    },
-    {
-      "title": "La Otra Madre",
-      "time": "16:15",
-      "rating": 7.5,
-      "poster": "https://image.tmdb.org/t/p/w342/vsde9OnhjFMlJz8Wi6Z6drZ7GG5.jpg",
-      "summary": "Una joven llamada Bela entabla una relación con una entidad siniestra que habita en su casa y que guarda un parecido asombroso con su propia madre.",
-      "genres": [
-        "Terror"
-      ]
-    },
-    {
-      "title": "La Otra Madre",
-      "time": "18:20",
-      "rating": 7.5,
-      "poster": "https://image.tmdb.org/t/p/w342/vsde9OnhjFMlJz8Wi6Z6drZ7GG5.jpg",
-      "summary": "Una joven llamada Bela entabla una relación con una entidad siniestra que habita en su casa y que guarda un parecido asombroso con su propia madre.",
-      "genres": [
-        "Terror"
-      ]
-    },
-    {
-      "title": "La Otra Madre",
-      "time": "20:40",
-      "rating": 7.5,
-      "poster": "https://image.tmdb.org/t/p/w342/vsde9OnhjFMlJz8Wi6Z6drZ7GG5.jpg",
-      "summary": "Una joven llamada Bela entabla una relación con una entidad siniestra que habita en su casa y que guarda un parecido asombroso con su propia madre.",
-      "genres": [
-        "Terror"
-      ]
-    },
-    {
-      "title": "La Otra Madre",
-      "time": "22:40",
-      "rating": 7.5,
-      "poster": "https://image.tmdb.org/t/p/w342/vsde9OnhjFMlJz8Wi6Z6drZ7GG5.jpg",
-      "summary": "Una joven llamada Bela entabla una relación con una entidad siniestra que habita en su casa y que guarda un parecido asombroso con su propia madre.",
-      "genres": [
-        "Terror"
-      ]
-    },
-    {
-      "title": "Verity. La Sombra De Un Engaño",
-      "time": "18:30",
-      "rating": 6.8,
-      "poster": "https://image.tmdb.org/t/p/w342/dGSsPovyUW5XVekXcy7F2GyhTEh.jpg",
-      "summary": "Lowen Ashleigh es contratada como escritora fantasma por Jeremy Crawford para escribir las novelas de su esposa Verity, autora de bestsellers, impedida tras un accidente. Lowen descubre las inquietantes verdades de Verity mientras reside en casa de los Crawford para trabajar.",
-      "genres": [
-        "Misterio",
-        "Suspense"
-      ]
-    },
-    {
-      "title": "Vengadores: Endgame Encore",
-      "time": "21:00",
-      "rating": 8.2,
-      "poster": "https://image.tmdb.org/t/p/w342/br6krBFpaYmCSglLBWRuhui7tPc.jpg",
-      "summary": "Tras el chasquido de Thanos que eliminó a la mitad de la vida en el universo, los Vengadores supervivientes quedan devastados y divididos. Cinco años después, una inesperada oportunidad les permite intentar revertir la catástrofe. Reuniéndose una vez más, los héroes emprenden una misión extrema que los obliga a viajar al pasado, enfrentarse a sus propias pérdidas y hacer sacrificios definitivos para restaurar el equilibrio del universo.",
-      "genres": [
-        "Aventura",
-        "Ciencia ficción",
-        "Acción"
-      ]
-    },
-    {
-      "title": "La Bola Negra",
-      "time": "17:15",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/4omaYktw4VYkk5Tkq7rmUsWnQa5.jpg",
-      "summary": "Las vidas interconectadas de tres hombres en tres épocas distintas, tres existencias íntimamente ligadas por la sexualidad y el deseo, el dolor y la herencia.",
-      "genres": [
-        "Drama",
-        "Bélica"
-      ]
-    },
-    {
-      "title": "La Bola Negra",
-      "time": "18:35",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/4omaYktw4VYkk5Tkq7rmUsWnQa5.jpg",
-      "summary": "Las vidas interconectadas de tres hombres en tres épocas distintas, tres existencias íntimamente ligadas por la sexualidad y el deseo, el dolor y la herencia.",
-      "genres": [
-        "Drama",
-        "Bélica"
-      ]
-    },
-    {
-      "title": "La Bola Negra",
-      "time": "20:25",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/4omaYktw4VYkk5Tkq7rmUsWnQa5.jpg",
-      "summary": "Las vidas interconectadas de tres hombres en tres épocas distintas, tres existencias íntimamente ligadas por la sexualidad y el deseo, el dolor y la herencia.",
-      "genres": [
-        "Drama",
-        "Bélica"
-      ]
-    },
-    {
-      "title": "La Bola Negra",
-      "time": "21:45",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/4omaYktw4VYkk5Tkq7rmUsWnQa5.jpg",
-      "summary": "Las vidas interconectadas de tres hombres en tres épocas distintas, tres existencias íntimamente ligadas por la sexualidad y el deseo, el dolor y la herencia.",
-      "genres": [
-        "Drama",
-        "Bélica"
-      ]
-    },
-    {
-      "title": "En El Corazón De La Bestia",
-      "time": "16:00",
-      "rating": 7.7,
-      "poster": "https://image.tmdb.org/t/p/w342/h9Ql2vsltCOuf44c28nInxjzL2m.jpg",
-      "summary": "Tras sobrevivir a un brutal accidente aéreo, el oficial de las Fuerzas Especiales James Belmont y su perro de combate Odín intentan intentarán regresar a la civilización desde un remoto lugar en medio de los parajes salvajes de Alaska.",
-      "genres": [
-        "Aventura",
-        "Suspense"
-      ]
-    },
-    {
-      "title": "En El Corazón De La Bestia",
-      "time": "20:30",
-      "rating": 7.7,
-      "poster": "https://image.tmdb.org/t/p/w342/h9Ql2vsltCOuf44c28nInxjzL2m.jpg",
-      "summary": "Tras sobrevivir a un brutal accidente aéreo, el oficial de las Fuerzas Especiales James Belmont y su perro de combate Odín intentan intentarán regresar a la civilización desde un remoto lugar en medio de los parajes salvajes de Alaska.",
-      "genres": [
-        "Aventura",
-        "Suspense"
-      ]
-    },
-    {
-      "title": "La Isla Olvidada",
-      "time": "16:10",
-      "rating": 8.6,
-      "poster": "https://image.tmdb.org/t/p/w342/vpTdXFoZGzwnCWzkVYU7JH8teAZ.jpg",
-      "summary": "Dos amigas se quedan varadas en el místico mundo de Nakali, donde su único escape podría costarles su vida compartida de recuerdos.",
-      "genres": [
-        "Animación",
-        "Aventura",
-        "Fantasía"
-      ]
-    },
-    {
-      "title": "Coyote Vs. Acme",
-      "time": "15:45",
-      "rating": 7.5,
-      "poster": "https://image.tmdb.org/t/p/w342/e4P8CIoffzsyjTm9e6U87Mng2CU.jpg",
-      "summary": "Después de que todos los productos fabricados por ACME Corporation le salgan mal a Wile E. Coyote, en su persecución del Correcaminos, contrata a un abogado humano igualmente desafortunado para demandar a la empresa. Cuando el abogado de Wile E. descubre que el intimidante jefe de su antiguo bufete es el director general de ACME, se une a Wile E. para ganar el juicio contra él.",
-      "genres": [
-        "Comedia",
-        "Aventura",
-        "Familia"
-      ]
-    },
-    {
-      "title": "Resident Evil",
-      "time": "22:45",
-      "rating": 7.8,
-      "poster": "https://image.tmdb.org/t/p/w342/3d8D5tZXiPUE2VmRjnrTNzFORBa.jpg",
-      "summary": "Película basada en la saga de videojuegos de Capcom del mismo nombre. En una reinvención totalmente nueva, el mensajero médico Bryan se ve inmerso en una carrera de acción sin descanso por la supervivencia, mientras el caos se desata a su alrededor.",
-      "genres": [
-        "Terror",
-        "Ciencia ficción",
-        "Aventura"
-      ]
-    },
-    {
-      "title": "Tadeo Jones Y La Lámpara Maravillosa",
-      "time": "17:35",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/71G1b8bqa7gzP9yU7q2fgNf2t0D.jpg",
-      "summary": "Tadeo y Sara son ahora padres de Olimpia (Oli), una adorable e intrépida niña de dos años. Y Momia no lleva nada bien haber dejado de ser el centro de atención. Mientras están de vacaciones en Londres, Sara sigue la pista hacia un objeto único: la lámpara maravillosa de Las mil y una noches. Y Momia, presa de los celos, pide un deseo: viajar en el tiempo hasta el momento en que era joven y todos le querían. Tadeo y Sara tienen que unir fuerzas para evitar que Momia cambie el curso de la historia y traer al grupo (Jeff, Belzoni y Ramona incluidos) de vuelta a casa, a su época. Esta nueva aventura los llevará a cruzar el Océano Atlántico desde Perú hasta Grecia, y de allí a lo más profundo de Oriente Medio, hasta la misma cueva de Ali Babá y los cuarenta ladrones.",
-      "genres": [
-        "Animación",
-        "Comedia",
-        "Familia"
-      ]
-    }
-  ],
+  "Cine Yelmo Vecindario": [],
+  "Cine Yelmo Las Arenas": [],
+  "Cine Yelmo Premium Alisios": [],
   "Artesiete Las Terrazas": [
     {
-      "title": "Resident Evil",
-      "time": "22:00",
-      "rating": 7.8,
-      "poster": "https://image.tmdb.org/t/p/w342/3d8D5tZXiPUE2VmRjnrTNzFORBa.jpg",
-      "summary": "Película basada en la saga de videojuegos de Capcom del mismo nombre. En una reinvención totalmente nueva, el mensajero médico Bryan se ve inmerso en una carrera de acción sin descanso por la supervivencia, mientras el caos se desata a su alrededor.",
+      "title": "En El Corazon De La Bestia",
+      "time": "18:00",
+      "rating": 8.0,
+      "poster": "https://image.tmdb.org/t/p/w342/h9Ql2vsltCOuf44c28nInxjzL2m.jpg",
+      "summary": "Tras sobrevivir a un brutal accidente aéreo, el oficial de las Fuerzas Especiales James Belmont y su perro de combate Odín intentan intentarán regresar a la civilización desde un remoto lugar en medio de los parajes salvajes de Alaska.",
       "genres": [
-        "Terror",
-        "Ciencia ficción",
-        "Aventura"
+        "Aventura",
+        "Suspense"
       ]
     },
     {
       "title": "En El Corazon De La Bestia",
-      "time": "18:00",
+      "time": "20:00",
       "rating": 8.0,
       "poster": "https://image.tmdb.org/t/p/w342/h9Ql2vsltCOuf44c28nInxjzL2m.jpg",
       "summary": "Tras sobrevivir a un brutal accidente aéreo, el oficial de las Fuerzas Especiales James Belmont y su perro de combate Odín intentan intentarán regresar a la civilización desde un remoto lugar en medio de los parajes salvajes de Alaska.",
@@ -1177,6 +60,17 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Arriba Tutto",
+      "time": "16:00",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/cO5d1CHpb1ravVNqHQmJr7NLcTN.jpg",
+      "summary": "1905. La feliz infancia de Michi, un niño de siete años, finaliza bruscamente con la violenta muerte de su padre, un artista ambulante que ha enseñado al pequeño a ver la magia y el humor en cada rincón de la vida. Pasados los años, Michi se ha convertido en un hombre amargado, violento y consumido por el rencor. Una asombrosa aparición y el reencuentro con Conchita, su amor de la niñez, le ayudará a recuperar el paraíso perdido y la transgresora visión del mundo que le inculcó su padre.",
+      "genres": [
+        "Comedia",
+        "Drama"
+      ]
+    },
+    {
+      "title": "Arriba Tutto",
       "time": "18:00",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/cO5d1CHpb1ravVNqHQmJr7NLcTN.jpg",
@@ -1187,31 +81,8 @@ export const MOVIE_DATA = {
       ]
     },
     {
-      "title": "Verity La Sombra De Un Engaño",
-      "time": "18:00",
-      "rating": 6.8,
-      "poster": "https://image.tmdb.org/t/p/w342/dGSsPovyUW5XVekXcy7F2GyhTEh.jpg",
-      "summary": "Lowen Ashleigh es contratada como escritora fantasma por Jeremy Crawford para escribir las novelas de su esposa Verity, autora de bestsellers, impedida tras un accidente. Lowen descubre las inquietantes verdades de Verity mientras reside en casa de los Crawford para trabajar.",
-      "genres": [
-        "Misterio",
-        "Suspense"
-      ]
-    },
-    {
-      "title": "El Arbol Muy Muy Lejano",
-      "time": "15:50",
-      "rating": 6.7,
-      "poster": "https://image.tmdb.org/t/p/w342/fpW5GntifGxAG7Js99Wdhq9K0s5.jpg",
-      "summary": "Polly, Tim, y sus tres hijos son una familia moderna que se ve obligada a mudarse a la remota campiña inglesa. Poco después de su llegada, los niños descubren un árbol mágico y a sus extraordinarios y excéntricos habitantes.",
-      "genres": [
-        "Aventura",
-        "Familia",
-        "Fantasía"
-      ]
-    },
-    {
       "title": "La Otra Madre",
-      "time": "20:20",
+      "time": "22:00",
       "rating": 7.5,
       "poster": "https://image.tmdb.org/t/p/w342/vsde9OnhjFMlJz8Wi6Z6drZ7GG5.jpg",
       "summary": "Una joven llamada Bela entabla una relación con una entidad siniestra que habita en su casa y que guarda un parecido asombroso con su propia madre.",
@@ -1232,43 +103,8 @@ export const MOVIE_DATA = {
       ]
     },
     {
-      "title": "La Invitacion",
-      "time": "20:00",
-      "rating": 7.2,
-      "poster": "https://image.tmdb.org/t/p/w342/21JnfyCARiRkms9AZHtTXiZKbIj.jpg",
-      "summary": "Una pareja invita a los vecinos a su casa, lo que desencadena una velada llena de giros inesperados, revelando emociones profundamente reprimidas y una sexualidad inexplorada en esta historia que explora las complejidades de las relaciones de hoy en día.",
-      "genres": [
-        "Comedia",
-        "Drama",
-        "Romance"
-      ]
-    },
-    {
-      "title": "La Invitacion",
+      "title": "La Maleta",
       "time": "22:00",
-      "rating": 7.2,
-      "poster": "https://image.tmdb.org/t/p/w342/21JnfyCARiRkms9AZHtTXiZKbIj.jpg",
-      "summary": "Una pareja invita a los vecinos a su casa, lo que desencadena una velada llena de giros inesperados, revelando emociones profundamente reprimidas y una sexualidad inexplorada en esta historia que explora las complejidades de las relaciones de hoy en día.",
-      "genres": [
-        "Comedia",
-        "Drama",
-        "Romance"
-      ]
-    },
-    {
-      "title": "La Maleta",
-      "time": "17:00",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/Ap0WExOWEL4DMcRKsAoDehi05J6.jpg",
-      "summary": "Laura y Nacho se han conocido en un vuelo, pero una vez que recojan sus maletas, su breve encuentro habrá terminado. Laura no quiere eso, así que propone un juego: si la primera maleta que sale es la de ella, esa misma noche tendrán una cita. Nacho acepta y, para salirse con la suya, ella coge la primera maleta que ve… sin saber que pertenece a unos terroristas.",
-      "genres": [
-        "Comedia",
-        "Acción"
-      ]
-    },
-    {
-      "title": "La Maleta",
-      "time": "21:30",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/Ap0WExOWEL4DMcRKsAoDehi05J6.jpg",
       "summary": "Laura y Nacho se han conocido en un vuelo, pero una vez que recojan sus maletas, su breve encuentro habrá terminado. Laura no quiere eso, así que propone un juego: si la primera maleta que sale es la de ella, esa misma noche tendrán una cita. Nacho acepta y, para salirse con la suya, ella coge la primera maleta que ve… sin saber que pertenece a unos terroristas.",
@@ -1279,29 +115,29 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Street Fighter",
-      "time": "17:50",
-      "rating": 6.5,
-      "poster": "https://image.tmdb.org/t/p/w342/2kdEEUkbkJe08kTDMCUbBrZ71Aw.jpg",
-      "summary": "En 1993, los distanciados luchadores callejeros Ryu y Ken Masters se ven arrastrados de nuevo al combate cuando la misteriosa Chun-Li los recluta para el próximo Torneo World Warrior: un enfrentamiento brutal de puños, destino y furia. Sin embargo, tras esta gran batalla se esconde una conspiración mortal que los obliga a enfrentarse tanto entre sí como a los demonios de su pasado. Y si no lo logran... ¡será el fin de la partida!",
-      "genres": [
-        "Acción",
-        "Fantasía"
-      ]
-    },
-    {
-      "title": "Street Fighter",
-      "time": "22:00",
-      "rating": 6.5,
-      "poster": "https://image.tmdb.org/t/p/w342/2kdEEUkbkJe08kTDMCUbBrZ71Aw.jpg",
-      "summary": "En 1993, los distanciados luchadores callejeros Ryu y Ken Masters se ven arrastrados de nuevo al combate cuando la misteriosa Chun-Li los recluta para el próximo Torneo World Warrior: un enfrentamiento brutal de puños, destino y furia. Sin embargo, tras esta gran batalla se esconde una conspiración mortal que los obliga a enfrentarse tanto entre sí como a los demonios de su pasado. Y si no lo logran... ¡será el fin de la partida!",
-      "genres": [
-        "Acción",
-        "Fantasía"
-      ]
-    },
-    {
-      "title": "Whalefall",
       "time": "15:50",
+      "rating": 6.5,
+      "poster": "https://image.tmdb.org/t/p/w342/2kdEEUkbkJe08kTDMCUbBrZ71Aw.jpg",
+      "summary": "En 1993, los distanciados luchadores callejeros Ryu y Ken Masters se ven arrastrados de nuevo al combate cuando la misteriosa Chun-Li los recluta para el próximo Torneo World Warrior: un enfrentamiento brutal de puños, destino y furia. Sin embargo, tras esta gran batalla se esconde una conspiración mortal que los obliga a enfrentarse tanto entre sí como a los demonios de su pasado. Y si no lo logran... ¡será el fin de la partida!",
+      "genres": [
+        "Acción",
+        "Fantasía"
+      ]
+    },
+    {
+      "title": "Street Fighter",
+      "time": "19:50",
+      "rating": 6.5,
+      "poster": "https://image.tmdb.org/t/p/w342/2kdEEUkbkJe08kTDMCUbBrZ71Aw.jpg",
+      "summary": "En 1993, los distanciados luchadores callejeros Ryu y Ken Masters se ven arrastrados de nuevo al combate cuando la misteriosa Chun-Li los recluta para el próximo Torneo World Warrior: un enfrentamiento brutal de puños, destino y furia. Sin embargo, tras esta gran batalla se esconde una conspiración mortal que los obliga a enfrentarse tanto entre sí como a los demonios de su pasado. Y si no lo logran... ¡será el fin de la partida!",
+      "genres": [
+        "Acción",
+        "Fantasía"
+      ]
+    },
+    {
+      "title": "Whalefall",
+      "time": "16:00",
       "rating": 7.6,
       "poster": "https://image.tmdb.org/t/p/w342/jmGVSLOrH9IxtcffbldrEHX4IfB.jpg",
       "summary": "Tras la muerte de su padre, Jay Gardiner se sumerge en la costa central de California en busca de sus restos, pero es tragado por una ballena. Atrapado en su interior con solo una hora de oxígeno restante, Jay se da cuenta de que las lecciones que su padre le enseñó pueden ser la clave para escapar.",
@@ -1311,17 +147,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Whalefall",
-      "time": "20:00",
-      "rating": 7.6,
-      "poster": "https://image.tmdb.org/t/p/w342/jmGVSLOrH9IxtcffbldrEHX4IfB.jpg",
-      "summary": "Tras la muerte de su padre, Jay Gardiner se sumerge en la costa central de California en busca de sus restos, pero es tragado por una ballena. Atrapado en su interior con solo una hora de oxígeno restante, Jay se da cuenta de que las lecciones que su padre le enseñó pueden ser la clave para escapar.",
-      "genres": [
-        "Suspense"
-      ]
-    },
-    {
-      "title": "Whalefall",
-      "time": "22:00",
+      "time": "18:00",
       "rating": 7.6,
       "poster": "https://image.tmdb.org/t/p/w342/jmGVSLOrH9IxtcffbldrEHX4IfB.jpg",
       "summary": "Tras la muerte de su padre, Jay Gardiner se sumerge en la costa central de California en busca de sus restos, pero es tragado por una ballena. Atrapado en su interior con solo una hora de oxígeno restante, Jay se da cuenta de que las lecciones que su padre le enseñó pueden ser la clave para escapar.",
@@ -1331,13 +157,139 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Leones En Invierno",
-      "time": "19:15",
+      "time": "20:00",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/ozr5OyKt1whnfuLei2viZsS38Kp.jpg",
       "summary": "La pérdida inesperada de una hija nos llevará a la diferente gestión del duelo de cada uno de sus progenitores y nos desvelará como, en ese dolor inmenso, nuestro padre protagonista se quiebra dejando en libertad el león que lleva dentro y que creyó tener firmemente enjaulado en su pasado.  Las ansías de encontrar la verdad y de hacer justicia a su manera, le llevarán a una trama de corrupción, poder y crimen organizado y mientras el responsable de la muerte de su hija luchará por ocultar la verdad, el padre de la víctima  irá cruzando líneas rojas, adentrándose en un camino que no tiene retorno y es que hay algo más peligroso que un padre defendiendo a sus hijos y es un padre que ya no tiene hijos a los que defender.",
       "genres": [
         "Acción",
         "Suspense"
+      ]
+    },
+    {
+      "title": "Leones En Invierno",
+      "time": "22:15",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/ozr5OyKt1whnfuLei2viZsS38Kp.jpg",
+      "summary": "La pérdida inesperada de una hija nos llevará a la diferente gestión del duelo de cada uno de sus progenitores y nos desvelará como, en ese dolor inmenso, nuestro padre protagonista se quiebra dejando en libertad el león que lleva dentro y que creyó tener firmemente enjaulado en su pasado.  Las ansías de encontrar la verdad y de hacer justicia a su manera, le llevarán a una trama de corrupción, poder y crimen organizado y mientras el responsable de la muerte de su hija luchará por ocultar la verdad, el padre de la víctima  irá cruzando líneas rojas, adentrándose en un camino que no tiene retorno y es que hay algo más peligroso que un padre defendiendo a sus hijos y es un padre que ya no tiene hijos a los que defender.",
+      "genres": [
+        "Acción",
+        "Suspense"
+      ]
+    },
+    {
+      "title": "Sentido Y Sensibilidad",
+      "time": "17:45",
+      "rating": 7.3,
+      "poster": "https://image.tmdb.org/t/p/w342/9BvQHFAQ3BhKk5NSYxtYSMn5lrb.jpg",
+      "summary": "Una historia de amor, familia y hermandad basada en *Sentido y sensibilidad* de Jane Austen.",
+      "genres": [
+        "Drama",
+        "Romance"
+      ]
+    },
+    {
+      "title": "Sentido Y Sensibilidad",
+      "time": "20:10",
+      "rating": 7.3,
+      "poster": "https://image.tmdb.org/t/p/w342/9BvQHFAQ3BhKk5NSYxtYSMn5lrb.jpg",
+      "summary": "Una historia de amor, familia y hermandad basada en *Sentido y sensibilidad* de Jane Austen.",
+      "genres": [
+        "Drama",
+        "Romance"
+      ]
+    },
+    {
+      "title": "Sentido Y Sensibilidad",
+      "time": "22:30",
+      "rating": 7.3,
+      "poster": "https://image.tmdb.org/t/p/w342/9BvQHFAQ3BhKk5NSYxtYSMn5lrb.jpg",
+      "summary": "Una historia de amor, familia y hermandad basada en *Sentido y sensibilidad* de Jane Austen.",
+      "genres": [
+        "Drama",
+        "Romance"
+      ]
+    },
+    {
+      "title": "Superthings  La Pelicula",
+      "time": "16:00",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/ncJXMB0MbDiXIpqCdNSN4MYRe3k.jpg",
+      "summary": "",
+      "genres": [
+        "Animación",
+        "Acción",
+        "Familia"
+      ]
+    },
+    {
+      "title": "Wildwood El Bosque Salvaje",
+      "time": "17:00",
+      "rating": 8.9,
+      "poster": "https://image.tmdb.org/t/p/w342/sJ1uZ4DKsjs2iqLtCX46TifxqoE.jpg",
+      "summary": "Prue y su compañero de clase Curtis se ven arrastrados a un bosque mágico poblado por criaturas encantadas, aliados leales y adversarios formidables, mientras emprenden una misión desesperada para rescatar al hermano bebé de Prue —secuestrado por una bandada de cuervos liderada por una misteriosa mujer llamada Alexandra—.",
+      "genres": [
+        "Animación",
+        "Aventura",
+        "Fantasía"
+      ]
+    },
+    {
+      "title": "Wildwood El Bosque Salvaje",
+      "time": "20:00",
+      "rating": 8.9,
+      "poster": "https://image.tmdb.org/t/p/w342/sJ1uZ4DKsjs2iqLtCX46TifxqoE.jpg",
+      "summary": "Prue y su compañero de clase Curtis se ven arrastrados a un bosque mágico poblado por criaturas encantadas, aliados leales y adversarios formidables, mientras emprenden una misión desesperada para rescatar al hermano bebé de Prue —secuestrado por una bandada de cuervos liderada por una misteriosa mujer llamada Alexandra—.",
+      "genres": [
+        "Animación",
+        "Aventura",
+        "Fantasía"
+      ]
+    },
+    {
+      "title": "Clayface",
+      "time": "18:00",
+      "rating": 7.2,
+      "poster": "https://image.tmdb.org/t/p/w342/6ihSDJlBNcvoTWzSA0jonZyOXTs.jpg",
+      "summary": "Una criatura cambiante hecha de arcilla mágica acecha Ciudad Gótica, alternando entre villano y aliado de Batman. Varias figuras trágicas han asumido el manto de Cara de Barro a lo largo de los años.",
+      "genres": [
+        "Terror",
+        "Suspense",
+        "Ciencia ficción"
+      ]
+    },
+    {
+      "title": "Clayface",
+      "time": "20:00",
+      "rating": 7.2,
+      "poster": "https://image.tmdb.org/t/p/w342/6ihSDJlBNcvoTWzSA0jonZyOXTs.jpg",
+      "summary": "Una criatura cambiante hecha de arcilla mágica acecha Ciudad Gótica, alternando entre villano y aliado de Batman. Varias figuras trágicas han asumido el manto de Cara de Barro a lo largo de los años.",
+      "genres": [
+        "Terror",
+        "Suspense",
+        "Ciencia ficción"
+      ]
+    },
+    {
+      "title": "Clayface",
+      "time": "22:00",
+      "rating": 7.2,
+      "poster": "https://image.tmdb.org/t/p/w342/6ihSDJlBNcvoTWzSA0jonZyOXTs.jpg",
+      "summary": "Una criatura cambiante hecha de arcilla mágica acecha Ciudad Gótica, alternando entre villano y aliado de Batman. Varias figuras trágicas han asumido el manto de Cara de Barro a lo largo de los años.",
+      "genres": [
+        "Terror",
+        "Suspense",
+        "Ciencia ficción"
+      ]
+    },
+    {
+      "title": "Lilith",
+      "time": "22:30",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/vwICPXZyBsLNciFcCZt6RlrgHgZ.jpg",
+      "summary": "",
+      "genres": [
+        "Terror"
       ]
     }
   ],

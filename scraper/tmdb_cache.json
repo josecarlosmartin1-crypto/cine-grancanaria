@@ -2914,5 +2914,42 @@
       "Comedia",
       "Drama"
     ]
+  },
+  "Sentido Y Sensibilidad": {
+    "rating": 7.3,
+    "poster": "https://image.tmdb.org/t/p/w342/9BvQHFAQ3BhKk5NSYxtYSMn5lrb.jpg",
+    "summary": "Una historia de amor, familia y hermandad basada en *Sentido y sensibilidad* de Jane Austen.",
+    "genres": [
+      "Drama",
+      "Romance"
+    ]
+  },
+  "Superthings  La Pelicula": {
+    "rating": 0.0,
+    "poster": "https://image.tmdb.org/t/p/w342/ncJXMB0MbDiXIpqCdNSN4MYRe3k.jpg",
+    "summary": "",
+    "genres": [
+      "Animación",
+      "Acción",
+      "Familia"
+    ]
+  },
+  "Wildwood El Bosque Salvaje": {
+    "rating": 8.9,
+    "poster": "https://image.tmdb.org/t/p/w342/sJ1uZ4DKsjs2iqLtCX46TifxqoE.jpg",
+    "summary": "Prue y su compañero de clase Curtis se ven arrastrados a un bosque mágico poblado por criaturas encantadas, aliados leales y adversarios formidables, mientras emprenden una misión desesperada para rescatar al hermano bebé de Prue —secuestrado por una bandada de cuervos liderada por una misteriosa mujer llamada Alexandra—.",
+    "genres": [
+      "Animación",
+      "Aventura",
+      "Fantasía"
+    ]
+  },
+  "Lilith": {
+    "rating": 0.0,
+    "poster": "https://image.tmdb.org/t/p/w342/vwICPXZyBsLNciFcCZt6RlrgHgZ.jpg",
+    "summary": "",
+    "genres": [
+      "Terror"
+    ]
   }
 }
