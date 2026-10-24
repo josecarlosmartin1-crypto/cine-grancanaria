@@ -104,7 +104,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "La Maleta",
-      "time": "22:00",
+      "time": "22:15",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/Ap0WExOWEL4DMcRKsAoDehi05J6.jpg",
       "summary": "Laura y Nacho se han conocido en un vuelo, pero una vez que recojan sus maletas, su breve encuentro habrá terminado. Laura no quiere eso, así que propone un juego: si la primera maleta que sale es la de ella, esa misma noche tendrán una cita. Nacho acepta y, para salirse con la suya, ella coge la primera maleta que ve… sin saber que pertenece a unos terroristas.",
