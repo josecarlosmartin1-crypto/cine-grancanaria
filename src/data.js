@@ -5,7 +5,7 @@ export const MOVIE_DATA = {
   "Artesiete Las Terrazas": [
     {
       "title": "En El Corazon De La Bestia",
-      "time": "20:00",
+      "time": "19:00",
       "rating": 8.0,
       "poster": "https://image.tmdb.org/t/p/w342/h9Ql2vsltCOuf44c28nInxjzL2m.jpg",
       "summary": "Tras sobrevivir a un brutal accidente aéreo, el oficial de las Fuerzas Especiales James Belmont y su perro de combate Odín intentan intentarán regresar a la civilización desde un remoto lugar en medio de los parajes salvajes de Alaska.",
@@ -16,7 +16,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "La Bola Negra",
-      "time": "16:00",
+      "time": "17:00",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/4omaYktw4VYkk5Tkq7rmUsWnQa5.jpg",
       "summary": "Las vidas interconectadas de tres hombres en tres épocas distintas, tres existencias íntimamente ligadas por la sexualidad y el deseo, el dolor y la herencia.",
@@ -27,18 +27,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "La Bola Negra",
-      "time": "19:00",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/4omaYktw4VYkk5Tkq7rmUsWnQa5.jpg",
-      "summary": "Las vidas interconectadas de tres hombres en tres épocas distintas, tres existencias íntimamente ligadas por la sexualidad y el deseo, el dolor y la herencia.",
-      "genres": [
-        "Drama",
-        "Bélica"
-      ]
-    },
-    {
-      "title": "La Bola Negra",
-      "time": "22:00",
+      "time": "20:00",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/4omaYktw4VYkk5Tkq7rmUsWnQa5.jpg",
       "summary": "Las vidas interconectadas de tres hombres en tres épocas distintas, tres existencias íntimamente ligadas por la sexualidad y el deseo, el dolor y la herencia.",
@@ -49,7 +38,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Arriba Tutto",
-      "time": "15:50",
+      "time": "17:00",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/cO5d1CHpb1ravVNqHQmJr7NLcTN.jpg",
       "summary": "1905. La feliz infancia de Michi, un niño de siete años, finaliza bruscamente con la violenta muerte de su padre, un artista ambulante que ha enseñado al pequeño a ver la magia y el humor en cada rincón de la vida. Pasados los años, Michi se ha convertido en un hombre amargado, violento y consumido por el rencor. Una asombrosa aparición y el reencuentro con Conchita, su amor de la niñez, le ayudará a recuperar el paraíso perdido y la transgresora visión del mundo que le inculcó su padre.",
@@ -60,7 +49,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Arriba Tutto",
-      "time": "17:50",
+      "time": "19:00",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/cO5d1CHpb1ravVNqHQmJr7NLcTN.jpg",
       "summary": "1905. La feliz infancia de Michi, un niño de siete años, finaliza bruscamente con la violenta muerte de su padre, un artista ambulante que ha enseñado al pequeño a ver la magia y el humor en cada rincón de la vida. Pasados los años, Michi se ha convertido en un hombre amargado, violento y consumido por el rencor. Una asombrosa aparición y el reencuentro con Conchita, su amor de la niñez, le ayudará a recuperar el paraíso perdido y la transgresora visión del mundo que le inculcó su padre.",
@@ -71,7 +60,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "La Otra Madre",
-      "time": "22:00",
+      "time": "21:00",
       "rating": 7.5,
       "poster": "https://image.tmdb.org/t/p/w342/vsde9OnhjFMlJz8Wi6Z6drZ7GG5.jpg",
       "summary": "Una joven llamada Bela entabla una relación con una entidad siniestra que habita en su casa y que guarda un parecido asombroso con su propia madre.",
@@ -81,7 +70,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Mascotas Al Rescate",
-      "time": "15:50",
+      "time": "17:00",
       "rating": 7.2,
       "poster": "https://image.tmdb.org/t/p/w342/dJZRImFs3jdMV1I2OzgjGz1rZv9.jpg",
       "summary": "En un tren que está a punto de salir de la estación, suena la alarma que obliga a todos los pasajeros a bajarse. Pero entonces el tren arranca de manera improvista, llevándose a bordo los viajeros que no han tenido tiempo de bajar: los animales de compañía. Asombrados, estos descubren que el tren está bajo el control de Hans, un tejón manipulador y rencoroso, que se quiere vengar de Rex, el perro policía que le puso entre rejas hace años. Como los servicios de rescate no consiguen intervenir en el trayecto montañoso del tren, que circula a toda velocidad, los animales de compañía solo pueden contar con Falcon, un mapache un poco tramposo que hará todo lo posible para salvarles.",
@@ -93,7 +82,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "La Maleta",
-      "time": "22:00",
+      "time": "17:00",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/Ap0WExOWEL4DMcRKsAoDehi05J6.jpg",
       "summary": "Laura y Nacho se han conocido en un vuelo, pero una vez que recojan sus maletas, su breve encuentro habrá terminado. Laura no quiere eso, así que propone un juego: si la primera maleta que sale es la de ella, esa misma noche tendrán una cita. Nacho acepta y, para salirse con la suya, ella coge la primera maleta que ve… sin saber que pertenece a unos terroristas.",
@@ -104,7 +93,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Street Fighter",
-      "time": "19:50",
+      "time": "19:15",
       "rating": 6.5,
       "poster": "https://image.tmdb.org/t/p/w342/2kdEEUkbkJe08kTDMCUbBrZ71Aw.jpg",
       "summary": "En 1993, los distanciados luchadores callejeros Ryu y Ken Masters se ven arrastrados de nuevo al combate cuando la misteriosa Chun-Li los recluta para el próximo Torneo World Warrior: un enfrentamiento brutal de puños, destino y furia. Sin embargo, tras esta gran batalla se esconde una conspiración mortal que los obliga a enfrentarse tanto entre sí como a los demonios de su pasado. Y si no lo logran... ¡será el fin de la partida!",
@@ -115,17 +104,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Whalefall",
-      "time": "16:00",
-      "rating": 7.6,
-      "poster": "https://image.tmdb.org/t/p/w342/jmGVSLOrH9IxtcffbldrEHX4IfB.jpg",
-      "summary": "Tras la muerte de su padre, Jay Gardiner se sumerge en la costa central de California en busca de sus restos, pero es tragado por una ballena. Atrapado en su interior con solo una hora de oxígeno restante, Jay se da cuenta de que las lecciones que su padre le enseñó pueden ser la clave para escapar.",
-      "genres": [
-        "Suspense"
-      ]
-    },
-    {
-      "title": "Whalefall",
-      "time": "18:00",
+      "time": "21:30",
       "rating": 7.6,
       "poster": "https://image.tmdb.org/t/p/w342/jmGVSLOrH9IxtcffbldrEHX4IfB.jpg",
       "summary": "Tras la muerte de su padre, Jay Gardiner se sumerge en la costa central de California en busca de sus restos, pero es tragado por una ballena. Atrapado en su interior con solo una hora de oxígeno restante, Jay se da cuenta de que las lecciones que su padre le enseñó pueden ser la clave para escapar.",
@@ -135,7 +114,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Leones En Invierno",
-      "time": "19:50",
+      "time": "16:50",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/ozr5OyKt1whnfuLei2viZsS38Kp.jpg",
       "summary": "La pérdida inesperada de una hija nos llevará a la diferente gestión del duelo de cada uno de sus progenitores y nos desvelará como, en ese dolor inmenso, nuestro padre protagonista se quiebra dejando en libertad el león que lleva dentro y que creyó tener firmemente enjaulado en su pasado.  Las ansías de encontrar la verdad y de hacer justicia a su manera, le llevarán a una trama de corrupción, poder y crimen organizado y mientras el responsable de la muerte de su hija luchará por ocultar la verdad, el padre de la víctima  irá cruzando líneas rojas, adentrándose en un camino que no tiene retorno y es que hay algo más peligroso que un padre defendiendo a sus hijos y es un padre que ya no tiene hijos a los que defender.",
@@ -146,7 +125,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Leones En Invierno",
-      "time": "22:00",
+      "time": "21:00",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/ozr5OyKt1whnfuLei2viZsS38Kp.jpg",
       "summary": "La pérdida inesperada de una hija nos llevará a la diferente gestión del duelo de cada uno de sus progenitores y nos desvelará como, en ese dolor inmenso, nuestro padre protagonista se quiebra dejando en libertad el león que lleva dentro y que creyó tener firmemente enjaulado en su pasado.  Las ansías de encontrar la verdad y de hacer justicia a su manera, le llevarán a una trama de corrupción, poder y crimen organizado y mientras el responsable de la muerte de su hija luchará por ocultar la verdad, el padre de la víctima  irá cruzando líneas rojas, adentrándose en un camino que no tiene retorno y es que hay algo más peligroso que un padre defendiendo a sus hijos y es un padre que ya no tiene hijos a los que defender.",
@@ -157,7 +136,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Sentido Y Sensibilidad",
-      "time": "15:45",
+      "time": "18:45",
       "rating": 7.3,
       "poster": "https://image.tmdb.org/t/p/w342/9BvQHFAQ3BhKk5NSYxtYSMn5lrb.jpg",
       "summary": "Una historia de amor, familia y hermandad basada en *Sentido y sensibilidad* de Jane Austen.",
@@ -168,18 +147,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Sentido Y Sensibilidad",
-      "time": "17:35",
-      "rating": 7.3,
-      "poster": "https://image.tmdb.org/t/p/w342/9BvQHFAQ3BhKk5NSYxtYSMn5lrb.jpg",
-      "summary": "Una historia de amor, familia y hermandad basada en *Sentido y sensibilidad* de Jane Austen.",
-      "genres": [
-        "Drama",
-        "Romance"
-      ]
-    },
-    {
-      "title": "Sentido Y Sensibilidad",
-      "time": "21:45",
+      "time": "21:15",
       "rating": 7.3,
       "poster": "https://image.tmdb.org/t/p/w342/9BvQHFAQ3BhKk5NSYxtYSMn5lrb.jpg",
       "summary": "Una historia de amor, familia y hermandad basada en *Sentido y sensibilidad* de Jane Austen.",
@@ -190,7 +158,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Superthings  La Pelicula",
-      "time": "15:45",
+      "time": "17:00",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/ncJXMB0MbDiXIpqCdNSN4MYRe3k.jpg",
       "summary": "",
@@ -202,7 +170,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Wildwood El Bosque Salvaje",
-      "time": "17:30",
+      "time": "16:50",
       "rating": 8.9,
       "poster": "https://image.tmdb.org/t/p/w342/sJ1uZ4DKsjs2iqLtCX46TifxqoE.jpg",
       "summary": "Prue y su compañero de clase Curtis se ven arrastrados a un bosque mágico poblado por criaturas encantadas, aliados leales y adversarios formidables, mientras emprenden una misión desesperada para rescatar al hermano bebé de Prue —secuestrado por una bandada de cuervos liderada por una misteriosa mujer llamada Alexandra—.",
@@ -214,7 +182,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Wildwood El Bosque Salvaje",
-      "time": "19:45",
+      "time": "19:10",
       "rating": 8.9,
       "poster": "https://image.tmdb.org/t/p/w342/sJ1uZ4DKsjs2iqLtCX46TifxqoE.jpg",
       "summary": "Prue y su compañero de clase Curtis se ven arrastrados a un bosque mágico poblado por criaturas encantadas, aliados leales y adversarios formidables, mientras emprenden una misión desesperada para rescatar al hermano bebé de Prue —secuestrado por una bandada de cuervos liderada por una misteriosa mujer llamada Alexandra—.",
@@ -226,7 +194,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Clayface",
-      "time": "18:00",
+      "time": "19:00",
       "rating": 7.2,
       "poster": "https://image.tmdb.org/t/p/w342/6ihSDJlBNcvoTWzSA0jonZyOXTs.jpg",
       "summary": "Una criatura cambiante hecha de arcilla mágica acecha Ciudad Gótica, alternando entre villano y aliado de Batman. Varias figuras trágicas han asumido el manto de Cara de Barro a lo largo de los años.",
@@ -238,19 +206,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Clayface",
-      "time": "20:00",
-      "rating": 7.2,
-      "poster": "https://image.tmdb.org/t/p/w342/6ihSDJlBNcvoTWzSA0jonZyOXTs.jpg",
-      "summary": "Una criatura cambiante hecha de arcilla mágica acecha Ciudad Gótica, alternando entre villano y aliado de Batman. Varias figuras trágicas han asumido el manto de Cara de Barro a lo largo de los años.",
-      "genres": [
-        "Terror",
-        "Suspense",
-        "Ciencia ficción"
-      ]
-    },
-    {
-      "title": "Clayface",
-      "time": "22:00",
+      "time": "21:15",
       "rating": 7.2,
       "poster": "https://image.tmdb.org/t/p/w342/6ihSDJlBNcvoTWzSA0jonZyOXTs.jpg",
       "summary": "Una criatura cambiante hecha de arcilla mágica acecha Ciudad Gótica, alternando entre villano y aliado de Batman. Varias figuras trágicas han asumido el manto de Cara de Barro a lo largo de los años.",
@@ -262,32 +218,12 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Lilith",
-      "time": "22:00",
+      "time": "21:30",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/vwICPXZyBsLNciFcCZt6RlrgHgZ.jpg",
       "summary": "",
       "genres": [
         "Terror"
-      ]
-    },
-    {
-      "title": "Bts World Tour Arirang In Buenos Aires  Live Viewing Delayed",
-      "time": "13:45",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/kK5wiFE800cMVIjsj2TTyLCQqZo.jpg",
-      "summary": "",
-      "genres": [
-        "Música"
-      ]
-    },
-    {
-      "title": "Bts World Tour Arirang In Buenos Aires  Live Viewing Encore",
-      "time": "17:30",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/kK5wiFE800cMVIjsj2TTyLCQqZo.jpg",
-      "summary": "",
-      "genres": [
-        "Música"
       ]
     }
   ],
