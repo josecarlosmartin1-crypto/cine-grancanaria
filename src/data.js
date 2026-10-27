@@ -146,17 +146,6 @@ export const MOVIE_DATA = {
       ]
     },
     {
-      "title": "Sentido Y Sensibilidad",
-      "time": "21:15",
-      "rating": 7.3,
-      "poster": "https://image.tmdb.org/t/p/w342/9BvQHFAQ3BhKk5NSYxtYSMn5lrb.jpg",
-      "summary": "Una historia de amor, familia y hermandad basada en *Sentido y sensibilidad* de Jane Austen.",
-      "genres": [
-        "Drama",
-        "Romance"
-      ]
-    },
-    {
       "title": "Superthings  La Pelicula",
       "time": "17:00",
       "rating": 0.0,
