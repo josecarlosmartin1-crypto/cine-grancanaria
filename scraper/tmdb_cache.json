@@ -2973,5 +2973,61 @@
     "poster": null,
     "summary": "",
     "genres": []
+  },
+  "Hope": {
+    "rating": 6.8,
+    "poster": "https://image.tmdb.org/t/p/w342/lkWqvj24NG3vEgu19ZQ9erG3Vj7.jpg",
+    "summary": "Los refuerzos se han desviado para combatir los incendios forestales y se han cortado todas las comunicaciones. El jefe del puesto policial de Hope, Bum-seok, y la agente Sung-ae luchan por defender un pueblo de ancianos, mientras que en las montañas, Sung-ki y los lugareños que se han lanzado a la búsqueda de la bestia se ven, por el contrario, acosados por ella. Lo que comienza como ignorancia siembra la semilla del desastre, que se intensifica a través del conflicto humano hasta convertirse en una tragedia de proporciones cósmicas.",
+    "genres": [
+      "Ciencia ficción",
+      "Misterio",
+      "Acción"
+    ]
+  },
+  "Karateka": {
+    "rating": 0.0,
+    "poster": "https://image.tmdb.org/t/p/w342/bJh97VEUn9TWygQSrOOyJrwQXek.jpg",
+    "summary": "Biopic sobre la inspiradora historia de la campeona olímpica Sandra Sánchez, la mejor karateka de todos los tiempos.",
+    "genres": [
+      "Drama"
+    ]
+  },
+  "La Oveja Shaun - Mision Calabaza": {
+    "rating": 7.3,
+    "poster": "https://image.tmdb.org/t/p/w342/ajiSFBxo1h0MNbu7q9I5aSVHUgE.jpg",
+    "summary": "En la víspera de Halloween en la granja Mossy Bottom, la emoción se convierte en consternación cuando el torpe granjero arruina el huerto de calabazas. Shaun intenta arreglarlo mediante experimentos científicos, pero las cosas se tuercen cuando aparece una bestia salvaje en el bosque.",
+    "genres": [
+      "Animación",
+      "Ciencia ficción",
+      "Comedia"
+    ]
+  },
+  "Leviticus": {
+    "rating": 6.8,
+    "poster": "https://image.tmdb.org/t/p/w342/tGS5jugRsn7KwZLrvkqWeMtR7nB.jpg",
+    "summary": "Dos adolescentes en un pequeño pueblo rural son atormentados por una violenta entidad sobrenatural que adopta la forma de la persona que más desean.",
+    "genres": [
+      "Terror",
+      "Romance"
+    ]
+  },
+  "Tiempos De Ilusion": {
+    "rating": 7.3,
+    "poster": "https://image.tmdb.org/t/p/w342/ku7zVdj7yUZn71cG6YvCoC3Rxjm.jpg",
+    "summary": "1985. Vincent, de casi 13 años, vive en las afueras de París en el seno de una familia de clase media, entre un hermano mayor distante y unos padres en conflicto constante. Aunque ya no es un niño pero tampoco un adulto, la película sigue sus reflexiones y dudas sobre la identidad, la amistad y la familia, así como sus interrogantes acerca de la religión, el deseo y el amor.",
+    "genres": [
+      "Comedia",
+      "Drama"
+    ]
+  },
+  "Wicker": {
+    "rating": 7.9,
+    "poster": "https://image.tmdb.org/t/p/w342/ewPz6uvKrbKlQrLRi1r9NTZQLzN.jpg",
+    "summary": "Una pescadora vive en la periferia de un pueblo costero; es soltera, apestosa y objeto de burlas constantes. Un día, harta de sus estirados y estrechos vecinos, encarga un marido de mimbre para ella.",
+    "genres": [
+      "Romance",
+      "Fantasía",
+      "Comedia"
+    ]
   }
 }
