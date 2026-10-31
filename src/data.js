@@ -5,40 +5,18 @@ export const MOVIE_DATA = {
   "Artesiete Las Terrazas": [
     {
       "title": "En El Corazon De La Bestia",
-      "time": "16:00",
-      "rating": 8.0,
-      "poster": "https://image.tmdb.org/t/p/w342/h9Ql2vsltCOuf44c28nInxjzL2m.jpg",
-      "summary": "Tras sobrevivir a un brutal accidente aéreo, el oficial de las Fuerzas Especiales James Belmont y su perro de combate Odín intentan intentarán regresar a la civilización desde un remoto lugar en medio de los parajes salvajes de Alaska.",
-      "genres": [
-        "Aventura",
-        "Suspense"
-      ]
-    },
-    {
-      "title": "En El Corazon De La Bestia",
-      "time": "20:00",
-      "rating": 8.0,
-      "poster": "https://image.tmdb.org/t/p/w342/h9Ql2vsltCOuf44c28nInxjzL2m.jpg",
-      "summary": "Tras sobrevivir a un brutal accidente aéreo, el oficial de las Fuerzas Especiales James Belmont y su perro de combate Odín intentan intentarán regresar a la civilización desde un remoto lugar en medio de los parajes salvajes de Alaska.",
-      "genres": [
-        "Aventura",
-        "Suspense"
-      ]
-    },
-    {
-      "title": "La Bola Negra",
-      "time": "16:00",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/4omaYktw4VYkk5Tkq7rmUsWnQa5.jpg",
-      "summary": "Las vidas interconectadas de tres hombres en tres épocas distintas, tres existencias íntimamente ligadas por la sexualidad y el deseo, el dolor y la herencia.",
-      "genres": [
-        "Drama",
-        "Bélica"
-      ]
-    },
-    {
-      "title": "La Bola Negra",
       "time": "18:00",
+      "rating": 8.0,
+      "poster": "https://image.tmdb.org/t/p/w342/h9Ql2vsltCOuf44c28nInxjzL2m.jpg",
+      "summary": "Tras sobrevivir a un brutal accidente aéreo, el oficial de las Fuerzas Especiales James Belmont y su perro de combate Odín intentan intentarán regresar a la civilización desde un remoto lugar en medio de los parajes salvajes de Alaska.",
+      "genres": [
+        "Aventura",
+        "Suspense"
+      ]
+    },
+    {
+      "title": "La Bola Negra",
+      "time": "16:00",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/4omaYktw4VYkk5Tkq7rmUsWnQa5.jpg",
       "summary": "Las vidas interconectadas de tres hombres en tres épocas distintas, tres existencias íntimamente ligadas por la sexualidad y el deseo, el dolor y la herencia.",
@@ -49,7 +27,18 @@ export const MOVIE_DATA = {
     },
     {
       "title": "La Bola Negra",
-      "time": "21:00",
+      "time": "18:15",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/4omaYktw4VYkk5Tkq7rmUsWnQa5.jpg",
+      "summary": "Las vidas interconectadas de tres hombres en tres épocas distintas, tres existencias íntimamente ligadas por la sexualidad y el deseo, el dolor y la herencia.",
+      "genres": [
+        "Drama",
+        "Bélica"
+      ]
+    },
+    {
+      "title": "La Bola Negra",
+      "time": "21:15",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/4omaYktw4VYkk5Tkq7rmUsWnQa5.jpg",
       "summary": "Las vidas interconectadas de tres hombres en tres épocas distintas, tres existencias íntimamente ligadas por la sexualidad y el deseo, el dolor y la herencia.",
@@ -82,19 +71,8 @@ export const MOVIE_DATA = {
       ]
     },
     {
-      "title": "Street Fighter",
-      "time": "18:00",
-      "rating": 6.5,
-      "poster": "https://image.tmdb.org/t/p/w342/2kdEEUkbkJe08kTDMCUbBrZ71Aw.jpg",
-      "summary": "En 1993, los distanciados luchadores callejeros Ryu y Ken Masters se ven arrastrados de nuevo al combate cuando la misteriosa Chun-Li los recluta para el próximo Torneo World Warrior: un enfrentamiento brutal de puños, destino y furia. Sin embargo, tras esta gran batalla se esconde una conspiración mortal que los obliga a enfrentarse tanto entre sí como a los demonios de su pasado. Y si no lo logran... ¡será el fin de la partida!",
-      "genres": [
-        "Acción",
-        "Fantasía"
-      ]
-    },
-    {
       "title": "Sentido Y Sensibilidad",
-      "time": "22:00",
+      "time": "19:30",
       "rating": 7.3,
       "poster": "https://image.tmdb.org/t/p/w342/9BvQHFAQ3BhKk5NSYxtYSMn5lrb.jpg",
       "summary": "Una historia de amor, familia y hermandad basada en *Sentido y sensibilidad* de Jane Austen.",
@@ -105,7 +83,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Superthings  La Pelicula",
-      "time": "18:00",
+      "time": "16:00",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/ncJXMB0MbDiXIpqCdNSN4MYRe3k.jpg",
       "summary": "",
@@ -117,7 +95,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Wildwood El Bosque Salvaje",
-      "time": "17:50",
+      "time": "15:50",
       "rating": 8.9,
       "poster": "https://image.tmdb.org/t/p/w342/sJ1uZ4DKsjs2iqLtCX46TifxqoE.jpg",
       "summary": "Prue y su compañero de clase Curtis se ven arrastrados a un bosque mágico poblado por criaturas encantadas, aliados leales y adversarios formidables, mientras emprenden una misión desesperada para rescatar al hermano bebé de Prue —secuestrado por una bandada de cuervos liderada por una misteriosa mujer llamada Alexandra—.",
@@ -129,7 +107,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Clayface",
-      "time": "20:15",
+      "time": "20:00",
       "rating": 7.2,
       "poster": "https://image.tmdb.org/t/p/w342/6ihSDJlBNcvoTWzSA0jonZyOXTs.jpg",
       "summary": "Una criatura cambiante hecha de arcilla mágica acecha Ciudad Gótica, alternando entre villano y aliado de Batman. Varias figuras trágicas han asumido el manto de Cara de Barro a lo largo de los años.",
@@ -219,18 +197,6 @@ export const MOVIE_DATA = {
     },
     {
       "title": "La Oveja Shaun - Mision Calabaza",
-      "time": "16:00",
-      "rating": 7.3,
-      "poster": "https://image.tmdb.org/t/p/w342/ajiSFBxo1h0MNbu7q9I5aSVHUgE.jpg",
-      "summary": "En la víspera de Halloween en la granja Mossy Bottom, la emoción se convierte en consternación cuando el torpe granjero arruina el huerto de calabazas. Shaun intenta arreglarlo mediante experimentos científicos, pero las cosas se tuercen cuando aparece una bestia salvaje en el bosque.",
-      "genres": [
-        "Animación",
-        "Ciencia ficción",
-        "Comedia"
-      ]
-    },
-    {
-      "title": "La Oveja Shaun - Mision Calabaza",
       "time": "18:45",
       "rating": 7.3,
       "poster": "https://image.tmdb.org/t/p/w342/ajiSFBxo1h0MNbu7q9I5aSVHUgE.jpg",
@@ -254,17 +220,6 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Tiempos De Ilusion",
-      "time": "15:50",
-      "rating": 7.3,
-      "poster": "https://image.tmdb.org/t/p/w342/ku7zVdj7yUZn71cG6YvCoC3Rxjm.jpg",
-      "summary": "1985. Vincent, de casi 13 años, vive en las afueras de París en el seno de una familia de clase media, entre un hermano mayor distante y unos padres en conflicto constante. Aunque ya no es un niño pero tampoco un adulto, la película sigue sus reflexiones y dudas sobre la identidad, la amistad y la familia, así como sus interrogantes acerca de la religión, el deseo y el amor.",
-      "genres": [
-        "Comedia",
-        "Drama"
-      ]
-    },
-    {
-      "title": "Tiempos De Ilusion",
       "time": "20:15",
       "rating": 7.3,
       "poster": "https://image.tmdb.org/t/p/w342/ku7zVdj7yUZn71cG6YvCoC3Rxjm.jpg",
@@ -276,7 +231,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Wicker",
-      "time": "20:15",
+      "time": "20:00",
       "rating": 7.9,
       "poster": "https://image.tmdb.org/t/p/w342/ewPz6uvKrbKlQrLRi1r9NTZQLzN.jpg",
       "summary": "Una pescadora vive en la periferia de un pueblo costero; es soltera, apestosa y objeto de burlas constantes. Un día, harta de sus estirados y estrechos vecinos, encarga un marido de mimbre para ella.",
@@ -288,7 +243,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Wicker",
-      "time": "22:15",
+      "time": "22:00",
       "rating": 7.9,
       "poster": "https://image.tmdb.org/t/p/w342/ewPz6uvKrbKlQrLRi1r9NTZQLzN.jpg",
       "summary": "Una pescadora vive en la periferia de un pueblo costero; es soltera, apestosa y objeto de burlas constantes. Un día, harta de sus estirados y estrechos vecinos, encarga un marido de mimbre para ella.",
@@ -296,6 +251,16 @@ export const MOVIE_DATA = {
         "Romance",
         "Fantasía",
         "Comedia"
+      ]
+    },
+    {
+      "title": "Bts World Tour Arirang In Sao Paulo  Live Viewing  Encore",
+      "time": "17:30",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/kK5wiFE800cMVIjsj2TTyLCQqZo.jpg",
+      "summary": "",
+      "genres": [
+        "Música"
       ]
     }
   ],
