@@ -2,7 +2,136 @@ export const MOVIE_DATA = {
   "Cine Yelmo Vecindario": [],
   "Cine Yelmo Las Arenas": [],
   "Cine Yelmo Premium Alisios": [],
-  "Artesiete Las Terrazas": [],
+  "Artesiete Las Terrazas": [
+    {
+      "title": "En El Corazon De La Bestia",
+      "time": "22:00",
+      "rating": 8.0,
+      "poster": "https://image.tmdb.org/t/p/w342/h9Ql2vsltCOuf44c28nInxjzL2m.jpg",
+      "summary": "Tras sobrevivir a un brutal accidente aéreo, el oficial de las Fuerzas Especiales James Belmont y su perro de combate Odín intentan intentarán regresar a la civilización desde un remoto lugar en medio de los parajes salvajes de Alaska.",
+      "genres": [
+        "Aventura",
+        "Suspense"
+      ]
+    },
+    {
+      "title": "La Bola Negra",
+      "time": "18:30",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/4omaYktw4VYkk5Tkq7rmUsWnQa5.jpg",
+      "summary": "Las vidas interconectadas de tres hombres en tres épocas distintas, tres existencias íntimamente ligadas por la sexualidad y el deseo, el dolor y la herencia.",
+      "genres": [
+        "Drama",
+        "Bélica"
+      ]
+    },
+    {
+      "title": "La Bola Negra",
+      "time": "21:30",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/4omaYktw4VYkk5Tkq7rmUsWnQa5.jpg",
+      "summary": "Las vidas interconectadas de tres hombres en tres épocas distintas, tres existencias íntimamente ligadas por la sexualidad y el deseo, el dolor y la herencia.",
+      "genres": [
+        "Drama",
+        "Bélica"
+      ]
+    },
+    {
+      "title": "Clayface",
+      "time": "22:30",
+      "rating": 7.2,
+      "poster": "https://image.tmdb.org/t/p/w342/6ihSDJlBNcvoTWzSA0jonZyOXTs.jpg",
+      "summary": "Una criatura cambiante hecha de arcilla mágica acecha Ciudad Gótica, alternando entre villano y aliado de Batman. Varias figuras trágicas han asumido el manto de Cara de Barro a lo largo de los años.",
+      "genres": [
+        "Terror",
+        "Suspense",
+        "Ciencia ficción"
+      ]
+    },
+    {
+      "title": "Hope",
+      "time": "18:00",
+      "rating": 6.8,
+      "poster": "https://image.tmdb.org/t/p/w342/lkWqvj24NG3vEgu19ZQ9erG3Vj7.jpg",
+      "summary": "Los refuerzos se han desviado para combatir los incendios forestales y se han cortado todas las comunicaciones. El jefe del puesto policial de Hope, Bum-seok, y la agente Sung-ae luchan por defender un pueblo de ancianos, mientras que en las montañas, Sung-ki y los lugareños que se han lanzado a la búsqueda de la bestia se ven, por el contrario, acosados por ella. Lo que comienza como ignorancia siembra la semilla del desastre, que se intensifica a través del conflicto humano hasta convertirse en una tragedia de proporciones cósmicas.",
+      "genres": [
+        "Ciencia ficción",
+        "Misterio",
+        "Acción"
+      ]
+    },
+    {
+      "title": "Hope",
+      "time": "21:00",
+      "rating": 6.8,
+      "poster": "https://image.tmdb.org/t/p/w342/lkWqvj24NG3vEgu19ZQ9erG3Vj7.jpg",
+      "summary": "Los refuerzos se han desviado para combatir los incendios forestales y se han cortado todas las comunicaciones. El jefe del puesto policial de Hope, Bum-seok, y la agente Sung-ae luchan por defender un pueblo de ancianos, mientras que en las montañas, Sung-ki y los lugareños que se han lanzado a la búsqueda de la bestia se ven, por el contrario, acosados por ella. Lo que comienza como ignorancia siembra la semilla del desastre, que se intensifica a través del conflicto humano hasta convertirse en una tragedia de proporciones cósmicas.",
+      "genres": [
+        "Ciencia ficción",
+        "Misterio",
+        "Acción"
+      ]
+    },
+    {
+      "title": "El Gato Con Sombrero",
+      "time": "18:00",
+      "rating": 7.1,
+      "poster": "https://image.tmdb.org/t/p/w342/8TW5oOMZbxaMFVgletpW0bxd2Aa.jpg",
+      "summary": "Un astuto gato lleva el caos con sus travesuras a la vida de un par de hermanos que lidian con su mudanza a una nueva ciudad.",
+      "genres": [
+        "Animación",
+        "Fantasía",
+        "Aventura"
+      ]
+    },
+    {
+      "title": "El Gato Con Sombrero",
+      "time": "19:00",
+      "rating": 7.1,
+      "poster": "https://image.tmdb.org/t/p/w342/8TW5oOMZbxaMFVgletpW0bxd2Aa.jpg",
+      "summary": "Un astuto gato lleva el caos con sus travesuras a la vida de un par de hermanos que lidian con su mudanza a una nueva ciudad.",
+      "genres": [
+        "Animación",
+        "Fantasía",
+        "Aventura"
+      ]
+    },
+    {
+      "title": "El Gato Con Sombrero",
+      "time": "20:30",
+      "rating": 7.1,
+      "poster": "https://image.tmdb.org/t/p/w342/8TW5oOMZbxaMFVgletpW0bxd2Aa.jpg",
+      "summary": "Un astuto gato lleva el caos con sus travesuras a la vida de un par de hermanos que lidian con su mudanza a una nueva ciudad.",
+      "genres": [
+        "Animación",
+        "Fantasía",
+        "Aventura"
+      ]
+    },
+    {
+      "title": "Los Miserables",
+      "time": "18:45",
+      "rating": 7.3,
+      "poster": "https://image.tmdb.org/t/p/w342/uTh8sNW6u8PqmU9CQwQVHjU7b7e.jpg",
+      "summary": "Jean Valjean es enviado a prisión tras robar un trozo de pan con el que pretendía alimentar a sus sobrinos y a su hermana viuda. Adaptación del musical del mismo título que, a su vez, se basa en la obra de Victor Hugo \"Los miserables\"..",
+      "genres": [
+        "Historia",
+        "Drama"
+      ]
+    },
+    {
+      "title": "Ramayana: El Nacimiento De Una Leyenda",
+      "time": "19:00",
+      "rating": 6.6,
+      "poster": "https://image.tmdb.org/t/p/w342/nzL1ySE6vdmR6RxXhE7gLggkp41.jpg",
+      "summary": "",
+      "genres": [
+        "Fantasía",
+        "Acción",
+        "Aventura"
+      ]
+    }
+  ],
   "Ocine Premium Siete Palmas": [
     {
       "title": "El Motín",

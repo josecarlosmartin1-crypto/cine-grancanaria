@@ -3037,5 +3037,34 @@
     "genres": [
       "Música"
     ]
+  },
+  "El Gato Con Sombrero": {
+    "rating": 7.1,
+    "poster": "https://image.tmdb.org/t/p/w342/8TW5oOMZbxaMFVgletpW0bxd2Aa.jpg",
+    "summary": "Un astuto gato lleva el caos con sus travesuras a la vida de un par de hermanos que lidian con su mudanza a una nueva ciudad.",
+    "genres": [
+      "Animación",
+      "Fantasía",
+      "Aventura"
+    ]
+  },
+  "Los Miserables": {
+    "rating": 7.3,
+    "poster": "https://image.tmdb.org/t/p/w342/uTh8sNW6u8PqmU9CQwQVHjU7b7e.jpg",
+    "summary": "Jean Valjean es enviado a prisión tras robar un trozo de pan con el que pretendía alimentar a sus sobrinos y a su hermana viuda. Adaptación del musical del mismo título que, a su vez, se basa en la obra de Victor Hugo \"Los miserables\"..",
+    "genres": [
+      "Historia",
+      "Drama"
+    ]
+  },
+  "Ramayana: El Nacimiento De Una Leyenda": {
+    "rating": 6.6,
+    "poster": "https://image.tmdb.org/t/p/w342/nzL1ySE6vdmR6RxXhE7gLggkp41.jpg",
+    "summary": "",
+    "genres": [
+      "Fantasía",
+      "Acción",
+      "Aventura"
+    ]
   }
 }
