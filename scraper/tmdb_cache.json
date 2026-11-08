@@ -3072,5 +3072,13 @@
     "poster": "https://image.tmdb.org/t/p/w342/d8JDufXE0g20dO45NOtTb0MCCvz.jpg",
     "summary": "",
     "genres": []
+  },
+  "George Michael: The Faith Tour": {
+    "rating": 9.3,
+    "poster": "https://image.tmdb.org/t/p/w342/LXqHnaJ4ffkcx5YCuJN1noxkhr.jpg",
+    "summary": "",
+    "genres": [
+      "Música"
+    ]
   }
 }

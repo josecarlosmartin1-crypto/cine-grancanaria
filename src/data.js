@@ -5,7 +5,7 @@ export const MOVIE_DATA = {
   "Artesiete Las Terrazas": [
     {
       "title": "En El Corazon De La Bestia",
-      "time": "22:00",
+      "time": "21:30",
       "rating": 8.0,
       "poster": "https://image.tmdb.org/t/p/w342/h9Ql2vsltCOuf44c28nInxjzL2m.jpg",
       "summary": "Tras sobrevivir a un brutal accidente aéreo, el oficial de las Fuerzas Especiales James Belmont y su perro de combate Odín intentan intentarán regresar a la civilización desde un remoto lugar en medio de los parajes salvajes de Alaska.",
@@ -49,7 +49,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Clayface",
-      "time": "22:30",
+      "time": "22:00",
       "rating": 7.2,
       "poster": "https://image.tmdb.org/t/p/w342/6ihSDJlBNcvoTWzSA0jonZyOXTs.jpg",
       "summary": "Una criatura cambiante hecha de arcilla mágica acecha Ciudad Gótica, alternando entre villano y aliado de Batman. Varias figuras trágicas han asumido el manto de Cara de Barro a lo largo de los años.",
@@ -130,15 +130,13 @@ export const MOVIE_DATA = {
       ]
     },
     {
-      "title": "El Gato Con Sombrero",
-      "time": "20:30",
-      "rating": 7.1,
-      "poster": "https://image.tmdb.org/t/p/w342/8TW5oOMZbxaMFVgletpW0bxd2Aa.jpg",
-      "summary": "Un astuto gato lleva el caos con sus travesuras a la vida de un par de hermanos que lidian con su mudanza a una nueva ciudad.",
+      "title": "George Michael: The Faith Tour",
+      "time": "16:40",
+      "rating": 9.3,
+      "poster": "https://image.tmdb.org/t/p/w342/LXqHnaJ4ffkcx5YCuJN1noxkhr.jpg",
+      "summary": "",
       "genres": [
-        "Animación",
-        "Fantasía",
-        "Aventura"
+        "Música"
       ]
     },
     {
@@ -164,8 +162,19 @@ export const MOVIE_DATA = {
       ]
     },
     {
+      "title": "Los Miserables",
+      "time": "20:45",
+      "rating": 7.3,
+      "poster": "https://image.tmdb.org/t/p/w342/uTh8sNW6u8PqmU9CQwQVHjU7b7e.jpg",
+      "summary": "Jean Valjean es enviado a prisión tras robar un trozo de pan con el que pretendía alimentar a sus sobrinos y a su hermana viuda. Adaptación del musical del mismo título que, a su vez, se basa en la obra de Victor Hugo \"Los miserables\"..",
+      "genres": [
+        "Historia",
+        "Drama"
+      ]
+    },
+    {
       "title": "Ramayana: El Nacimiento De Una Leyenda",
-      "time": "20:00",
+      "time": "18:00",
       "rating": 6.6,
       "poster": "https://image.tmdb.org/t/p/w342/nzL1ySE6vdmR6RxXhE7gLggkp41.jpg",
       "summary": "",
@@ -174,14 +183,6 @@ export const MOVIE_DATA = {
         "Acción",
         "Aventura"
       ]
-    },
-    {
-      "title": "Stray Kids World Tour -Run It-",
-      "time": "16:15",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/d8JDufXE0g20dO45NOtTb0MCCvz.jpg",
-      "summary": "",
-      "genres": []
     }
   ],
   "Ocine Premium Siete Palmas": [
