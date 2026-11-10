@@ -3080,5 +3080,13 @@
     "genres": [
       "Música"
     ]
+  },
+  "Ruega Por Nosotras": {
+    "rating": 0.0,
+    "poster": "https://image.tmdb.org/t/p/w342/6CWXhVFfin3zh1LZ5HsWnzTXTPN.jpg",
+    "summary": "En 1974, Ana, una chica barcelonesa de 19 años, es puesta en manos del Patronato de Protección a la Mujer y trasladada a un reformatorio regentado por monjas en Madrid. Allí, es sometida a un brutal régimen disciplinario, y tratará de sobrevivir buscando consuelo y apoyo en la amistad de otras chicas en su misma situación.",
+    "genres": [
+      "Drama"
+    ]
   }
 }

@@ -16,6 +16,17 @@ export const MOVIE_DATA = {
     },
     {
       "title": "La Bola Negra",
+      "time": "17:00",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/4omaYktw4VYkk5Tkq7rmUsWnQa5.jpg",
+      "summary": "Las vidas interconectadas de tres hombres en tres épocas distintas, tres existencias íntimamente ligadas por la sexualidad y el deseo, el dolor y la herencia.",
+      "genres": [
+        "Drama",
+        "Bélica"
+      ]
+    },
+    {
+      "title": "La Bola Negra",
       "time": "20:00",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/4omaYktw4VYkk5Tkq7rmUsWnQa5.jpg",
@@ -27,7 +38,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Clayface",
-      "time": "21:00",
+      "time": "21:30",
       "rating": 7.2,
       "poster": "https://image.tmdb.org/t/p/w342/6ihSDJlBNcvoTWzSA0jonZyOXTs.jpg",
       "summary": "Una criatura cambiante hecha de arcilla mágica acecha Ciudad Gótica, alternando entre villano y aliado de Batman. Varias figuras trágicas han asumido el manto de Cara de Barro a lo largo de los años.",
@@ -38,13 +49,78 @@ export const MOVIE_DATA = {
       ]
     },
     {
-      "title": "Los Miserables",
+      "title": "Hope",
       "time": "20:00",
+      "rating": 6.8,
+      "poster": "https://image.tmdb.org/t/p/w342/lkWqvj24NG3vEgu19ZQ9erG3Vj7.jpg",
+      "summary": "Los refuerzos se han desviado para combatir los incendios forestales y se han cortado todas las comunicaciones. El jefe del puesto policial de Hope, Bum-seok, y la agente Sung-ae luchan por defender un pueblo de ancianos, mientras que en las montañas, Sung-ki y los lugareños que se han lanzado a la búsqueda de la bestia se ven, por el contrario, acosados por ella. Lo que comienza como ignorancia siembra la semilla del desastre, que se intensifica a través del conflicto humano hasta convertirse en una tragedia de proporciones cósmicas.",
+      "genres": [
+        "Ciencia ficción",
+        "Misterio",
+        "Acción"
+      ]
+    },
+    {
+      "title": "Karateka",
+      "time": "17:00",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/bJh97VEUn9TWygQSrOOyJrwQXek.jpg",
+      "summary": "Biopic sobre la inspiradora historia de la campeona olímpica Sandra Sánchez, la mejor karateka de todos los tiempos.",
+      "genres": [
+        "Drama"
+      ]
+    },
+    {
+      "title": "Los Miserables",
+      "time": "16:45",
       "rating": 7.3,
       "poster": "https://image.tmdb.org/t/p/w342/uTh8sNW6u8PqmU9CQwQVHjU7b7e.jpg",
       "summary": "Jean Valjean es enviado a prisión tras robar un trozo de pan con el que pretendía alimentar a sus sobrinos y a su hermana viuda. Adaptación del musical del mismo título que, a su vez, se basa en la obra de Victor Hugo \"Los miserables\"..",
       "genres": [
         "Historia",
+        "Drama"
+      ]
+    },
+    {
+      "title": "Los Miserables",
+      "time": "19:30",
+      "rating": 7.3,
+      "poster": "https://image.tmdb.org/t/p/w342/uTh8sNW6u8PqmU9CQwQVHjU7b7e.jpg",
+      "summary": "Jean Valjean es enviado a prisión tras robar un trozo de pan con el que pretendía alimentar a sus sobrinos y a su hermana viuda. Adaptación del musical del mismo título que, a su vez, se basa en la obra de Victor Hugo \"Los miserables\"..",
+      "genres": [
+        "Historia",
+        "Drama"
+      ]
+    },
+    {
+      "title": "Ramayana: El Nacimiento De Una Leyenda",
+      "time": "17:00",
+      "rating": 6.6,
+      "poster": "https://image.tmdb.org/t/p/w342/nzL1ySE6vdmR6RxXhE7gLggkp41.jpg",
+      "summary": "",
+      "genres": [
+        "Fantasía",
+        "Acción",
+        "Aventura"
+      ]
+    },
+    {
+      "title": "Ruega Por Nosotras",
+      "time": "17:00",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/6CWXhVFfin3zh1LZ5HsWnzTXTPN.jpg",
+      "summary": "En 1974, Ana, una chica barcelonesa de 19 años, es puesta en manos del Patronato de Protección a la Mujer y trasladada a un reformatorio regentado por monjas en Madrid. Allí, es sometida a un brutal régimen disciplinario, y tratará de sobrevivir buscando consuelo y apoyo en la amistad de otras chicas en su misma situación.",
+      "genres": [
+        "Drama"
+      ]
+    },
+    {
+      "title": "Ruega Por Nosotras",
+      "time": "19:00",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/6CWXhVFfin3zh1LZ5HsWnzTXTPN.jpg",
+      "summary": "En 1974, Ana, una chica barcelonesa de 19 años, es puesta en manos del Patronato de Protección a la Mujer y trasladada a un reformatorio regentado por monjas en Madrid. Allí, es sometida a un brutal régimen disciplinario, y tratará de sobrevivir buscando consuelo y apoyo en la amistad de otras chicas en su misma situación.",
+      "genres": [
         "Drama"
       ]
     }
