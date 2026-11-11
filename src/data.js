@@ -16,7 +16,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "La Bola Negra",
-      "time": "17:00",
+      "time": "18:30",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/4omaYktw4VYkk5Tkq7rmUsWnQa5.jpg",
       "summary": "Las vidas interconectadas de tres hombres en tres épocas distintas, tres existencias íntimamente ligadas por la sexualidad y el deseo, el dolor y la herencia.",
@@ -27,7 +27,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "La Bola Negra",
-      "time": "20:00",
+      "time": "21:30",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/4omaYktw4VYkk5Tkq7rmUsWnQa5.jpg",
       "summary": "Las vidas interconectadas de tres hombres en tres épocas distintas, tres existencias íntimamente ligadas por la sexualidad y el deseo, el dolor y la herencia.",
@@ -38,7 +38,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Clayface",
-      "time": "21:30",
+      "time": "22:00",
       "rating": 7.2,
       "poster": "https://image.tmdb.org/t/p/w342/6ihSDJlBNcvoTWzSA0jonZyOXTs.jpg",
       "summary": "Una criatura cambiante hecha de arcilla mágica acecha Ciudad Gótica, alternando entre villano y aliado de Batman. Varias figuras trágicas han asumido el manto de Cara de Barro a lo largo de los años.",
@@ -50,7 +50,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Hope",
-      "time": "20:00",
+      "time": "21:00",
       "rating": 6.8,
       "poster": "https://image.tmdb.org/t/p/w342/lkWqvj24NG3vEgu19ZQ9erG3Vj7.jpg",
       "summary": "Los refuerzos se han desviado para combatir los incendios forestales y se han cortado todas las comunicaciones. El jefe del puesto policial de Hope, Bum-seok, y la agente Sung-ae luchan por defender un pueblo de ancianos, mientras que en las montañas, Sung-ki y los lugareños que se han lanzado a la búsqueda de la bestia se ven, por el contrario, acosados por ella. Lo que comienza como ignorancia siembra la semilla del desastre, que se intensifica a través del conflicto humano hasta convertirse en una tragedia de proporciones cósmicas.",
@@ -61,29 +61,42 @@ export const MOVIE_DATA = {
       ]
     },
     {
-      "title": "Karateka",
-      "time": "17:00",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/bJh97VEUn9TWygQSrOOyJrwQXek.jpg",
-      "summary": "Biopic sobre la inspiradora historia de la campeona olímpica Sandra Sánchez, la mejor karateka de todos los tiempos.",
+      "title": "El Gato Con Sombrero",
+      "time": "18:00",
+      "rating": 7.1,
+      "poster": "https://image.tmdb.org/t/p/w342/8TW5oOMZbxaMFVgletpW0bxd2Aa.jpg",
+      "summary": "Un astuto gato lleva el caos con sus travesuras a la vida de un par de hermanos que lidian con su mudanza a una nueva ciudad.",
       "genres": [
-        "Drama"
+        "Animación",
+        "Fantasía",
+        "Aventura"
+      ]
+    },
+    {
+      "title": "El Gato Con Sombrero",
+      "time": "19:00",
+      "rating": 7.1,
+      "poster": "https://image.tmdb.org/t/p/w342/8TW5oOMZbxaMFVgletpW0bxd2Aa.jpg",
+      "summary": "Un astuto gato lleva el caos con sus travesuras a la vida de un par de hermanos que lidian con su mudanza a una nueva ciudad.",
+      "genres": [
+        "Animación",
+        "Fantasía",
+        "Aventura"
+      ]
+    },
+    {
+      "title": "George Michael: The Faith Tour",
+      "time": "16:40",
+      "rating": 9.3,
+      "poster": "https://image.tmdb.org/t/p/w342/LXqHnaJ4ffkcx5YCuJN1noxkhr.jpg",
+      "summary": "",
+      "genres": [
+        "Música"
       ]
     },
     {
       "title": "Los Miserables",
-      "time": "16:45",
-      "rating": 7.3,
-      "poster": "https://image.tmdb.org/t/p/w342/uTh8sNW6u8PqmU9CQwQVHjU7b7e.jpg",
-      "summary": "Jean Valjean es enviado a prisión tras robar un trozo de pan con el que pretendía alimentar a sus sobrinos y a su hermana viuda. Adaptación del musical del mismo título que, a su vez, se basa en la obra de Victor Hugo \"Los miserables\"..",
-      "genres": [
-        "Historia",
-        "Drama"
-      ]
-    },
-    {
-      "title": "Los Miserables",
-      "time": "19:30",
+      "time": "20:45",
       "rating": 7.3,
       "poster": "https://image.tmdb.org/t/p/w342/uTh8sNW6u8PqmU9CQwQVHjU7b7e.jpg",
       "summary": "Jean Valjean es enviado a prisión tras robar un trozo de pan con el que pretendía alimentar a sus sobrinos y a su hermana viuda. Adaptación del musical del mismo título que, a su vez, se basa en la obra de Victor Hugo \"Los miserables\"..",
@@ -94,7 +107,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Ramayana: El Nacimiento De Una Leyenda",
-      "time": "17:00",
+      "time": "18:05",
       "rating": 6.6,
       "poster": "https://image.tmdb.org/t/p/w342/nzL1ySE6vdmR6RxXhE7gLggkp41.jpg",
       "summary": "",
@@ -106,7 +119,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Ruega Por Nosotras",
-      "time": "17:00",
+      "time": "18:45",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/6CWXhVFfin3zh1LZ5HsWnzTXTPN.jpg",
       "summary": "En 1974, Ana, una chica barcelonesa de 19 años, es puesta en manos del Patronato de Protección a la Mujer y trasladada a un reformatorio regentado por monjas en Madrid. Allí, es sometida a un brutal régimen disciplinario, y tratará de sobrevivir buscando consuelo y apoyo en la amistad de otras chicas en su misma situación.",
@@ -116,7 +129,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Ruega Por Nosotras",
-      "time": "19:00",
+      "time": "21:15",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/6CWXhVFfin3zh1LZ5HsWnzTXTPN.jpg",
       "summary": "En 1974, Ana, una chica barcelonesa de 19 años, es puesta en manos del Patronato de Protección a la Mujer y trasladada a un reformatorio regentado por monjas en Madrid. Allí, es sometida a un brutal régimen disciplinario, y tratará de sobrevivir buscando consuelo y apoyo en la amistad de otras chicas en su misma situación.",
