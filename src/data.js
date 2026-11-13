@@ -4,19 +4,8 @@ export const MOVIE_DATA = {
   "Cine Yelmo Premium Alisios": [],
   "Artesiete Las Terrazas": [
     {
-      "title": "En El Corazon De La Bestia",
-      "time": "21:30",
-      "rating": 8.0,
-      "poster": "https://image.tmdb.org/t/p/w342/h9Ql2vsltCOuf44c28nInxjzL2m.jpg",
-      "summary": "Tras sobrevivir a un brutal accidente aéreo, el oficial de las Fuerzas Especiales James Belmont y su perro de combate Odín intentan intentarán regresar a la civilización desde un remoto lugar en medio de los parajes salvajes de Alaska.",
-      "genres": [
-        "Aventura",
-        "Suspense"
-      ]
-    },
-    {
       "title": "La Bola Negra",
-      "time": "20:00",
+      "time": "19:00",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/4omaYktw4VYkk5Tkq7rmUsWnQa5.jpg",
       "summary": "Las vidas interconectadas de tres hombres en tres épocas distintas, tres existencias íntimamente ligadas por la sexualidad y el deseo, el dolor y la herencia.",
@@ -26,58 +15,183 @@ export const MOVIE_DATA = {
       ]
     },
     {
-      "title": "Clayface",
-      "time": "21:30",
-      "rating": 7.2,
-      "poster": "https://image.tmdb.org/t/p/w342/6ihSDJlBNcvoTWzSA0jonZyOXTs.jpg",
-      "summary": "Una criatura cambiante hecha de arcilla mágica acecha Ciudad Gótica, alternando entre villano y aliado de Batman. Varias figuras trágicas han asumido el manto de Cara de Barro a lo largo de los años.",
-      "genres": [
-        "Terror",
-        "Suspense",
-        "Ciencia ficción"
-      ]
-    },
-    {
-      "title": "Hope",
-      "time": "20:00",
-      "rating": 6.8,
-      "poster": "https://image.tmdb.org/t/p/w342/lkWqvj24NG3vEgu19ZQ9erG3Vj7.jpg",
-      "summary": "Los refuerzos se han desviado para combatir los incendios forestales y se han cortado todas las comunicaciones. El jefe del puesto policial de Hope, Bum-seok, y la agente Sung-ae luchan por defender un pueblo de ancianos, mientras que en las montañas, Sung-ki y los lugareños que se han lanzado a la búsqueda de la bestia se ven, por el contrario, acosados por ella. Lo que comienza como ignorancia siembra la semilla del desastre, que se intensifica a través del conflicto humano hasta convertirse en una tragedia de proporciones cósmicas.",
-      "genres": [
-        "Ciencia ficción",
-        "Misterio",
-        "Acción"
-      ]
-    },
-    {
-      "title": "Karateka",
-      "time": "18:00",
+      "title": "La Bola Negra",
+      "time": "22:00",
       "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/bJh97VEUn9TWygQSrOOyJrwQXek.jpg",
-      "summary": "Biopic sobre la inspiradora historia de la campeona olímpica Sandra Sánchez, la mejor karateka de todos los tiempos.",
+      "poster": "https://image.tmdb.org/t/p/w342/4omaYktw4VYkk5Tkq7rmUsWnQa5.jpg",
+      "summary": "Las vidas interconectadas de tres hombres en tres épocas distintas, tres existencias íntimamente ligadas por la sexualidad y el deseo, el dolor y la herencia.",
       "genres": [
-        "Drama"
+        "Drama",
+        "Bélica"
       ]
     },
     {
-      "title": "Los Miserables",
-      "time": "20:00",
-      "rating": 7.3,
-      "poster": "https://image.tmdb.org/t/p/w342/uTh8sNW6u8PqmU9CQwQVHjU7b7e.jpg",
-      "summary": "Jean Valjean es enviado a prisión tras robar un trozo de pan con el que pretendía alimentar a sus sobrinos y a su hermana viuda. Adaptación del musical del mismo título que, a su vez, se basa en la obra de Victor Hugo \"Los miserables\"..",
+      "title": "El Gato Con Sombrero",
+      "time": "18:00",
+      "rating": 7.1,
+      "poster": "https://image.tmdb.org/t/p/w342/8TW5oOMZbxaMFVgletpW0bxd2Aa.jpg",
+      "summary": "Un astuto gato lleva el caos con sus travesuras a la vida de un par de hermanos que lidian con su mudanza a una nueva ciudad.",
       "genres": [
-        "Historia",
-        "Drama"
+        "Animación",
+        "Fantasía",
+        "Aventura"
+      ]
+    },
+    {
+      "title": "El Gato Con Sombrero",
+      "time": "20:00",
+      "rating": 7.1,
+      "poster": "https://image.tmdb.org/t/p/w342/8TW5oOMZbxaMFVgletpW0bxd2Aa.jpg",
+      "summary": "Un astuto gato lleva el caos con sus travesuras a la vida de un par de hermanos que lidian con su mudanza a una nueva ciudad.",
+      "genres": [
+        "Animación",
+        "Fantasía",
+        "Aventura"
+      ]
+    },
+    {
+      "title": "Ramayana: El Nacimiento De Una Leyenda",
+      "time": "22:00",
+      "rating": 6.6,
+      "poster": "https://image.tmdb.org/t/p/w342/nzL1ySE6vdmR6RxXhE7gLggkp41.jpg",
+      "summary": "",
+      "genres": [
+        "Fantasía",
+        "Acción",
+        "Aventura"
       ]
     },
     {
       "title": "Ruega Por Nosotras",
-      "time": "19:00",
+      "time": "18:10",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/6CWXhVFfin3zh1LZ5HsWnzTXTPN.jpg",
       "summary": "En 1974, Ana, una chica barcelonesa de 19 años, es puesta en manos del Patronato de Protección a la Mujer y trasladada a un reformatorio regentado por monjas en Madrid. Allí, es sometida a un brutal régimen disciplinario, y tratará de sobrevivir buscando consuelo y apoyo en la amistad de otras chicas en su misma situación.",
       "genres": [
         "Drama"
+      ]
+    },
+    {
+      "title": "Ruega Por Nosotras",
+      "time": "19:50",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/6CWXhVFfin3zh1LZ5HsWnzTXTPN.jpg",
+      "summary": "En 1974, Ana, una chica barcelonesa de 19 años, es puesta en manos del Patronato de Protección a la Mujer y trasladada a un reformatorio regentado por monjas en Madrid. Allí, es sometida a un brutal régimen disciplinario, y tratará de sobrevivir buscando consuelo y apoyo en la amistad de otras chicas en su misma situación.",
+      "genres": [
+        "Drama"
+      ]
+    },
+    {
+      "title": "Como Robar Un Banco",
+      "time": "20:15",
+      "rating": 6.1,
+      "poster": "https://image.tmdb.org/t/p/w342/xS35fgWgRdF2em5MGxg5WG9dPKd.jpg",
+      "summary": "Un hombre desesperado planea un elaborado atraco contra el corrupto sistema financiero que arruinó su vida, con un grupo que documenta sus actos en redes sociales.",
+      "genres": [
+        "Acción",
+        "Crimen",
+        "Suspense"
+      ]
+    },
+    {
+      "title": "Como Robar Un Banco",
+      "time": "22:30",
+      "rating": 6.1,
+      "poster": "https://image.tmdb.org/t/p/w342/xS35fgWgRdF2em5MGxg5WG9dPKd.jpg",
+      "summary": "Un hombre desesperado planea un elaborado atraco contra el corrupto sistema financiero que arruinó su vida, con un grupo que documenta sus actos en redes sociales.",
+      "genres": [
+        "Acción",
+        "Crimen",
+        "Suspense"
+      ]
+    },
+    {
+      "title": "Los Rivales De Amziah King",
+      "time": "18:00",
+      "rating": 6.7,
+      "poster": "https://image.tmdb.org/t/p/w342/b2H3p1HnsA1oM79VbTPDsnstGcE.jpg",
+      "summary": "En lo más profundo de los bosques de la Oklahoma rural, el carismático y musicalmente dotado Amziah King lidera una banda de inadaptados que tocan bluegrass mientras supervisa la principal operación de fabricación de miel del pueblo. Cuando la hija adoptiva de Amziah, Kateri, regresa inesperadamente, él trata de renovar su conexión y crear un negocio familiar. Pero el juego de la miel es despiadado, y los rivales de Amziah amenazan con destruir todo lo que ha construido.",
+      "genres": [
+        "Crimen",
+        "Drama",
+        "Suspense"
+      ]
+    },
+    {
+      "title": "Me Entiendes O Te Lo Explico",
+      "time": "22:30",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/4mlzrFT2ByFDTHx30j9WDq6J1qZ.jpg",
+      "summary": "En 1992, en el barrio madrileño de Chueca, Pepe, el desafortunado gerente de una taberna catalana en horas bajas, toma una decisión drástica. Para salvarle, sus amigos deciden resucitar su bar reconvirtiéndolo en un pub de ambiente gay.",
+      "genres": [
+        "Comedia"
+      ]
+    },
+    {
+      "title": "Ratones Al Ataque  Operacion Navidad",
+      "time": "18:00",
+      "rating": 6.5,
+      "poster": "https://image.tmdb.org/t/p/w342/tEpDFz33WclWa0c1rxLhqM2DNFE.jpg",
+      "summary": "Una familia acude a la casa abandonada de su tía para celebrar la Navidad en el campo, sin saber que una familia de ratones ya habita la casa, y no les interesan las visitas. Así que sólo queda una cosa por hacer: poner trampas, estar atentos y defenderse.",
+      "genres": [
+        "Familia",
+        "Animación",
+        "Comedia"
+      ]
+    },
+    {
+      "title": "Scrooge Y Los Fantasmas De La Navidad",
+      "time": "18:15",
+      "rating": 7.8,
+      "poster": "https://image.tmdb.org/t/p/w342/gnG15MkiNeObCoPbHcLUX4zrNWh.jpg",
+      "summary": "Reimaginación del clásico literario, una historia de fantasmas ambientada en el Londres de Dickens que sigue el viaje sobrenatural de un hombre para enfrentarse a su pasado, presente y futuro y luchar por una segunda oportunidad.",
+      "genres": [
+        "Fantasía",
+        "Comedia"
+      ]
+    },
+    {
+      "title": "Scrooge Y Los Fantasmas De La Navidad",
+      "time": "20:30",
+      "rating": 7.8,
+      "poster": "https://image.tmdb.org/t/p/w342/gnG15MkiNeObCoPbHcLUX4zrNWh.jpg",
+      "summary": "Reimaginación del clásico literario, una historia de fantasmas ambientada en el Londres de Dickens que sigue el viaje sobrenatural de un hombre para enfrentarse a su pasado, presente y futuro y luchar por una segunda oportunidad.",
+      "genres": [
+        "Fantasía",
+        "Comedia"
+      ]
+    },
+    {
+      "title": "Scrooge Y Los Fantasmas De La Navidad",
+      "time": "22:15",
+      "rating": 7.8,
+      "poster": "https://image.tmdb.org/t/p/w342/gnG15MkiNeObCoPbHcLUX4zrNWh.jpg",
+      "summary": "Reimaginación del clásico literario, una historia de fantasmas ambientada en el Londres de Dickens que sigue el viaje sobrenatural de un hombre para enfrentarse a su pasado, presente y futuro y luchar por una segunda oportunidad.",
+      "genres": [
+        "Fantasía",
+        "Comedia"
+      ]
+    },
+    {
+      "title": "Victorian Psycho",
+      "time": "20:40",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/2r09thBfqsWkoyGVtrxc00uYpSy.jpg",
+      "summary": "En 1858, la misteriosa institutriz Winifred Notty llega a Ensor House para educar a los hijos de la familia. Su disciplina extrema y su inquietante presencia despiertan sospechas, mientras los empleados de la mansión comienzan a desaparecer sin dejar rastro. Los dueños pronto descubren que tras su apariencia impecable se esconden secretos perturbadores.",
+      "genres": [
+        "Terror",
+        "Suspense"
+      ]
+    },
+    {
+      "title": "Victorian Psycho",
+      "time": "22:30",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/2r09thBfqsWkoyGVtrxc00uYpSy.jpg",
+      "summary": "En 1858, la misteriosa institutriz Winifred Notty llega a Ensor House para educar a los hijos de la familia. Su disciplina extrema y su inquietante presencia despiertan sospechas, mientras los empleados de la mansión comienzan a desaparecer sin dejar rastro. Los dueños pronto descubren que tras su apariencia impecable se esconden secretos perturbadores.",
+      "genres": [
+        "Terror",
+        "Suspense"
       ]
     }
   ],

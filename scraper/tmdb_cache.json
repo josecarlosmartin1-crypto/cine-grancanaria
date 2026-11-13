@@ -3088,5 +3088,61 @@
     "genres": [
       "Drama"
     ]
+  },
+  "Como Robar Un Banco": {
+    "rating": 6.1,
+    "poster": "https://image.tmdb.org/t/p/w342/xS35fgWgRdF2em5MGxg5WG9dPKd.jpg",
+    "summary": "Un hombre desesperado planea un elaborado atraco contra el corrupto sistema financiero que arruinó su vida, con un grupo que documenta sus actos en redes sociales.",
+    "genres": [
+      "Acción",
+      "Crimen",
+      "Suspense"
+    ]
+  },
+  "Los Rivales De Amziah King": {
+    "rating": 6.7,
+    "poster": "https://image.tmdb.org/t/p/w342/b2H3p1HnsA1oM79VbTPDsnstGcE.jpg",
+    "summary": "En lo más profundo de los bosques de la Oklahoma rural, el carismático y musicalmente dotado Amziah King lidera una banda de inadaptados que tocan bluegrass mientras supervisa la principal operación de fabricación de miel del pueblo. Cuando la hija adoptiva de Amziah, Kateri, regresa inesperadamente, él trata de renovar su conexión y crear un negocio familiar. Pero el juego de la miel es despiadado, y los rivales de Amziah amenazan con destruir todo lo que ha construido.",
+    "genres": [
+      "Crimen",
+      "Drama",
+      "Suspense"
+    ]
+  },
+  "Me Entiendes O Te Lo Explico": {
+    "rating": 0.0,
+    "poster": "https://image.tmdb.org/t/p/w342/4mlzrFT2ByFDTHx30j9WDq6J1qZ.jpg",
+    "summary": "En 1992, en el barrio madrileño de Chueca, Pepe, el desafortunado gerente de una taberna catalana en horas bajas, toma una decisión drástica. Para salvarle, sus amigos deciden resucitar su bar reconvirtiéndolo en un pub de ambiente gay.",
+    "genres": [
+      "Comedia"
+    ]
+  },
+  "Ratones Al Ataque  Operacion Navidad": {
+    "rating": 6.5,
+    "poster": "https://image.tmdb.org/t/p/w342/tEpDFz33WclWa0c1rxLhqM2DNFE.jpg",
+    "summary": "Una familia acude a la casa abandonada de su tía para celebrar la Navidad en el campo, sin saber que una familia de ratones ya habita la casa, y no les interesan las visitas. Así que sólo queda una cosa por hacer: poner trampas, estar atentos y defenderse.",
+    "genres": [
+      "Familia",
+      "Animación",
+      "Comedia"
+    ]
+  },
+  "Scrooge Y Los Fantasmas De La Navidad": {
+    "rating": 7.8,
+    "poster": "https://image.tmdb.org/t/p/w342/gnG15MkiNeObCoPbHcLUX4zrNWh.jpg",
+    "summary": "Reimaginación del clásico literario, una historia de fantasmas ambientada en el Londres de Dickens que sigue el viaje sobrenatural de un hombre para enfrentarse a su pasado, presente y futuro y luchar por una segunda oportunidad.",
+    "genres": [
+      "Fantasía",
+      "Comedia"
+    ]
+  },
+  "Victorian Psycho": {
+    "rating": 0.0,
+    "poster": "https://image.tmdb.org/t/p/w342/2r09thBfqsWkoyGVtrxc00uYpSy.jpg",
+    "summary": "En 1858, la misteriosa institutriz Winifred Notty llega a Ensor House para educar a los hijos de la familia. Su disciplina extrema y su inquietante presencia despiertan sospechas, mientras los empleados de la mansión comienzan a desaparecer sin dejar rastro. Los dueños pronto descubren que tras su apariencia impecable se esconden secretos perturbadores.",
+    "genres": [
+      "Terror",
+      "Suspense"
+    ]
   }
 }
