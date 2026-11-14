@@ -5,7 +5,7 @@ export const MOVIE_DATA = {
   "Artesiete Las Terrazas": [
     {
       "title": "La Bola Negra",
-      "time": "19:00",
+      "time": "18:00",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/4omaYktw4VYkk5Tkq7rmUsWnQa5.jpg",
       "summary": "Las vidas interconectadas de tres hombres en tres épocas distintas, tres existencias íntimamente ligadas por la sexualidad y el deseo, el dolor y la herencia.",
@@ -16,13 +16,25 @@ export const MOVIE_DATA = {
     },
     {
       "title": "La Bola Negra",
-      "time": "22:00",
+      "time": "21:00",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/4omaYktw4VYkk5Tkq7rmUsWnQa5.jpg",
       "summary": "Las vidas interconectadas de tres hombres en tres épocas distintas, tres existencias íntimamente ligadas por la sexualidad y el deseo, el dolor y la herencia.",
       "genres": [
         "Drama",
         "Bélica"
+      ]
+    },
+    {
+      "title": "El Gato Con Sombrero",
+      "time": "16:00",
+      "rating": 7.1,
+      "poster": "https://image.tmdb.org/t/p/w342/8TW5oOMZbxaMFVgletpW0bxd2Aa.jpg",
+      "summary": "Un astuto gato lleva el caos con sus travesuras a la vida de un par de hermanos que lidian con su mudanza a una nueva ciudad.",
+      "genres": [
+        "Animación",
+        "Fantasía",
+        "Aventura"
       ]
     },
     {
@@ -83,6 +95,18 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Como Robar Un Banco",
+      "time": "15:50",
+      "rating": 6.1,
+      "poster": "https://image.tmdb.org/t/p/w342/xS35fgWgRdF2em5MGxg5WG9dPKd.jpg",
+      "summary": "Un hombre desesperado planea un elaborado atraco contra el corrupto sistema financiero que arruinó su vida, con un grupo que documenta sus actos en redes sociales.",
+      "genres": [
+        "Acción",
+        "Crimen",
+        "Suspense"
+      ]
+    },
+    {
+      "title": "Como Robar Un Banco",
       "time": "20:15",
       "rating": 6.1,
       "poster": "https://image.tmdb.org/t/p/w342/xS35fgWgRdF2em5MGxg5WG9dPKd.jpg",
@@ -102,6 +126,18 @@ export const MOVIE_DATA = {
       "genres": [
         "Acción",
         "Crimen",
+        "Suspense"
+      ]
+    },
+    {
+      "title": "Los Rivales De Amziah King",
+      "time": "15:50",
+      "rating": 6.7,
+      "poster": "https://image.tmdb.org/t/p/w342/b2H3p1HnsA1oM79VbTPDsnstGcE.jpg",
+      "summary": "En lo más profundo de los bosques de la Oklahoma rural, el carismático y musicalmente dotado Amziah King lidera una banda de inadaptados que tocan bluegrass mientras supervisa la principal operación de fabricación de miel del pueblo. Cuando la hija adoptiva de Amziah, Kateri, regresa inesperadamente, él trata de renovar su conexión y crear un negocio familiar. Pero el juego de la miel es despiadado, y los rivales de Amziah amenazan con destruir todo lo que ha construido.",
+      "genres": [
+        "Crimen",
+        "Drama",
         "Suspense"
       ]
     },
@@ -129,6 +165,18 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Ratones Al Ataque  Operacion Navidad",
+      "time": "16:00",
+      "rating": 6.5,
+      "poster": "https://image.tmdb.org/t/p/w342/tEpDFz33WclWa0c1rxLhqM2DNFE.jpg",
+      "summary": "Una familia acude a la casa abandonada de su tía para celebrar la Navidad en el campo, sin saber que una familia de ratones ya habita la casa, y no les interesan las visitas. Así que sólo queda una cosa por hacer: poner trampas, estar atentos y defenderse.",
+      "genres": [
+        "Familia",
+        "Animación",
+        "Comedia"
+      ]
+    },
+    {
+      "title": "Ratones Al Ataque  Operacion Navidad",
       "time": "18:00",
       "rating": 6.5,
       "poster": "https://image.tmdb.org/t/p/w342/tEpDFz33WclWa0c1rxLhqM2DNFE.jpg",
@@ -136,6 +184,17 @@ export const MOVIE_DATA = {
       "genres": [
         "Familia",
         "Animación",
+        "Comedia"
+      ]
+    },
+    {
+      "title": "Scrooge Y Los Fantasmas De La Navidad",
+      "time": "16:00",
+      "rating": 7.8,
+      "poster": "https://image.tmdb.org/t/p/w342/gnG15MkiNeObCoPbHcLUX4zrNWh.jpg",
+      "summary": "Reimaginación del clásico literario, una historia de fantasmas ambientada en el Londres de Dickens que sigue el viaje sobrenatural de un hombre para enfrentarse a su pasado, presente y futuro y luchar por una segunda oportunidad.",
+      "genres": [
+        "Fantasía",
         "Comedia"
       ]
     },
@@ -193,6 +252,14 @@ export const MOVIE_DATA = {
         "Terror",
         "Suspense"
       ]
+    },
+    {
+      "title": "Diversion Navideña Con Peppa - La Experiencia En Cines",
+      "time": "16:00",
+      "rating": 0,
+      "poster": null,
+      "summary": "",
+      "genres": []
     }
   ],
   "Ocine Premium Siete Palmas": [
