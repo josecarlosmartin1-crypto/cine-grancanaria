@@ -106,17 +106,6 @@ export const MOVIE_DATA = {
       ]
     },
     {
-      "title": "Scrooge Y Los Fantasmas De La Navidad",
-      "time": "21:30",
-      "rating": 7.8,
-      "poster": "https://image.tmdb.org/t/p/w342/gnG15MkiNeObCoPbHcLUX4zrNWh.jpg",
-      "summary": "Reimaginación del clásico literario, una historia de fantasmas ambientada en el Londres de Dickens que sigue el viaje sobrenatural de un hombre para enfrentarse a su pasado, presente y futuro y luchar por una segunda oportunidad.",
-      "genres": [
-        "Fantasía",
-        "Comedia"
-      ]
-    },
-    {
       "title": "Victorian Psycho",
       "time": "21:30",
       "rating": 0.0,
