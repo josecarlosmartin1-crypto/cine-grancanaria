@@ -103,7 +103,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "El Mal Padre",
-      "time": "22:15",
+      "time": "22:30",
       "rating": 9.0,
       "poster": "https://image.tmdb.org/t/p/w342/g8JgLE6obZIf57O8nfBTSHHEQ27.jpg",
       "summary": "Después de años distanciados, el célebre escritor y académico Santiago Balmes reúne a sus tres hijos para pedirles un último deseo: pasar las Navidades en la casa donde veraneaban de niños.",
@@ -127,6 +127,18 @@ export const MOVIE_DATA = {
     {
       "title": "Los Juegos Del Hambre: Amanecer En La Cosecha",
       "time": "19:00",
+      "rating": 7.3,
+      "poster": "https://image.tmdb.org/t/p/w342/8K4lZ5oepk3kArMWfQuqSegxSRe.jpg",
+      "summary": "Explora Panem 24 años antes de la saga de Katniss, comenzando en la mañana de la cosecha de los 50º Juegos del Hambre, donde participa un joven Haymitch Abernathy.",
+      "genres": [
+        "Ciencia ficción",
+        "Acción",
+        "Aventura"
+      ]
+    },
+    {
+      "title": "Los Juegos Del Hambre: Amanecer En La Cosecha",
+      "time": "19:50",
       "rating": 7.3,
       "poster": "https://image.tmdb.org/t/p/w342/8K4lZ5oepk3kArMWfQuqSegxSRe.jpg",
       "summary": "Explora Panem 24 años antes de la saga de Katniss, comenzando en la mañana de la cosecha de los 50º Juegos del Hambre, donde participa un joven Haymitch Abernathy.",
