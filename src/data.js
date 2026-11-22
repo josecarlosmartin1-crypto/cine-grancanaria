@@ -16,7 +16,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "La Bola Negra",
-      "time": "21:00",
+      "time": "20:50",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/4omaYktw4VYkk5Tkq7rmUsWnQa5.jpg",
       "summary": "Las vidas interconectadas de tres hombres en tres épocas distintas, tres existencias íntimamente ligadas por la sexualidad y el deseo, el dolor y la herencia.",
@@ -27,7 +27,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "El Gato Con Sombrero",
-      "time": "18:00",
+      "time": "17:50",
       "rating": 7.1,
       "poster": "https://image.tmdb.org/t/p/w342/8TW5oOMZbxaMFVgletpW0bxd2Aa.jpg",
       "summary": "Un astuto gato lleva el caos con sus travesuras a la vida de un par de hermanos que lidian con su mudanza a una nueva ciudad.",
@@ -39,7 +39,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Ruega Por Nosotras",
-      "time": "18:30",
+      "time": "18:10",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/6CWXhVFfin3zh1LZ5HsWnzTXTPN.jpg",
       "summary": "En 1974, Ana, una chica barcelonesa de 19 años, es puesta en manos del Patronato de Protección a la Mujer y trasladada a un reformatorio regentado por monjas en Madrid. Allí, es sometida a un brutal régimen disciplinario, y tratará de sobrevivir buscando consuelo y apoyo en la amistad de otras chicas en su misma situación.",
@@ -49,7 +49,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Ruega Por Nosotras",
-      "time": "21:00",
+      "time": "20:50",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/6CWXhVFfin3zh1LZ5HsWnzTXTPN.jpg",
       "summary": "En 1974, Ana, una chica barcelonesa de 19 años, es puesta en manos del Patronato de Protección a la Mujer y trasladada a un reformatorio regentado por monjas en Madrid. Allí, es sometida a un brutal régimen disciplinario, y tratará de sobrevivir buscando consuelo y apoyo en la amistad de otras chicas en su misma situación.",
@@ -59,7 +59,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Scrooge Y Los Fantasmas De La Navidad",
-      "time": "18:00",
+      "time": "17:00",
       "rating": 7.8,
       "poster": "https://image.tmdb.org/t/p/w342/gnG15MkiNeObCoPbHcLUX4zrNWh.jpg",
       "summary": "Reimaginación del clásico literario, una historia de fantasmas ambientada en el Londres de Dickens que sigue el viaje sobrenatural de un hombre para enfrentarse a su pasado, presente y futuro y luchar por una segunda oportunidad.",
@@ -70,7 +70,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Scrooge Y Los Fantasmas De La Navidad",
-      "time": "20:10",
+      "time": "19:00",
       "rating": 7.8,
       "poster": "https://image.tmdb.org/t/p/w342/gnG15MkiNeObCoPbHcLUX4zrNWh.jpg",
       "summary": "Reimaginación del clásico literario, una historia de fantasmas ambientada en el Londres de Dickens que sigue el viaje sobrenatural de un hombre para enfrentarse a su pasado, presente y futuro y luchar por una segunda oportunidad.",
@@ -81,7 +81,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Scrooge Y Los Fantasmas De La Navidad",
-      "time": "22:20",
+      "time": "21:00",
       "rating": 7.8,
       "poster": "https://image.tmdb.org/t/p/w342/gnG15MkiNeObCoPbHcLUX4zrNWh.jpg",
       "summary": "Reimaginación del clásico literario, una historia de fantasmas ambientada en el Londres de Dickens que sigue el viaje sobrenatural de un hombre para enfrentarse a su pasado, presente y futuro y luchar por una segunda oportunidad.",
@@ -92,7 +92,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "El Mal Padre",
-      "time": "18:00",
+      "time": "17:45",
       "rating": 9.0,
       "poster": "https://image.tmdb.org/t/p/w342/g8JgLE6obZIf57O8nfBTSHHEQ27.jpg",
       "summary": "Después de años distanciados, el célebre escritor y académico Santiago Balmes reúne a sus tres hijos para pedirles un último deseo: pasar las Navidades en la casa donde veraneaban de niños.",
@@ -103,7 +103,18 @@ export const MOVIE_DATA = {
     },
     {
       "title": "El Mal Padre",
-      "time": "22:30",
+      "time": "19:50",
+      "rating": 9.0,
+      "poster": "https://image.tmdb.org/t/p/w342/g8JgLE6obZIf57O8nfBTSHHEQ27.jpg",
+      "summary": "Después de años distanciados, el célebre escritor y académico Santiago Balmes reúne a sus tres hijos para pedirles un último deseo: pasar las Navidades en la casa donde veraneaban de niños.",
+      "genres": [
+        "Comedia",
+        "Drama"
+      ]
+    },
+    {
+      "title": "El Mal Padre",
+      "time": "22:00",
       "rating": 9.0,
       "poster": "https://image.tmdb.org/t/p/w342/g8JgLE6obZIf57O8nfBTSHHEQ27.jpg",
       "summary": "Después de años distanciados, el célebre escritor y académico Santiago Balmes reúne a sus tres hijos para pedirles un último deseo: pasar las Navidades en la casa donde veraneaban de niños.",
@@ -127,18 +138,6 @@ export const MOVIE_DATA = {
     {
       "title": "Los Juegos Del Hambre: Amanecer En La Cosecha",
       "time": "19:00",
-      "rating": 7.3,
-      "poster": "https://image.tmdb.org/t/p/w342/8K4lZ5oepk3kArMWfQuqSegxSRe.jpg",
-      "summary": "Explora Panem 24 años antes de la saga de Katniss, comenzando en la mañana de la cosecha de los 50º Juegos del Hambre, donde participa un joven Haymitch Abernathy.",
-      "genres": [
-        "Ciencia ficción",
-        "Acción",
-        "Aventura"
-      ]
-    },
-    {
-      "title": "Los Juegos Del Hambre: Amanecer En La Cosecha",
-      "time": "19:50",
       "rating": 7.3,
       "poster": "https://image.tmdb.org/t/p/w342/8K4lZ5oepk3kArMWfQuqSegxSRe.jpg",
       "summary": "Explora Panem 24 años antes de la saga de Katniss, comenzando en la mañana de la cosecha de los 50º Juegos del Hambre, donde participa un joven Haymitch Abernathy.",
