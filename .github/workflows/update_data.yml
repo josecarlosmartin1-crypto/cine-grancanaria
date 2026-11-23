@@ -1,9 +1,9 @@
 name: Update Cinema Data
 on:
   schedule:
-    - cron: '0 9 * * *'  # 10:00 AM Canarias (Primera batida - Todo)
-    - cron: '0 10 * * *' # 11:00 AM Canarias (Reintento 1 - Solo Ocine si falta)
-    - cron: '0 11 * * *' # 12:00 PM Canarias (Reintento 2 - Solo Ocine si falta)
+    - cron: '23 9 * * *'  # 10:23 AM Canarias (Primera batida - Todo)
+    - cron: '23 10 * * *' # 11:23 AM Canarias (Reintento 1 - Solo Ocine si falta)
+    - cron: '23 11 * * *' # 12:23 PM Canarias (Reintento 2 - Solo Ocine si falta)
   workflow_dispatch:
 permissions:
   contents: write
@@ -21,12 +21,12 @@ jobs:
           python -m pip install --upgrade pip
           pip install requests beautifulsoup4 cloudscraper
       
-      - name: Full Run (9 AM UTC)
-        if: github.event.schedule == '0 9 * * *'
+      - name: Full Run (9:23 UTC or manual dispatch)
+        if: github.event.schedule == '23 9 * * *' || github.event_name == 'workflow_dispatch'
         run: python scraper/main.py --force
         
-      - name: Conditional Retry (10 AM & 11 AM UTC)
-        if: github.event.schedule == '0 10 * * *' || github.event.schedule == '0 11 * * *' || github.event_name == 'workflow_dispatch'
+      - name: Conditional Retry (10:23 & 11:23 UTC)
+        if: github.event.schedule == '23 10 * * *' || github.event.schedule == '23 11 * * *'
         run: python scraper/main.py --only-ocine
 
       - name: Commit and push changes
