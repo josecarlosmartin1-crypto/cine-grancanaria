@@ -1,6 +1,32 @@
-import React, { useState } from 'react';
-import { cinemas, movieData } from './data';
+import React, { useState, useEffect } from 'react';
+import { cinemas as defaultCinemas, movieData as defaultMovieData, LAST_UPDATED } from './data';
 import './App.css';
+
+const CACHE_KEY = 'cine_gc_live_cache_v1';
+
+function getCanaryTodayIso() {
+    const parts = new Intl.DateTimeFormat('en-CA', {
+        timeZone: 'Atlantic/Canary',
+        year: 'numeric',
+        month: '2-digit',
+        day: '2-digit'
+    }).formatToParts(new Date());
+    const map = Object.fromEntries(parts.map((p) => [p.type, p.value]));
+    return `${map.year}-${map.month}-${map.day}`;
+}
+
+function formatDateEs(isoDate) {
+    if (!isoDate) return '';
+    const [year, month, day] = isoDate.split('-').map(Number);
+    const dateObj = new Date(Date.UTC(year, month - 1, day, 12, 0, 0));
+    const formatted = dateObj.toLocaleDateString('es-ES', {
+        timeZone: 'Atlantic/Canary',
+        weekday: 'long',
+        day: 'numeric',
+        month: 'long'
+    });
+    return formatted.charAt(0).toUpperCase() + formatted.slice(1);
+}
 
 const CINEMA_LINKS = {
     "Cine Yelmo Premium Alisios": "https://yelmocines.es/cartelera/las-palmas/premium-alisios",
@@ -10,7 +36,7 @@ const CINEMA_LINKS = {
     "Artesiete Las Terrazas": "https://terrazas.artesiete.es/Cine/1/ARTESIETE%20Las%20Terrazas/Total"
 };
 
-const CinemaSelector = ({ selected, onSelect }) => (
+const CinemaSelector = ({ selected, onSelect, cinemas }) => (
     <div className="cinema-header-sticky">
         <div className="cinema-select-container">
             <select
@@ -112,24 +138,98 @@ const MovieCard = ({ movie, onShowSummary }) => {
 };
 
 function App() {
+    const todayIso = getCanaryTodayIso();
     const [selectedCinema, setSelectedCinema] = useState("Artesiete Las Terrazas");
     const [selectedMovieForSummary, setSelectedMovieForSummary] = useState(null);
+    const [liveData, setLiveData] = useState(() => {
+        try {
+            const raw = localStorage.getItem(CACHE_KEY);
+            if (raw) {
+                const parsed = JSON.parse(raw);
+                if (parsed?.updatedAt === todayIso && parsed?.movieData) {
+                    return parsed;
+                }
+            }
+        } catch {
+            // Ignorar errores de localStorage
+        }
+        return null;
+    });
+    const [isRefreshing, setIsRefreshing] = useState(false);
+    const [refreshError, setRefreshError] = useState("");
 
-    const movies = movieData[selectedCinema] || [];
+    useEffect(() => {
+        if (liveData) {
+            try {
+                localStorage.setItem(CACHE_KEY, JSON.stringify(liveData));
+            } catch {
+                // Ignorar si el almacenamiento está lleno
+            }
+        }
+    }, [liveData]);
+
+    const activeMovieData = liveData?.movieData || defaultMovieData;
+    const activeCinemas = Object.keys(activeMovieData).length > 0 ? Object.keys(activeMovieData) : defaultCinemas;
+    const activeDateIso = liveData?.updatedAt || LAST_UPDATED || todayIso;
+    const isOutdated = activeDateIso < todayIso;
+
+    const handleRefresh = async () => {
+        if (isRefreshing) return;
+        setIsRefreshing(true);
+        setRefreshError("");
+        try {
+            const res = await fetch('/api/refresh');
+            if (!res.ok) throw new Error(`HTTP ${res.status}`);
+            const payload = await res.json();
+            if (!payload?.movieData) throw new Error("Respuesta inválida");
+
+            // Conservamos los datos previos de un cine si la captura en vivo devolvió vacío
+            const merged = { ...activeMovieData };
+            for (const [cinema, sessions] of Object.entries(payload.movieData)) {
+                if (Array.isArray(sessions) && sessions.length > 0) {
+                    merged[cinema] = sessions;
+                }
+            }
+            setLiveData({
+                updatedAt: payload.updatedAt || todayIso,
+                movieData: merged
+            });
+        } catch {
+            setRefreshError("No se pudo actualizar ahora.");
+        } finally {
+            setIsRefreshing(false);
+        }
+    };
+
+    const movies = activeMovieData[selectedCinema] || [];
     const sortedMovies = [...movies].sort((a, b) => a.time.localeCompare(b.time));
-
-    const today = new Date().toLocaleDateString('es-ES', { weekday: 'long', day: 'numeric', month: 'long' });
-    const formattedDate = today.charAt(0).toUpperCase() + today.slice(1);
+    const formattedDate = formatDateEs(activeDateIso);
 
     return (
         <div className="app-container">
             <header>
                 <h1>Cine GC</h1>
-                <p style={{ color: '#666', fontSize: '14px' }}>Cartelera del {formattedDate}</p>
+                <div className="date-refresh-row">
+                    <p className="date-label">
+                        Cartelera del {formattedDate}
+                        {isOutdated && <span className="outdated-badge">Desactualizada</span>}
+                    </p>
+                    <button
+                        type="button"
+                        className="refresh-button"
+                        onClick={handleRefresh}
+                        disabled={isRefreshing}
+                        title="Actualizar cartelera ahora"
+                    >
+                        <span className={isRefreshing ? "spin" : ""}>↻</span>
+                        {isRefreshing ? " Actualizando..." : " Actualizar"}
+                    </button>
+                </div>
+                {refreshError && <p className="refresh-error">{refreshError}</p>}
                 <p style={{ color: '#999', fontSize: '11px', marginTop: '4px' }}>Notas, Géneros y Sinopsis por TMDb</p>
             </header>
 
-            <CinemaSelector selected={selectedCinema} onSelect={setSelectedCinema} />
+            <CinemaSelector selected={selectedCinema} onSelect={setSelectedCinema} cinemas={activeCinemas} />
 
             <div className="movie-list">
                 {sortedMovies.length > 0 ? (

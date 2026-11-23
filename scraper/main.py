@@ -392,6 +392,7 @@ def main():
     with open("src/data.js", "w", encoding="utf-8") as f:
         f.write(f"export const MOVIE_DATA = {json.dumps(all_data, indent=2, ensure_ascii=False)};\n")
         f.write("export const movieData = MOVIE_DATA;\nexport const cinemas = Object.keys(MOVIE_DATA);\n")
+        f.write(f'export const LAST_UPDATED = "{datetime.date.today().strftime("%Y-%m-%d")}";\n')
     
     save_cache() # 5. Guardamos la memoria actualizada
     print("\nActualizacion completada.")

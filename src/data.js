@@ -972,3 +972,4 @@ export const MOVIE_DATA = {
 };
 export const movieData = MOVIE_DATA;
 export const cinemas = Object.keys(MOVIE_DATA);
+export const LAST_UPDATED = "2026-11-23";
