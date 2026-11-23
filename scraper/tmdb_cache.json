@@ -3169,5 +3169,72 @@
       "Acción",
       "Aventura"
     ]
+  },
+  "El Director": {
+    "rating": 6.5,
+    "poster": "https://image.tmdb.org/t/p/w342/9FKhEtXhX2Omvc7kVcjvDYk8DWG.jpg",
+    "summary": "Después de más de dos décadas trabajando como corresponsal de guerra, David Jiménez es nombrado director de uno de los principales periódicos del país. Su defensa de un periodismo independiente y riguroso choca rápidamente con los intereses de la empresa editora y con Cardenal, el hombre encargado de protegerlos. Mientras sus investigaciones devuelven prestigio al diario, David descubre que también está rompiendo delicados equilibrios entre medios, empresas y poder político.",
+    "genres": [
+      "Drama"
+    ]
+  },
+  "Cómo Robar Un Banco": {
+    "rating": 6.4,
+    "poster": "https://image.tmdb.org/t/p/w342/xS35fgWgRdF2em5MGxg5WG9dPKd.jpg",
+    "summary": "Un hombre desesperado planea un elaborado atraco contra el corrupto sistema financiero que arruinó su vida, con un grupo que documenta sus actos en redes sociales.",
+    "genres": [
+      "Acción",
+      "Crimen",
+      "Suspense"
+    ]
+  },
+  "Adolescencia, Sexo Y Muerte En Campamento Miasma": {
+    "rating": 6.1,
+    "poster": "https://image.tmdb.org/t/p/w342/8UTCpwvHxWPllCJ7YnaCbffmYyD.jpg",
+    "summary": "Tras años de secuelas cutres y un fandom en declive, la franquicia slasher 'Camp Miasma' es puesta en manos de una joven y entusiasta directora para que la resucite. Pero cuando visita a la estrella de la película original, una actriz que ahora vive recluida y envuelta en misterio, las dos caen en una espiral de sangre, deseo, miedo y delirio.",
+    "genres": [
+      "Comedia",
+      "Terror",
+      "Romance"
+    ]
+  },
+  "Wild Horse Nine": {
+    "rating": 7.9,
+    "poster": "https://image.tmdb.org/t/p/w342/bLDrHn76oiNYiELv1qw3Tfdkqc8.jpg",
+    "summary": "Poco antes del golpe de Estado chileno de 1973, los agentes de la CIA Chris y Lee son enviados desde Santiago a la Isla de Pascua por su jefa de la oficina, MJ. Entre las emblemáticas estatuas de la isla, y mientras los veteranos compañeros lidian con sus oscuros pasados ​​y conspiraciones actuales, el nuevo vínculo que Chris establece con un par de estudiantes rebeldes amenaza con desbaratar el viaje de todos a este remoto paraíso.",
+    "genres": [
+      "Comedia",
+      "Crimen",
+      "Suspense"
+    ]
+  },
+  "Tesis": {
+    "rating": 7.5,
+    "poster": "https://image.tmdb.org/t/p/w342/lqIQE6VfShKU07cUX2J7OE6Y9aX.jpg",
+    "summary": "Ángela, licenciada en ciencias de la información, prepara su tesis sobre la violencia audiovisual. Su director, Figueroa, se compromete a buscarle películas, mientras que un amigo, Chema, la invita a su casa a una sesión de cine gore y pornográfico. Figueroa descubre en la videoteca de la Facultad unas galerías con cientos de videocintas. Poco después muere en extrañas circunstancias. Ángela descubre el cadáver y se da cuenta de que ha sufrido un infarto mientras veía una cinta de vídeo. Ángela se hace con la cinta y hace un terrible descubrimiento: se trata de una snuff movie, una película ilegal en la que se filma al asesinato real de gente inocente. La joven comienza a sospechar que en la Facultad existe una red de tráfico de este tipo de películas. Pero, ¿quién es el responsable de ella?",
+    "genres": [
+      "Terror",
+      "Suspense"
+    ]
+  },
+  "Ratones Al Ataque: Operación Navidad": {
+    "rating": 6.5,
+    "poster": "https://image.tmdb.org/t/p/w342/tEpDFz33WclWa0c1rxLhqM2DNFE.jpg",
+    "summary": "Una familia acude a la casa abandonada de su tía para celebrar la Navidad en el campo, sin saber que una familia de ratones ya habita la casa, y no les interesan las visitas. Así que sólo queda una cosa por hacer: poner trampas, estar atentos y defenderse.",
+    "genres": [
+      "Familia",
+      "Animación",
+      "Comedia"
+    ]
+  },
+  "Wildwood": {
+    "rating": 8.5,
+    "poster": "https://image.tmdb.org/t/p/w342/sJ1uZ4DKsjs2iqLtCX46TifxqoE.jpg",
+    "summary": "Prue y su compañero de clase Curtis se ven arrastrados a un bosque mágico poblado por criaturas encantadas, aliados leales y adversarios formidables, mientras emprenden una misión desesperada para rescatar al hermano bebé de Prue —secuestrado por una bandada de cuervos liderada por una misteriosa mujer llamada Alexandra—.",
+    "genres": [
+      "Animación",
+      "Aventura",
+      "Drama"
+    ]
   }
 }

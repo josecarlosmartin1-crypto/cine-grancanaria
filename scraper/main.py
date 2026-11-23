@@ -100,18 +100,28 @@ def get_movie_tmdb_info(title, fallback_summary=""):
 
 def scrape_yelmo_api():
     print("Obteniendo cartelera: Yelmo Cines...")
-    url = "https://www.yelmocines.es/now-playing.aspx/GetNowPlaying"
+    base_url = "https://yelmocines.es"
+    warmup_url = f"{base_url}/cartelera/las-palmas/las-arenas"
+    url = f"{base_url}/now-playing.aspx/GetNowPlaying"
     scraper = cloudscraper.create_scraper()
-    headers = {"Accept": "application/json, text/javascript, */*; q=0.01", "Content-Type": "application/json; charset=UTF-8", "X-Requested-With": "XMLHttpRequest"}
+    headers = {
+        "Accept": "application/json, text/javascript, */*; q=0.01",
+        "Content-Type": "application/json; charset=UTF-8",
+        "X-Requested-With": "XMLHttpRequest",
+        "Origin": base_url,
+        "Referer": warmup_url
+    }
     payload = {"cityKey": "las-palmas"}
     results = {"Cine Yelmo Vecindario": [], "Cine Yelmo Las Arenas": [], "Cine Yelmo Premium Alisios": []}
     
-    # 1. Preparar fechas de búsqueda (Yelmo usa "14 abril")
+    # 1. Preparar fechas de búsqueda (Yelmo usa "01 diciembre" / "23 noviembre")
     meses = ["enero", "febrero", "marzo", "abril", "mayo", "junio", "julio", "agosto", "septiembre", "octubre", "noviembre", "diciembre"]
     now = datetime.date.today()
-    today_str = f"{now.day} {meses[now.month-1]}"
+    today_candidates = {f"{now.day:02d} {meses[now.month-1]}", f"{now.day} {meses[now.month-1]}"}
     
     try:
+        # Visita previa para obtener cookies de sesión y evitar 403 Forbidden
+        scraper.get(warmup_url, timeout=15)
         res = scraper.post(url, headers=headers, json=payload, timeout=20)
         if res.status_code == 200:
             for c in res.json().get("d", {}).get("Cinemas", []):
@@ -123,7 +133,7 @@ def scrape_yelmo_api():
                 if target:
                     dates = c.get("Dates", [])
                     # Buscamos el objeto Date que coincida con hoy
-                    target_date_obj = next((d for d in dates if d.get("ShowtimeDate") == today_str), None)
+                    target_date_obj = next((d for d in dates if (d.get("ShowtimeDate") or "").strip().lower() in today_candidates), None)
                     
                     if not target_date_obj and dates:
                         # Si no hay hoy (raro), tomamos el primero como fallback
@@ -139,94 +149,122 @@ def scrape_yelmo_api():
                                     "title": title, "time": t, "rating": info["rating"],
                                     "poster": info["poster"], "summary": info["summary"], "genres": info["genres"]
                                 })
+        else:
+            print(f"  Error Yelmo: Status {res.status_code}")
     except Exception as e: print(f"  Error Yelmo: {e}")
     return results
 
 def scrape_ocine_api():
     print("Obteniendo cartelera: Ocine Siete Palmas...")
-    url = "https://www.ocinepremium7palmas.es/components/com_cines/json/es_cartellera.json"
+    base_api = "https://tickets.ocinepremium7palmas.es/api/v1"
+    url_web = "https://tickets.ocinepremium7palmas.es/?nocap=1"
     scraper = cloudscraper.create_scraper()
     results = {"Ocine Premium Siete Palmas": []}
-    
     now_str = datetime.date.today().strftime("%Y-%m-%d")
-    
-    try:
-        # Añadimos cache-buster para evitar que GitHub reciba una versión antigua por caché de red
-        url_with_cache_buster = f"{url}?t={int(time.time())}"
-        headers = {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36",
-            "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8",
-            "Accept-Language": "es-ES,es;q=0.9,en;q=0.8",
-            "Referer": "https://www.google.com/",
-            "Origin": "https://www.ocinepremium7palmas.es"
-        }
-        
-        # Paso de Camuflaje: Visitamos la home primero para establecer cookies de sesión
-        print("  Ocine: Visitando página de inicio para camuflaje...")
-        scraper.get("https://www.ocinepremium7palmas.es/", headers=headers, timeout=15)
-        
-        # Ahora pedimos el JSON con las cookies ya establecidas
-        headers["Accept"] = "application/json, text/plain, */*"
-        headers["Referer"] = "https://www.ocinepremium7palmas.es/cartelera"
-        
-        res = scraper.get(url_with_cache_buster, headers=headers, timeout=20)
-        
-        if res.status_code == 200:
-            data = res.json()
-            
-            # Buscamos todas las fechas disponibles en las sesiones
-            available_dates = sorted(list(set([s.get("plan_data") for m in data.get("data", []) for s in m.get("Planificacions", []) if s.get("plan_data")])))
-            
-            # Prioridad 1: Hoy exacto. Prioridad 2: Primera fecha disponible FUTURA (>= hoy)
-            target_date = next((d for d in available_dates if d >= now_str), None)
-            
-            if target_date:
-                if target_date != now_str:
-                    print(f"  Aviso: Ocine no tiene sesiones para {now_str}. Usando fecha más cercana: {target_date}")
-                else:
-                    print(f"  Ocine: Sesiones encontradas para hoy ({now_str})")
-            else:
-                error_msg = f"ERROR: Ocine no tiene fechas futuras disponibles (Hoy: {now_str}, Encontradas: {available_dates})"
-                print(f"  {error_msg}")
-                with open("scraper/ocine_last_error.log", "w", encoding="utf-8") as f:
-                    f.write(f"TIMESTAMP: {datetime.datetime.now().isoformat()}\n")
-                    f.write(f"REASON: NO_FUTURE_DATES\n")
-                    f.write(f"AVAILABLE_DATES: {available_dates}\n")
-                return results # Devolvemos vacío pero forzamos el log
 
-            for m in data.get("data", []):
-                title = m.get("peli_titol", "").title()
-                if not title: continue
-                peli2 = m.get("Pelicules2", {})
-                info = get_movie_tmdb_info(title, (peli2.get("pel2_sinopsis") if isinstance(peli2, dict) else "") or "")
-                
-                for s in m.get("Planificacions", []):
-                    # Usamos la fecha objetivo calculada con limpieza de espacios para evitar fallos de matching
-                    if s.get("plan_data", "").strip() == target_date:
-                        time_val = s.get("plan_horainici", "")
-                        if time_val:
-                            results["Ocine Premium Siete Palmas"].append({
-                                "title": title, "time": ":".join(time_val.split(":")[:2]),
-                                "rating": info["rating"], "poster": info["poster"], "summary": info["summary"], "genres": info["genres"]
-                            })
-            
-            print(f"  Ocine: {len(results['Ocine Premium Siete Palmas'])} sesiones capturadas.")
-            # Si tiene éxito, eliminamos el log de error anterior si existe
-            if os.path.exists("scraper/ocine_last_error.log"):
-                os.remove("scraper/ocine_last_error.log")
+    try:
+        headers = {
+            "Accept": "application/json, text/plain, */*",
+            "Content-Type": "application/json",
+            "Origin": "https://tickets.ocinepremium7palmas.es",
+            "Referer": "https://tickets.ocinepremium7palmas.es/"
+        }
+
+        # 1. Inicializar sesión y obtener token
+        init_res = scraper.post(
+            f"{base_api}/init",
+            headers=headers,
+            json={"idioma": "es", "plan": "", "app": "", "cli": "", "urlWeb": url_web, "nomesbar": "N"},
+            timeout=15
+        )
+        if init_res.status_code != 200:
+            raise RuntimeError(f"Init HTTP {init_res.status_code}: {init_res.text[:300]}")
+        token = init_res.json().get("token", "")
+
+        # 2. Obtener catálogo de películas en cartelera
+        sess_res = scraper.post(
+            f"{base_api}/sessions",
+            headers=headers,
+            json={"token": token, "idioma": "es", "urlWeb": url_web},
+            timeout=20
+        )
+        if sess_res.status_code != 200:
+            raise RuntimeError(f"Sessions HTTP {sess_res.status_code}: {sess_res.text[:300]}")
+
+        pelicules = sess_res.json().get("pelicules", [])
+        movie_entries = []
+        available_dates = set()
+
+        # 3. Obtener sesiones detalladas por película
+        for p in pelicules:
+            pid = p.get("id")
+            if not pid:
+                continue
+            det_res = scraper.get(f"{base_api}/pelicula/{pid}?lang=es", headers=headers, timeout=15)
+            if det_res.status_code != 200:
+                continue
+            det = det_res.json()
+
+            title = (det.get("titol") or p.get("titol") or "").strip().title()
+            if not title:
+                continue
+            synopsis = (det.get("sinopsis") or p.get("sinopsis") or "").strip()
+
+            # Recoger sesiones tanto directas como de subPelicules (ATMOS, KIDS, etc.)
+            raw_sessions = list(det.get("sessions") or [])
+            for sub in det.get("subPelicules") or []:
+                raw_sessions.extend(sub.get("sessions") or [])
+
+            for s in raw_sessions:
+                s_date = (s.get("data") or "").strip()
+                s_time = (s.get("hora") or "").strip()
+                if s_date and s_time:
+                    available_dates.add(s_date)
+                    movie_entries.append((title, synopsis, s_date, ":".join(s_time.split(":")[:2])))
+
+        sorted_dates = sorted(available_dates)
+        target_date = next((d for d in sorted_dates if d >= now_str), None)
+
+        if target_date:
+            if target_date != now_str:
+                print(f"  Aviso: Ocine no tiene sesiones para {now_str}. Usando fecha más cercana: {target_date}")
+            else:
+                print(f"  Ocine: Sesiones encontradas para hoy ({now_str})")
         else:
-            error_msg = f"ERROR Ocine (Status {res.status_code}): {res.text[:500]}"
+            error_msg = f"ERROR: Ocine no tiene fechas futuras disponibles (Hoy: {now_str}, Encontradas: {sorted_dates})"
             print(f"  {error_msg}")
-            # Guardamos el error en un archivo para que el bot de GitHub lo suba
             with open("scraper/ocine_last_error.log", "w", encoding="utf-8") as f:
                 f.write(f"TIMESTAMP: {datetime.datetime.now().isoformat()}\n")
-                f.write(f"STATUS: {res.status_code}\n")
-                f.write(f"URL: {url_with_cache_buster}\n")
-                f.write(f"HEADERS: {json.dumps(headers, indent=2)}\n")
-                f.write(f"BODY_START: {res.text[:2000]}\n")
-    except Exception as e: 
+                f.write("REASON: NO_FUTURE_DATES\n")
+                f.write(f"AVAILABLE_DATES: {sorted_dates}\n")
+            return results
+
+        # Deduplicar (título, hora) si varias salas/versiones coinciden o mantener cada pase único
+        seen = set()
+        info_cache = {}
+        for title, synopsis, s_date, s_time in movie_entries:
+            if s_date != target_date:
+                continue
+            key = (title, s_time)
+            if key in seen:
+                continue
+            seen.add(key)
+            if title not in info_cache:
+                info_cache[title] = get_movie_tmdb_info(title, synopsis)
+            info = info_cache[title]
+            results["Ocine Premium Siete Palmas"].append({
+                "title": title, "time": s_time,
+                "rating": info["rating"], "poster": info["poster"],
+                "summary": info["summary"], "genres": info["genres"]
+            })
+
+        print(f"  Ocine: {len(results['Ocine Premium Siete Palmas'])} sesiones capturadas.")
+        if os.path.exists("scraper/ocine_last_error.log"):
+            os.remove("scraper/ocine_last_error.log")
+    except Exception as e:
         print(f"  Error Ocine: {e}")
         with open("scraper/ocine_last_error.log", "w", encoding="utf-8") as f:
+            f.write(f"TIMESTAMP: {datetime.datetime.now().isoformat()}\n")
             f.write(f"EXCEPTION: {str(e)}\n")
     return results
 
@@ -310,8 +348,23 @@ def main():
     # 3. Lógica selectiva de scrapers
     if not only_ocine:
         print("\n--- Actualización General ---")
-        all_data.update(scrape_yelmo_api())
-        all_data.update(scrape_artesiete())
+        for cinema_name, sessions in scrape_yelmo_api().items():
+            if sessions:
+                all_data[cinema_name] = sessions
+            elif existing_data.get(cinema_name):
+                all_data[cinema_name] = existing_data[cinema_name]
+                print(f"  {cinema_name}: Fallo en captura. Manteniendo datos previos.")
+            else:
+                all_data[cinema_name] = []
+
+        for cinema_name, sessions in scrape_artesiete().items():
+            if sessions:
+                all_data[cinema_name] = sessions
+            elif existing_data.get(cinema_name):
+                all_data[cinema_name] = existing_data[cinema_name]
+                print(f"  {cinema_name}: Fallo en captura. Manteniendo datos previos.")
+            else:
+                all_data[cinema_name] = []
     
     # Ocine siempre se intenta si: 
     # a) Estamos en modo only_ocine
