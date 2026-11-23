@@ -13,15 +13,17 @@ Para evitar que los cines muestren datos del día anterior o listas vacías dura
 
 ### B. Yelmo Cines (Vecindario, Alisios, Las Arenas)
 - **Lógica**: La API devuelve un array de objetos `Dates`. El primero (`index 0`) suele ser el día anterior hasta que el cine "rota" su sistema (aprox. 3:00 AM).
-- **Solución**: El scraper busca en el array `Dates` el objeto cuyo campo `ShowtimeDate` coincida con hoy (formato `D mes`, ej: "14 abril").
+- **Solución**: El scraper busca en el array `Dates` el objeto cuyo campo `ShowtimeDate` coincida con hoy (aceptando tanto `DD mes` con cero inicial, ej. `"01 diciembre"`, como `D mes`).
+- **Punto Crítico (Sesión previa)**: `https://www.yelmocines.es/now-playing.aspx/GetNowPlaying` sin cookies de sesión devuelve `403 Forbidden`. Es obligatorio hacer un `GET` previo a `https://yelmocines.es/cartelera/las-palmas/las-arenas` y enviar el `POST` a `https://yelmocines.es/now-playing.aspx/GetNowPlaying` con `Origin` y `Referer`.
 - **Fallback**: Si no encuentra la fecha exacta, usa el primero de la lista.
 
 ### C. Ocine Siete Palmas
-- **Lógica**: El archivo JSON puede ser servido desde caché antigua o su encabezado (`date`) puede estar desfasado.
-- **Solución Ultra-Robusta**:
-    - **Cache Busting**: Se añade un timestamp dinámico a la URL (`?t=...`) para forzar la recepción de datos frescos desde el servidor.
-    - **Smart Fallback**: El script busca primero la fecha real de hoy. Si no encuentra sesiones, selecciona automáticamente la **fecha más temprana disponible** que sea igual o posterior a hoy.
-- **Resultado**: Nunca debería mostrarse vacío si existe alguna cartelera publicada en el sistema del cine, ignorando retrasos de sincronización de su servidor.
+- **Lógica**: La web principal (`https://ocinepremium7palmas.es/`) migró a una SPA que embebe un iframe de `https://tickets.ocinepremium7palmas.es/` (el antiguo `/components/com_cines/json/es_cartellera.json` devuelve HTML).
+- **Solución**:
+    - Se llama a `POST https://tickets.ocinepremium7palmas.es/api/v1/init` para obtener el `token`.
+    - Se consulta `POST https://tickets.ocinepremium7palmas.es/api/v1/sessions` para listar `pelicules`.
+    - Para cada película se consulta `GET https://tickets.ocinepremium7palmas.es/api/v1/pelicula/{id}?lang=es` leyendo tanto `sessions` como `subPelicules[*].sessions`.
+    - **Smart Fallback**: Busca la fecha real de hoy (`YYYY-MM-DD`) o la primera fecha futura disponible (`>= hoy`). Si falla la captura, `main.py` conserva los datos previos en `src/data.js`.
 
 ## 2. Enriquecimiento de Datos (TMDb)
 
@@ -33,9 +35,10 @@ Para evitar exceder los límites de la API de TMDb y acelerar el proceso, se man
 ### Limpieza de Títulos
 Antes de buscar en TMDb, el script limpia los títulos de coletillas como "(Atmos)", "(Vose)" o "¡!".
 
-## 3. Despliegue y Automatización
-- El scraper se ejecuta automáticamente vía **GitHub Actions** cada día a las **08:00 UTC**.
-- Los datos se guardan en `src/data.js`, el cual es importado directamente por la App en React/Vite.
+## 3. Despliegue, Automatización y Refresco en Vivo
+- El scraper se ejecuta automáticamente vía **GitHub Actions** cada día a las **09:23 UTC** (con reintentos de Ocine a las **10:23** y **11:23 UTC**, evitando el minuto `:00` por saturación de colas).
+- Los datos se guardan en `src/data.js` (junto con `LAST_UPDATED`), el cual es importado por la App en React/Vite.
+- Si el cron de GitHub Actions falla o se retrasa, el usuario puede pulsar el botón **↻ Actualizar** en la cabecera de la web, que llama a la Serverless Function `api/refresh.js` (`/api/refresh` en Vercel, excluida de rewrites en `vercel.json`) y guarda la cartelera fresca del día en `localStorage`.
 
 ---
 > [!NOTE]
