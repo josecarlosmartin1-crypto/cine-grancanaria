@@ -898,17 +898,6 @@ export const MOVIE_DATA = {
   "Artesiete Las Terrazas": [
     {
       "title": "La Bola Negra",
-      "time": "17:00",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/4omaYktw4VYkk5Tkq7rmUsWnQa5.jpg",
-      "summary": "Las vidas interconectadas de tres hombres en tres épocas distintas, tres existencias íntimamente ligadas por la sexualidad y el deseo, el dolor y la herencia.",
-      "genres": [
-        "Drama",
-        "Bélica"
-      ]
-    },
-    {
-      "title": "La Bola Negra",
       "time": "20:00",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/4omaYktw4VYkk5Tkq7rmUsWnQa5.jpg",
@@ -916,18 +905,6 @@ export const MOVIE_DATA = {
       "genres": [
         "Drama",
         "Bélica"
-      ]
-    },
-    {
-      "title": "El Gato Con Sombrero",
-      "time": "17:00",
-      "rating": 7.1,
-      "poster": "https://image.tmdb.org/t/p/w342/8TW5oOMZbxaMFVgletpW0bxd2Aa.jpg",
-      "summary": "Un astuto gato lleva el caos con sus travesuras a la vida de un par de hermanos que lidian con su mudanza a una nueva ciudad.",
-      "genres": [
-        "Animación",
-        "Fantasía",
-        "Aventura"
       ]
     },
     {
@@ -951,18 +928,6 @@ export const MOVIE_DATA = {
       ]
     },
     {
-      "title": "Como Robar Un Banco",
-      "time": "16:50",
-      "rating": 6.1,
-      "poster": "https://image.tmdb.org/t/p/w342/xS35fgWgRdF2em5MGxg5WG9dPKd.jpg",
-      "summary": "Un hombre desesperado planea un elaborado atraco contra el corrupto sistema financiero que arruinó su vida, con un grupo que documenta sus actos en redes sociales.",
-      "genres": [
-        "Acción",
-        "Crimen",
-        "Suspense"
-      ]
-    },
-    {
       "title": "El Cielo Es Para Siempre",
       "time": "19:00",
       "rating": 0.0,
@@ -971,29 +936,6 @@ export const MOVIE_DATA = {
       "genres": []
     },
     {
-      "title": "Ratones Al Ataque  Operacion Navidad",
-      "time": "16:50",
-      "rating": 6.5,
-      "poster": "https://image.tmdb.org/t/p/w342/tEpDFz33WclWa0c1rxLhqM2DNFE.jpg",
-      "summary": "Una familia acude a la casa abandonada de su tía para celebrar la Navidad en el campo, sin saber que una familia de ratones ya habita la casa, y no les interesan las visitas. Así que sólo queda una cosa por hacer: poner trampas, estar atentos y defenderse.",
-      "genres": [
-        "Familia",
-        "Animación",
-        "Comedia"
-      ]
-    },
-    {
-      "title": "Scrooge Y Los Fantasmas De La Navidad",
-      "time": "16:50",
-      "rating": 7.8,
-      "poster": "https://image.tmdb.org/t/p/w342/gnG15MkiNeObCoPbHcLUX4zrNWh.jpg",
-      "summary": "Reimaginación del clásico literario, una historia de fantasmas ambientada en el Londres de Dickens que sigue el viaje sobrenatural de un hombre para enfrentarse a su pasado, presente y futuro y luchar por una segunda oportunidad.",
-      "genres": [
-        "Fantasía",
-        "Comedia"
-      ]
-    },
-    {
       "title": "Scrooge Y Los Fantasmas De La Navidad",
       "time": "19:00",
       "rating": 7.8,
@@ -1035,18 +977,6 @@ export const MOVIE_DATA = {
       "genres": [
         "Comedia",
         "Drama"
-      ]
-    },
-    {
-      "title": "Los Juegos Del Hambre: Amanecer En La Cosecha",
-      "time": "17:00",
-      "rating": 7.3,
-      "poster": "https://image.tmdb.org/t/p/w342/8K4lZ5oepk3kArMWfQuqSegxSRe.jpg",
-      "summary": "Explora Panem 24 años antes de la saga de Katniss, comenzando en la mañana de la cosecha de los 50º Juegos del Hambre, donde participa un joven Haymitch Abernathy.",
-      "genres": [
-        "Ciencia ficción",
-        "Acción",
-        "Aventura"
       ]
     },
     {
@@ -1071,18 +1001,6 @@ export const MOVIE_DATA = {
         "Ciencia ficción",
         "Acción",
         "Aventura"
-      ]
-    },
-    {
-      "title": "Willow Y Las Guardianas De Los Cuatro Elementos",
-      "time": "16:50",
-      "rating": 6.2,
-      "poster": "https://image.tmdb.org/t/p/w342/7A7QKvDWHqVVDaLDonSGEwFQ3U7.jpg",
-      "summary": "La vida de Willow cambia por completo cuando hereda de su tía Alwina una pequeña casa, un misterioso bosque... y un extraordinario don: el poder de la brujería. Para descubrir el verdadero alcance de su legado, deberá encontrar a otras tres jóvenes con habilidades mágicas como las suyas. Juntas aprenderán a controlar sus poderes y proteger el bosque de una amenaza que pone en peligro su futuro. Acompañada por el inseparable zorro Rufus, Willow emprenderá una emocionante aventura llena de magia, amistad y descubrimientos, en la que comprenderá que el verdadero poder nace de la unión y la confianza.",
-      "genres": [
-        "Familia",
-        "Aventura",
-        "Fantasía"
       ]
     }
   ],
