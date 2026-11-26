@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect, useRef } from 'react';
 import { cinemas as defaultCinemas, movieData as defaultMovieData, LAST_UPDATED } from './data';
 import './App.css';
 
@@ -172,6 +172,7 @@ function App() {
     const activeCinemas = Object.keys(activeMovieData).length > 0 ? Object.keys(activeMovieData) : defaultCinemas;
     const activeDateIso = liveData?.updatedAt || LAST_UPDATED || todayIso;
     const isOutdated = activeDateIso < todayIso;
+    const autoRefreshedRef = useRef(false);
 
     const handleRefresh = async () => {
         if (isRefreshing) return;
@@ -200,6 +201,13 @@ function App() {
             setIsRefreshing(false);
         }
     };
+
+    useEffect(() => {
+        if (isOutdated && !autoRefreshedRef.current) {
+            autoRefreshedRef.current = true;
+            handleRefresh();
+        }
+    }, [isOutdated]);
 
     const movies = activeMovieData[selectedCinema] || [];
     const sortedMovies = [...movies].sort((a, b) => a.time.localeCompare(b.time));

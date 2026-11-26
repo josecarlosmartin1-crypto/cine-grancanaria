@@ -1,6 +1,42 @@
 export const MOVIE_DATA = {
   "Cine Yelmo Vecindario": [
     {
+      "title": "Adolescencia, Sexo Y Muerte En Campamento Miasma",
+      "time": "17:05",
+      "rating": 6.1,
+      "poster": "https://image.tmdb.org/t/p/w342/8UTCpwvHxWPllCJ7YnaCbffmYyD.jpg",
+      "summary": "Tras años de secuelas cutres y un fandom en declive, la franquicia slasher 'Camp Miasma' es puesta en manos de una joven y entusiasta directora para que la resucite. Pero cuando visita a la estrella de la película original, una actriz que ahora vive recluida y envuelta en misterio, las dos caen en una espiral de sangre, deseo, miedo y delirio.",
+      "genres": [
+        "Comedia",
+        "Terror",
+        "Romance"
+      ]
+    },
+    {
+      "title": "Adolescencia, Sexo Y Muerte En Campamento Miasma",
+      "time": "22:35",
+      "rating": 6.1,
+      "poster": "https://image.tmdb.org/t/p/w342/8UTCpwvHxWPllCJ7YnaCbffmYyD.jpg",
+      "summary": "Tras años de secuelas cutres y un fandom en declive, la franquicia slasher 'Camp Miasma' es puesta en manos de una joven y entusiasta directora para que la resucite. Pero cuando visita a la estrella de la película original, una actriz que ahora vive recluida y envuelta en misterio, las dos caen en una espiral de sangre, deseo, miedo y delirio.",
+      "genres": [
+        "Comedia",
+        "Terror",
+        "Romance"
+      ]
+    },
+    {
+      "title": "Los Juegos Del Hambre: Amanecer En La Cosecha",
+      "time": "17:15",
+      "rating": 7.3,
+      "poster": "https://image.tmdb.org/t/p/w342/8K4lZ5oepk3kArMWfQuqSegxSRe.jpg",
+      "summary": "Explora Panem 24 años antes de la saga de Katniss, comenzando en la mañana de la cosecha de los 50º Juegos del Hambre, donde participa un joven Haymitch Abernathy.",
+      "genres": [
+        "Ciencia ficción",
+        "Acción",
+        "Aventura"
+      ]
+    },
+    {
       "title": "Los Juegos Del Hambre: Amanecer En La Cosecha",
       "time": "18:30",
       "rating": 7.3,
@@ -61,15 +97,13 @@ export const MOVIE_DATA = {
       ]
     },
     {
-      "title": "Adolescencia, Sexo Y Muerte En Campamento Miasma",
-      "time": "22:35",
-      "rating": 6.1,
-      "poster": "https://image.tmdb.org/t/p/w342/8UTCpwvHxWPllCJ7YnaCbffmYyD.jpg",
-      "summary": "Tras años de secuelas cutres y un fandom en declive, la franquicia slasher 'Camp Miasma' es puesta en manos de una joven y entusiasta directora para que la resucite. Pero cuando visita a la estrella de la película original, una actriz que ahora vive recluida y envuelta en misterio, las dos caen en una espiral de sangre, deseo, miedo y delirio.",
+      "title": "El Director",
+      "time": "17:00",
+      "rating": 6.5,
+      "poster": "https://image.tmdb.org/t/p/w342/9FKhEtXhX2Omvc7kVcjvDYk8DWG.jpg",
+      "summary": "Después de más de dos décadas trabajando como corresponsal de guerra, David Jiménez es nombrado director de uno de los principales periódicos del país. Su defensa de un periodismo independiente y riguroso choca rápidamente con los intereses de la empresa editora y con Cardenal, el hombre encargado de protegerlos. Mientras sus investigaciones devuelven prestigio al diario, David descubre que también está rompiendo delicados equilibrios entre medios, empresas y poder político.",
       "genres": [
-        "Comedia",
-        "Terror",
-        "Romance"
+        "Drama"
       ]
     },
     {
@@ -90,6 +124,18 @@ export const MOVIE_DATA = {
       "summary": "Después de más de dos décadas trabajando como corresponsal de guerra, David Jiménez es nombrado director de uno de los principales periódicos del país. Su defensa de un periodismo independiente y riguroso choca rápidamente con los intereses de la empresa editora y con Cardenal, el hombre encargado de protegerlos. Mientras sus investigaciones devuelven prestigio al diario, David descubre que también está rompiendo delicados equilibrios entre medios, empresas y poder político.",
       "genres": [
         "Drama"
+      ]
+    },
+    {
+      "title": "Ratones Al Ataque: Operación Navidad",
+      "time": "17:05",
+      "rating": 6.5,
+      "poster": "https://image.tmdb.org/t/p/w342/tEpDFz33WclWa0c1rxLhqM2DNFE.jpg",
+      "summary": "Una familia acude a la casa abandonada de su tía para celebrar la Navidad en el campo, sin saber que una familia de ratones ya habita la casa, y no les interesan las visitas. Así que sólo queda una cosa por hacer: poner trampas, estar atentos y defenderse.",
+      "genres": [
+        "Familia",
+        "Animación",
+        "Comedia"
       ]
     },
     {
@@ -114,6 +160,17 @@ export const MOVIE_DATA = {
         "Acción",
         "Crimen",
         "Suspense"
+      ]
+    },
+    {
+      "title": "Scrooge Y Los Fantasmas De La Navidad",
+      "time": "17:10",
+      "rating": 7.8,
+      "poster": "https://image.tmdb.org/t/p/w342/gnG15MkiNeObCoPbHcLUX4zrNWh.jpg",
+      "summary": "Reimaginación del clásico literario, una historia de fantasmas ambientada en el Londres de Dickens que sigue el viaje sobrenatural de un hombre para enfrentarse a su pasado, presente y futuro y luchar por una segunda oportunidad.",
+      "genres": [
+        "Fantasía",
+        "Comedia"
       ]
     },
     {
@@ -163,12 +220,34 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Ruega Por Nosotras",
+      "time": "17:00",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/6CWXhVFfin3zh1LZ5HsWnzTXTPN.jpg",
+      "summary": "En 1974, Ana, una chica barcelonesa de 19 años, es puesta en manos del Patronato de Protección a la Mujer y trasladada a un reformatorio regentado por monjas en Madrid. Allí, es sometida a un brutal régimen disciplinario, y tratará de sobrevivir buscando consuelo y apoyo en la amistad de otras chicas en su misma situación.",
+      "genres": [
+        "Drama"
+      ]
+    },
+    {
+      "title": "Ruega Por Nosotras",
       "time": "19:45",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/6CWXhVFfin3zh1LZ5HsWnzTXTPN.jpg",
       "summary": "En 1974, Ana, una chica barcelonesa de 19 años, es puesta en manos del Patronato de Protección a la Mujer y trasladada a un reformatorio regentado por monjas en Madrid. Allí, es sometida a un brutal régimen disciplinario, y tratará de sobrevivir buscando consuelo y apoyo en la amistad de otras chicas en su misma situación.",
       "genres": [
         "Drama"
+      ]
+    },
+    {
+      "title": "El Gato Con Sombrero",
+      "time": "17:20",
+      "rating": 7.1,
+      "poster": "https://image.tmdb.org/t/p/w342/8TW5oOMZbxaMFVgletpW0bxd2Aa.jpg",
+      "summary": "Un astuto gato lleva el caos con sus travesuras a la vida de un par de hermanos que lidian con su mudanza a una nueva ciudad.",
+      "genres": [
+        "Animación",
+        "Fantasía",
+        "Aventura"
       ]
     },
     {
@@ -185,6 +264,17 @@ export const MOVIE_DATA = {
     },
     {
       "title": "La Bola Negra",
+      "time": "17:30",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/4omaYktw4VYkk5Tkq7rmUsWnQa5.jpg",
+      "summary": "Las vidas interconectadas de tres hombres en tres épocas distintas, tres existencias íntimamente ligadas por la sexualidad y el deseo, el dolor y la herencia.",
+      "genres": [
+        "Drama",
+        "Bélica"
+      ]
+    },
+    {
+      "title": "La Bola Negra",
       "time": "20:40",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/4omaYktw4VYkk5Tkq7rmUsWnQa5.jpg",
@@ -192,6 +282,17 @@ export const MOVIE_DATA = {
       "genres": [
         "Drama",
         "Bélica"
+      ]
+    },
+    {
+      "title": "En El Corazón De La Bestia",
+      "time": "17:20",
+      "rating": 7.7,
+      "poster": "https://image.tmdb.org/t/p/w342/h9Ql2vsltCOuf44c28nInxjzL2m.jpg",
+      "summary": "Tras sobrevivir a un brutal accidente aéreo, el oficial de las Fuerzas Especiales James Belmont y su perro de combate Odín intentan intentarán regresar a la civilización desde un remoto lugar en medio de los parajes salvajes de Alaska.",
+      "genres": [
+        "Aventura",
+        "Suspense"
       ]
     },
     {
@@ -207,6 +308,68 @@ export const MOVIE_DATA = {
     }
   ],
   "Cine Yelmo Las Arenas": [
+    {
+      "title": "The Fifth Step - National Theatre 26-27",
+      "time": "20:15",
+      "rating": 0,
+      "poster": null,
+      "summary": "Después de años participando en el programa de 12 pasos de Alcohólicos Anónimos, James se convierte en mentor de Luka, un recién llegado. Ambos crean un vínculo tomando café solo, compartiendo historias y construyendo una frágil amistad a partir de sus experiencias comunes. Pero cuando Luka se acerca al quinto paso, el momento de la confesión, salen a la luz verdades peligrosas que amenazan la confianza de la que dependen sus respectivos procesos de recuperación. Finn den Hertog dirige esta provocadora y entretenida producción, filmada en directo en el teatro @sohoplace, en el West End de Londres.",
+      "genres": []
+    },
+    {
+      "title": "El Director",
+      "time": "17:00",
+      "rating": 6.5,
+      "poster": "https://image.tmdb.org/t/p/w342/9FKhEtXhX2Omvc7kVcjvDYk8DWG.jpg",
+      "summary": "Después de más de dos décadas trabajando como corresponsal de guerra, David Jiménez es nombrado director de uno de los principales periódicos del país. Su defensa de un periodismo independiente y riguroso choca rápidamente con los intereses de la empresa editora y con Cardenal, el hombre encargado de protegerlos. Mientras sus investigaciones devuelven prestigio al diario, David descubre que también está rompiendo delicados equilibrios entre medios, empresas y poder político.",
+      "genres": [
+        "Drama"
+      ]
+    },
+    {
+      "title": "El Director",
+      "time": "19:50",
+      "rating": 6.5,
+      "poster": "https://image.tmdb.org/t/p/w342/9FKhEtXhX2Omvc7kVcjvDYk8DWG.jpg",
+      "summary": "Después de más de dos décadas trabajando como corresponsal de guerra, David Jiménez es nombrado director de uno de los principales periódicos del país. Su defensa de un periodismo independiente y riguroso choca rápidamente con los intereses de la empresa editora y con Cardenal, el hombre encargado de protegerlos. Mientras sus investigaciones devuelven prestigio al diario, David descubre que también está rompiendo delicados equilibrios entre medios, empresas y poder político.",
+      "genres": [
+        "Drama"
+      ]
+    },
+    {
+      "title": "El Director",
+      "time": "22:30",
+      "rating": 6.5,
+      "poster": "https://image.tmdb.org/t/p/w342/9FKhEtXhX2Omvc7kVcjvDYk8DWG.jpg",
+      "summary": "Después de más de dos décadas trabajando como corresponsal de guerra, David Jiménez es nombrado director de uno de los principales periódicos del país. Su defensa de un periodismo independiente y riguroso choca rápidamente con los intereses de la empresa editora y con Cardenal, el hombre encargado de protegerlos. Mientras sus investigaciones devuelven prestigio al diario, David descubre que también está rompiendo delicados equilibrios entre medios, empresas y poder político.",
+      "genres": [
+        "Drama"
+      ]
+    },
+    {
+      "title": "Los Juegos Del Hambre: Amanecer En La Cosecha",
+      "time": "17:10",
+      "rating": 7.3,
+      "poster": "https://image.tmdb.org/t/p/w342/8K4lZ5oepk3kArMWfQuqSegxSRe.jpg",
+      "summary": "Explora Panem 24 años antes de la saga de Katniss, comenzando en la mañana de la cosecha de los 50º Juegos del Hambre, donde participa un joven Haymitch Abernathy.",
+      "genres": [
+        "Ciencia ficción",
+        "Acción",
+        "Aventura"
+      ]
+    },
+    {
+      "title": "Los Juegos Del Hambre: Amanecer En La Cosecha",
+      "time": "17:40",
+      "rating": 7.3,
+      "poster": "https://image.tmdb.org/t/p/w342/8K4lZ5oepk3kArMWfQuqSegxSRe.jpg",
+      "summary": "Explora Panem 24 años antes de la saga de Katniss, comenzando en la mañana de la cosecha de los 50º Juegos del Hambre, donde participa un joven Haymitch Abernathy.",
+      "genres": [
+        "Ciencia ficción",
+        "Acción",
+        "Aventura"
+      ]
+    },
     {
       "title": "Los Juegos Del Hambre: Amanecer En La Cosecha",
       "time": "18:30",
@@ -257,19 +420,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Los Juegos Del Hambre: Amanecer En La Cosecha",
-      "time": "21:30",
-      "rating": 7.3,
-      "poster": "https://image.tmdb.org/t/p/w342/8K4lZ5oepk3kArMWfQuqSegxSRe.jpg",
-      "summary": "Explora Panem 24 años antes de la saga de Katniss, comenzando en la mañana de la cosecha de los 50º Juegos del Hambre, donde participa un joven Haymitch Abernathy.",
-      "genres": [
-        "Ciencia ficción",
-        "Acción",
-        "Aventura"
-      ]
-    },
-    {
-      "title": "Los Juegos Del Hambre: Amanecer En La Cosecha",
-      "time": "21:50",
+      "time": "21:45",
       "rating": 7.3,
       "poster": "https://image.tmdb.org/t/p/w342/8K4lZ5oepk3kArMWfQuqSegxSRe.jpg",
       "summary": "Explora Panem 24 años antes de la saga de Katniss, comenzando en la mañana de la cosecha de los 50º Juegos del Hambre, donde participa un joven Haymitch Abernathy.",
@@ -281,7 +432,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "El Mal Padre",
-      "time": "18:50",
+      "time": "17:35",
       "rating": 9.0,
       "poster": "https://image.tmdb.org/t/p/w342/g8JgLE6obZIf57O8nfBTSHHEQ27.jpg",
       "summary": "Después de años distanciados, el célebre escritor y académico Santiago Balmes reúne a sus tres hijos para pedirles un último deseo: pasar las Navidades en la casa donde veraneaban de niños.",
@@ -303,28 +454,18 @@ export const MOVIE_DATA = {
       ]
     },
     {
-      "title": "El Director",
-      "time": "19:50",
-      "rating": 6.5,
-      "poster": "https://image.tmdb.org/t/p/w342/9FKhEtXhX2Omvc7kVcjvDYk8DWG.jpg",
-      "summary": "Después de más de dos décadas trabajando como corresponsal de guerra, David Jiménez es nombrado director de uno de los principales periódicos del país. Su defensa de un periodismo independiente y riguroso choca rápidamente con los intereses de la empresa editora y con Cardenal, el hombre encargado de protegerlos. Mientras sus investigaciones devuelven prestigio al diario, David descubre que también está rompiendo delicados equilibrios entre medios, empresas y poder político.",
+      "title": "Puedes Verlo Todo",
+      "time": "20:00",
+      "rating": 8.6,
+      "poster": "https://image.tmdb.org/t/p/w342/hcuFuAlGeQy1yKhd3I0hZ5sgCzl.jpg",
+      "summary": "Treinta y cuatro días antes de ingresar en prisión, la famosa fundadora de Theranos, Elizabeth Holmes, invita a un equipo de rodaje escéptico a documentar cada uno de sus movimientos. Lo que comienza como un retrato íntimo se convierte en un alucinante viaje de tres años.",
       "genres": [
-        "Drama"
-      ]
-    },
-    {
-      "title": "El Director",
-      "time": "22:30",
-      "rating": 6.5,
-      "poster": "https://image.tmdb.org/t/p/w342/9FKhEtXhX2Omvc7kVcjvDYk8DWG.jpg",
-      "summary": "Después de más de dos décadas trabajando como corresponsal de guerra, David Jiménez es nombrado director de uno de los principales periódicos del país. Su defensa de un periodismo independiente y riguroso choca rápidamente con los intereses de la empresa editora y con Cardenal, el hombre encargado de protegerlos. Mientras sus investigaciones devuelven prestigio al diario, David descubre que también está rompiendo delicados equilibrios entre medios, empresas y poder político.",
-      "genres": [
-        "Drama"
+        "Documental"
       ]
     },
     {
       "title": "Cómo Robar Un Banco",
-      "time": "20:20",
+      "time": "22:25",
       "rating": 6.4,
       "poster": "https://image.tmdb.org/t/p/w342/xS35fgWgRdF2em5MGxg5WG9dPKd.jpg",
       "summary": "Un hombre desesperado planea un elaborado atraco contra el corrupto sistema financiero que arruinó su vida, con un grupo que documenta sus actos en redes sociales.",
@@ -335,15 +476,14 @@ export const MOVIE_DATA = {
       ]
     },
     {
-      "title": "Cómo Robar Un Banco",
-      "time": "22:45",
-      "rating": 6.4,
-      "poster": "https://image.tmdb.org/t/p/w342/xS35fgWgRdF2em5MGxg5WG9dPKd.jpg",
-      "summary": "Un hombre desesperado planea un elaborado atraco contra el corrupto sistema financiero que arruinó su vida, con un grupo que documenta sus actos en redes sociales.",
+      "title": "Scrooge Y Los Fantasmas De La Navidad",
+      "time": "16:50",
+      "rating": 7.8,
+      "poster": "https://image.tmdb.org/t/p/w342/gnG15MkiNeObCoPbHcLUX4zrNWh.jpg",
+      "summary": "Reimaginación del clásico literario, una historia de fantasmas ambientada en el Londres de Dickens que sigue el viaje sobrenatural de un hombre para enfrentarse a su pasado, presente y futuro y luchar por una segunda oportunidad.",
       "genres": [
-        "Acción",
-        "Crimen",
-        "Suspense"
+        "Fantasía",
+        "Comedia"
       ]
     },
     {
@@ -369,6 +509,28 @@ export const MOVIE_DATA = {
       ]
     },
     {
+      "title": "Wild Horse Nine",
+      "time": "17:45",
+      "rating": 7.9,
+      "poster": "https://image.tmdb.org/t/p/w342/bLDrHn76oiNYiELv1qw3Tfdkqc8.jpg",
+      "summary": "Poco antes del golpe de Estado chileno de 1973, los agentes de la CIA Chris y Lee son enviados desde Santiago a la Isla de Pascua por su jefa de la oficina, MJ. Entre las emblemáticas estatuas de la isla, y mientras los veteranos compañeros lidian con sus oscuros pasados ​​y conspiraciones actuales, el nuevo vínculo que Chris establece con un par de estudiantes rebeldes amenaza con desbaratar el viaje de todos a este remoto paraíso.",
+      "genres": [
+        "Comedia",
+        "Crimen",
+        "Suspense"
+      ]
+    },
+    {
+      "title": "Ruega Por Nosotras",
+      "time": "16:45",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/6CWXhVFfin3zh1LZ5HsWnzTXTPN.jpg",
+      "summary": "En 1974, Ana, una chica barcelonesa de 19 años, es puesta en manos del Patronato de Protección a la Mujer y trasladada a un reformatorio regentado por monjas en Madrid. Allí, es sometida a un brutal régimen disciplinario, y tratará de sobrevivir buscando consuelo y apoyo en la amistad de otras chicas en su misma situación.",
+      "genres": [
+        "Drama"
+      ]
+    },
+    {
       "title": "Ruega Por Nosotras",
       "time": "19:40",
       "rating": 0.0,
@@ -376,6 +538,30 @@ export const MOVIE_DATA = {
       "summary": "En 1974, Ana, una chica barcelonesa de 19 años, es puesta en manos del Patronato de Protección a la Mujer y trasladada a un reformatorio regentado por monjas en Madrid. Allí, es sometida a un brutal régimen disciplinario, y tratará de sobrevivir buscando consuelo y apoyo en la amistad de otras chicas en su misma situación.",
       "genres": [
         "Drama"
+      ]
+    },
+    {
+      "title": "El Gato Con Sombrero",
+      "time": "17:40",
+      "rating": 7.1,
+      "poster": "https://image.tmdb.org/t/p/w342/8TW5oOMZbxaMFVgletpW0bxd2Aa.jpg",
+      "summary": "Un astuto gato lleva el caos con sus travesuras a la vida de un par de hermanos que lidian con su mudanza a una nueva ciudad.",
+      "genres": [
+        "Animación",
+        "Fantasía",
+        "Aventura"
+      ]
+    },
+    {
+      "title": "Wildwood: El Bosque Salvaje",
+      "time": "16:55",
+      "rating": 8.5,
+      "poster": "https://image.tmdb.org/t/p/w342/sJ1uZ4DKsjs2iqLtCX46TifxqoE.jpg",
+      "summary": "Prue y su compañero de clase Curtis se ven arrastrados a un bosque mágico poblado por criaturas encantadas, aliados leales y adversarios formidables, mientras emprenden una misión desesperada para rescatar al hermano bebé de Prue —secuestrado por una bandada de cuervos liderada por una misteriosa mujer llamada Alexandra—.",
+      "genres": [
+        "Animación",
+        "Aventura",
+        "Fantasía"
       ]
     },
     {
@@ -392,12 +578,23 @@ export const MOVIE_DATA = {
     },
     {
       "title": "La Otra Madre",
-      "time": "22:55",
+      "time": "22:50",
       "rating": 7.5,
       "poster": "https://image.tmdb.org/t/p/w342/vsde9OnhjFMlJz8Wi6Z6drZ7GG5.jpg",
       "summary": "Una joven llamada Bela entabla una relación con una entidad siniestra que habita en su casa y que guarda un parecido asombroso con su propia madre.",
       "genres": [
         "Terror"
+      ]
+    },
+    {
+      "title": "La Bola Negra",
+      "time": "17:20",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/4omaYktw4VYkk5Tkq7rmUsWnQa5.jpg",
+      "summary": "Las vidas interconectadas de tres hombres en tres épocas distintas, tres existencias íntimamente ligadas por la sexualidad y el deseo, el dolor y la herencia.",
+      "genres": [
+        "Drama",
+        "Bélica"
       ]
     },
     {
@@ -424,6 +621,30 @@ export const MOVIE_DATA = {
     }
   ],
   "Cine Yelmo Premium Alisios": [
+    {
+      "title": "Los Juegos Del Hambre: Amanecer En La Cosecha",
+      "time": "17:15",
+      "rating": 7.3,
+      "poster": "https://image.tmdb.org/t/p/w342/8K4lZ5oepk3kArMWfQuqSegxSRe.jpg",
+      "summary": "Explora Panem 24 años antes de la saga de Katniss, comenzando en la mañana de la cosecha de los 50º Juegos del Hambre, donde participa un joven Haymitch Abernathy.",
+      "genres": [
+        "Ciencia ficción",
+        "Acción",
+        "Aventura"
+      ]
+    },
+    {
+      "title": "Los Juegos Del Hambre: Amanecer En La Cosecha",
+      "time": "17:55",
+      "rating": 7.3,
+      "poster": "https://image.tmdb.org/t/p/w342/8K4lZ5oepk3kArMWfQuqSegxSRe.jpg",
+      "summary": "Explora Panem 24 años antes de la saga de Katniss, comenzando en la mañana de la cosecha de los 50º Juegos del Hambre, donde participa un joven Haymitch Abernathy.",
+      "genres": [
+        "Ciencia ficción",
+        "Acción",
+        "Aventura"
+      ]
+    },
     {
       "title": "Los Juegos Del Hambre: Amanecer En La Cosecha",
       "time": "18:30",
@@ -462,6 +683,18 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Los Juegos Del Hambre: Amanecer En La Cosecha",
+      "time": "21:10",
+      "rating": 7.3,
+      "poster": "https://image.tmdb.org/t/p/w342/8K4lZ5oepk3kArMWfQuqSegxSRe.jpg",
+      "summary": "Explora Panem 24 años antes de la saga de Katniss, comenzando en la mañana de la cosecha de los 50º Juegos del Hambre, donde participa un joven Haymitch Abernathy.",
+      "genres": [
+        "Ciencia ficción",
+        "Acción",
+        "Aventura"
+      ]
+    },
+    {
+      "title": "Los Juegos Del Hambre: Amanecer En La Cosecha",
       "time": "21:45",
       "rating": 7.3,
       "poster": "https://image.tmdb.org/t/p/w342/8K4lZ5oepk3kArMWfQuqSegxSRe.jpg",
@@ -470,6 +703,16 @@ export const MOVIE_DATA = {
         "Ciencia ficción",
         "Acción",
         "Aventura"
+      ]
+    },
+    {
+      "title": "El Director",
+      "time": "17:20",
+      "rating": 6.5,
+      "poster": "https://image.tmdb.org/t/p/w342/9FKhEtXhX2Omvc7kVcjvDYk8DWG.jpg",
+      "summary": "Después de más de dos décadas trabajando como corresponsal de guerra, David Jiménez es nombrado director de uno de los principales periódicos del país. Su defensa de un periodismo independiente y riguroso choca rápidamente con los intereses de la empresa editora y con Cardenal, el hombre encargado de protegerlos. Mientras sus investigaciones devuelven prestigio al diario, David descubre que también está rompiendo delicados equilibrios entre medios, empresas y poder político.",
+      "genres": [
+        "Drama"
       ]
     },
     {
@@ -518,6 +761,17 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Scrooge Y Los Fantasmas De La Navidad",
+      "time": "17:00",
+      "rating": 7.8,
+      "poster": "https://image.tmdb.org/t/p/w342/gnG15MkiNeObCoPbHcLUX4zrNWh.jpg",
+      "summary": "Reimaginación del clásico literario, una historia de fantasmas ambientada en el Londres de Dickens que sigue el viaje sobrenatural de un hombre para enfrentarse a su pasado, presente y futuro y luchar por una segunda oportunidad.",
+      "genres": [
+        "Fantasía",
+        "Comedia"
+      ]
+    },
+    {
+      "title": "Scrooge Y Los Fantasmas De La Navidad",
       "time": "19:40",
       "rating": 7.8,
       "poster": "https://image.tmdb.org/t/p/w342/gnG15MkiNeObCoPbHcLUX4zrNWh.jpg",
@@ -536,6 +790,42 @@ export const MOVIE_DATA = {
       "genres": [
         "Fantasía",
         "Comedia"
+      ]
+    },
+    {
+      "title": "El Gato Con Sombrero",
+      "time": "17:45",
+      "rating": 7.1,
+      "poster": "https://image.tmdb.org/t/p/w342/8TW5oOMZbxaMFVgletpW0bxd2Aa.jpg",
+      "summary": "Un astuto gato lleva el caos con sus travesuras a la vida de un par de hermanos que lidian con su mudanza a una nueva ciudad.",
+      "genres": [
+        "Animación",
+        "Fantasía",
+        "Aventura"
+      ]
+    },
+    {
+      "title": "El Gato Con Sombrero",
+      "time": "17:50",
+      "rating": 7.1,
+      "poster": "https://image.tmdb.org/t/p/w342/8TW5oOMZbxaMFVgletpW0bxd2Aa.jpg",
+      "summary": "Un astuto gato lleva el caos con sus travesuras a la vida de un par de hermanos que lidian con su mudanza a una nueva ciudad.",
+      "genres": [
+        "Animación",
+        "Fantasía",
+        "Aventura"
+      ]
+    },
+    {
+      "title": "Wildwood: El Bosque Salvaje",
+      "time": "17:25",
+      "rating": 8.5,
+      "poster": "https://image.tmdb.org/t/p/w342/sJ1uZ4DKsjs2iqLtCX46TifxqoE.jpg",
+      "summary": "Prue y su compañero de clase Curtis se ven arrastrados a un bosque mágico poblado por criaturas encantadas, aliados leales y adversarios formidables, mientras emprenden una misión desesperada para rescatar al hermano bebé de Prue —secuestrado por una bandada de cuervos liderada por una misteriosa mujer llamada Alexandra—.",
+      "genres": [
+        "Animación",
+        "Aventura",
+        "Fantasía"
       ]
     },
     {
@@ -562,6 +852,17 @@ export const MOVIE_DATA = {
     },
     {
       "title": "La Bola Negra",
+      "time": "17:35",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/4omaYktw4VYkk5Tkq7rmUsWnQa5.jpg",
+      "summary": "Las vidas interconectadas de tres hombres en tres épocas distintas, tres existencias íntimamente ligadas por la sexualidad y el deseo, el dolor y la herencia.",
+      "genres": [
+        "Drama",
+        "Bélica"
+      ]
+    },
+    {
+      "title": "La Bola Negra",
       "time": "20:50",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/4omaYktw4VYkk5Tkq7rmUsWnQa5.jpg",
@@ -569,6 +870,17 @@ export const MOVIE_DATA = {
       "genres": [
         "Drama",
         "Bélica"
+      ]
+    },
+    {
+      "title": "En El Corazón De La Bestia",
+      "time": "17:05",
+      "rating": 7.7,
+      "poster": "https://image.tmdb.org/t/p/w342/h9Ql2vsltCOuf44c28nInxjzL2m.jpg",
+      "summary": "Tras sobrevivir a un brutal accidente aéreo, el oficial de las Fuerzas Especiales James Belmont y su perro de combate Odín intentan intentarán regresar a la civilización desde un remoto lugar en medio de los parajes salvajes de Alaska.",
+      "genres": [
+        "Aventura",
+        "Suspense"
       ]
     },
     {
@@ -586,6 +898,17 @@ export const MOVIE_DATA = {
   "Artesiete Las Terrazas": [
     {
       "title": "La Bola Negra",
+      "time": "17:00",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/4omaYktw4VYkk5Tkq7rmUsWnQa5.jpg",
+      "summary": "Las vidas interconectadas de tres hombres en tres épocas distintas, tres existencias íntimamente ligadas por la sexualidad y el deseo, el dolor y la herencia.",
+      "genres": [
+        "Drama",
+        "Bélica"
+      ]
+    },
+    {
+      "title": "La Bola Negra",
       "time": "20:00",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/4omaYktw4VYkk5Tkq7rmUsWnQa5.jpg",
@@ -593,6 +916,18 @@ export const MOVIE_DATA = {
       "genres": [
         "Drama",
         "Bélica"
+      ]
+    },
+    {
+      "title": "El Gato Con Sombrero",
+      "time": "17:00",
+      "rating": 7.1,
+      "poster": "https://image.tmdb.org/t/p/w342/8TW5oOMZbxaMFVgletpW0bxd2Aa.jpg",
+      "summary": "Un astuto gato lleva el caos con sus travesuras a la vida de un par de hermanos que lidian con su mudanza a una nueva ciudad.",
+      "genres": [
+        "Animación",
+        "Fantasía",
+        "Aventura"
       ]
     },
     {
@@ -616,6 +951,49 @@ export const MOVIE_DATA = {
       ]
     },
     {
+      "title": "Como Robar Un Banco",
+      "time": "16:50",
+      "rating": 6.1,
+      "poster": "https://image.tmdb.org/t/p/w342/xS35fgWgRdF2em5MGxg5WG9dPKd.jpg",
+      "summary": "Un hombre desesperado planea un elaborado atraco contra el corrupto sistema financiero que arruinó su vida, con un grupo que documenta sus actos en redes sociales.",
+      "genres": [
+        "Acción",
+        "Crimen",
+        "Suspense"
+      ]
+    },
+    {
+      "title": "El Cielo Es Para Siempre",
+      "time": "19:00",
+      "rating": 0.0,
+      "poster": "https://image.tmdb.org/t/p/w342/bGtJRoekpBDA773JjpizOojk2c3.jpg",
+      "summary": "En las vidas de una familia cristiana actual irrumpe, de pronto, la historia de unas mártires de la persecución religiosa durante la Guerra Civil Española. Son María Teresa Ferragud y sus cuatro hijas monjas de clausura, que dieron su vida por Cristo en Algemesí, en el otoño de 1936. “El cielo es para siempre” es un relato conmovedor, pero es, sobre todo, una invitación a descubrir cómo la semilla de unas mujeres que entregaron su sangre hace 90 años, se hace fecunda hoy en las vidas de unos jóvenes. A sus historias se unen los testimonios de quienes pueden ayudarnos a interpretar lo que los mártires pueden aportar a la fe de los cristianos de hoy.",
+      "genres": []
+    },
+    {
+      "title": "Ratones Al Ataque  Operacion Navidad",
+      "time": "16:50",
+      "rating": 6.5,
+      "poster": "https://image.tmdb.org/t/p/w342/tEpDFz33WclWa0c1rxLhqM2DNFE.jpg",
+      "summary": "Una familia acude a la casa abandonada de su tía para celebrar la Navidad en el campo, sin saber que una familia de ratones ya habita la casa, y no les interesan las visitas. Así que sólo queda una cosa por hacer: poner trampas, estar atentos y defenderse.",
+      "genres": [
+        "Familia",
+        "Animación",
+        "Comedia"
+      ]
+    },
+    {
+      "title": "Scrooge Y Los Fantasmas De La Navidad",
+      "time": "16:50",
+      "rating": 7.8,
+      "poster": "https://image.tmdb.org/t/p/w342/gnG15MkiNeObCoPbHcLUX4zrNWh.jpg",
+      "summary": "Reimaginación del clásico literario, una historia de fantasmas ambientada en el Londres de Dickens que sigue el viaje sobrenatural de un hombre para enfrentarse a su pasado, presente y futuro y luchar por una segunda oportunidad.",
+      "genres": [
+        "Fantasía",
+        "Comedia"
+      ]
+    },
+    {
       "title": "Scrooge Y Los Fantasmas De La Navidad",
       "time": "19:00",
       "rating": 7.8,
@@ -657,6 +1035,18 @@ export const MOVIE_DATA = {
       "genres": [
         "Comedia",
         "Drama"
+      ]
+    },
+    {
+      "title": "Los Juegos Del Hambre: Amanecer En La Cosecha",
+      "time": "17:00",
+      "rating": 7.3,
+      "poster": "https://image.tmdb.org/t/p/w342/8K4lZ5oepk3kArMWfQuqSegxSRe.jpg",
+      "summary": "Explora Panem 24 años antes de la saga de Katniss, comenzando en la mañana de la cosecha de los 50º Juegos del Hambre, donde participa un joven Haymitch Abernathy.",
+      "genres": [
+        "Ciencia ficción",
+        "Acción",
+        "Aventura"
       ]
     },
     {
@@ -681,6 +1071,18 @@ export const MOVIE_DATA = {
         "Ciencia ficción",
         "Acción",
         "Aventura"
+      ]
+    },
+    {
+      "title": "Willow Y Las Guardianas De Los Cuatro Elementos",
+      "time": "16:50",
+      "rating": 6.2,
+      "poster": "https://image.tmdb.org/t/p/w342/7A7QKvDWHqVVDaLDonSGEwFQ3U7.jpg",
+      "summary": "La vida de Willow cambia por completo cuando hereda de su tía Alwina una pequeña casa, un misterioso bosque... y un extraordinario don: el poder de la brujería. Para descubrir el verdadero alcance de su legado, deberá encontrar a otras tres jóvenes con habilidades mágicas como las suyas. Juntas aprenderán a controlar sus poderes y proteger el bosque de una amenaza que pone en peligro su futuro. Acompañada por el inseparable zorro Rufus, Willow emprenderá una emocionante aventura llena de magia, amistad y descubrimientos, en la que comprenderá que el verdadero poder nace de la unión y la confianza.",
+      "genres": [
+        "Familia",
+        "Aventura",
+        "Fantasía"
       ]
     }
   ],
@@ -854,7 +1256,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Los Juegos Del Hambre: Amanecer En La Cosecha",
-      "time": "20:05",
+      "time": "21:10",
       "rating": 7.3,
       "poster": "https://image.tmdb.org/t/p/w342/8K4lZ5oepk3kArMWfQuqSegxSRe.jpg",
       "summary": "Explora Panem 24 años antes de la saga de Katniss, comenzando en la mañana de la cosecha de los 50º Juegos del Hambre, donde participa un joven Haymitch Abernathy.",
@@ -866,7 +1268,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Los Juegos Del Hambre: Amanecer En La Cosecha",
-      "time": "21:10",
+      "time": "20:05",
       "rating": 7.3,
       "poster": "https://image.tmdb.org/t/p/w342/8K4lZ5oepk3kArMWfQuqSegxSRe.jpg",
       "summary": "Explora Panem 24 años antes de la saga de Katniss, comenzando en la mañana de la cosecha de los 50º Juegos del Hambre, donde participa un joven Haymitch Abernathy.",
@@ -972,4 +1374,4 @@ export const MOVIE_DATA = {
 };
 export const movieData = MOVIE_DATA;
 export const cinemas = Object.keys(MOVIE_DATA);
-export const LAST_UPDATED = "2026-11-23";
+export const LAST_UPDATED = "2026-11-26";

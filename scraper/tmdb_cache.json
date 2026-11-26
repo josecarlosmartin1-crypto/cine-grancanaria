@@ -3236,5 +3236,45 @@
       "Aventura",
       "Drama"
     ]
+  },
+  "Wildwood: El Bosque Salvaje": {
+    "rating": 8.5,
+    "poster": "https://image.tmdb.org/t/p/w342/sJ1uZ4DKsjs2iqLtCX46TifxqoE.jpg",
+    "summary": "Prue y su compañero de clase Curtis se ven arrastrados a un bosque mágico poblado por criaturas encantadas, aliados leales y adversarios formidables, mientras emprenden una misión desesperada para rescatar al hermano bebé de Prue —secuestrado por una bandada de cuervos liderada por una misteriosa mujer llamada Alexandra—.",
+    "genres": [
+      "Animación",
+      "Aventura",
+      "Fantasía"
+    ]
+  },
+  "The Fifth Step - National Theatre 26-27": {
+    "rating": 0,
+    "poster": null,
+    "summary": "Después de años participando en el programa de 12 pasos de Alcohólicos Anónimos, James se convierte en mentor de Luka, un recién llegado. Ambos crean un vínculo tomando café solo, compartiendo historias y construyendo una frágil amistad a partir de sus experiencias comunes. Pero cuando Luka se acerca al quinto paso, el momento de la confesión, salen a la luz verdades peligrosas que amenazan la confianza de la que dependen sus respectivos procesos de recuperación. Finn den Hertog dirige esta provocadora y entretenida producción, filmada en directo en el teatro @sohoplace, en el West End de Londres.",
+    "genres": []
+  },
+  "Puedes Verlo Todo": {
+    "rating": 8.6,
+    "poster": "https://image.tmdb.org/t/p/w342/hcuFuAlGeQy1yKhd3I0hZ5sgCzl.jpg",
+    "summary": "Treinta y cuatro días antes de ingresar en prisión, la famosa fundadora de Theranos, Elizabeth Holmes, invita a un equipo de rodaje escéptico a documentar cada uno de sus movimientos. Lo que comienza como un retrato íntimo se convierte en un alucinante viaje de tres años.",
+    "genres": [
+      "Documental"
+    ]
+  },
+  "El Cielo Es Para Siempre": {
+    "rating": 0.0,
+    "poster": "https://image.tmdb.org/t/p/w342/bGtJRoekpBDA773JjpizOojk2c3.jpg",
+    "summary": "En las vidas de una familia cristiana actual irrumpe, de pronto, la historia de unas mártires de la persecución religiosa durante la Guerra Civil Española. Son María Teresa Ferragud y sus cuatro hijas monjas de clausura, que dieron su vida por Cristo en Algemesí, en el otoño de 1936. “El cielo es para siempre” es un relato conmovedor, pero es, sobre todo, una invitación a descubrir cómo la semilla de unas mujeres que entregaron su sangre hace 90 años, se hace fecunda hoy en las vidas de unos jóvenes. A sus historias se unen los testimonios de quienes pueden ayudarnos a interpretar lo que los mártires pueden aportar a la fe de los cristianos de hoy.",
+    "genres": []
+  },
+  "Willow Y Las Guardianas De Los Cuatro Elementos": {
+    "rating": 6.2,
+    "poster": "https://image.tmdb.org/t/p/w342/7A7QKvDWHqVVDaLDonSGEwFQ3U7.jpg",
+    "summary": "La vida de Willow cambia por completo cuando hereda de su tía Alwina una pequeña casa, un misterioso bosque... y un extraordinario don: el poder de la brujería. Para descubrir el verdadero alcance de su legado, deberá encontrar a otras tres jóvenes con habilidades mágicas como las suyas. Juntas aprenderán a controlar sus poderes y proteger el bosque de una amenaza que pone en peligro su futuro. Acompañada por el inseparable zorro Rufus, Willow emprenderá una emocionante aventura llena de magia, amistad y descubrimientos, en la que comprenderá que el verdadero poder nace de la unión y la confianza.",
+    "genres": [
+      "Familia",
+      "Aventura",
+      "Fantasía"
+    ]
   }
 }
