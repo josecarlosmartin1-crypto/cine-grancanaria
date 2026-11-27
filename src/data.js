@@ -897,228 +897,256 @@ export const MOVIE_DATA = {
   ],
   "Artesiete Las Terrazas": [
     {
-      "title": "La Bola Negra",
-      "time": "20:00",
+      "title": "Ruega Por Nosotras",
+      "time": "21:45",
       "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/4omaYktw4VYkk5Tkq7rmUsWnQa5.jpg",
-      "summary": "Las vidas interconectadas de tres hombres en tres épocas distintas, tres existencias íntimamente ligadas por la sexualidad y el deseo, el dolor y la herencia.",
+      "poster": "https://image.tmdb.org/t/p/w342/6CWXhVFfin3zh1LZ5HsWnzTXTPN.jpg",
+      "summary": "En 1974, Ana, una chica barcelonesa de 19 años, es puesta en manos del Patronato de Protección a la Mujer y trasladada a un reformatorio regentado por monjas en Madrid. Allí, es sometida a un brutal régimen disciplinario, y tratará de sobrevivir buscando consuelo y apoyo en la amistad de otras chicas en su misma situación.",
+      "genres": [
+        "Drama"
+      ]
+    },
+    {
+      "title": "Scrooge Y Los Fantasmas De La Navidad",
+      "time": "20:00",
+      "rating": 7.8,
+      "poster": "https://image.tmdb.org/t/p/w342/gnG15MkiNeObCoPbHcLUX4zrNWh.jpg",
+      "summary": "Reimaginación del clásico literario, una historia de fantasmas ambientada en el Londres de Dickens que sigue el viaje sobrenatural de un hombre para enfrentarse a su pasado, presente y futuro y luchar por una segunda oportunidad.",
+      "genres": [
+        "Fantasía",
+        "Comedia"
+      ]
+    },
+    {
+      "title": "Scrooge Y Los Fantasmas De La Navidad",
+      "time": "22:10",
+      "rating": 7.8,
+      "poster": "https://image.tmdb.org/t/p/w342/gnG15MkiNeObCoPbHcLUX4zrNWh.jpg",
+      "summary": "Reimaginación del clásico literario, una historia de fantasmas ambientada en el Londres de Dickens que sigue el viaje sobrenatural de un hombre para enfrentarse a su pasado, presente y futuro y luchar por una segunda oportunidad.",
+      "genres": [
+        "Fantasía",
+        "Comedia"
+      ]
+    },
+    {
+      "title": "Los Juegos Del Hambre: Amanecer En La Cosecha",
+      "time": "19:00",
+      "rating": 7.3,
+      "poster": "https://image.tmdb.org/t/p/w342/8K4lZ5oepk3kArMWfQuqSegxSRe.jpg",
+      "summary": "Explora Panem 24 años antes de la saga de Katniss, comenzando en la mañana de la cosecha de los 50º Juegos del Hambre, donde participa un joven Haymitch Abernathy.",
+      "genres": [
+        "Ciencia ficción",
+        "Acción",
+        "Aventura"
+      ]
+    },
+    {
+      "title": "Los Juegos Del Hambre: Amanecer En La Cosecha",
+      "time": "21:45",
+      "rating": 7.3,
+      "poster": "https://image.tmdb.org/t/p/w342/8K4lZ5oepk3kArMWfQuqSegxSRe.jpg",
+      "summary": "Explora Panem 24 años antes de la saga de Katniss, comenzando en la mañana de la cosecha de los 50º Juegos del Hambre, donde participa un joven Haymitch Abernathy.",
+      "genres": [
+        "Ciencia ficción",
+        "Acción",
+        "Aventura"
+      ]
+    },
+    {
+      "title": "Ahora Los Suegros Son Ellos",
+      "time": "16:00",
+      "rating": 7.1,
+      "poster": "https://image.tmdb.org/t/p/w342/zjjjbiDmCNl3Yjxefc9PgwTxaKL.jpg",
+      "summary": "Henry, hijo de Greg y Pam Focker, se enfrenta al caos familiar cuando decide casarse con una mujer de carácter fuerte que parece ser totalmente incompatible con él.",
+      "genres": [
+        "Comedia",
+        "Romance"
+      ]
+    },
+    {
+      "title": "Ahora Los Suegros Son Ellos",
+      "time": "20:00",
+      "rating": 7.1,
+      "poster": "https://image.tmdb.org/t/p/w342/zjjjbiDmCNl3Yjxefc9PgwTxaKL.jpg",
+      "summary": "Henry, hijo de Greg y Pam Focker, se enfrenta al caos familiar cuando decide casarse con una mujer de carácter fuerte que parece ser totalmente incompatible con él.",
+      "genres": [
+        "Comedia",
+        "Romance"
+      ]
+    },
+    {
+      "title": "Ahora Los Suegros Son Ellos",
+      "time": "22:00",
+      "rating": 7.1,
+      "poster": "https://image.tmdb.org/t/p/w342/zjjjbiDmCNl3Yjxefc9PgwTxaKL.jpg",
+      "summary": "Henry, hijo de Greg y Pam Focker, se enfrenta al caos familiar cuando decide casarse con una mujer de carácter fuerte que parece ser totalmente incompatible con él.",
+      "genres": [
+        "Comedia",
+        "Romance"
+      ]
+    },
+    {
+      "title": "Hechizo  Bienvenidos A Hexe",
+      "time": "20:00",
+      "rating": 5.7,
+      "poster": "https://image.tmdb.org/t/p/w342/zPaypaMulDEVhuTCN1hPN1Hg4DI.jpg",
+      "summary": "Billie, una adolescente impulsiva y poco convencional, desata accidentalmente unos poderes mágicos secretos y sale disparada de los suburbios hacia un reino mágico llamado Hexe, donde la reciben Ms. Quill y Elias Quire. A medida que se desarrolla el viaje de Billie, descubre misterios familiares que podrían cambiar para siempre el mundo mágico de las brujas.",
+      "genres": [
+        "Animación",
+        "Fantasía",
+        "Familia"
+      ]
+    },
+    {
+      "title": "Oro Sin Ley",
+      "time": "19:45",
+      "rating": 7.0,
+      "poster": "https://image.tmdb.org/t/p/w342/hTT42eBEiYcpgRormrS8re82Nt9.jpg",
+      "summary": "Oregón, 1933. Samuel Murphy (Ethan Hawke) es separado de su hija y enviado a un campo de trabajo. Un día, el alcaide Clancy (Russell Crowe) le ofrece la posibilidad de liberarlo si consigue pasar oro de contrabando a través de una peligrosa senda salvaje. ¿Hasta dónde será capaz de llegar Murphy por reencontrarse con su querida hija?",
       "genres": [
         "Drama",
-        "Bélica"
+        "Suspense"
       ]
     },
     {
-      "title": "Ruega Por Nosotras",
-      "time": "19:10",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/6CWXhVFfin3zh1LZ5HsWnzTXTPN.jpg",
-      "summary": "En 1974, Ana, una chica barcelonesa de 19 años, es puesta en manos del Patronato de Protección a la Mujer y trasladada a un reformatorio regentado por monjas en Madrid. Allí, es sometida a un brutal régimen disciplinario, y tratará de sobrevivir buscando consuelo y apoyo en la amistad de otras chicas en su misma situación.",
+      "title": "Oro Sin Ley",
+      "time": "22:00",
+      "rating": 7.0,
+      "poster": "https://image.tmdb.org/t/p/w342/hTT42eBEiYcpgRormrS8re82Nt9.jpg",
+      "summary": "Oregón, 1933. Samuel Murphy (Ethan Hawke) es separado de su hija y enviado a un campo de trabajo. Un día, el alcaide Clancy (Russell Crowe) le ofrece la posibilidad de liberarlo si consigue pasar oro de contrabando a través de una peligrosa senda salvaje. ¿Hasta dónde será capaz de llegar Murphy por reencontrarse con su querida hija?",
       "genres": [
-        "Drama"
+        "Drama",
+        "Suspense"
       ]
     },
     {
-      "title": "Ruega Por Nosotras",
-      "time": "21:30",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/6CWXhVFfin3zh1LZ5HsWnzTXTPN.jpg",
-      "summary": "En 1974, Ana, una chica barcelonesa de 19 años, es puesta en manos del Patronato de Protección a la Mujer y trasladada a un reformatorio regentado por monjas en Madrid. Allí, es sometida a un brutal régimen disciplinario, y tratará de sobrevivir buscando consuelo y apoyo en la amistad de otras chicas en su misma situación.",
-      "genres": [
-        "Drama"
-      ]
-    },
-    {
-      "title": "El Cielo Es Para Siempre",
-      "time": "19:00",
-      "rating": 0.0,
-      "poster": "https://image.tmdb.org/t/p/w342/bGtJRoekpBDA773JjpizOojk2c3.jpg",
-      "summary": "En las vidas de una familia cristiana actual irrumpe, de pronto, la historia de unas mártires de la persecución religiosa durante la Guerra Civil Española. Son María Teresa Ferragud y sus cuatro hijas monjas de clausura, que dieron su vida por Cristo en Algemesí, en el otoño de 1936. “El cielo es para siempre” es un relato conmovedor, pero es, sobre todo, una invitación a descubrir cómo la semilla de unas mujeres que entregaron su sangre hace 90 años, se hace fecunda hoy en las vidas de unos jóvenes. A sus historias se unen los testimonios de quienes pueden ayudarnos a interpretar lo que los mártires pueden aportar a la fe de los cristianos de hoy.",
-      "genres": []
-    },
-    {
-      "title": "Scrooge Y Los Fantasmas De La Navidad",
-      "time": "19:00",
-      "rating": 7.8,
-      "poster": "https://image.tmdb.org/t/p/w342/gnG15MkiNeObCoPbHcLUX4zrNWh.jpg",
-      "summary": "Reimaginación del clásico literario, una historia de fantasmas ambientada en el Londres de Dickens que sigue el viaje sobrenatural de un hombre para enfrentarse a su pasado, presente y futuro y luchar por una segunda oportunidad.",
-      "genres": [
-        "Fantasía",
-        "Comedia"
-      ]
-    },
-    {
-      "title": "Scrooge Y Los Fantasmas De La Navidad",
-      "time": "21:15",
-      "rating": 7.8,
-      "poster": "https://image.tmdb.org/t/p/w342/gnG15MkiNeObCoPbHcLUX4zrNWh.jpg",
-      "summary": "Reimaginación del clásico literario, una historia de fantasmas ambientada en el Londres de Dickens que sigue el viaje sobrenatural de un hombre para enfrentarse a su pasado, presente y futuro y luchar por una segunda oportunidad.",
-      "genres": [
-        "Fantasía",
-        "Comedia"
-      ]
-    },
-    {
-      "title": "El Mal Padre",
-      "time": "19:00",
-      "rating": 9.0,
-      "poster": "https://image.tmdb.org/t/p/w342/g8JgLE6obZIf57O8nfBTSHHEQ27.jpg",
-      "summary": "Después de años distanciados, el célebre escritor y académico Santiago Balmes reúne a sus tres hijos para pedirles un último deseo: pasar las Navidades en la casa donde veraneaban de niños.",
-      "genres": [
-        "Comedia",
-        "Drama"
-      ]
-    },
-    {
-      "title": "El Mal Padre",
-      "time": "21:15",
-      "rating": 9.0,
-      "poster": "https://image.tmdb.org/t/p/w342/g8JgLE6obZIf57O8nfBTSHHEQ27.jpg",
-      "summary": "Después de años distanciados, el célebre escritor y académico Santiago Balmes reúne a sus tres hijos para pedirles un último deseo: pasar las Navidades en la casa donde veraneaban de niños.",
-      "genres": [
-        "Comedia",
-        "Drama"
-      ]
-    },
-    {
-      "title": "Los Juegos Del Hambre: Amanecer En La Cosecha",
-      "time": "19:45",
-      "rating": 7.3,
-      "poster": "https://image.tmdb.org/t/p/w342/8K4lZ5oepk3kArMWfQuqSegxSRe.jpg",
-      "summary": "Explora Panem 24 años antes de la saga de Katniss, comenzando en la mañana de la cosecha de los 50º Juegos del Hambre, donde participa un joven Haymitch Abernathy.",
+      "title": "Sanguine",
+      "time": "21:00",
+      "rating": 5.4,
+      "poster": "https://image.tmdb.org/t/p/w342/dAOiih0oNEYWYGmBaXryakDtsDI.jpg",
+      "summary": "Margot, una joven residente en el servicio de urgencias más competitivo del país, tiene dificultades para desenvolverse en un entorno de gran presión. Cuando llegan varios pacientes de su misma edad con síntomas extraños, su propio cuerpo empieza a experimentar transformaciones alarmantes.",
       "genres": [
         "Ciencia ficción",
-        "Acción",
-        "Aventura"
-      ]
-    },
-    {
-      "title": "Los Juegos Del Hambre: Amanecer En La Cosecha",
-      "time": "21:30",
-      "rating": 7.3,
-      "poster": "https://image.tmdb.org/t/p/w342/8K4lZ5oepk3kArMWfQuqSegxSRe.jpg",
-      "summary": "Explora Panem 24 años antes de la saga de Katniss, comenzando en la mañana de la cosecha de los 50º Juegos del Hambre, donde participa un joven Haymitch Abernathy.",
-      "genres": [
-        "Ciencia ficción",
-        "Acción",
-        "Aventura"
+        "Terror"
       ]
     }
   ],
   "Ocine Premium Siete Palmas": [
     {
-      "title": "Cómo Robar Un Banco",
-      "time": "16:40",
-      "rating": 6.4,
-      "poster": "https://image.tmdb.org/t/p/w342/xS35fgWgRdF2em5MGxg5WG9dPKd.jpg",
-      "summary": "Un hombre desesperado planea un elaborado atraco contra el corrupto sistema financiero que arruinó su vida, con un grupo que documenta sus actos en redes sociales.",
-      "genres": [
-        "Acción",
-        "Crimen",
-        "Suspense"
-      ]
-    },
-    {
-      "title": "Cómo Robar Un Banco",
-      "time": "21:30",
-      "rating": 6.4,
-      "poster": "https://image.tmdb.org/t/p/w342/xS35fgWgRdF2em5MGxg5WG9dPKd.jpg",
-      "summary": "Un hombre desesperado planea un elaborado atraco contra el corrupto sistema financiero que arruinó su vida, con un grupo que documenta sus actos en redes sociales.",
-      "genres": [
-        "Acción",
-        "Crimen",
-        "Suspense"
-      ]
-    },
-    {
-      "title": "El Director",
-      "time": "16:45",
-      "rating": 6.5,
-      "poster": "https://image.tmdb.org/t/p/w342/9FKhEtXhX2Omvc7kVcjvDYk8DWG.jpg",
-      "summary": "Después de más de dos décadas trabajando como corresponsal de guerra, David Jiménez es nombrado director de uno de los principales periódicos del país. Su defensa de un periodismo independiente y riguroso choca rápidamente con los intereses de la empresa editora y con Cardenal, el hombre encargado de protegerlos. Mientras sus investigaciones devuelven prestigio al diario, David descubre que también está rompiendo delicados equilibrios entre medios, empresas y poder político.",
-      "genres": [
-        "Drama"
-      ]
-    },
-    {
-      "title": "El Director",
-      "time": "19:30",
-      "rating": 6.5,
-      "poster": "https://image.tmdb.org/t/p/w342/9FKhEtXhX2Omvc7kVcjvDYk8DWG.jpg",
-      "summary": "Después de más de dos décadas trabajando como corresponsal de guerra, David Jiménez es nombrado director de uno de los principales periódicos del país. Su defensa de un periodismo independiente y riguroso choca rápidamente con los intereses de la empresa editora y con Cardenal, el hombre encargado de protegerlos. Mientras sus investigaciones devuelven prestigio al diario, David descubre que también está rompiendo delicados equilibrios entre medios, empresas y poder político.",
-      "genres": [
-        "Drama"
-      ]
-    },
-    {
-      "title": "El Director",
-      "time": "21:45",
-      "rating": 6.5,
-      "poster": "https://image.tmdb.org/t/p/w342/9FKhEtXhX2Omvc7kVcjvDYk8DWG.jpg",
-      "summary": "Después de más de dos décadas trabajando como corresponsal de guerra, David Jiménez es nombrado director de uno de los principales periódicos del país. Su defensa de un periodismo independiente y riguroso choca rápidamente con los intereses de la empresa editora y con Cardenal, el hombre encargado de protegerlos. Mientras sus investigaciones devuelven prestigio al diario, David descubre que también está rompiendo delicados equilibrios entre medios, empresas y poder político.",
-      "genres": [
-        "Drama"
-      ]
-    },
-    {
-      "title": "El Gato Con Sombrero",
-      "time": "16:45",
+      "title": "Ahora Los Suegros Son Ellos",
+      "time": "16:05",
       "rating": 7.1,
-      "poster": "https://image.tmdb.org/t/p/w342/8TW5oOMZbxaMFVgletpW0bxd2Aa.jpg",
-      "summary": "Un astuto gato lleva el caos con sus travesuras a la vida de un par de hermanos que lidian con su mudanza a una nueva ciudad.",
-      "genres": [
-        "Animación",
-        "Fantasía",
-        "Aventura"
-      ]
-    },
-    {
-      "title": "El Gato Con Sombrero",
-      "time": "18:50",
-      "rating": 7.1,
-      "poster": "https://image.tmdb.org/t/p/w342/8TW5oOMZbxaMFVgletpW0bxd2Aa.jpg",
-      "summary": "Un astuto gato lleva el caos con sus travesuras a la vida de un par de hermanos que lidian con su mudanza a una nueva ciudad.",
-      "genres": [
-        "Animación",
-        "Fantasía",
-        "Aventura"
-      ]
-    },
-    {
-      "title": "El Mal Padre",
-      "time": "17:10",
-      "rating": 9.0,
-      "poster": "https://image.tmdb.org/t/p/w342/g8JgLE6obZIf57O8nfBTSHHEQ27.jpg",
-      "summary": "Después de años distanciados, el célebre escritor y académico Santiago Balmes reúne a sus tres hijos para pedirles un último deseo: pasar las Navidades en la casa donde veraneaban de niños.",
+      "poster": "https://image.tmdb.org/t/p/w342/zjjjbiDmCNl3Yjxefc9PgwTxaKL.jpg",
+      "summary": "Henry, hijo de Greg y Pam Focker, se enfrenta al caos familiar cuando decide casarse con una mujer de carácter fuerte que parece ser totalmente incompatible con él.",
       "genres": [
         "Comedia",
-        "Drama"
+        "Romance"
       ]
     },
     {
-      "title": "El Mal Padre",
+      "title": "Ahora Los Suegros Son Ellos",
+      "time": "18:15",
+      "rating": 7.1,
+      "poster": "https://image.tmdb.org/t/p/w342/zjjjbiDmCNl3Yjxefc9PgwTxaKL.jpg",
+      "summary": "Henry, hijo de Greg y Pam Focker, se enfrenta al caos familiar cuando decide casarse con una mujer de carácter fuerte que parece ser totalmente incompatible con él.",
+      "genres": [
+        "Comedia",
+        "Romance"
+      ]
+    },
+    {
+      "title": "Ahora Los Suegros Son Ellos",
       "time": "20:25",
-      "rating": 9.0,
-      "poster": "https://image.tmdb.org/t/p/w342/g8JgLE6obZIf57O8nfBTSHHEQ27.jpg",
-      "summary": "Después de años distanciados, el célebre escritor y académico Santiago Balmes reúne a sus tres hijos para pedirles un último deseo: pasar las Navidades en la casa donde veraneaban de niños.",
+      "rating": 7.1,
+      "poster": "https://image.tmdb.org/t/p/w342/zjjjbiDmCNl3Yjxefc9PgwTxaKL.jpg",
+      "summary": "Henry, hijo de Greg y Pam Focker, se enfrenta al caos familiar cuando decide casarse con una mujer de carácter fuerte que parece ser totalmente incompatible con él.",
       "genres": [
         "Comedia",
+        "Romance"
+      ]
+    },
+    {
+      "title": "Ahora Los Suegros Son Ellos",
+      "time": "21:15",
+      "rating": 7.1,
+      "poster": "https://image.tmdb.org/t/p/w342/zjjjbiDmCNl3Yjxefc9PgwTxaKL.jpg",
+      "summary": "Henry, hijo de Greg y Pam Focker, se enfrenta al caos familiar cuando decide casarse con una mujer de carácter fuerte que parece ser totalmente incompatible con él.",
+      "genres": [
+        "Comedia",
+        "Romance"
+      ]
+    },
+    {
+      "title": "Ahora Los Suegros Son Ellos",
+      "time": "22:35",
+      "rating": 7.1,
+      "poster": "https://image.tmdb.org/t/p/w342/zjjjbiDmCNl3Yjxefc9PgwTxaKL.jpg",
+      "summary": "Henry, hijo de Greg y Pam Focker, se enfrenta al caos familiar cuando decide casarse con una mujer de carácter fuerte que parece ser totalmente incompatible con él.",
+      "genres": [
+        "Comedia",
+        "Romance"
+      ]
+    },
+    {
+      "title": "Ahora Los Suegros Son Ellos",
+      "time": "23:20",
+      "rating": 7.1,
+      "poster": "https://image.tmdb.org/t/p/w342/zjjjbiDmCNl3Yjxefc9PgwTxaKL.jpg",
+      "summary": "Henry, hijo de Greg y Pam Focker, se enfrenta al caos familiar cuando decide casarse con una mujer de carácter fuerte que parece ser totalmente incompatible con él.",
+      "genres": [
+        "Comedia",
+        "Romance"
+      ]
+    },
+    {
+      "title": "Cómo Robar Un Banco",
+      "time": "22:15",
+      "rating": 6.4,
+      "poster": "https://image.tmdb.org/t/p/w342/xS35fgWgRdF2em5MGxg5WG9dPKd.jpg",
+      "summary": "Un hombre desesperado planea un elaborado atraco contra el corrupto sistema financiero que arruinó su vida, con un grupo que documenta sus actos en redes sociales.",
+      "genres": [
+        "Acción",
+        "Crimen",
+        "Suspense"
+      ]
+    },
+    {
+      "title": "El Director",
+      "time": "22:40",
+      "rating": 6.5,
+      "poster": "https://image.tmdb.org/t/p/w342/9FKhEtXhX2Omvc7kVcjvDYk8DWG.jpg",
+      "summary": "Después de más de dos décadas trabajando como corresponsal de guerra, David Jiménez es nombrado director de uno de los principales periódicos del país. Su defensa de un periodismo independiente y riguroso choca rápidamente con los intereses de la empresa editora y con Cardenal, el hombre encargado de protegerlos. Mientras sus investigaciones devuelven prestigio al diario, David descubre que también está rompiendo delicados equilibrios entre medios, empresas y poder político.",
+      "genres": [
         "Drama"
       ]
     },
     {
-      "title": "El Mal Padre",
-      "time": "22:50",
-      "rating": 9.0,
-      "poster": "https://image.tmdb.org/t/p/w342/g8JgLE6obZIf57O8nfBTSHHEQ27.jpg",
-      "summary": "Después de años distanciados, el célebre escritor y académico Santiago Balmes reúne a sus tres hijos para pedirles un último deseo: pasar las Navidades en la casa donde veraneaban de niños.",
+      "title": "El Gato Con Sombrero",
+      "time": "16:50",
+      "rating": 7.1,
+      "poster": "https://image.tmdb.org/t/p/w342/8TW5oOMZbxaMFVgletpW0bxd2Aa.jpg",
+      "summary": "Un astuto gato lleva el caos con sus travesuras a la vida de un par de hermanos que lidian con su mudanza a una nueva ciudad.",
       "genres": [
-        "Comedia",
-        "Drama"
+        "Animación",
+        "Fantasía",
+        "Aventura"
+      ]
+    },
+    {
+      "title": "El Gato Con Sombrero",
+      "time": "15:40",
+      "rating": 7.1,
+      "poster": "https://image.tmdb.org/t/p/w342/8TW5oOMZbxaMFVgletpW0bxd2Aa.jpg",
+      "summary": "Un astuto gato lleva el caos con sus travesuras a la vida de un par de hermanos que lidian con su mudanza a una nueva ciudad.",
+      "genres": [
+        "Animación",
+        "Fantasía",
+        "Aventura"
       ]
     },
     {
       "title": "En El Corazón De La Bestia",
-      "time": "19:10",
+      "time": "17:50",
       "rating": 7.7,
       "poster": "https://image.tmdb.org/t/p/w342/h9Ql2vsltCOuf44c28nInxjzL2m.jpg",
       "summary": "Tras sobrevivir a un brutal accidente aéreo, el oficial de las Fuerzas Especiales James Belmont y su perro de combate Odín intentan intentarán regresar a la civilización desde un remoto lugar en medio de los parajes salvajes de Alaska.",
@@ -1128,8 +1156,79 @@ export const MOVIE_DATA = {
       ]
     },
     {
-      "title": "La Bola Negra",
+      "title": "En El Corazón De La Bestia",
+      "time": "22:50",
+      "rating": 7.7,
+      "poster": "https://image.tmdb.org/t/p/w342/h9Ql2vsltCOuf44c28nInxjzL2m.jpg",
+      "summary": "Tras sobrevivir a un brutal accidente aéreo, el oficial de las Fuerzas Especiales James Belmont y su perro de combate Odín intentan intentarán regresar a la civilización desde un remoto lugar en medio de los parajes salvajes de Alaska.",
+      "genres": [
+        "Aventura",
+        "Suspense"
+      ]
+    },
+    {
+      "title": "Hechizo: Bienvenidos A Hexe",
+      "time": "16:45",
+      "rating": 5.7,
+      "poster": "https://image.tmdb.org/t/p/w342/zPaypaMulDEVhuTCN1hPN1Hg4DI.jpg",
+      "summary": "Billie, una adolescente impulsiva y poco convencional, desata accidentalmente unos poderes mágicos secretos y sale disparada de los suburbios hacia un reino mágico llamado Hexe, donde la reciben Ms. Quill y Elias Quire. A medida que se desarrolla el viaje de Billie, descubre misterios familiares que podrían cambiar para siempre el mundo mágico de las brujas.",
+      "genres": [
+        "Animación",
+        "Fantasía",
+        "Familia"
+      ]
+    },
+    {
+      "title": "Hechizo: Bienvenidos A Hexe",
       "time": "19:00",
+      "rating": 5.7,
+      "poster": "https://image.tmdb.org/t/p/w342/zPaypaMulDEVhuTCN1hPN1Hg4DI.jpg",
+      "summary": "Billie, una adolescente impulsiva y poco convencional, desata accidentalmente unos poderes mágicos secretos y sale disparada de los suburbios hacia un reino mágico llamado Hexe, donde la reciben Ms. Quill y Elias Quire. A medida que se desarrolla el viaje de Billie, descubre misterios familiares que podrían cambiar para siempre el mundo mágico de las brujas.",
+      "genres": [
+        "Animación",
+        "Fantasía",
+        "Familia"
+      ]
+    },
+    {
+      "title": "Hechizo: Bienvenidos A Hexe",
+      "time": "16:00",
+      "rating": 5.7,
+      "poster": "https://image.tmdb.org/t/p/w342/zPaypaMulDEVhuTCN1hPN1Hg4DI.jpg",
+      "summary": "Billie, una adolescente impulsiva y poco convencional, desata accidentalmente unos poderes mágicos secretos y sale disparada de los suburbios hacia un reino mágico llamado Hexe, donde la reciben Ms. Quill y Elias Quire. A medida que se desarrolla el viaje de Billie, descubre misterios familiares que podrían cambiar para siempre el mundo mágico de las brujas.",
+      "genres": [
+        "Animación",
+        "Fantasía",
+        "Familia"
+      ]
+    },
+    {
+      "title": "Hechizo: Bienvenidos A Hexe",
+      "time": "18:30",
+      "rating": 5.7,
+      "poster": "https://image.tmdb.org/t/p/w342/zPaypaMulDEVhuTCN1hPN1Hg4DI.jpg",
+      "summary": "Billie, una adolescente impulsiva y poco convencional, desata accidentalmente unos poderes mágicos secretos y sale disparada de los suburbios hacia un reino mágico llamado Hexe, donde la reciben Ms. Quill y Elias Quire. A medida que se desarrolla el viaje de Billie, descubre misterios familiares que podrían cambiar para siempre el mundo mágico de las brujas.",
+      "genres": [
+        "Animación",
+        "Fantasía",
+        "Familia"
+      ]
+    },
+    {
+      "title": "Hechizo: Bienvenidos A Hexe",
+      "time": "21:00",
+      "rating": 5.7,
+      "poster": "https://image.tmdb.org/t/p/w342/zPaypaMulDEVhuTCN1hPN1Hg4DI.jpg",
+      "summary": "Billie, una adolescente impulsiva y poco convencional, desata accidentalmente unos poderes mágicos secretos y sale disparada de los suburbios hacia un reino mágico llamado Hexe, donde la reciben Ms. Quill y Elias Quire. A medida que se desarrolla el viaje de Billie, descubre misterios familiares que podrían cambiar para siempre el mundo mágico de las brujas.",
+      "genres": [
+        "Animación",
+        "Fantasía",
+        "Familia"
+      ]
+    },
+    {
+      "title": "La Bola Negra",
+      "time": "19:15",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/4omaYktw4VYkk5Tkq7rmUsWnQa5.jpg",
       "summary": "Las vidas interconectadas de tres hombres en tres épocas distintas, tres existencias íntimamente ligadas por la sexualidad y el deseo, el dolor y la herencia.",
@@ -1140,7 +1239,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "La Otra Madre",
-      "time": "22:30",
+      "time": "23:30",
       "rating": 7.5,
       "poster": "https://image.tmdb.org/t/p/w342/vsde9OnhjFMlJz8Wi6Z6drZ7GG5.jpg",
       "summary": "Una joven llamada Bela entabla una relación con una entidad siniestra que habita en su casa y que guarda un parecido asombroso con su propia madre.",
@@ -1174,6 +1273,18 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Los Juegos Del Hambre: Amanecer En La Cosecha",
+      "time": "20:05",
+      "rating": 7.3,
+      "poster": "https://image.tmdb.org/t/p/w342/8K4lZ5oepk3kArMWfQuqSegxSRe.jpg",
+      "summary": "Explora Panem 24 años antes de la saga de Katniss, comenzando en la mañana de la cosecha de los 50º Juegos del Hambre, donde participa un joven Haymitch Abernathy.",
+      "genres": [
+        "Ciencia ficción",
+        "Acción",
+        "Aventura"
+      ]
+    },
+    {
+      "title": "Los Juegos Del Hambre: Amanecer En La Cosecha",
       "time": "21:10",
       "rating": 7.3,
       "poster": "https://image.tmdb.org/t/p/w342/8K4lZ5oepk3kArMWfQuqSegxSRe.jpg",
@@ -1186,7 +1297,19 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Los Juegos Del Hambre: Amanecer En La Cosecha",
-      "time": "20:05",
+      "time": "23:10",
+      "rating": 7.3,
+      "poster": "https://image.tmdb.org/t/p/w342/8K4lZ5oepk3kArMWfQuqSegxSRe.jpg",
+      "summary": "Explora Panem 24 años antes de la saga de Katniss, comenzando en la mañana de la cosecha de los 50º Juegos del Hambre, donde participa un joven Haymitch Abernathy.",
+      "genres": [
+        "Ciencia ficción",
+        "Acción",
+        "Aventura"
+      ]
+    },
+    {
+      "title": "Los Juegos Del Hambre: Amanecer En La Cosecha",
+      "time": "15:50",
       "rating": 7.3,
       "poster": "https://image.tmdb.org/t/p/w342/8K4lZ5oepk3kArMWfQuqSegxSRe.jpg",
       "summary": "Explora Panem 24 años antes de la saga de Katniss, comenzando en la mañana de la cosecha de los 50º Juegos del Hambre, donde participa un joven Haymitch Abernathy.",
@@ -1221,20 +1344,8 @@ export const MOVIE_DATA = {
       ]
     },
     {
-      "title": "Ramayana: El Nacimiento De Una Leyenda",
-      "time": "22:00",
-      "rating": 6.6,
-      "poster": "https://image.tmdb.org/t/p/w342/nzL1ySE6vdmR6RxXhE7gLggkp41.jpg",
-      "summary": "",
-      "genres": [
-        "Fantasía",
-        "Acción",
-        "Aventura"
-      ]
-    },
-    {
       "title": "Ratones Al Ataque: Operación Navidad",
-      "time": "16:50",
+      "time": "16:10",
       "rating": 6.5,
       "poster": "https://image.tmdb.org/t/p/w342/tEpDFz33WclWa0c1rxLhqM2DNFE.jpg",
       "summary": "Una familia acude a la casa abandonada de su tía para celebrar la Navidad en el campo, sin saber que una familia de ratones ya habita la casa, y no les interesan las visitas. Así que sólo queda una cosa por hacer: poner trampas, estar atentos y defenderse.",
@@ -1246,7 +1357,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Ruega Por Nosotras",
-      "time": "21:15",
+      "time": "19:55",
       "rating": 0.0,
       "poster": "https://image.tmdb.org/t/p/w342/6CWXhVFfin3zh1LZ5HsWnzTXTPN.jpg",
       "summary": "En 1974, Ana, una chica barcelonesa de 19 años, es puesta en manos del Patronato de Protección a la Mujer y trasladada a un reformatorio regentado por monjas en Madrid. Allí, es sometida a un brutal régimen disciplinario, y tratará de sobrevivir buscando consuelo y apoyo en la amistad de otras chicas en su misma situación.",
@@ -1256,7 +1367,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Scrooge Y Los Fantasmas De La Navidad",
-      "time": "17:30",
+      "time": "15:45",
       "rating": 7.8,
       "poster": "https://image.tmdb.org/t/p/w342/gnG15MkiNeObCoPbHcLUX4zrNWh.jpg",
       "summary": "Reimaginación del clásico literario, una historia de fantasmas ambientada en el Londres de Dickens que sigue el viaje sobrenatural de un hombre para enfrentarse a su pasado, presente y futuro y luchar por una segunda oportunidad.",
@@ -1267,7 +1378,7 @@ export const MOVIE_DATA = {
     },
     {
       "title": "Scrooge Y Los Fantasmas De La Navidad",
-      "time": "20:00",
+      "time": "18:05",
       "rating": 7.8,
       "poster": "https://image.tmdb.org/t/p/w342/gnG15MkiNeObCoPbHcLUX4zrNWh.jpg",
       "summary": "Reimaginación del clásico literario, una historia de fantasmas ambientada en el Londres de Dickens que sigue el viaje sobrenatural de un hombre para enfrentarse a su pasado, presente y futuro y luchar por una segunda oportunidad.",
@@ -1277,19 +1388,18 @@ export const MOVIE_DATA = {
       ]
     },
     {
-      "title": "Wildwood",
-      "time": "17:50",
-      "rating": 8.5,
-      "poster": "https://image.tmdb.org/t/p/w342/sJ1uZ4DKsjs2iqLtCX46TifxqoE.jpg",
-      "summary": "Prue y su compañero de clase Curtis se ven arrastrados a un bosque mágico poblado por criaturas encantadas, aliados leales y adversarios formidables, mientras emprenden una misión desesperada para rescatar al hermano bebé de Prue —secuestrado por una bandada de cuervos liderada por una misteriosa mujer llamada Alexandra—.",
+      "title": "Scrooge Y Los Fantasmas De La Navidad",
+      "time": "20:30",
+      "rating": 7.8,
+      "poster": "https://image.tmdb.org/t/p/w342/gnG15MkiNeObCoPbHcLUX4zrNWh.jpg",
+      "summary": "Reimaginación del clásico literario, una historia de fantasmas ambientada en el Londres de Dickens que sigue el viaje sobrenatural de un hombre para enfrentarse a su pasado, presente y futuro y luchar por una segunda oportunidad.",
       "genres": [
-        "Animación",
-        "Aventura",
-        "Drama"
+        "Fantasía",
+        "Comedia"
       ]
     }
   ]
 };
 export const movieData = MOVIE_DATA;
 export const cinemas = Object.keys(MOVIE_DATA);
-export const LAST_UPDATED = "2026-11-26";
+export const LAST_UPDATED = "2026-11-27";

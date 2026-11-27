@@ -3276,5 +3276,52 @@
       "Aventura",
       "Fantasía"
     ]
+  },
+  "Ahora Los Suegros Son Ellos": {
+    "rating": 7.1,
+    "poster": "https://image.tmdb.org/t/p/w342/zjjjbiDmCNl3Yjxefc9PgwTxaKL.jpg",
+    "summary": "Henry, hijo de Greg y Pam Focker, se enfrenta al caos familiar cuando decide casarse con una mujer de carácter fuerte que parece ser totalmente incompatible con él.",
+    "genres": [
+      "Comedia",
+      "Romance"
+    ]
+  },
+  "Hechizo  Bienvenidos A Hexe": {
+    "rating": 5.7,
+    "poster": "https://image.tmdb.org/t/p/w342/zPaypaMulDEVhuTCN1hPN1Hg4DI.jpg",
+    "summary": "Billie, una adolescente impulsiva y poco convencional, desata accidentalmente unos poderes mágicos secretos y sale disparada de los suburbios hacia un reino mágico llamado Hexe, donde la reciben Ms. Quill y Elias Quire. A medida que se desarrolla el viaje de Billie, descubre misterios familiares que podrían cambiar para siempre el mundo mágico de las brujas.",
+    "genres": [
+      "Animación",
+      "Fantasía",
+      "Familia"
+    ]
+  },
+  "Oro Sin Ley": {
+    "rating": 7.0,
+    "poster": "https://image.tmdb.org/t/p/w342/hTT42eBEiYcpgRormrS8re82Nt9.jpg",
+    "summary": "Oregón, 1933. Samuel Murphy (Ethan Hawke) es separado de su hija y enviado a un campo de trabajo. Un día, el alcaide Clancy (Russell Crowe) le ofrece la posibilidad de liberarlo si consigue pasar oro de contrabando a través de una peligrosa senda salvaje. ¿Hasta dónde será capaz de llegar Murphy por reencontrarse con su querida hija?",
+    "genres": [
+      "Drama",
+      "Suspense"
+    ]
+  },
+  "Sanguine": {
+    "rating": 5.4,
+    "poster": "https://image.tmdb.org/t/p/w342/dAOiih0oNEYWYGmBaXryakDtsDI.jpg",
+    "summary": "Margot, una joven residente en el servicio de urgencias más competitivo del país, tiene dificultades para desenvolverse en un entorno de gran presión. Cuando llegan varios pacientes de su misma edad con síntomas extraños, su propio cuerpo empieza a experimentar transformaciones alarmantes.",
+    "genres": [
+      "Ciencia ficción",
+      "Terror"
+    ]
+  },
+  "Hechizo: Bienvenidos A Hexe": {
+    "rating": 5.7,
+    "poster": "https://image.tmdb.org/t/p/w342/zPaypaMulDEVhuTCN1hPN1Hg4DI.jpg",
+    "summary": "Billie, una adolescente impulsiva y poco convencional, desata accidentalmente unos poderes mágicos secretos y sale disparada de los suburbios hacia un reino mágico llamado Hexe, donde la reciben Ms. Quill y Elias Quire. A medida que se desarrolla el viaje de Billie, descubre misterios familiares que podrían cambiar para siempre el mundo mágico de las brujas.",
+    "genres": [
+      "Animación",
+      "Fantasía",
+      "Familia"
+    ]
   }
 }
